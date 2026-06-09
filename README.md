@@ -1,6 +1,6 @@
 # Matrix Theory / Matricas teorija
 
-Welcome to the official repository of **Matrix Theory** — a unified physics concept based on absolutely synchronous matrix rotation and dual TE flows.
+Unified physics concept based on synchronous matrix rotation and dual TE flows. Explains gravity, strong force, electromagnetism, weak force, dark energy, and dark matter. / Vienota fizikas koncepcija, kas izskaidro visus četrus spēkus, tumšo enerģiju un tumšo matēriju ar vienu matricas mehānismu.
 
 ## Choose your language | Izvēlies valodu
 
