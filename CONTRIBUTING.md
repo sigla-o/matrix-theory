@@ -1,22 +1,22 @@
-# Ka iesaistities / How to contribute
+# Kā iesaistīties / How to contribute
 
-## Palidziba ir laipni gaidita sadas jomas:
+## Palīdzība ir laipni gaidīta šādās jomās:
 
-- **Matematiska formalizacija:** Parverst konceptualos aprakstus precizos vienadojumos, izrekinat fizikalas konstantes no teorijas pamatprincipiem.
-- **Eksperimentalo testu izstrade:** Piedavat veidus, ka parbaudit teorijas unikalas prognozes.
-- **Tulkosana:** Palidzet tulkot materialus citas valodas.
-- **Kludu labosana un diskusijas:** Atrast un zinot par logiskam kludam, pretrunam, neskaidribam.
-- **Vizualie materiali:** Veidot animacijas, diagrammas, kas ilustre teorijas mehanismus.
+- **Matemātiskā formalizācija:** Pārvērst konceptuālos aprakstus precīzos vienādojumos, izrēķināt fizikālās konstantes no teorijas pamatprincipiem.
+- **Eksperimentālo testu izstrāde:** Piedāvāt veidus, kā pārbaudīt teorijas unikālās prognozes.
+- **Tulkošana:** Palīdzēt tulkot materiālus citās valodās.
+- **Kļūdu labošana un diskusijas:** Atrast un ziņot par loģiskām kļūdām, pretrunām, neskaidrībām.
+- **Vizuālie materiāli:** Veidot animācijas, diagrammas, kas ilustrē teorijas mehānismus.
 
 ## Noteikumi
 
-- Saglabajiet cienpilnu toni.
-- Visi argumenti lai balstas logika un/vai noverojamos datos.
-- Teorijas autors patur tiesibas pienemt vai noraidit izmainas.
+- Saglabājiet cieņpilnu toni.
+- Visi argumenti lai balstās loģikā un/vai novērojamos datos.
+- Teorijas autors patur tiesības pieņemt vai noraidīt izmaiņas.
 
-## Sazina
+## Saziņa
 
-Izmantojiet `Issues` sadalu jautajumiem un diskusijam.
+Izmantojiet `Issues` sadaļu jautājumiem un diskusijām.
 
 ---
 
