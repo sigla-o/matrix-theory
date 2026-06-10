@@ -1,544 +1,544 @@
-# MATRICAS TEORIJAS LOGISKA KARTE
-## Pilna redakcija (atjauninata)
+# MATRICAS TEORIJAS LOĢISKĀ KARTE
+## Pilnā redakcija (atjaunināta)
 
-### I. ABSOLUTAIS PAMATS
+### I. ABSOLŪTAIS PAMATS
 
-**1.1. Matricas punktu 100% sinhrona rotacija**
-Visa matricas uzbuve balstas uz vienu principu: matricas punktu rotacija ir absoluti sinhrona visos limenos un visas dimensijas. Si rotacija nav relativa — ta ir universala atskaite, kas nosaka visus plusmu kanalus, visus ciklus, visu laika ritejumu.
+**1.1. Matricas punktu 100% sinhronā rotācija**
+Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
-**1.2. Pamatmezgla uzbuve**
-Katrs matricas punkts sastav no divam rotejosam bumbinam ap kopeju centralo asi. Starp bumbinam veidojas dinamiskas "kabatas" — telpas, kuras var uzkraties un plust TE energija. Kabatu izmers un spiediens mainas lidzi bumbinu rotacijai. Bumbinas rote pretfaze (viena pret otru), veidojot divas pretejas kabatas (in-jan simbols skersgriezuma).
+**1.2. Pamatmezgla uzbūve**
+Katrs matricas punkts sastāv no divām rotējošām bumbiņām ap kopēju centrālo asi. Starp bumbiņām veidojas dinamiskas "kabatas" — telpas, kurās var uzkrāties un plūst TE enerģija. Kabatu izmērs un spiediens mainās līdzi bumbiņu rotācijai. Bumbiņas rotē pretfāzē (viena pret otru), veidojot divas pretējas kabatas (iņ-jaņ simbols šķērsgriezumā).
 
-**1.3. Divu preteju plusmu princips**
-Katra matrica vienlaicigi darbojas divas neatkarigas TE plusmas (divas pus-fazes — 0° un 180°). Tas nekad nesaskaras — katra nonak savas pretejas kabatas. Tas nav viena plusma, kas maina virzienu, bet gan divi paraleli, neatkarigi procesi. No sis dualitates izriet skaitlis 4 (2 pus-fazes ? 2 virzieni).
+**1.3. Divu pretēju plūsmu princips**
+Katrā matricā vienlaicīgi darbojas divas neatkarīgas TE plūsmas (divas pus-fāzes — 0° un 180°). Tās nekad nesaskaras — katra nonāk savās pretējās kabatās. Tās nav viena plūsma, kas maina virzienu, bet gan divi paralēli, neatkarīgi procesi. No šīs dualitātes izriet skaitlis 4 (2 pus-fāzes × 2 virzieni).
 
-**1.4. Matrica ka statiska arhitektura**
-Matricas punktu centralas asis veido fiksetu kubisko rezgi. Plusmas taja kustas, spiedieni mainas, bet pasu asu pozicijas ir nemainigas. Matrica ir fikseta skatuve, pa kuru parvietojas energija. "Statiska arhitektura" attiecas uz rezga geometriju; "sinhrona rotacija" — uz bumbinu ieksejo kustibu ap asim.
+**1.4. Matrica kā statiska arhitektūra**
+Matricas punktu centrālās asis veido fiksētu kubisko režģi. Plūsmas tajā kustas, spiedieni mainās, bet pašu asu pozīcijas ir nemainīgas. Matrica ir fiksēta skatuve, pa kuru pārvietojas enerģija. "Statiskā arhitektūra" attiecas uz režģa ģeometriju; "sinhronā rotācija" — uz bumbiņu iekšējo kustību ap asīm.
 
-**1.5. Matricas globala topologija — sferiskais izliekums**
-Lai gan lokali matrica ir fiksets kubisks rezgis (1.4), tas globala topologija ir slegta — Visuma meroga matrica veido sferisku strukturu. Tas nav pretruna ar statisko arhitekturu: punktu savstarpejie attalumi un asis paliek nemainigi, bet kopeja punktu izkartojuma geometrija nav bezgaligi plakana. Sferiskais izliekums rada sistematisku fazu nobidi starp divam pretejam TE plusmam (0° un 180°) — celojot pa slegtu virsmu, plusmas atgriezas ar 10?? solu nobidi, kas precizi atbilst vertikales eksponencialajam solim (XV nodala).
+**1.5. Matricas globālā topoloģija — sfēriskais izliekums**
+Lai gan lokāli matrica ir fiksēts kubisks režģis (1.4), tās globālā topoloģija ir slēgta — Visuma mērogā matrica veido sfērisku struktūru. Tas nav pretrunā ar statisko arhitektūru: punktu savstarpējie attālumi un asis paliek nemainīgi, bet kopējā punktu izkārtojuma ģeometrija nav bezgalīgi plakana. Sfēriskais izliekums rada sistemātisku fāžu nobīdi starp divām pretējām TE plūsmām (0° un 180°) — ceļojot pa slēgtu virsmu, plūsmas atgriežas ar 10²⁰ soļu nobīdi, kas precīzi atbilst vertikāles eksponenciālajam solim (XV nodaļa).
 
-### II. DIVAS MATRICAS UN TO PLUSMAS
+### II. DIVAS MATRICAS UN TO PLŪSMAS
 
-**2.1. Visuma matrica (10??? m solis)**
-Si ir matrica, kas veido mums zinamo Visuma telpu. Tas punktu solis ir 10??? m. Saja matrica atrodas:
+**2.1. Visuma matrica (10⁻³⁵ m solis)**
+Šī ir matrica, kas veido mums zināmo Visuma telpu. Tās punktu solis ir 10⁻³⁵ m. Šajā matricā atrodas:
 
-- **TE plusma (10??? m objekti):** Diskreti objekti, kas aizpilda kabatas un parvietojas pa kanaliem starp punktiem. Si ir vieniga briva plusma Visuma matrica.
+- **TE plūsma (10⁻⁵⁵ m objekti):** Diskrēti objekti, kas aizpilda kabatas un pārvietojas pa kanāliem starp punktiem. Šī ir vienīgā brīvā plūsma Visuma matricā.
 
-- **Stipra speka plusma (10??? m objekti):** Ta nav atseviska, neatkariga plusma. Ta ir protona ieksejas TE plusmas (10??? m) turpinajums arpus protona robezam. Atrodoties Visuma matrica, si plusma izpauzas ka Stiprais speks, kas organize apkartejo telpu un uztur rezga strukturu.
+- **Stiprā spēka plūsma (10⁻⁷⁵ m objekti):** Tā nav atsevišķa, neatkarīga plūsma. Tā ir protona iekšējās TE plūsmas (10⁻⁷⁵ m) turpinājums ārpus protona robežām. Atrodoties Visuma matricā, šī plūsma izpaužas kā Stiprais spēks, kas organizē apkārtējo telpu un uztur režģa struktūru.
 
-**2.2. Protona iekseja matrica (10??? m solis)**
-Si ir otra, atseviska matrica, kas atrodas protona ieksiene. Tas punktu solis ir 10??? m. Saja matrica darbojas divas ieksejas TE plusmas:
+**2.2. Protona iekšējā matrica (10⁻⁵⁵ m solis)**
+Šī ir otra, atsevišķa matrica, kas atrodas protona iekšienē. Tās punktu solis ir 10⁻⁵⁵ m. Šajā matricā darbojas divas iekšējās TE plūsmas:
 
-- **Protona liela TE plusma (10??? m objekti).** Si plusma iziet arpus protona matricas un turpinas Visuma matrica ka Stiprais speks.
+- **Protona lielā TE plūsma (10⁻⁷⁵ m objekti).** Šī plūsma iziet ārpus protona matricas un turpinās Visuma matricā kā Stiprais spēks.
 
-- **Protona maza TE plusma (10??? m objekti).** Si plusma primari darbojas protona matricas ieksiene. Ta var iziet arpus protona matricas, bet ir parak smalka, lai butiski ietekmetu Visuma matricas procesus.
+- **Protona mazā TE plūsma (10⁻⁹⁵ m objekti).** Šī plūsma primāri darbojas protona matricas iekšienē. Tā var iziet ārpus protona matricas, bet ir pārāk smalka, lai būtiski ietekmētu Visuma matricas procesus.
 
-**2.3. Abu matricu likumu vienotiba**
-Abas matricas — Visuma matrica un protona iekseja matrica — valda tie pasi likumi: sinhrona rotacija, divu preteju plusmu princips, kabatu parsedzu mehanika, spiediena gradienti, centrbedzes speks, Qn ciklu hierarhija. Atskiras tikai merogs un plusmu izmeri, bet ne pamatprincipi.
+**2.3. Abu matricu likumu vienotība**
+Abās matricās — Visuma matricā un protona iekšējā matricā — valda tie paši likumi: sinhronā rotācija, divu pretēju plūsmu princips, kabatu pārsedžu mehānika, spiediena gradienti, centrbēdzes spēks, Qn ciklu hierarhija. Atšķiras tikai mērogs un plūsmu izmēri, bet ne pamatprincipi.
 
-**2.4. L0 un L1 — organizacijas rezimi**
-L0 un L1 nav dazadas plusmas, bet gan visas sistemas organizacijas pakapes:
+**2.4. L0 un L1 — organizācijas režīmi**
+L0 un L1 nav dažādas plūsmas, bet gan visas sistēmas organizācijas pakāpes:
 
-- **L0 rezims:** Netraucets, dabiskais stavoklis. Punkti sinhroni rote, TE plusma (10??? m) brivi seko spiediena minimumiem, Stipra speka plusma (10??? m) ir minimali izteikta.
+- **L0 režīms:** Netraucēts, dabiskais stāvoklis. Punkti sinhroni rotē, TE plūsma (10⁻⁵⁵ m) brīvi seko spiediena minimumiem, Stiprā spēka plūsma (10⁻⁷⁵ m) ir minimāli izteikta.
 
-- **L1 rezims:** Organizets stavoklis, ko rada protona klatbutne. Protona iekseja plusma (10??? m) pastiprina Stipra speka plusmu Visuma matrica, organizejot gan to, gan TE plusmu (10??? m) augstaka kartiba.
+- **L1 režīms:** Organizēts stāvoklis, ko rada protona klātbūtne. Protona iekšējā plūsma (10⁻⁷⁵ m) pastiprina Stiprā spēka plūsmu Visuma matricā, organizējot gan to, gan TE plūsmu (10⁻⁵⁵ m) augstākā kārtībā.
 
 **2.5. Kas NEVAR notikt**
-- Visuma matricas TE plusma (10??? m) nevar nonakt protona iekseja matrica — tas objektu izmers ir tiesi protona matricas sola izmera, tapec tie nespej ieklut smalkajos ieksejos kanalos.
+- Visuma matricas TE plūsma (10⁻⁵⁵ m) nevar nonākt protona iekšējā matricā — tās objektu izmērs ir tieši protona matricas soļa izmērā, tāpēc tie nespēj iekļūt smalkajos iekšējos kanālos.
 
-- Protona liela TE plusma (10??? m) var iziet arpus protona matricas un klut par Stipro speku Visuma matrica. Si ir viena nepartraukta plusma, nevis divi atseviski veidojumi.
+- Protona lielā TE plūsma (10⁻⁷⁵ m) var iziet ārpus protona matricas un kļūt par Stipro spēku Visuma matricā. Šī ir viena nepārtraukta plūsma, nevis divi atsevišķi veidojumi.
 
-- Protona maza TE plusma (10??? m) var iziet arpus protona matricas, tacu tas ietekme uz Visuma matricu ir nieciga — ta ir parak smalka, lai kaut ko butiski organizetu vai ietekmetu.
+- Protona mazā TE plūsma (10⁻⁹⁵ m) var iziet ārpus protona matricas, taču tās ietekme uz Visuma matricu ir niecīga — tā ir pārāk smalka, lai kaut ko būtiski organizētu vai ietekmētu.
 
-**2.6. Materija un antimaterija — divu pus-fazu izpausmes**
-Materija un antimaterija ir divu pretejo TE plusmu (0° un 180° pus-fazes) organizetas izpausmes. Materija (protoni, elektroni) veidojas, dominejot 0° fazei; antimaterija butu struktura ar 180° fazes dominanci.
+**2.6. Matērija un antimatērija — divu pus-fāžu izpausmes**
+Matērija un antimatērija ir divu pretējo TE plūsmu (0° un 180° pus-fāzes) organizētas izpausmes. Matērija (protoni, elektroni) veidojas, dominējot 0° fāzei; antimatērija būtu struktūra ar 180° fāzes dominanci.
 
-Materijas dominance Visuma nav nejausa. To nosaka divi faktori:
+Matērijas dominance Visumā nav nejauša. To nosaka divi faktori:
 
-- **Mates modulacija (15.2):** Musu Visuma tiesa mate nosaka, ka protoni veidojas tiesi 0° fazes ietvaros — ta ir primara izvele vertikales limeni.
-- **Visuma sferiskais izliekums (1.5):** Matricas globala topologija rada sistematisku fazu nobidi starp 0° un 180° plusmam par 10?? matricas soliem. Si nobide nodrosina, ka 0° fazes kanali vienmer ir "atvertaki" — lidz ar to materija ir stabilaka un dominejosa.
+- **Mātes modulācija (15.2):** Mūsu Visuma tiešā māte nosaka, ka protoni veidojas tieši 0° fāzes ietvaros — tā ir primārā izvēle vertikāles līmenī.
+- **Visuma sfēriskais izliekums (1.5):** Matricas globālā topoloģija rada sistemātisku fāžu nobīdi starp 0° un 180° plūsmām par 10²⁰ matricas soļiem. Šī nobīde nodrošina, ka 0° fāzes kanāli vienmēr ir "atvērtāki" — līdz ar to matērija ir stabilāka un dominējoša.
 
-Antimaterija rodas tikai islaicigi, kad iekseja modulacija (vaja mijiedarbiba, 16.1) uz bridi aktivize 180° fazi, kompensejot sistemisko nobidi.
+Antimatērija rodas tikai īslaicīgi, kad iekšējā modulācija (vājā mijiedarbība, 16.1) uz brīdi aktivizē 180° fāzi, kompensējot sistēmisko nobīdi.
 
-**2.6.a – 10?? sakariba: solis, izliekums, antimaterijas slieksnis**
-Tris lielumi ir savstarpeji saistiti:
-- Vertikales solis 10?? (XV nodala)
-- Sferiska izliekuma radita fazu nobide starp pus-fazem (1.5, 2.6)
-- Energijas daudzums, pie kura sak veidoties antimaterija
+**2.6.a – 10²⁰ sakarība: solis, izliekums, antimatērijas slieksnis**
+Trīs lielumi ir savstarpēji saistīti:
+- Vertikāles solis 10²⁰ (XV nodaļa)
+- Sfēriskā izliekuma radītā fāžu nobīde starp pus-fāzēm (1.5, 2.6)
+- Enerģijas daudzums, pie kura sāk veidoties antimatērija
 
-Ja divi no siem lielumiem ir zinami, treso var aprekinat. Si sakariba dod iespeju eksperimentali parbaudit teoriju, salidzinot aprekinato energijas slieksni ar dalinu paatrinataju datiem.
+Ja divi no šiem lielumiem ir zināmi, trešo var aprēķināt. Šī sakarība dod iespēju eksperimentāli pārbaudīt teoriju, salīdzinot aprēķināto enerģijas slieksni ar daļiņu paātrinātāju datiem.
 
-**2.6.b – Antimaterijas zonas ka lokalas izliekuma variacijas**
-Ta ka Visuma sferiskais izliekums nosaka fazu nobides lielumu starp pus-fazem, jebkura lokala izliekuma variacija maina ari antimaterijas rasanas slieksni. Pie lielaka Visuma kopeja izmera sis slieksnis klust zemaks. Turklat masivi objekti — ipasi monolitie (melnie caurumi) — rada ap sevi lokalas telpas topologijas izmainas, kur fazu nobide var but vel mazaka.
+**2.6.b – Antimatērijas zonas kā lokālas izliekuma variācijas**
+Tā kā Visuma sfēriskais izliekums nosaka fāžu nobīdes lielumu starp pus-fāzēm, jebkura lokāla izliekuma variācija maina arī antimatērijas rašanās slieksni. Pie lielāka Visuma kopējā izmēra šis slieksnis kļūst zemāks. Turklāt masīvi objekti — īpaši monolītie (melnie caurumi) — rada ap sevi lokālas telpas topoloģijas izmaiņas, kur fāžu nobīde var būt vēl mazāka.
 
-Sados lokalos apgabalos antimaterija var pastavet ka kvazi-stabila paradiba, kamer ta atrodas izmainita izliekuma zona. Tas ir antimaterijas zonas — teoretiski iespejamas musu Visuma, bet ierobezotas telpa un laika. Sis zonas varetu but saistitas ar noverojamam antimaterijas pedam aktivu galaktiku kodolu vai citu kompaktu objektu tuvuma.
+Šādos lokālos apgabalos antimatērija var pastāvēt kā kvazi-stabila parādība, kamēr tā atrodas izmainītā izliekuma zonā. Tās ir antimatērijas zonas — teorētiski iespējamas mūsu Visumā, bet ierobežotas telpā un laikā. Šīs zonas varētu būt saistītas ar novērojamām antimatērijas pēdām aktīvu galaktiku kodolu vai citu kompaktu objektu tuvumā.
 
-### III. 7 PUNKTU PLUSMAS CIKLS — UNIVERSALAIS SABLONS
+### III. 7 PUNKTU PLŪSMAS CIKLS — UNIVERSĀLAIS ŠABLONS
 
-**3.1. Matricas geometrija (pirmais noteikums)**
-Vispirms ir matrica, tad plusmas. Matricas punktu asis ir izvietotas kubiska rezgi, kur katram punktam ir 6 tiesie kaimini (pa x, y, z asim, 90° lenki). Tikai punkti ar tiesu saskarsmi var apmainities ar plusmu. Rotacijas asis ir nobiditas par 45°, lai neviens kaimins neatrastos uz ass.
+**3.1. Matricas ģeometrija (pirmais noteikums)**
+Vispirms ir matrica, tad plūsmas. Matricas punktu asis ir izvietotas kubiskā režģī, kur katram punktam ir 6 tiešie kaimiņi (pa x, y, z asīm, 90° leņķī). Tikai punkti ar tiešu saskarsmi var apmainīties ar plūsmu. Rotācijas asis ir nobīdītas par 45°, lai neviens kaimiņš neatrastos uz ass.
 
-**3.2. Plusmu geometrija (otrais noteikums)**
-No 6 kaiminiem plusma izmanto visus, sadalitus pa divam pretejam pus-fazem: viena iet pa 3 punktu loku viena virziena, otra — pa pretejo 3 punktu loku otra virziena. Centralais punkts ir vieta, kur abas plusmas nonak katra sava preteja kabata, nesaskaroties. Abas puses ir pilnigi neatkarigas viena no otras.
+**3.2. Plūsmu ģeometrija (otrais noteikums)**
+No 6 kaimiņiem plūsma izmanto visus, sadalītus pa divām pretējām pus-fāzēm: viena iet pa 3 punktu loku vienā virzienā, otra — pa pretējo 3 punktu loku otrā virzienā. Centrālais punkts ir vieta, kur abas plūsmas nonāk katra savā pretējā kabatā, nesaskaroties. Abas puses ir pilnīgi neatkarīgas viena no otras.
 
-**3.3. Kabatu parsedzu mehanika**
-Kabatu parsedzes "redzes loka" nonak vairaki kaiminu punkti. Plusma izvelas tikai to kaiminu, kura kabata ir mazaka spiediena starpiba. Plusmas virzibu nenosaka Stipra speka plusma — ta tikai uztur kanalu esamibu. Virzibu nosaka:
+**3.3. Kabatu pārsedžu mehānika**
+Kabatu pārsedzes "redzes lokā" nonāk vairāki kaimiņu punkti. Plūsma izvēlas tikai to kaimiņu, kura kabatā ir mazākā spiediena starpība. Plūsmas virzību nenosaka Stiprā spēka plūsma — tā tikai uztur kanālu esamību. Virzību nosaka:
 
-- Sinhronizacijas raditie spiediena minimumi kaiminu kabatas.
-- Plusmas inerce un atrums.
-- Centrbedzes speks, kas virza plusmu no centra uz aru.
+- Sinhronizācijas radītie spiediena minimumi kaimiņu kabatās.
+- Plūsmas inerce un ātrums.
+- Centrbēdzes spēks, kas virza plūsmu no centra uz āru.
 
-**3.4. TE plusma ka degviela, cikls ka motors**
-TE plusma ir degviela — ta ieplust, iziet cauri ciklam un aizplust talak. Ta neatgriezas. Atgriezas tikai plusmas sadales cikls — sinhronizetais spiediena vilnu modelis.
+**3.4. TE plūsma kā degviela, cikls kā motors**
+TE plūsma ir degviela — tā ieplūst, iziet cauri ciklam un aizplūst tālāk. Tā neatgriežas. Atgriežas tikai plūsmas sadales cikls — sinhronizētais spiediena viļņu modelis.
 
-**3.5. Q1 — mazakais nedalamais cikls**
-Q1 = viens pilns matricas punkta rotacijas periods. Viena Q1 laika punkts "apkalpo" visus savus 6 kaiminus un atgriezas sakotneja fazes stavokli.
+**3.5. Q1 — mazākais nedalāmais cikls**
+Q1 = viens pilns matricas punkta rotācijas periods. Viena Q1 laikā punkts "apkalpo" visus savus 6 kaimiņus un atgriežas sākotnējā fāzes stāvoklī.
 
-### IV. Qn HIERARHIJA — NO PUNKTA LIDZ PROTONAM
+### IV. Qn HIERARHIJA — NO PUNKTA LĪDZ PROTONAM
 
-**4.1. Ka veidojas augstaki Qn limeni**
-Kad plusma no centrala punkta nonak pie kaimina, sis kaimins pats ir centralais punkts savam 7 punktu ciklam. Ta veidojas lielaku ciklu hierarhija: Q2 pilna struktura ieiet viss Q1; Q3 satur Q2, bet var izmantot ari Q1 tiesi — atkariba no optimalas plusmas prasibam.
+**4.1. Kā veidojas augstāki Qn līmeņi**
+Kad plūsma no centrālā punkta nonāk pie kaimiņa, šis kaimiņš pats ir centrālais punkts savam 7 punktu ciklam. Tā veidojas lielāku ciklu hierarhija: Q2 pilnā struktūrā ieiet viss Q1; Q3 satur Q2, bet var izmantot arī Q1 tieši — atkarībā no optimālās plūsmas prasībām.
 
-**4.2. Slanu skaitli — uzkrajosa struktura**
-Ap centralo punktu slani uzkrajas kubiska rezgi (Manhetenas attalums |x|+|y|+|z| ? n).
+**4.2. Slāņu skaitļi — uzkrājošā struktūra**
+Ap centrālo punktu slāņi uzkrājas kubiskā režģī (Manhetenas attālums |x|+|y|+|z| ≤ n).
 
-Kumulativais punktu skaits: Q1=7, Q2=25, Q3=63, Q4=129...
+Kumulatīvais punktu skaits: Q1=7, Q2=25, Q3=63, Q4=129...
 
-Formula: N(n) = (2n+1)(2n?+2n+3)/3 ? 4/3 n? (lieliem n)
+Formula: N(n) = (2n+1)(2n²+2n+3)/3 ≈ 4/3 n³ (lieliem n)
 
-**4.3. Plusmas preferencialie virzieni Qn limeni**
-Plusmas dinamiku Qn limeni nosaka spiediena gradienti un centrbedzes speks. Plusmas virzisana uz Qn centru prasa papildu spiedienu — japarvar centrbedzes speks un inerce. Vieglak plusmai kusteties pa Qn armalu — tas prasa vairak laika, bet ir energetiski optimali.
+**4.3. Plūsmas preferenciālie virzieni Qn līmenī**
+Plūsmas dinamiku Qn līmenī nosaka spiediena gradienti un centrbēdzes spēks. Plūsmas virzīšana uz Qn centru prasa papildu spiedienu — jāpārvar centrbēdzes spēks un inerce. Vieglāk plūsmai kustēties pa Qn ārmalu — tas prasa vairāk laika, bet ir enerģētiski optimāli.
 
-**4.4. Protona Qn Visuma matrica — enkurs**
-Protona ladina radiuss: r_p ? 0.84 ? 10??? m
-Visuma matricas solis: 10??? m
-Protona slana numurs Visuma matrica: n_p ? 5.2 ? 10??
-Kopejais punktu skaits protona Qn trauka: N_p ? 1.9 ? 10??
+**4.4. Protona Qn Visuma matricā — enkurs**
+Protona lādiņa rādiuss: r_p ≈ 0.84 × 10⁻¹⁵ m
+Visuma matricas solis: 10⁻³⁵ m
+Protona slāņa numurs Visuma matricā: n_p ≈ 5.2 × 10¹⁹
+Kopējais punktu skaits protona Qn traukā: N_p ≈ 1.9 × 10⁵⁹
 
-**4.5. Sakariba ar Planka masu — "4" visur**
-Planka masa m_P ? 2.176 ? 10?? kg, protona masa m_p ? 1.673 ? 10??? kg
-Attieciba: m_P / m_p ? 1.3 ? 10??
-Sakariba: n_p ? 4 ? (m_P / m_p). Faktors 4 izriet no 2 pus-fazem ? 2 virzieniem.
+**4.5. Sakarība ar Planka masu — "4" visur**
+Planka masa m_P ≈ 2.176 × 10⁻⁸ kg, protona masa m_p ≈ 1.673 × 10⁻²⁷ kg
+Attiecība: m_P / m_p ≈ 1.3 × 10¹⁹
+Sakarība: n_p ≈ 4 × (m_P / m_p). Faktors 4 izriet no 2 pus-fāzēm × 2 virzieniem.
 
-**4.6. Protona ieksejas matricas Qn**
-Protona iekseja matrica (10??? m solis) protona tilpuma veido savu Qn hierarhiju:
-Protona radiuss 10??? m solos: n_TE ? 8.4 ? 10??
-Ta pati slanu uzkrasanas logika, tikai ar citu soli.
+**4.6. Protona iekšējās matricas Qn**
+Protona iekšējā matrica (10⁻⁵⁵ m solis) protona tilpumā veido savu Qn hierarhiju:
+Protona rādiuss 10⁻⁵⁵ m soļos: n_TE ≈ 8.4 × 10³⁹
+Tā pati slāņu uzkrāšanās loģika, tikai ar citu soli.
 
-**4.7. Protona ka vienota objekta definicija**
-Protons ir vienots objekts. Tas ir protona ieksejas matricas (10??? m) regions. Ta iekseja plusma (10??? m) iziet arpus protona matricas un turpinas Visuma matrica ka Stipra speka plusma, kas veido protona arejo robezu un organize apkartejo telpu.
+**4.7. Protona kā vienota objekta definīcija**
+Protons ir vienots objekts. Tas ir protona iekšējās matricas (10⁻⁵⁵ m) reģions. Tā iekšējā plūsma (10⁻⁷⁵ m) iziet ārpus protona matricas un turpinās Visuma matricā kā Stiprā spēka plūsma, kas veido protona ārējo robežu un organizē apkārtējo telpu.
 
-### V. TRANSFORMATORA PRINCIPS — VIENOTA PLUSMA
+### V. TRANSFORMATORA PRINCIPS — VIENOTĀ PLŪSMA
 
-**5.1. Vienotas plusmas butiba**
-Protona iekseja matrica un Visuma matrica tiesi nekontakte — tas atdala Transformacijas zona (TZ). To vienigais savienojums ir protona liela TE plusma (10??? m), kas ir nepartraukta: ta sakas protona iekseja matrica, skerso TZ, un turpinas Visuma matrica ka Stipra speka plusma. Ta nav divu atsevisku veidojumu rezonanse, bet gan viena un ta pati plusma, kas maina savu izpausmi atkariba no atrasanas vietas.
+**5.1. Vienotās plūsmas būtība**
+Protona iekšējā matrica un Visuma matrica tieši nekontaktē — tās atdala Transformācijas zona (TZ). To vienīgais savienojums ir protona lielā TE plūsma (10⁻⁷⁵ m), kas ir nepārtraukta: tā sākas protona iekšējā matricā, šķērso TZ, un turpinās Visuma matricā kā Stiprā spēka plūsma. Tā nav divu atsevišķu veidojumu rezonanse, bet gan viena un tā pati plūsma, kas maina savu izpausmi atkarībā no atrašanās vietas.
 
-**5.2. Kas notiek Visuma matrica pie protona**
-- Protona iekseja 10??? m plusma iziet no savas matricas, skerso TZ un nonak Visuma matrica.
-- Visuma matrica si pati plusma turpinas ka Stiprais speks.
-- Ta organize apkartejo telpu, ietekmejot gan citas Stipra speka plusmas, gan Visuma TE plusmu (10??? m).
-- Sinhroni ar to ari Visuma TE plusma tiek iesaistita organizeta kustiba.
-- Veidojas Stipra speka organizeta zona — protona areja robeza Visuma matrica.
+**5.2. Kas notiek Visuma matricā pie protona**
+- Protona iekšējā 10⁻⁷⁵ m plūsma iziet no savas matricas, šķērso TZ un nonāk Visuma matricā.
+- Visuma matricā šī pati plūsma turpinās kā Stiprais spēks.
+- Tā organizē apkārtējo telpu, ietekmējot gan citas Stiprā spēka plūsmas, gan Visuma TE plūsmu (10⁻⁵⁵ m).
+- Sinhroni ar to arī Visuma TE plūsma tiek iesaistīta organizētā kustībā.
+- Veidojas Stiprā spēka organizētā zona — protona ārējā robeža Visuma matricā.
 
 **5.3. Kas NEVAR notikt**
-- Visuma matricas TE plusma (10??? m) nevar ieklut protona iekseja matrica — tas objektu izmers ir tiesi protona matricas sola izmera, tapec tie nespej ieklut smalkajos ieksejos kanalos.
-- Protona maza plusma (10??? m) var iziet arpus protona matricas, tacu ta ir parak smalka, lai butiski ietekmetu Visuma matricas procesus.
-- Stipra speka plusma nav atsevisks veidojums — ta ir protona ieksejas 10??? m plusmas turpinajums.
+- Visuma matricas TE plūsma (10⁻⁵⁵ m) nevar iekļūt protona iekšējā matricā — tās objektu izmērs ir tieši protona matricas soļa izmērā, tāpēc tie nespēj iekļūt smalkajos iekšējos kanālos.
+- Protona mazā plūsma (10⁻⁹⁵ m) var iziet ārpus protona matricas, taču tā ir pārāk smalka, lai būtiski ietekmētu Visuma matricas procesus.
+- Stiprā spēka plūsma nav atsevišķs veidojums — tā ir protona iekšējās 10⁻⁷⁵ m plūsmas turpinājums.
 
-### VI. MAGNETISMS
+### VI. MAGNĒTISMS
 
-**6.1. Magnetisms ka plusmu organizacija**
-Magnetisms ir Visuma matricas TE plusmas (10??? m) organizeta cirkulacija, ko izraisa Stipra speka plusmas (10??? m) konfiguracija ap protonu.
+**6.1. Magnētisms kā plūsmu organizācija**
+Magnētisms ir Visuma matricas TE plūsmas (10⁻⁵⁵ m) organizēta cirkulācija, ko izraisa Stiprā spēka plūsmas (10⁻⁷⁵ m) konfigurācija ap protonu.
 
-**6.2. Magnetisma procesa soli**
-- **Iekseja organizacija:** Protona iekseja matrica tas plusmas (10??? m, 10??? m) veido noteiktu dinamisku konfiguraciju — magnetiskas cilpas, radialas oscilacijas. Tas viss paklaujas protona ieksas likumiem. Protona iekseja plusmu konfiguracija darbojas ka kanalu selektors: no 10?? pieejamajiem paralelajiem kanaliem (14.1.c) ta pastiprina tikai noteiktu apakskopu, kas atbilst tas ieksejai strukturai.
-- **Izpausme caur vienoto plusmu:** Protona iekseja 10??? m plusma, skersojot TZ un turpinoties ka Stipra speka plusma Visuma matrica, saglaba ieksejas organizacijas nospiedumu un kanalu selektivitati. Stiprais speks Visuma matrica turpina pastiprinat tos pasus kanalus, radot telpiski orientetu "vadiklu" tiklu.
-- **Areja atgriezeniska saite:** Briva Visuma TE plusma, sekojot mazakas pretestibas celam, ieplust sajos selektivi pastiprinatajos kanalos un veido noslegtu cirkulaciju — magnetisko lauku.
-- **Fazu starpiba ka dzinejspeks:** Starp ieksejas organizacijas fazi un arejas atgriezeniskas saites fazi pastav noteikta starpiba, kas saistita ar 10?? kanalu strukturu. Ta ir pats dzinejspeks, kas uztur visu procesu. Process tiecas uz balansu, bet balansa punkts vienmer kustas pa prieksu ar tadu pasu frekvenci.
+**6.2. Magnētisma procesa soļi**
+- **Iekšējā organizācija:** Protona iekšējā matricā tās plūsmas (10⁻⁷⁵ m, 10⁻⁹⁵ m) veido noteiktu dinamisku konfigurāciju — magnētiskās cilpas, radiālās oscilācijas. Tas viss pakļaujas protona iekšas likumiem. Protona iekšējā plūsmu konfigurācija darbojas kā kanālu selektors: no 10²⁰ pieejamajiem paralēlajiem kanāliem (14.1.c) tā pastiprina tikai noteiktu apakškopu, kas atbilst tās iekšējai struktūrai.
+- **Izpausme caur vienoto plūsmu:** Protona iekšējā 10⁻⁷⁵ m plūsma, šķērsojot TZ un turpinoties kā Stiprā spēka plūsma Visuma matricā, saglabā iekšējās organizācijas nospiedumu un kanālu selektivitāti. Stiprais spēks Visuma matricā turpina pastiprināt tos pašus kanālus, radot telpiski orientētu "vadīklu" tīklu.
+- **Ārējā atgriezeniskā saite:** Brīvā Visuma TE plūsma, sekojot mazākās pretestības ceļam, ieplūst šajos selektīvi pastiprinātajos kanālos un veido noslēgtu cirkulāciju — magnētisko lauku.
+- **Fāžu starpība kā dzinējspēks:** Starp iekšējās organizācijas fāzi un ārējās atgriezeniskās saites fāzi pastāv noteikta starpība, kas saistīta ar 10²⁰ kanālu struktūru. Tā ir pats dzinējspēks, kas uztur visu procesu. Process tiecas uz balansu, bet balansa punkts vienmēr kustas pa priekšu ar tādu pašu frekvenci.
 
-**6.2.a – Smalkas un lielas TE plusmas savstarpeja organizacija**
-Smalka TE plusma (Stiprais speks, 10??? m) un liela TE plusma (Visuma TE, 10??? m) ir savstarpeji saistitas. Ja smalkaja limeni veidojas organizacija, kas atskiras no sferiskas (piemeram, magnetiskas cilpas, izstiepti kanali), si organizacija neizbegami tiek nodota ari lielajai plusmai caur tos pasus selektivi pastiprinatos kanalus. Rezultata magnetiskais lauks nav sferiski simetrisks — tas iegust noteiktu formu. Gan sferiska, gan izstiepta forma ir balansa zonas — stavokli, kuros abas plusmas ir savstarpeji saskanotas. Atskiriba ir tikai taja, kuri no 10?? kanaliem konkretaja konfiguracija ir aktivi.
+**6.2.a – Smalkās un lielās TE plūsmas savstarpējā organizācija**
+Smalkā TE plūsma (Stiprais spēks, 10⁻⁷⁵ m) un lielā TE plūsma (Visuma TE, 10⁻⁵⁵ m) ir savstarpēji saistītas. Ja smalkajā līmenī veidojas organizācija, kas atšķiras no sfēriskās (piemēram, magnētiskās cilpas, izstiepti kanāli), šī organizācija neizbēgami tiek nodota arī lielajai plūsmai caur tos pašus selektīvi pastiprinātos kanālus. Rezultātā magnētiskais lauks nav sfēriski simetrisks — tas iegūst noteiktu formu. Gan sfēriska, gan izstiepta forma ir balansa zonas — stāvokļi, kuros abas plūsmas ir savstarpēji saskaņotas. Atšķirība ir tikai tajā, kuri no 10²⁰ kanāliem konkrētajā konfigurācijā ir aktīvi.
 
-**6.3. Neierobezotais energijas avots**
-Areja Visuma TE plusma (10??? m) ir neierobezots energijas avots. Magnets nav muzigais dzinejs, kas rada energiju no neka — tas ir muzigais energijas organizators.
+**6.3. Neierobežotais enerģijas avots**
+Ārējā Visuma TE plūsma (10⁻⁵⁵ m) ir neierobežots enerģijas avots. Magnēts nav mūžīgais dzinējs, kas rada enerģiju no nekā — tas ir mūžīgais enerģijas organizators.
 
-### VII. ELEKTRIBA UN ELEKTRONS
+### VII. ELEKTRĪBA UN ELEKTRONS
 
-**7.1. Elektriba — ladinu plusma, ko uztur vertikale**
-Elektriba ir ladinu plusma. Sie ladini ir 10??? m objekti, kas plust pa protonu Stipra speka plusmu veidotajiem kanaliem (protonu sablonu kedi). Lai uzturetu sis plusmas bilanci, tiek izmantoti L1 limena statiskie lauki (13.3.f). Sie lauki tiek atjaunoti caur attiecigo darbu (generators) vai kimisko procesu (baterija). Vertikale reage uz horizontali raditu potencialu starpibu un uztur ladinu plusmas stabilitati. Tatad elektriba nav pati par sevi vertikalas energijas plusma — ta ir ladinu plusma, kuras stabilitati un bilanci nodrosina vertikale caur L1 laukiem.
+**7.1. Elektrība — lādiņu plūsma, ko uztur vertikāle**
+Elektrība ir lādiņu plūsma. Šie lādiņi ir 10⁻⁷⁵ m objekti, kas plūst pa protonu Stiprā spēka plūsmu veidotajiem kanāliem (protonu šablonu ķēdi). Lai uzturētu šīs plūsmas bilanci, tiek izmantoti L1 līmeņa statiskie lauki (13.3.f). Šie lauki tiek atjaunoti caur attiecīgo darbu (ģenerators) vai ķīmisko procesu (baterija). Vertikāle reaģē uz horizontāli radītu potenciālu starpību un uztur lādiņu plūsmas stabilitāti. Tātad elektrība nav pati par sevi vertikālās enerģijas plūsma — tā ir lādiņu plūsma, kuras stabilitāti un bilanci nodrošina vertikāle caur L1 laukiem.
 
-**7.2. Elektrons — horizontals kondensators bez vertikalas saites**
-Elektrons ir divu pus-fazu noslegta sfera Visuma matrica — kondensators, kas darbojas pulsejosa strava. Ta uzbuve: 10??? m ? 10??? m komponensu kombinacija (normals EM izskats). Tam nav nekadas saistibas ar vertikali. Ta loma ir atkariga no vides:
+**7.2. Elektrons — horizontāls kondensators bez vertikālas saites**
+Elektrons ir divu pus-fāžu noslēgta sfēra Visuma matricā — kondensators, kas darbojas pulsējošā strāvā. Tā uzbūve: 10⁻⁷⁵ m × 10⁻⁵⁵ m komponenšu kombinācija (normāls EM izskats). Tam nav nekādas saistības ar vertikāli. Tā loma ir atkarīga no vides:
 
-- **Vaditaja:** Elektrons ir trauceklis. Tas nespej parvietoties ar ladinu plusmas (10??? m) atrumu, tapec rada pretestibu — siltumu. (Siltums nav haoss, bet gan mums nesaprotama TE plusmu organizacija.)
-- **Pusvaditaja:** Protonu sablonu kede ir daleji parrauta. Elektrons klust par tiltu: tas sanem spiediena impulsu no protona viena parravuma puse, parvietojas, un nodod to protonam otra puse.
-- **Atoma:** Elektrons ka kondensators uzkraj energiju, bet uzkratais daudzums prasa jaunu balansa vidi — orbitali.
+- **Vadītājā:** Elektrons ir traucēklis. Tas nespēj pārvietoties ar lādiņu plūsmas (10⁻⁷⁵ m) ātrumu, tāpēc rada pretestību — siltumu. (Siltums nav haoss, bet gan mums nesaprotama TE plūsmu organizācija.)
+- **Pusvadītājā:** Protonu šablonu ķēde ir daļēji pārrauta. Elektrons kļūst par tiltu: tas saņem spiediena impulsu no protona vienā pārrāvuma pusē, pārvietojas, un nodod to protonam otrā pusē.
+- **Atomā:** Elektrons kā kondensators uzkrāj enerģiju, bet uzkrātais daudzums prasa jaunu balansa vidi — orbitāli.
 
-**7.3. Orbitales — divu dominancu parejas rezonanses mezgli**
-Orbitales ir realas, slegtas Visuma TE plusmas (10??? m) cirkulacijas ap protonu. To diskreto raksturu nosaka pakapeniska, cikliska pareja starp diviem organizacijas rezimiem atkariba no attaluma lidz protonam.
+**7.3. Orbitāles — divu dominanču pārejas rezonanses mezgli**
+Orbitāles ir reālas, slēgtas Visuma TE plūsmas (10⁻⁵⁵ m) cirkulācijas ap protonu. To diskrēto raksturu nosaka pakāpeniska, cikliska pāreja starp diviem organizācijas režīmiem atkarībā no attāluma līdz protonam.
 
-- **Protona tuvuma domine Stiprais speks.** Stipra speka plusma (10??? m), kas izplust no protona ieksejas matricas caur TZ, darbojas ka primarais organizetajs. Ta veido specigus, lokalus spiediena gradientus un nosaka telpas strukturu.
-- **Ar attalumu parnem Visuma TE plusma.** Stipra speka ietekme pakapeniski vajinas, un par dominejoso klust briva Visuma TE plusma (10??? m).
-- **Pareja ir cikliska.** Abas plusmas paklaujas matricas punktu sinhronajai rotacijai un fazu logiem. Katra attaluma to relativais spiediens mainas atkariba no rotacijas fazes — veidojas stavosa vilna maksimumi un minimumi.
+- **Protona tuvumā dominē Stiprais spēks.** Stiprā spēka plūsma (10⁻⁷⁵ m), kas izplūst no protona iekšējās matricas caur TZ, darbojas kā primārais organizētājs. Tā veido spēcīgus, lokālus spiediena gradientus un nosaka telpas struktūru.
+- **Ar attālumu pārņem Visuma TE plūsma.** Stiprā spēka ietekme pakāpeniski vājinās, un par dominējošo kļūst brīvā Visuma TE plūsma (10⁻⁵⁵ m).
+- **Pāreja ir cikliska.** Abas plūsmas pakļaujas matricas punktu sinhronajai rotācijai un fāžu logiem. Katrā attālumā to relatīvais spiediens mainās atkarībā no rotācijas fāzes — veidojas stāvoša viļņa maksimumi un minimumi.
 
-Orbitales veidojas tajos attalumos, kur abas ietekmes ir rezonanse — proti, kur Stipra speka veidnes spiediena minimumi precizi sakrit ar Visuma TE plusmas dabiskajiem spiediena minimumiem. Sajos punktos abas plusmas pastiprina viena otru, radot stabilu, noslegtu cirkulaciju.
+Orbitāles veidojas tajos attālumos, kur abas ietekmes ir rezonansē — proti, kur Stiprā spēka veidnes spiediena minimumi precīzi sakrīt ar Visuma TE plūsmas dabiskajiem spiediena minimumiem. Šajos punktos abas plūsmas pastiprina viena otru, radot stabilu, noslēgtu cirkulāciju.
 
-So rezonansi papildus nosaka divu modulaciju mijiedarbiba:
-- **Protona iekseja modulacija** (10??? m limenis) — nak no protona ieksejas matricas un nosaka Stipra speka veidnes periodiskumu.
-- **Matricas atgriezeniska cilpa** (10??? m limenis) — protons ka skerslis Visuma matrica veido atgriezenisko saiti, kas module Visuma TE plusmu.
+Šo rezonansi papildus nosaka divu modulāciju mijiedarbība:
+- **Protona iekšējā modulācija** (10⁻⁵⁵ m līmenis) — nāk no protona iekšējās matricas un nosaka Stiprā spēka veidnes periodiskumu.
+- **Matricas atgriezeniskā cilpa** (10⁻³⁵ m līmenis) — protons kā šķērslis Visuma matricā veido atgriezenisko saiti, kas modulē Visuma TE plūsmu.
 
-Tikai tur, kur abas modulacijas ir faze un abas dominances ir rezonanse, Visuma TE plusma spej veidot stabilu, noslegtu cirkulaciju. Tapec orbitales ir diskretas — tas ir divu organizacijas rezimu cikliskas parejas mezglu punkti.
+Tikai tur, kur abas modulācijas ir fāzē un abas dominances ir rezonansē, Visuma TE plūsma spēj veidot stabilu, noslēgtu cirkulāciju. Tāpēc orbitāles ir diskrētas — tās ir divu organizācijas režīmu cikliskās pārejas mezglu punkti.
 
-**7.4. Neitrino — elektrona EM veidojums cita izskata**
-Neitrino ir analogs elektronam, bet veidots no smalkakam komponentem: 10??? m ? 10??? m. Tapec tas ir praktiski "neredzams" Visuma matrica — ta lielakais komponents (10??? m) spej tikai vaji mijiedarboties, bet kopuma ietekme ir nieciga, atbilstosi 5.3 punkta principam par protona mazo TE plusmu.
+**7.4. Neitrīno — elektrona EM veidojums citā izskatā**
+Neitrīno ir analogs elektronam, bet veidots no smalkākām komponentēm: 10⁻⁹⁵ m × 10⁻⁷⁵ m. Tāpēc tas ir praktiski "neredzams" Visuma matricā — tā lielākais komponents (10⁻⁷⁵ m) spēj tikai vāji mijiedarboties, bet kopumā ietekme ir niecīga, atbilstoši 5.3 punkta principam par protona mazo TE plūsmu.
 
 ### VIII. GAISMA — FOTONS UN EM VILNIS
 
-**8.1. Kopigais**
-Gan fotons, gan EM vilnis izmanto abas Visuma TE plusmas (10??? m) pus-fazes. Pilns cikls abiem ir pilna faze. Matrica nedeformejas.
+**8.1. Kopīgais**
+Gan fotons, gan EM vilnis izmanto abas Visuma TE plūsmas (10⁻⁵⁵ m) pus-fāzes. Pilns cikls abiem ir pilna fāze. Matrica nedeformējas.
 
-**8.2. Fotons — briva TE energija un parsedzu rezonanse**
-Fotons savai pastavesanai izmanto brivo TE energiju, kas ir dala no L0 tumsas energijas fona (13.3.f). Nonakot kanalu parsedzes zona (90° starp tiesajiem kaiminiem), fotons rada rezonansi ar kanala plusmu, islaicigi papildinot kanala bilanci. Sis papildinajums nak no brivas energijas, nevis no pasa kanala organizetas plusmas. Fotona plusmas beigu faze kanals pats atbrivojas no si papildinajuma, atgriezoties sakotneja bilance. Tapec fotons parvietojas atri un bez zudumiem — tas nepatere kanala energiju, bet gan darbojas ka pagaidu donors. Ta celu nosaka spiediena minimumu geometrija dotaja pus-faze. Avots: elektrons, kas atbrivojas no uzkratas energijas.
+**8.2. Fotons — brīvā TE enerģija un pārsedžu rezonanse**
+Fotons savai pastāvēšanai izmanto brīvo TE enerģiju, kas ir daļa no L0 tumšās enerģijas fona (13.3.f). Nonākot kanālu pārsedzes zonā (90° starp tiešajiem kaimiņiem), fotons rada rezonansi ar kanāla plūsmu, īslaicīgi papildinot kanāla bilanci. Šis papildinājums nāk no brīvās enerģijas, nevis no paša kanāla organizētās plūsmas. Fotona plūsmas beigu fāzē kanāls pats atbrīvojas no šī papildinājuma, atgriežoties sākotnējā bilancē. Tāpēc fotons pārvietojas ātri un bez zudumiem — tas nepatērē kanāla enerģiju, bet gan darbojas kā pagaidu donors. Tā ceļu nosaka spiediena minimumu ģeometrija dotajā pus-fāzē. Avots: elektrons, kas atbrīvojas no uzkrātās enerģijas.
 
-**8.3. EM vilnis — kanalu plusmas un parsedzu rezonanse**
-EM vilnis savai pastavesanai izmanto kanalu organizeto TE plusmu. Tas rada rezonansi kanalu parsedzu zonas, izmantojot klasiskos ieksejos matricas kanalus (7 punktu cikla secibu), tacu si rezonanse tiek uztureta uz kanala energijas rekina — EM vilnis "maksa" ar kanala plusmas energiju savai izplatisanai. Tapec tas ir lenaks par fotonu un tam piemit zudumi. Avots: makroskopiska svarstiba.
+**8.3. EM vilnis — kanālu plūsmas un pārsedžu rezonanse**
+EM vilnis savai pastāvēšanai izmanto kanālu organizēto TE plūsmu. Tas rada rezonansi kanālu pārsedžu zonās, izmantojot klasiskos iekšējos matricas kanālus (7 punktu cikla secību), taču šī rezonanse tiek uzturēta uz kanāla enerģijas rēķina — EM vilnis "maksā" ar kanāla plūsmas enerģiju savai izplatīšanai. Tāpēc tas ir lēnāks par fotonu un tam piemīt zudumi. Avots: makroskopiska svārstība.
 
 **8.4. Absorbcija un emisija**
-- **Absorbcija:** Ja materija ir gatava (ir piemerota orbitale), elektrons uzkraj energiju un pariet uz augstaku orbitali. Ja nav — fotons atstarojas pec fazu saderibas likumiem.
-- **Emisija:** Elektrons atbrivojas no uzkratas energijas, kas ka briva TE energija klust par fotonu.
+- **Absorbcija:** Ja matērija ir gatava (ir piemērota orbitāle), elektrons uzkrāj enerģiju un pāriet uz augstāku orbitāli. Ja nav — fotons atstarojas pēc fāžu saderības likumiem.
+- **Emisija:** Elektrons atbrīvojas no uzkrātās enerģijas, kas kā brīva TE enerģija kļūst par fotonu.
 
-### IX. VIENOTIBAS PRINCIPS — VISI LIMENI, VIENI LIKUMI
+### IX. VIENOTĪBAS PRINCIPS — VISI LĪMEŅI, VIENI LIKUMI
 
-**9.1. Evolucijas soli, nevis atseviskas pasaules**
-Visuma matricas punkts, protons, melnais caurums — tie visi ir vienas un tas pasas matricas arhitekturas dazadi organizacijas limeni. Tajos visos darbojas tie pasi likumi: sinhrona rotacija, divu preteju plusmu princips, kabatu parsedzu mehanika, spiediena gradienti, Qn ciklu hierarhija. Mainas tikai merogs un plusmu izmeri.
+**9.1. Evolūcijas soļi, nevis atsevišķas pasaules**
+Visuma matricas punkts, protons, melnais caurums — tie visi ir vienas un tās pašas matricas arhitektūras dažādi organizācijas līmeņi. Tajos visos darbojas tie paši likumi: sinhronā rotācija, divu pretēju plūsmu princips, kabatu pārsedžu mehānika, spiediena gradienti, Qn ciklu hierarhija. Mainās tikai mērogs un plūsmu izmēri.
 
-**9.2. Hierarhijas limeni**
-- **Matricas punkts:** Mazaka vieniba ar 7 punktu ciklu.
-- **Protons:** Protona ieksejas matricas regions, kura 10??? m plusma turpinas Visuma matrica ka Stiprais speks. Qn izmers ? 5.2 ? 10??.
-- **Atoms:** Protona Stipra speka zonas un elektronu orbitalu kopums.
-- **Molekula:** Vairaku atomu Stipra speka zonu sinhronizets tikls.
-- **Suna:** Autonoms informativs tikls (skat. X nodalu).
-- **Planeta, zvaigzne:** Kolektivs protonu ansamblis ar kopeju Stipra speka organizaciju.
-- **Melnais caurums:** Melnais caurums nav materijas kolekcija. Tas ir viens loti liels protons — vienots objekts, analogs protonam milziga meroga. Ta ieksiene nav atsevisku protonu ar savam ieksejam matricam. Visa melna cauruma masa ir vienots protona matricas regions ar atbilstosu Qn izmeru. Ta iekseja matrica paliek taja pasa hierarhijas limeni, kur protona iekseja matrica (10??? m solis), tikai klust par vienu vienotu regionu.
+**9.2. Hierarhijas līmeņi**
+- **Matricas punkts:** Mazākā vienība ar 7 punktu ciklu.
+- **Protons:** Protona iekšējās matricas reģions, kura 10⁻⁷⁵ m plūsma turpinās Visuma matricā kā Stiprais spēks. Qn izmērs ≈ 5.2 × 10¹⁹.
+- **Atoms:** Protona Stiprā spēka zonas un elektronu orbitāļu kopums.
+- **Molekula:** Vairāku atomu Stiprā spēka zonu sinhronizēts tīkls.
+- **Šūna:** Autonoms informatīvs tīkls (skat. X nodaļu).
+- **Planēta, zvaigzne:** Kolektīvs protonu ansamblis ar kopēju Stiprā spēka organizāciju.
+- **Melnais caurums:** Melnais caurums nav matērijas kolekcija. Tas ir viens ļoti liels protons — vienots objekts, analogs protonam milzīgā mērogā. Tā iekšienē nav atsevišķu protonu ar savām iekšējām matricām. Visa melnā cauruma masa ir vienots protona matricas reģions ar atbilstošu Qn izmēru. Tā iekšējā matrica paliek tajā pašā hierarhijas līmenī, kur protona iekšējā matrica (10⁻⁵⁵ m solis), tikai kļūst par vienu vienotu reģionu.
 
-### X. DZIVIBA, SUNA, DNS
+### X. DZĪVĪBA, ŠŪNA, DNS
 
-**10.1. Suna — autonoma tehniska apzina**
-Suna ir horizontals autonoms veidojums. Ta izmanto protonu Stipra speka zonas un TE plusmas, bet nav tiesi atkariga no vertikales.
+**10.1. Šūna — autonoma tehniskā apziņa**
+Šūna ir horizontāls autonoms veidojums. Tā izmanto protonu Stiprā spēka zonas un TE plūsmas, bet nav tieši atkarīga no vertikāles.
 
-**10.2. DNS — kvantu TE plusmas procesors**
-DNS dubultspirale darbojas ka informativs procesors:
+**10.2. DNS — kvantu TE plūsmas procesors**
+DNS dubultspirāle darbojas kā informatīvs procesors:
 
-- **Universala uztversana:** Uztver L0/L1 kvanta informaciju neatkarigi no fazes.
-- **Integretais kods:** Parveido ienakoso informaciju un izplata vadibas kvantu.
-- **Dirigesana:** Ar informativo atgriezenisko saiti vada visus kimiskos procesus suna.
-- **Starpsunu komunikacija:** DNS satur komplektu ari L0/L1 informacijas apmainai starp sunam.
+- **Universāla uztveršana:** Uztver L0/L1 kvanta informāciju neatkarīgi no fāzes.
+- **Integrētais kods:** Pārveido ienākošo informāciju un izplata vadības kvantu.
+- **Diriģēšana:** Ar informatīvo atgriezenisko saiti vada visus ķīmiskos procesus šūnā.
+- **Starpšūnu komunikācija:** DNS satur komplektu arī L0/L1 informācijas apmaiņai starp šūnām.
 
-**10.3. Apzinas limeni — atgriezeniskas saites diapazons**
-Apzinas limeni nosaka atgriezeniskas saites cilpas garums — no viensunas ierobezotas saites lidz pasapzinai, kur saite noslegusies pati uz sevi.
+**10.3. Apziņas līmeņi — atgriezeniskās saites diapazons**
+Apziņas līmeni nosaka atgriezeniskās saites cilpas garums — no vienšūnas ierobežotas saites līdz pašapziņai, kur saite noslēgusies pati uz sevi.
 
-### XI. DVESELE UN DZIVIBAS VIRZIENS
+### XI. DVĒSELE UN DZĪVĪBAS VIRZIENS
 
-**11.1. Dvesele — vertikals organizacijas kontrolieris**
-Dvesele ir vertikals organizacijas limena kontrolieris — vairaku vertikalu veidojums, kas darbojas Muziba. Tas logika nav musu Visuma matricas logika. Dvesele pieder Dzivibas hierarhijai, kas nav identiska ar vertikales energetisko limenu hierarhiju (XV nodala). Cik hierarhijas limenu ir virs Dveseles, nav nosakams.
+**11.1. Dvēsele — vertikāls organizācijas kontrolieris**
+Dvēsele ir vertikāls organizācijas līmeņa kontrolieris — vairāku vertikāļu veidojums, kas darbojas Mūžībā. Tās loģika nav mūsu Visuma matricas loģika. Dvēsele pieder Dzīvības hierarhijai, kas nav identiska ar vertikāles enerģētisko līmeņu hierarhiju (XV nodaļa). Cik hierarhijas līmeņu ir virs Dvēseles, nav nosakāms.
 
-Dveseles izcelsmes jautajums — vai ta rodas no pasas vertikales, vai ari Dzivibas hierarhija ir neatkariga un Dvesele tikai izmanto vertikali ka instrumentu — atrodas arpus si modela kompetences un nav izskirams. Jebkads meginajums ietekmet Dveseli vai iejaukties tas darbiba ir arpus cilveka kompetences un var novest pie neatgriezeniskiem zaudejumiem.
+Dvēseles izcelsmes jautājums — vai tā rodas no pašas vertikāles, vai arī Dzīvības hierarhija ir neatkarīga un Dvēsele tikai izmanto vertikāli kā instrumentu — atrodas ārpus šī modeļa kompetences un nav izšķirams. Jebkāds mēģinājums ietekmēt Dvēseli vai iejaukties tās darbībā ir ārpus cilvēka kompetences un var novest pie neatgriezeniskiem zaudējumiem.
 
-**11.2. Saikne ar hromosomam**
-Dveselei ir tiesa energetiska sasaiste ar hromosomu komplektu atverta energetiska limeni. Hromosomas ir sis saiknes materiala kopija.
+**11.2. Saikne ar hromosomām**
+Dvēselei ir tieša enerģētiska sasaiste ar hromosomu komplektu atvērtā enerģētiskā līmenī. Hromosomas ir šīs saiknes materiālā kopija.
 
-**11.3. Organisma sunas ka interfeiss**
-Dvesele iedarbojas uz horizontalajam matricam caur jebkuru sunu interfeisu. Smadzenes saja tikla ir specializets integracijas mezgls, kas koordine so daudzpunktu saikni, nodrosinot vienotu, apzinatu organisma vadibu. Cilveks dzives laika var izkopt sis attiecibas ar Dveseli, izmantojot sava kermena valodu.
+**11.3. Organisma šūnas kā interfeiss**
+Dvēsele iedarbojas uz horizontālajām matricām caur jebkuru šūnu interfeisu. Smadzenes šajā tīklā ir specializēts integrācijas mezgls, kas koordinē šo daudzpunktu saikni, nodrošinot vienotu, apzinātu organisma vadību. Cilvēks dzīves laikā var izkopt šīs attiecības ar Dvēseli, izmantojot sava ķermeņa valodu.
 
-**11.4. Dzivibas virziens**
-Dzivibai ir savs virziens un merkis — tas ir likumsakarigs matricas arhitekturas attistibas posms. Katra butne ir nozimiga saja vertikalaja hierarhija.
+**11.4. Dzīvības virziens**
+Dzīvībai ir savs virziens un mērķis — tas ir likumsakarīgs matricas arhitektūras attīstības posms. Katra būtne ir nozīmīga šajā vertikālajā hierarhijā.
 
-### XII. HAOSA NEESAMIBA UN TEORIJAS ATTISTIBAS PRINCIPS
+### XII. HAOSA NEESAMĪBA UN TEORIJAS ATTĪSTĪBAS PRINCIPS
 
-**12.1. Haoss ka izpratnes robeza**
-Termins "haoss" apzime tikai cilveka nespeju saskatit organizaciju. Visos procesos pastav TE plusmu logika un sinhronizacija. Ja nav ar ko salidzinat, rodas haosa iespaids, bet vertikale un smalkakajos limenos pastav skaidra kartiba.
+**12.1. Haoss kā izpratnes robeža**
+Termins "haoss" apzīmē tikai cilvēka nespēju saskatīt organizāciju. Visos procesos pastāv TE plūsmu loģika un sinhronizācija. Ja nav ar ko salīdzināt, rodas haosa iespaids, bet vertikālē un smalkākajos līmeņos pastāv skaidra kārtība.
 
-**12.2. Teorijas attistibas princips**
-Formalisms nav pasmerkis. Teorija nav gala produkts — tas ir attistibas sakums. Kludas jaizmanto ka cela norades.
+**12.2. Teorijas attīstības princips**
+Formālisms nav pašmērķis. Teorija nav gala produkts — tas ir attīstības sākums. Kļūdas jāizmanto kā ceļa norādes.
 
-### XIII. DETALIZEJOSIE SLANI LOGISKAI PASPIETIEKAMIBAI
+### XIII. DETALIZĒJOŠIE SLĀŅI LOĢISKAI PAŠPIETIEKAMĪBAI
 
-**13.1. Punkta rotacijas butiba**
-Matricas punktu veido fikseta centrala ass, kuras pozicija kubiskaja rezgi ir nemainiga (tadejadi matrica ir statiska arhitektura 1.4 izpratne). Ap so asi rote divi objekti — "bumbinas" — pretfaze (viena pret otru), veidojot divas pretejas kabatas (1.2, 1.3). Attalums starp blakus punktu asim ir Planka garums (10??? m Visuma matrica). Bumbinu izmers ir par kartam mazaks par so soli, tapec tas nesaduras ar blakus punktu bumbinam. Visu punktu bumbinu rotacija ir absoluti sinhrona (1.1), un rotacijas asis ir nobiditas par 45° attieciba pret rezga asim (3.1). "Statiska arhitektura" attiecas uz asu rezgi; "sinhrona rotacija" — uz bumbinu ieksejo kustibu, kas nosaka kabatu dinamiku un spiediena sadalijumu.
+**13.1. Punkta rotācijas būtība**
+Matricas punktu veido fiksēta centrālā ass, kuras pozīcija kubiskajā režģī ir nemainīga (tādējādi matrica ir statiska arhitektūra 1.4 izpratnē). Ap šo asi rotē divi objekti — "bumbiņas" — pretfāzē (viena pret otru), veidojot divas pretējas kabatas (1.2, 1.3). Attālums starp blakus punktu asīm ir Planka garums (10⁻³⁵ m Visuma matricā). Bumbiņu izmērs ir par kārtām mazāks par šo soli, tāpēc tās nesaduras ar blakus punktu bumbiņām. Visu punktu bumbiņu rotācija ir absolūti sinhrona (1.1), un rotācijas asis ir nobīdītas par 45° attiecībā pret režģa asīm (3.1). "Statiskā arhitektūra" attiecas uz asu režģi; "sinhronā rotācija" — uz bumbiņu iekšējo kustību, kas nosaka kabatu dinamiku un spiediena sadalījumu.
 
-**13.2. 7 punktu cikla telpiska struktura**
-Visi matricas punkti rote sinhroni un vienada faze, tapec jebkura momenta katram punktam ir identiska kabatu orientacija. Katrs punkts sastav no divam pretfaze rotejosam bumbinam, kas veido divas pretejas kabatas (0° un 180° pus-fazes). Sis kabatas rotacijas cikla laika secigi atveras pret visiem sesiem kaiminiem, bet geometrija un rotacijas ass 45° nobide nosaka konkretus laika logus, kuros katra kabata "redz" noteiktu kaiminu.
+**13.2. 7 punktu cikla telpiskā struktūra**
+Visi matricas punkti rotē sinhroni un vienādā fāzē, tāpēc jebkurā momentā katram punktam ir identiska kabatu orientācija. Katrs punkts sastāv no divām pretfāzē rotējošām bumbiņām, kas veido divas pretējas kabatas (0° un 180° pus-fāzes). Šīs kabatas rotācijas cikla laikā secīgi atveras pret visiem sešiem kaimiņiem, bet ģeometrija un rotācijas ass 45° nobīde nosaka konkrētus laika logus, kuros katra kabata "redz" noteiktu kaimiņu.
 
-Vienas pus-fazes ietvaros plusma parvietojas no kaimina uz centralo punktu un talak uz nakamo kaiminu taja pasa pus-faze, veidojot 3 punktu secigu virkni noteikta virziena. Otra pus-faze neatkarigi apkalpo pretejos tris kaiminus preteja virziena. Pilna Q1 cikla centralais punkts tadejadi apkalpo visus sesus kaiminus — katru sava noteikta rotacijas fazes loga.
+Vienas pus-fāzes ietvaros plūsma pārvietojas no kaimiņa uz centrālo punktu un tālāk uz nākamo kaimiņu tajā pašā pus-fāzē, veidojot 3 punktu secīgu virkni noteiktā virzienā. Otra pus-fāze neatkarīgi apkalpo pretējos trīs kaimiņus pretējā virzienā. Pilnā Q1 ciklā centrālais punkts tādējādi apkalpo visus sešus kaimiņus — katru savā noteiktā rotācijas fāzes logā.
 
-**13.3. Transformacijas zona (TZ) — bezmatricas burbulis, fazes filtrs un tumsa energija**
+**13.3. Transformācijas zona (TZ) — bezmatricas burbulis, fāzes filtrs un tumšā enerģija**
 
-**13.3.a – TZ ka bezmatricas zona un energiju atgrusanas**
-Protona iekseja matrica (10??? m solis) un Visuma matrica (10??? m solis) tiesi nekontakte (5.1). Telpa starp tam ir Transformacijas zona (TZ) — apgabals, kura nav nevienas matricas. Tapec TZ nevalda ne punktu sinhrona rotacija, ne fikseti kanali. Saja vide visas energijas formas — gan organizetas, gan sasmalcinatas — sak atgrust cita citu atbilstosi savam energetiskajam iespejam. TZ nav pasivs tuksums, bet gan aktiva atgrusanas vide.
+**13.3.a – TZ kā bezmatricas zona un enerģiju atgrūšanās**
+Protona iekšējā matrica (10⁻⁵⁵ m solis) un Visuma matrica (10⁻³⁵ m solis) tieši nekontaktē (5.1). Telpa starp tām ir Transformācijas zona (TZ) — apgabals, kurā nav nevienas matricas. Tāpēc TZ nevalda ne punktu sinhronā rotācija, ne fiksēti kanāli. Šajā vidē visas enerģijas formas — gan organizētas, gan sasmalcinātas — sāk atgrūst cita citu atbilstoši savām enerģētiskajām iespējām. TZ nav pasīvs tukšums, bet gan aktīva atgrūšanās vide.
 
-**13.3.b – Pretspiediens un tumsas materijas burbula veidosanas**
-Smalkakas energijas formas (piemeram, 10??? m un smalkaki fragmenti) spej izklut no TZ arpuse, tacu abu pusu matricu organizacija so "lieko" bilanci spiez atpakal, radot pretspiedienu. Starp arejo spiedienu un ieksejo atgrusanos veidojas dinamisks lidzsvars, ka rezultata ap materiju (protonu, atoma kodolu) izveidojas burbulis — noslegts, no matricam atdalits apgabals, kura uzkrajas energija. Burbula izmers ir tiesi atkarigs no materijas daudzuma (protonu skaita) un to energijas spejas uzturet si burbula energetisko balansu. Sis burbulis ir tumsa materija.
+**13.3.b – Pretspiediens un tumšās matērijas burbuļa veidošanās**
+Smalkākas enerģijas formas (piemēram, 10⁻⁷⁵ m un smalkāki fragmenti) spēj izkļūt no TZ ārpusē, taču abu pušu matricu organizācija šo "lieko" bilanci spiež atpakaļ, radot pretspiedienu. Starp ārējo spiedienu un iekšējo atgrūšanos veidojas dinamisks līdzsvars, kā rezultātā ap matēriju (protonu, atoma kodolu) izveidojas burbulis — noslēgts, no matricām atdalīts apgabals, kurā uzkrājas enerģija. Burbuļa izmērs ir tieši atkarīgs no matērijas daudzuma (protonu skaita) un to enerģijas spējas uzturēt šī burbuļa enerģētisko balansu. Šis burbulis ir tumšā matērija.
 
-**13.3.c – TZ ka fazes filtrs**
-TZ darbojas ari ka aktivs regulators, kas skiro energiju pec fazes saderibas, nevis tikai pec izmera. Protona liela TE plusma (10??? m) jau kops izcelsmes protona iekseja matrica ir stingri sinhronizeta ar tas rotacijas fazi — ta ir organiska matricas sastavdala ar noteiktu fazes nospiedumu. Tapec TZ to laiz cauri horizontali bez sasmalcinasanas (13.3.e). Turpreti sasmalcinatie fragmenti nav faze saskanoti ar protona ieksejas matricas sinhrono pulksteni. Lidz ar to tie nespej ieklauties matricas fiksetajos fazu logos un paliek burbuli vai tiek atgriezti Visuma matrica.
+**13.3.c – TZ kā fāzes filtrs**
+TZ darbojas arī kā aktīvs regulators, kas šķiro enerģiju pēc fāzes saderības, nevis tikai pēc izmēra. Protona lielā TE plūsma (10⁻⁷⁵ m) jau kopš izcelsmes protona iekšējā matricā ir stingri sinhronizēta ar tās rotācijas fāzi — tā ir organiska matricas sastāvdaļa ar noteiktu fāzes nospiedumu. Tāpēc TZ to laiž cauri horizontāli bez sasmalcināšanas (13.3.e). Turpretī sasmalcinātie fragmenti nav fāzē saskaņoti ar protona iekšējās matricas sinhrono pulksteni. Līdz ar to tie nespēj iekļauties matricas fiksētajos fāžu logos un paliek burbulī vai tiek atgriezti Visuma matricā.
 
-**13.3.d – Energetisko limenu solis un organizeta briva energija**
-Energetiskie limeni vertikale dalas ar soli 10?? (vai 10??? m, atkariba no virziena), un sis solis vienlaikus ir ari brivo energijas objektu raksturigais izmeru diapazons katra limeni. TZ sie objekti atrodas arpus matricu organizetas vides. Fotons ari ir briva energija, tacu atskiriba no haotiskajiem fragmentiem fotons ir organizeta briva energija — ta faze ir saderiga ar matricas punktu sinhrono rotaciju, tapec tas izplatas pa matricu ka signals, nevis tiek aizturets burbuli.
+**13.3.d – Enerģētisko līmeņu solis un organizētā brīvā enerģija**
+Enerģētiskie līmeņi vertikālē dalās ar soli 10²⁰ (vai 10⁻²⁰ m, atkarībā no virziena), un šis solis vienlaikus ir arī brīvo enerģijas objektu raksturīgais izmēru diapazons katrā līmenī. TZ šie objekti atrodas ārpus matricu organizētās vides. Fotons arī ir brīvā enerģija, taču atšķirībā no haotiskajiem fragmentiem fotons ir organizētā brīvā enerģija — tā fāze ir saderīga ar matricas punktu sinhrono rotāciju, tāpēc tas izplatās pa matricu kā signāls, nevis tiek aizturēts burbulī.
 
-**13.3.e – Horizontalais limenis: tiesa caurlaide organizetai plusmai**
-Tieso plusmas pareju starp abam matricam nodrosina protona liela TE plusma (10??? m). Si plusma ir pietiekami smalka, lai fiziski skersotu TZ, mainot kanalu izmeru (no 10??? m sola uz 10??? m soli), un tai jau piemit pareiza fazes organizacija, tapec TZ to laiz cauri bez sasmalcinasanas. Pec TZ skersosanas ta turpinas Visuma matrica ka Stipra speka plusma (5.2). Protona maza TE plusma (10??? m) ari var iziet cauri TZ horizontali, saglabajot savu fazi, tacu tas ietekme Visuma matrica ir nieciga.
+**13.3.e – Horizontālais līmenis: tiešā caurlaide organizētai plūsmai**
+Tiešo plūsmas pāreju starp abām matricām nodrošina protona lielā TE plūsma (10⁻⁷⁵ m). Šī plūsma ir pietiekami smalka, lai fiziski šķērsotu TZ, mainot kanālu izmēru (no 10⁻⁵⁵ m soļa uz 10⁻³⁵ m soli), un tai jau piemīt pareizā fāzes organizācija, tāpēc TZ to laiž cauri bez sasmalcināšanas. Pēc TZ šķērsošanas tā turpinās Visuma matricā kā Stiprā spēka plūsma (5.2). Protona mazā TE plūsma (10⁻⁹⁵ m) arī var iziet cauri TZ horizontāli, saglabājot savu fāzi, taču tās ietekme Visuma matricā ir niecīga.
 
-**13.3.f – Matricas fona lauki (L0), elektriska potenciala lauks (L1) un Ln hierarhija**
-Katrs matricas punkts satur savu tumsas energijas lauku, kas ir neatnemama matricas energetiska balansa dala. Sis ir L0 fona limenis — matricas dabiskais, netraucetais stavoklis (2.4). Tacu L0 nav haotisks — to veido neskaitami smalki objekti (lidz pat 10???? m un talak), no kuriem katrs ir pilnvertigs objekts ar savu matricu, TE un TZ. Atbrivoti no organizetas plusmas, sie objekti atrodas opozicija visam plusmam, veidojot statiskus (nosaciti) energetiskos laukus. Siem laukiem piemit sava cikliska faze, ko nosaka Visuma matrica, un savs kolektivais potencials, kas spej ietekmet citus potencialus.
+**13.3.f – Matricas fona lauki (L0), elektriskā potenciāla lauks (L1) un Ln hierarhija**
+Katrs matricas punkts satur savu tumšās enerģijas lauku, kas ir neatņemama matricas enerģētiskā balansa daļa. Šis ir L0 fona līmenis — matricas dabiskais, netraucētais stāvoklis (2.4). Taču L0 nav haotisks — to veido neskaitāmi smalki objekti (līdz pat 10⁻¹¹⁵ m un tālāk), no kuriem katrs ir pilnvērtīgs objekts ar savu matricu, TE un TZ. Atbrīvoti no organizētās plūsmas, šie objekti atrodas opozīcijā visām plūsmām, veidojot statiskus (nosacīti) enerģētiskos laukus. Šiem laukiem piemīt sava cikliskā fāze, ko nosaka Visuma matrica, un savs kolektīvais potenciāls, kas spēj ietekmēt citus potenciālus.
 
-Materijas klatbutne (protoni ar savam ieksejam matricam un TZ) pievieno sim fonam papildu energiju, veidojot L1 limeni — pastiprinatu un polarizetu statisko lauku. Protonu ka skerslu radita asimetrija starp pus-fazem ievada L1 lauka noteiktu elektrisko potencialu. L1 limenis ir:
-- **Elektribas avots ikdiena:** vertikale izmanto L1 lauka kolektivo potencialu, lai reagetu uz horizontali raditu potencialu starpibu un uzturetu ladinu plusmas bilanci (7.1);
-- **Kosmiskas atstumsanas celonis:** visiem L1 laukiem ir lidzigs potencials, tapec lielos merogos tie savstarpeji atgruzas, radot Visuma izplesanas efektu (14.3.b).
+Matērijas klātbūtne (protoni ar savām iekšējām matricām un TZ) pievieno šim fonam papildu enerģiju, veidojot L1 līmeni — pastiprinātu un polarizētu statisko lauku. Protonu kā šķēršļu radītā asimetrija starp pus-fāzēm ievada L1 laukā noteiktu elektrisko potenciālu. L1 līmenis ir:
+- **Elektrības avots ikdienā:** vertikāle izmanto L1 lauka kolektīvo potenciālu, lai reaģētu uz horizontāli radītu potenciālu starpību un uzturētu lādiņu plūsmas bilanci (7.1);
+- **Kosmiskās atstumšanās cēlonis:** visiem L1 laukiem ir līdzīgs potenciāls, tāpēc lielos mērogos tie savstarpēji atgrūžas, radot Visuma izplešanās efektu (14.3.b).
 
-Talak tumso energiju var skirot pa smalkuma-energetiskiem Ln limeniem (L2, L3...), kuri atbilst arvien smalkakiem statiskajiem laukiem un to objektiem. Visi Ln limeni paklaujas vertikales eksponencialajai hierarhijai (XV nodala). Vide nekad nerada haosu — katrs limenis ir organizets, tikai organizacijas veids atskiras atkariba no ta, vai objekts ir iesaistits plusma vai atrodas opozicija tai.
+Tālāk tumšo enerģiju var šķirot pa smalkuma-enerģētiskiem Ln līmeņiem (L2, L3...), kuri atbilst arvien smalkākiem statiskajiem laukiem un to objektiem. Visi Ln līmeņi pakļaujas vertikāles eksponenciālajai hierarhijai (XV nodaļa). Vide nekad nerada haosu — katrs līmenis ir organizēts, tikai organizācijas veids atšķiras atkarībā no tā, vai objekts ir iesaistīts plūsmā vai atrodas opozīcijā tai.
 
-**13.4. Fotona tramplins — 90° parsedzes mehanisms**
-Fotons izmanto tos pasus tiesos kanalus (90°) starp kaiminu punktiem ka parasta TE plusma, tacu atskiriba ir parvietosanas logika. Parasta TE plusma 7 punktu cikla secigi apkalpo tris kaiminus viena pus-faze, gaidot, kad kabatu parsedze atversies nakamajam kaiminam pec kartas (3.2). Fotons — ka briva, neorganizeta energija — negaida secibu. Tas izmanto jebkuru kabatu parsedzes atversanos, kas konkretaja momenta nodrosina mazako spiediena starpibu starp centralo punktu un kadu no ta tiesajiem kaiminiem (3.3). Rezultata fotons "lec" pa 90° kanaliem bez noteiktas virziena secibas, izveloties optimalako pieejamo pareju dotaja rotacijas faze.
+**13.4. Fotona tramplīns — 90° pārsedzes mehānisms**
+Fotons izmanto tos pašus tiešos kanālus (90°) starp kaimiņu punktiem kā parastā TE plūsma, taču atšķirība ir pārvietošanās loģikā. Parastā TE plūsma 7 punktu ciklā secīgi apkalpo trīs kaimiņus vienā pus-fāzē, gaidot, kad kabatu pārsedze atvērsies nākamajam kaimiņam pēc kārtas (3.2). Fotons — kā brīva, neorganizēta enerģija — negaida secību. Tas izmanto jebkuru kabatu pārsedzes atvēršanos, kas konkrētajā momentā nodrošina mazāko spiediena starpību starp centrālo punktu un kādu no tā tiešajiem kaimiņiem (3.3). Rezultātā fotons "lec" pa 90° kanāliem bez noteiktas virziena secības, izvēloties optimālāko pieejamo pāreju dotajā rotācijas fāzē.
 
-**13.5. Elektribas ladinu daba — Stipra speka plusma un vertikales loma**
-Gan Stipra speka plusma, gan elektriskie ladini sastav no vieniem un tiem pasiem 10??? m objektiem. Atskiriba ir to kustibas celoni, rezima un funkcija.
+**13.5. Elektrības lādiņu daba — Stiprā spēka plūsma un vertikāles loma**
+Gan Stiprā spēka plūsma, gan elektriskie lādiņi sastāv no vieniem un tiem pašiem 10⁻⁷⁵ m objektiem. Atšķirība ir to kustības cēlonī, režīmā un funkcijā.
 
-Stipra speka plusma ir protona ieksejas lielas TE plusmas (10??? m) tiess turpinajums Visuma matrica (5.2). Ta ir pastaviga — ta izplust no protona caur TZ un veido gan protona arejo robezu, gan kanalu infrastrukturu Visuma matrica. Tas avots ir protona iekseja matrica, un ta darbojas nepartraukti, neatkarigi no arejiem apstakliem.
+Stiprā spēka plūsma ir protona iekšējās lielās TE plūsmas (10⁻⁷⁵ m) tiešs turpinājums Visuma matricā (5.2). Tā ir pastāvīga — tā izplūst no protona caur TZ un veido gan protona ārējo robežu, gan kanālu infrastruktūru Visuma matricā. Tās avots ir protona iekšējā matrica, un tā darbojas nepārtraukti, neatkarīgi no ārējiem apstākļiem.
 
-Elektriskie ladini ir tie pasi 10??? m objekti, bet to plusmu inicie horizontali radita potencialu starpiba. Kad horizontala limeni tiek izveidota sada starpiba, vertikale reage uz to un sak uzturet ladinu plusmas bilanci, izmantojot L1 lauka kolektivo potencialu (13.3.f). Vertikale nepiegada ladinus no jauna, bet gan nodrosina stabilitati un nepartrauktibu ladinu kustibai pa jau esosajiem Stipra speka kanaliem.
+Elektriskie lādiņi ir tie paši 10⁻⁷⁵ m objekti, bet to plūsmu iniciē horizontāli radīta potenciālu starpība. Kad horizontālā līmenī tiek izveidota šāda starpība, vertikāle reaģē uz to un sāk uzturēt lādiņu plūsmas bilanci, izmantojot L1 lauka kolektīvo potenciālu (13.3.f). Vertikāle nepiegādā lādiņus no jauna, bet gan nodrošina stabilitāti un nepārtrauktību lādiņu kustībai pa jau esošajiem Stiprā spēka kanāliem.
 
-**13.6. TZ ka dinamisks regulators — energijas starpiba un Mendelejeva tabula**
-Transformacijas zona nav statisks robezslanis ar fiksetu "biezibu". Tas plasums ir dinamisks lielums, ko nosaka energiju starpiba starp abam matricam, kuras atrodas balansa stavokli. Jo lielaka si starpiba, jo plasaka TZ — un jo intensivaki taja notiekosie procesi.
+**13.6. TZ kā dinamisks regulators — enerģijas starpība un Mendeļejeva tabula**
+Transformācijas zona nav statisks robežslānis ar fiksētu "biezību". Tās plašums ir dinamisks lielums, ko nosaka enerģiju starpība starp abām matricām, kuras atrodas balansa stāvoklī. Jo lielāka šī starpība, jo plašāka TZ — un jo intensīvāki tajā notiekošie procesi.
 
-Materijas energetiskie limeni, kuru kartibu atspogulo Mendelejeva tabula, darbojas ka aktiva "programma" TZ darbibai. Katrs atoms, pateicoties savai unikalajai Stipra speka organizacijai, veido sev specifisku TZ konfiguraciju. Si konfiguracija nosaka, kada mera un pec kadiem noteikumiem notiek ienakosas energijas parveide pretspiedienu-rezonanses balansa zona.
+Matērijas enerģētiskie līmeņi, kuru kārtību atspoguļo Mendeļejeva tabula, darbojas kā aktīva "programma" TZ darbībai. Katrs atoms, pateicoties savai unikālajai Stiprā spēka organizācijai, veido sev specifisku TZ konfigurāciju. Šī konfigurācija nosaka, kādā mērā un pēc kādiem noteikumiem notiek ienākošās enerģijas pārveide pretspiedienu-rezonanses balansa zonā.
 
-**13.7. TZ ka fazes saskanotajs un energijas parveidotajs**
-Sinhronizacija un faze nav lokalas matricas ipasibas — tas pastav visa vertikale, neatkarigi no objektu lieluma un piederibas. Lidz ar to TZ nav jasalidzina ienakosas plusmas faze ar protona ieksejo stavokli, jo abi jau paklaujas vienai universalai sinhronizacijai. TZ funkcija ir reaget uz to, ka si universala faze izpauzas konkretaja plusmas kanala un energijas lieluma.
+**13.7. TZ kā fāzes saskaņotājs un enerģijas pārveidotājs**
+Sinhronizācija un fāze nav lokālas matricas īpašības — tās pastāv visā vertikālē, neatkarīgi no objektu lieluma un piederības. Līdz ar to TZ nav jāsalīdzina ienākošās plūsmas fāze ar protona iekšējo stāvokli, jo abi jau pakļaujas vienai universālai sinhronizācijai. TZ funkcija ir reaģēt uz to, kā šī universālā fāze izpaužas konkrētajā plūsmas kanālā un enerģijas lielumā.
 
-TZ darbojas pec divvirzienu saderibas principa:
-- **Tiesa caurlaide:** Ja ienakosa plusma jau atbilst protona ieksejas matricas fazes logam, TZ to laiz cauri horizontali bez parveides.
-- **Parveide:** Ja plusmas faze vai energijas lielums neatbilst tiesai caurlaidei, vertikale TZ ietvaros iesledz rezonanses parveides mehanismu. Ienakosa energija tiek parveidota atbilstosa lieluma. Ja parveidotais lielums ir pienemams ieksejai matricai, plusma turpina celu. Ja nav — parveidota energija paliek vertikales aprite: ta var tikt uzkrata vai atgriezta atpakal Visuma matrica.
+TZ darbojas pēc divvirzienu saderības principa:
+- **Tiešā caurlaide:** Ja ienākošā plūsma jau atbilst protona iekšējās matricas fāzes logam, TZ to laiž cauri horizontāli bez pārveides.
+- **Pārveide:** Ja plūsmas fāze vai enerģijas lielums neatbilst tiešai caurlaidei, vertikāle TZ ietvaros ieslēdz rezonanses pārveides mehānismu. Ienākošā enerģija tiek pārveidota atbilstošā lielumā. Ja pārveidotais lielums ir pieņemams iekšējai matricai, plūsma turpina ceļu. Ja nav — pārveidotā enerģija paliek vertikāles apritē: tā var tikt uzkrāta vai atgriezta atpakaļ Visuma matricā.
 
-**13.8. Protona dzenosais speks — pulsacija no 0 limena balansa**
-Starp protona ieksejo matricu un Visuma matricu pastav ideals 0 limena balansa stavoklis — teoretisks atskaites punkts, kura abu matricu spiedieni ir pilniba izlidzinati. Realitate sis balanss ir dinamisks un nemitigi tiek izjaukts, jo protona iekseja matrica ar savu 10??? m soli nav spejiga absorbet Visuma TE plusmas (10??? m) milzigo daudzumu.
+**13.8. Protona dzenošais spēks — pulsācija no 0 līmeņa balansa**
+Starp protona iekšējo matricu un Visuma matricu pastāv ideāls 0 līmeņa balansa stāvoklis — teorētisks atskaites punkts, kurā abu matricu spiedieni ir pilnībā izlīdzināti. Realitātē šis balanss ir dinamisks un nemitīgi tiek izjaukts, jo protona iekšējā matrica ar savu 10⁻⁵⁵ m soli nav spējīga absorbēt Visuma TE plūsmas (10⁻⁵⁵ m) milzīgo daudzumu.
 
-Si strukturala nesaderiba rada pulsaciju — ritmisku spiediena vilni, kas veidojas TZ ka atbilde uz Visuma matricas "spiedienu". Ta nav briva plusma, bet gan organizets spiediena gradients, kas izplatas caur TZ un nonak protona iekseja matrica ka modulacija. Si modulacija ir pats dzenosais speks, kas uztur protona ieksejo TE plusmu pastaviga kustiba un organizacija.
+Šī strukturālā nesaderība rada pulsāciju — ritmisku spiediena vilni, kas veidojas TZ kā atbilde uz Visuma matricas "spiedienu". Tā nav brīva plūsma, bet gan organizēts spiediena gradients, kas izplatās caur TZ un nonāk protona iekšējā matricā kā modulācija. Šī modulācija ir pats dzenošais spēks, kas uztur protona iekšējo TE plūsmu pastāvīgā kustībā un organizācijā.
 
-**13.9. Atoma kodols — slegta ieksejo plusmu vide un neitrona daba**
-Kad vairaki protoni apvienojas atoma kodola, to kolektiva Stipra speka organizacija rada tik specigu un noslegtu strukturu, ka briva Visuma TE plusma (10??? m) taja vairs nespej ieklut. Starp protoniem nepastav individualas Transformacijas zonas — ta vieta veidojas jauna, no arpuses noslegta ieksejo TE plusmu vide, kas darbojas pec protonu ieksejas matricas likumiem.
+**13.9. Atoma kodols — slēgta iekšējo plūsmu vide un neitrona daba**
+Kad vairāki protoni apvienojas atoma kodolā, to kolektīvā Stiprā spēka organizācija rada tik spēcīgu un noslēgtu struktūru, ka brīvā Visuma TE plūsma (10⁻⁵⁵ m) tajā vairs nespēj iekļūt. Starp protoniem nepastāv individuālas Transformācijas zonas — tā vietā veidojas jauna, no ārpuses noslēgta iekšējo TE plūsmu vide, kas darbojas pēc protonu iekšējās matricas likumiem.
 
-Saja vide dala protonu tiek "piespiesti" mainit savu lomu. Tie parnes savu Stipra speka balansa zonu uz ieksu, klustot par neitroniem. Neitrons nav atseviska elementardalina, bet gan modificets protona stavoklis kodola kolektivaja vide. Ta Stipra speka plusma vairs neveido areju robezu Visuma matrica, bet iegust iekseju konfiguraciju, kas atbilst izmeru kombinacijai 10??? m ? 10??? m — "ieksejais elektrona stavoklis" (7.4). Tas izskaidro neitrona elektrisko neitralitati un to, ka tam nav savas arejas Stipra speka zonas.
+Šajā vidē daļa protonu tiek "piespiesti" mainīt savu lomu. Tie pārnes savu Stiprā spēka balansa zonu uz iekšu, kļūstot par neitroniem. Neitrons nav atsevišķa elementārdaļiņa, bet gan modificēts protona stāvoklis kodola kolektīvajā vidē. Tā Stiprā spēka plūsma vairs neveido ārēju robežu Visuma matricā, bet iegūst iekšēju konfigurāciju, kas atbilst izmēru kombinācijai 10⁻⁹⁵ m × 10⁻⁷⁵ m — "iekšējais elektrona stāvoklis" (7.4). Tas izskaidro neitrona elektrisko neitralitāti un to, ka tam nav savas ārējās Stiprā spēka zonas.
 
-**13.9.a – Kodols ka Visuma imitacija un neitronu loma**
-Protons var pastavet tikai musu Visuma matrica — ta iekseja matrica un Stipra speka izpausme ir nesaraujami saistitas ar Visuma matricas strukturu. Kodols ir nakamais protona pastavesanas limenis — musu Visuma imitacija, kas veidojas kodola ieksiene ka noslegta ieksejo plusmu vide.
+**13.9.a – Kodols kā Visuma imitācija un neitronu loma**
+Protons var pastāvēt tikai mūsu Visuma matricā — tā iekšējā matrica un Stiprā spēka izpausme ir nesaraujami saistītas ar Visuma matricas struktūru. Kodols ir nākamais protona pastāvēšanas līmenis — mūsu Visuma imitācija, kas veidojas kodola iekšienē kā noslēgta iekšējo plūsmu vide.
 
-Lai si imitacija varetu pastavet, dalai protonu jamaina sava loma — tie klust par neitroniem. Neitrons ir imitacijas limena nesejs, kura iekseja konfiguracija (10??? m ? 10??? m) nodrosina jauna organizacijas slana izveidi. Cik neitronu nepieciesams — tas ir tiri geometrijas, matematikas un plusmu optimalas sadales jautajums, ko nosaka konkreta kodola izmers, protonu skaits un ieksejo plusmu saskanosanas prasibas.
+Lai šī imitācija varētu pastāvēt, daļai protonu jāmaina sava loma — tie kļūst par neitroniem. Neitrons ir imitācijas līmeņa nesējs, kura iekšējā konfigurācija (10⁻⁹⁵ m × 10⁻⁷⁵ m) nodrošina jaunā organizācijas slāņa izveidi. Cik neitronu nepieciešams — tas ir tīri ģeometrijas, matemātikas un plūsmu optimālas sadales jautājums, ko nosaka konkrētā kodola izmērs, protonu skaits un iekšējo plūsmu saskaņošanas prasības.
 
-Kodola stabilitati nosaka tas, cik liela mera visu nuklonu ieksejas plusmas spej atrast optimalu kopeju sadali intensitate un organizacija. Kad ieksejo plusmu sadalijums vairs nespej uzturet so imitacijas limeni — rodas lokali spiediena disbalansi, un kodols klust radioaktivs. "Stabilitates salas" atbilst tadam konfiguracijam, kuras imitacijas limenis ir ipasi labi saskanots ar ieksejo plusmu geometriju.
+Kodola stabilitāti nosaka tas, cik lielā mērā visu nuklonu iekšējās plūsmas spēj atrast optimālu kopēju sadali intensitātē un organizācijā. Kad iekšējo plūsmu sadalījums vairs nespēj uzturēt šo imitācijas līmeni — rodas lokāli spiediena disbalansi, un kodols kļūst radioaktīvs. "Stabilitātes salas" atbilst tādām konfigurācijām, kurās imitācijas līmenis ir īpaši labi saskaņots ar iekšējo plūsmu ģeometriju.
 
-**13.10. Atoms ka sinhronizeta sistema — EM lauks un kimiskas saites pamats**
-Neatkarigi no atoma kodola ieksejas plusmu vides sarezgitibas, ta ir 100% saskanota ar arejo Visuma TE plusmu (10??? m). Si perfekta saskana veido precizu elektromagnetisko (EM) lauku ap visu atomu. Atoma EM lauks nav atseviska, neatkariga paradiba, bet gan ta ieksejas, noslegtas plusmu dinamikas tiess un precizs nospiedums uz Visuma matricas TE plusmu.
+**13.10. Atoms kā sinhronizēta sistēma — EM lauks un ķīmiskās saites pamats**
+Neatkarīgi no atoma kodola iekšējās plūsmu vides sarežģītības, tā ir 100% saskaņota ar ārējo Visuma TE plūsmu (10⁻⁵⁵ m). Šī perfektā saskaņa veido precīzu elektromagnētisko (EM) lauku ap visu atomu. Atoma EM lauks nav atsevišķa, neatkarīga parādība, bet gan tā iekšējās, noslēgtās plūsmu dinamikas tiešs un precīzs nospiedums uz Visuma matricas TE plūsmu.
 
-So EM lauku fazu saderiba ir visu kimisko saisu pamata. Kad divi atomi nonak tuvuma, to EM lauki nonak mijiedarbiba. Ja to fazes ir saderigas, starp atomiem izveidojas kimiska saite — dinamisks, rezonejoss Visuma TE plusmas cirkulacijas modelis, ko sinhroni uztur abu atomu ieksejas matricas caur to EM nospiedumiem.
+Šo EM lauku fāžu saderība ir visu ķīmisko saišu pamatā. Kad divi atomi nonāk tuvumā, to EM lauki nonāk mijiedarbībā. Ja to fāzes ir saderīgas, starp atomiem izveidojas ķīmiskā saite — dinamisks, rezonējošs Visuma TE plūsmas cirkulācijas modelis, ko sinhroni uztur abu atomu iekšējās matricas caur to EM nospiedumiem.
 
-**13.11. Molekularo strukturu geometrija ka EM fazu rezonanses telpiskais izkartojums**
-Atoma EM lauks nav izpludis, vienmerigs makonis, bet gan precizi strukturets ieksejas plusmu vides nospiedums. So strukturu nosaka atoma centrala Stipra speka veidnes simetrija. Si simetrija izpauzas ka diskretas pieslegvietas — fikseti virzieni telpa, kuros atoma EM lauks ir faze saderigs ar citu atomu EM laukiem. Pieslegvietu skaitu un telpisko izkartojumu nosaka centrala atoma Stipra speka veidnes geometrija.
+**13.11. Molekulāro struktūru ģeometrija kā EM fāžu rezonanses telpiskais izkārtojums**
+Atoma EM lauks nav izplūdis, vienmērīgs mākonis, bet gan precīzi strukturēts iekšējās plūsmu vides nospiedums. Šo struktūru nosaka atoma centrālā Stiprā spēka veidnes simetrija. Šī simetrija izpaužas kā diskrētas pieslēgvietas — fiksēti virzieni telpā, kuros atoma EM lauks ir fāzē saderīgs ar citu atomu EM laukiem. Pieslēgvietu skaitu un telpisko izkārtojumu nosaka centrālā atoma Stiprā spēka veidnes ģeometrija.
 
-**13.12. EM lauku mijiedarbibas princips — nesaderibas pakape un parejas formas**
-Divu EM lauku mijiedarbibu nosaka to ciklisko strukturu nesaderibas pakape. Sis princips aizstaj binaro "sader/nesader" logiku ar nepartrauktu spektru:
+**13.12. EM lauku mijiedarbības princips — nesaderības pakāpe un pārejas formas**
+Divu EM lauku mijiedarbību nosaka to ciklisko struktūru nesaderības pakāpe. Šis princips aizstāj bināro "sader/nesader" loģiku ar nepārtrauktu spektru:
 
-- **Maksimala saderiba:** Abu EM lauku cikliskas strukturas sakrit gandriz pilniba — veidojas stabila kimiska saite.
-- **Videja nesaderibas pakape:** Tikai dala harmoniku sakrit — veidojas parejas formas, kas ir visu kimisko reakciju, katalizes un molekularas atpazisanas pamata.
-- **Liela nesaderiba:** EM lauki nereage vai mijiedarbojas tikai virspuseji.
+- **Maksimālā saderība:** Abu EM lauku cikliskās struktūras sakrīt gandrīz pilnībā — veidojas stabila ķīmiskā saite.
+- **Vidēja nesaderības pakāpe:** Tikai daļa harmoniku sakrīt — veidojas pārejas formas, kas ir visu ķīmisko reakciju, katalīzes un molekulārās atpazīšanas pamatā.
+- **Liela nesaderība:** EM lauki nereaģē vai mijiedarbojas tikai virspusēji.
 
-**13.13. DNS dubultspirale ka rezonanses procesors**
-DNS dubultspirales preciza geometrija nav tikai pasivs informacijas nesejs, bet gan telpiskais rezonators ar noteiktu EM lauka ciklisko strukturu. DNS rezone tikai ar EM signaliem, kuru telpiska struktura precizi ieklaujas saja geometrija. Ta veic tris procesora funkcijas vienlaicigi: uztversana (rezone tikai ar perfekti saderigiem signaliem), apstrade (parveido signalu iekseja rezonanses modeli) un izvade (caur EM lauka modulaciju organize apkartejas molekulas).
+**13.13. DNS dubultspirāle kā rezonanses procesors**
+DNS dubultspirāles precīzā ģeometrija nav tikai pasīvs informācijas nesējs, bet gan telpiskais rezonators ar noteiktu EM lauka ciklisko struktūru. DNS rezonē tikai ar EM signāliem, kuru telpiskā struktūra precīzi iekļaujas šajā ģeometrijā. Tā veic trīs procesora funkcijas vienlaicīgi: uztveršana (rezonē tikai ar perfekti saderīgiem signāliem), apstrāde (pārveido signālu iekšējā rezonanses modelī) un izvade (caur EM lauka modulāciju organizē apkārtējās molekulas).
 
-**13.14. Organisma divlimenu komunikacija — EM kvantu tikls un apzinas atgriezeniska saite**
-Organisma iekseja komunikacija norit divos limenos:
+**13.14. Organisma divlīmeņu komunikācija — EM kvantu tīkls un apziņas atgriezeniskā saite**
+Organisma iekšējā komunikācija norit divos līmeņos:
 
-- **Primarais limenis — EM kvantu tikls:** Visa sunu savstarpeja komunikacija, audu koordinacija un fiziologiska regulacija notiek EM kvantu limeni. Sis limenis ir arkartigi atrs un darbojas autonomi.
+- **Primārais līmenis — EM kvantu tīkls:** Visa šūnu savstarpējā komunikācija, audu koordinācija un fizioloģiskā regulācija notiek EM kvantu līmenī. Šis līmenis ir ārkārtīgi ātrs un darbojas autonomi.
 
-- **Sekundarais limenis — apzinas atgriezeniska saite caur nervu sistemu:** Nervu sistema ir specializeta, lenaka atgriezeniska saite, kuras uzdevums ir sinhronizet apzinu ar organismu. Ta kalpo ka interfeiss (11.3), caur kuru Dvesele var uztvert organisma stavokli un iedarboties uz to.
+- **Sekundārais līmenis — apziņas atgriezeniskā saite caur nervu sistēmu:** Nervu sistēma ir specializēta, lēnāka atgriezeniskā saite, kuras uzdevums ir sinhronizēt apziņu ar organismu. Tā kalpo kā interfeiss (11.3), caur kuru Dvēsele var uztvert organisma stāvokli un iedarboties uz to.
 
-### XIV. GRAVITACIJA
+### XIV. GRAVITĀCIJA
 
-**14.1. Gravitacija ka TE plusmas spiediena disbalanss**
-Gravitacija ir fundamentals Visuma matricas speks, kura pamata ir TE plusmas (10??? m) un materijas (protonu) mijiedarbiba. TE plusma Visuma matrica ir paklauta matricas punktu sinhronajai rotacijai, ko nosaka fazes-virziena (FV) parametrs. Caur jebkuru Qn kvantu viena pilna rotacijas cikla perioda plusmas kopeja bilance ir nulle.
+**14.1. Gravitācija kā TE plūsmas spiediena disbalanss**
+Gravitācija ir fundamentāls Visuma matricas spēks, kura pamatā ir TE plūsmas (10⁻⁵⁵ m) un matērijas (protonu) mijiedarbība. TE plūsma Visuma matricā ir pakļauta matricas punktu sinhronajai rotācijai, ko nosaka fāzes-virziena (FV) parametrs. Caur jebkuru Qn kvantu viena pilna rotācijas cikla periodā plūsmas kopējā bilance ir nulle.
 
-Protons ka skerslis. Protona Stipra speka organizeta zona Visuma matrica darbojas ka skerslis brivajai TE plusmai. Konkreta FV "stop-kadra" virziena uz protonu plusma tiek daleji bloketa, radot tas sablivejumu protona priekspuse. Aiz protona veidojas plusmas retinajums. Rezultata rodas asimetrisks TE plusmas spiediena sadalijums ap protonu — spiediena disbalanss.
+Protons kā šķērslis. Protona Stiprā spēka organizētā zona Visuma matricā darbojas kā šķērslis brīvajai TE plūsmai. Konkrētā FV "stop-kadrā" virzienā uz protonu plūsma tiek daļēji bloķēta, radot tās sablīvējumu protona priekšpusē. Aiz protona veidojas plūsmas retinājums. Rezultātā rodas asimetrisks TE plūsmas spiediena sadalījums ap protonu — spiediena disbalanss.
 
-**14.1.a – 1/r? likuma izcelsme no matricas geometrijas un FV bilances**
-Gravitacijas spiediena disbalanss samazinas ar attalumu r no protona precizi ka 1/r?. Tas ir tiess iznakums no diviem vienlaicigiem mehanismiem:
+**14.1.a – 1/r² likuma izcelsme no matricas ģeometrijas un FV bilances**
+Gravitācijas spiediena disbalanss samazinās ar attālumu r no protona precīzi kā 1/r². Tas ir tiešs iznākums no diviem vienlaicīgiem mehānismiem:
 
-- **Geometriska izkliede:** Protona raditais traucejums izplatas pa matricas kanaliem uz visam pusem. Noteikta attaluma r punktu skaits, uz kuriem sis traucejums tiek sadalits, ir proporcionals sferas virsmas laukumam (r?). Ta ka kopejais disbalansa spiediena integralis saglabajas, spiediena starpiba uz vienu punktu kritas ka 1/r?.
+- **Ģeometriskā izkliede:** Protona radītais traucējums izplatās pa matricas kanāliem uz visām pusēm. Noteiktā attālumā r punktu skaits, uz kuriem šis traucējums tiek sadalīts, ir proporcionāls sfēras virsmas laukumam (r²). Tā kā kopējais disbalansa spiediena integrālis saglabājas, spiediena starpība uz vienu punktu krītas kā 1/r².
 
-- **FV globala bilance:** Fazes-virziena (FV) parametrs darbojas jebkura attaluma no objekta, nevis tikai ta tuvuma. Katra Q1 cikla FV nodrosina likumsakarigu spiediena traucejuma pardali starp kanaliem, saglabajot kopejo energetisko bilanci visa telpa. Pateicoties sim universalajam bilances mehanismam, spiediena gradienta amplituda precizi seko geometriskas izkliedes prasibam jebkura meroga.
+- **FV globālā bilance:** Fāzes-virziena (FV) parametrs darbojas jebkurā attālumā no objekta, nevis tikai tā tuvumā. Katrā Q1 ciklā FV nodrošina likumsakarīgu spiediena traucējuma pārdali starp kanāliem, saglabājot kopējo enerģētisko bilanci visā telpā. Pateicoties šim universālajam bilances mehānismam, spiediena gradienta amplitūda precīzi seko ģeometriskās izkliedes prasībām jebkurā mērogā.
 
-Abi mehanismi kopa dod stingru 1/r? atkaribu, kas ir speka jebkuram objektam, kurs darbojas ka skerslis TE plusmai.
+Abi mehānismi kopā dod stingru 1/r² atkarību, kas ir spēkā jebkuram objektam, kurš darbojas kā šķērslis TE plūsmai.
 
-**14.1.b – Gravitacijas konstante (G) ka divu paralelu vienvirziena kanalu integrala asimetrija**
-Matricas cikliskums rada divus paralelus, neatkarigus vienvirziena TE plusmas kanalus (divas pus-fazes — 0° un 180°), kas izplatas viena virziena, bet ar savstarpeju fazes nobidi (1.3). Protona ka skersla klatbutne iedarbojas uz abiem kanaliem atskirigi, izraisot energijas blivumu asimetriju starp tiem.
+**14.1.b – Gravitācijas konstante (G) kā divu paralēlu vienvirziena kanālu integrālā asimetrija**
+Matricas cikliskums rada divus paralēlus, neatkarīgus vienvirziena TE plūsmas kanālus (divas pus-fāzes — 0° un 180°), kas izplatās vienā virzienā, bet ar savstarpēju fāzes nobīdi (1.3). Protona kā šķēršļa klātbūtne iedarbojas uz abiem kanāliem atšķirīgi, izraisot enerģijas blīvumu asimetriju starp tiem.
 
-Gravitacijas konstante (G) ir visu so lokalo blivumu starpibu summa ap vienu protonu — integrala asimetrija starp diviem paralelajiem kanaliem. G ir konstants lielums, ko nosaka tikai matricas ipasibas un protona universala iedarbiba, un tas nav atkarigs no attaluma.
+Gravitācijas konstante (G) ir visu šo lokālo blīvumu starpību summa ap vienu protonu — integrālā asimetrija starp diviem paralēlajiem kanāliem. G ir konstants lielums, ko nosaka tikai matricas īpašības un protona universālā iedarbība, un tas nav atkarīgs no attāluma.
 
-Gravitacijas speks starp diviem objektiem rodas no ta, ka katra objekta protoni rada savu asimetrijas lauku starp diviem paralelajiem kanaliem, un pretejais objekts izjut atskirigo spiedienu no siem kanaliem. Kopejais speks ir proporcionals abu objektu integralo asimetriju reizinajumam un apgriezti proporcionals attaluma kvadratam — F = G·M?·M?/r?.
+Gravitācijas spēks starp diviem objektiem rodas no tā, ka katra objekta protoni rada savu asimetrijas lauku starp diviem paralēlajiem kanāliem, un pretējais objekts izjūt atšķirīgo spiedienu no šiem kanāliem. Kopējais spēks ir proporcionāls abu objektu integrālo asimetriju reizinājumam un apgriezti proporcionāls attāluma kvadrātam — F = G·M₁·M₂/r².
 
-**14.1.c – 10?? paralelie kanali un FV cikliska atskaites bilance**
-Divas neatkarigas TE plusmas katra detalizeti sastav no 10?? paraleliem, vienvirziena kanaliem. Plusma, nonakot punkta, vienmer izvelas optimalo joslu — to, kura spiediena starpiba starp kabatam ir vislabveligaka.
+**14.1.c – 10²⁰ paralēlie kanāli un FV cikliskā atskaites bilance**
+Divas neatkarīgās TE plūsmas katra detalizēti sastāv no 10²⁰ paralēliem, vienvirziena kanāliem. Plūsma, nonākot punktā, vienmēr izvēlas optimālo joslu — to, kurā spiediena starpība starp kabatām ir vislabvēlīgākā.
 
-Jebkura matricas punkta attaluma r no protona FV parametrs katra Q1 cikla nosaka, cik no siem 10?? kanaliem konkretaja punkta atrodas balansa stavokli (nav ietekmeti no protona) un cik — disbalansa stavokli (joprojam nes protona radito traucejumu). So divu kanalu grupu summa veido punkta kopejo spiediena novirzi. Palielinoties attalumam r, disbalansa kanalu ipatsvars samazinas proporcionali 1/r?, jo FV cikls pakapeniski atjauno lidzsvaru. 1/r? ir sis FV atskaites bilances izteiksme jebkuram izveletam atskaites punktam.
+Jebkurā matricas punktā attālumā r no protona FV parametrs katrā Q1 ciklā nosaka, cik no šiem 10²⁰ kanāliem konkrētajā punktā atrodas balansa stāvoklī (nav ietekmēti no protona) un cik — disbalansa stāvoklī (joprojām nes protona radīto traucējumu). Šo divu kanālu grupu summa veido punkta kopējo spiediena novirzi. Palielinoties attālumam r, disbalansa kanālu īpatsvars samazinās proporcionāli 1/r², jo FV cikls pakāpeniski atjauno līdzsvaru. 1/r² ir šīs FV atskaites bilances izteiksme jebkuram izvēlētam atskaites punktam.
 
-**14.2. Divi gravitacijas objektu tipi — monolits un daudz-protonu**
+**14.2. Divi gravitācijas objektu tipi — monolīts un daudz-protonu**
 
-- **Monolitais objekts (melnais caurums):** Vienots protona matricas regions, absoluti necaurlaidigs Visuma TE plusmai. Viss objekts darbojas ka viens ideals skerslis, radot maksimali iespejamo spiediena disbalansu.
+- **Monolītais objekts (melnais caurums):** Vienots protona matricas reģions, absolūti necaurlaidīgs Visuma TE plūsmai. Viss objekts darbojas kā viens ideāls šķērslis, radot maksimāli iespējamo spiediena disbalansu.
 
-- **Daudz-protonu objekts (planeta, zvaigzne):** Materijas kopa, starp kuras atomiem pastav spraugas. Visuma TE plusma daleji spej skersot so objektu, tapec kopejais disbalanss ir mazaks neka monolitam objektam ar tadu pasu masu.
+- **Daudz-protonu objekts (planēta, zvaigzne):** Matērijas kopa, starp kuras atomiem pastāv spraugas. Visuma TE plūsma daļēji spēj šķērsot šo objektu, tāpēc kopējais disbalanss ir mazāks nekā monolītam objektam ar tādu pašu masu.
 
-**14.3. Tumsa energija — gravitacijas pastiprinatajs un kosmiska atstumsanas**
+**14.3. Tumšā enerģija — gravitācijas pastiprinātājs un kosmiskā atstumšanās**
 
-- **Gravitacijas pastiprinasana:** L0 un L1 statiskie lauki (13.3.f) aizpilda starpatomu telpu, pastiprinot protonu ka skerslu radito spiediena disbalansu.
+- **Gravitācijas pastiprināšana:** L0 un L1 statiskie lauki (13.3.f) aizpilda starpatomu telpu, pastiprinot protonu kā šķēršļu radīto spiediena disbalansu.
 
-- **Lielmeroga atstumsanas:** Ap jebkuru materijas uzkrajumu veidojas L1 limena statiskais lauks ar noteiktu elektrisko potencialu. Visiem L1 laukiem potencials ir lidzigs, tapec tie savstarpeji atgruzas, izkustinot materijas konglomeratus pa matricas fiksetajiem kanaliem. Noverojama Visuma izplesanas ir sis kustibas sekas — matricas rezgis paliek nemainigs (1.4), sarkana nobide ir Doplera efekts no kustibas caur statisku matricu.
+- **Lielmēroga atstumšanās:** Ap jebkuru matērijas uzkrājumu veidojas L1 līmeņa statiskais lauks ar noteiktu elektrisko potenciālu. Visiem L1 laukiem potenciāls ir līdzīgs, tāpēc tie savstarpēji atgrūžas, izkustinot matērijas konglomerātus pa matricas fiksētajiem kanāliem. Novērojamā Visuma izplešanās ir šīs kustības sekas — matricas režģis paliek nemainīgs (1.4), sarkanā nobīde ir Doplera efekts no kustības caur statisku matricu.
 
-**14.4. Gravitacijas sablivejuma frontes — divu ciklisku deformaciju mijiedarbiba**
-Viss, kas notiek Visuma telpa, ir paklauts Visuma likumiem — matricai un TE plusmai. Gravitacija ir TE plusmu veidojums.
+**14.4. Gravitācijas sablīvējuma frontes — divu ciklisku deformāciju mijiedarbība**
+Viss, kas notiek Visuma telpā, ir pakļauts Visuma likumiem — matricai un TE plūsmai. Gravitācija ir TE plūsmu veidojums.
 
-Kad divi masivi objekti nonak savstarpeja orbita, to raditas TE plusmas spiediena deformacijas klust par cikliskam deformacijam. To summara efekta rezultata veidojas lieli TE plusmas sablivejumi — specigas, periodiskas spiediena frontes, kas izplatas pa matricas kanaliem uz aru.
+Kad divi masīvi objekti nonāk savstarpējā orbītā, to radītās TE plūsmas spiediena deformācijas kļūst par cikliskām deformācijām. To summārā efekta rezultātā veidojas lieli TE plūsmas sablīvējumi — spēcīgas, periodiskas spiediena frontes, kas izplatās pa matricas kanāliem uz āru.
 
-Frontes izplatisanas atrumu nosaka matricas kanalu caurlaides speja — maksimalais atrums, ar kadu spiediena izmainas var tikt nodotas no punkta uz punktu. Sis atrums atbilst gaismas atrumam c, jo gan fotons (8.2), gan spiediena fronte izmanto vienus un tos pasus fiziskos kanalus un ir paklauti vienam kabatu atversanas ciklam (Q1). Katra Q1 soli FV parametrs nosaka, uz kuriem no 10?? paralelajiem kanaliem spiediena starpiba tiek parnesta, lidzigi ka gravitacijas disbalansa izplatiba (14.1.c). Tadejadi fronte nevar parvietoties atrak par gaismas atrumu — tas ir absolutais atruma ierobezojums, ko nosaka matricas diskreta uzbuve.
+Frontes izplatīšanās ātrumu nosaka matricas kanālu caurlaides spēja — maksimālais ātrums, ar kādu spiediena izmaiņas var tikt nodotas no punkta uz punktu. Šis ātrums atbilst gaismas ātrumam c, jo gan fotons (8.2), gan spiediena fronte izmanto vienus un tos pašus fiziskos kanālus un ir pakļauti vienam kabatu atvēršanās ciklam (Q1). Katrā Q1 solī FV parametrs nosaka, uz kuriem no 10²⁰ paralēlajiem kanāliem spiediena starpība tiek pārnesta, līdzīgi kā gravitācijas disbalansa izplatībā (14.1.c). Tādējādi fronte nevar pārvietoties ātrāk par gaismas ātrumu — tas ir absolūtais ātruma ierobežojums, ko nosaka matricas diskrētā uzbūve.
 
-Sie sablivejumi nav neatkarigi vilni, bet gan divu skerslu kopigi radits, dinamisks spiediena gradients, kas ir tiesi atkarigs no to orbitalas kustibas parametriem. Ar attalumu to spiediena starpiba vajinas, lidz vairs nav atskirama no fona limena.
+Šie sablīvējumi nav neatkarīgi viļņi, bet gan divu šķēršļu kopīgi radīts, dinamisks spiediena gradients, kas ir tieši atkarīgs no to orbitālās kustības parametriem. Ar attālumu to spiediena starpība vājinās, līdz vairs nav atšķirama no fona līmeņa.
 
 **14.5. Inerce un impulss**
 
-**14.5.a – Protona inerce ka ieksejas matricas latence**
-Jebkura vienmeriga kustiba attieciba pret matricas rezgi ir energiju balansa stavoklis. Inerce izpauzas tikai tad, kad notiek kustibas stavokla izmainas. Protona ieksejai TE plusmai ir nepieciesams laiks, lai pielagotos jaunajiem arejiem apstakliem — ta iegust jaunu balansa stavokli ar noteiktu latenci. Si pretestiba ir inerce. Impulss raksturo protona ieksejas matricas speju saglabat savu esoso balansa stavokli un pretoties ta mainai.
+**14.5.a – Protona inerce kā iekšējās matricas latence**
+Jebkura vienmērīga kustība attiecībā pret matricas režģi ir enerģiju balansa stāvoklis. Inerce izpaužas tikai tad, kad notiek kustības stāvokļa izmaiņas. Protona iekšējai TE plūsmai ir nepieciešams laiks, lai pielāgotos jaunajiem ārējiem apstākļiem — tā iegūst jaunu balansa stāvokli ar noteiktu latenci. Šī pretestība ir inerce. Impulss raksturo protona iekšējās matricas spēju saglabāt savu esošo balansa stāvokli un pretoties tā maiņai.
 
-**14.5.b – Elektrona inerce ka plusmu inerces parmantojums**
-Elektrons (10??? m ? 10??? m divu pus-fazu noslegta sfera) savai pastavesanai izmanto divas plusmas — Visuma TE plusmu (10??? m) un Stipra speka plusmu (10??? m). Abam sim plusmam jau piemit inerce un impulss (14.5 pamatdefinicija). Lidz ar to ari elektrons ka no sim plusmam veidots objekts izrada pretestibu pret kustibas stavokla izmainam. Ta inerce nav atsevisks mehanisms, bet gan tiess plusmu inerces parmantojums. Elektrona masa ir ieverojami mazaka par protona masu, jo ta struktura nav ieksejas matricas ar dzilu Qn hierarhiju.
+**14.5.b – Elektrona inerce kā plūsmu inerces pārmantojums**
+Elektrons (10⁻⁷⁵ m × 10⁻⁵⁵ m divu pus-fāžu noslēgta sfēra) savai pastāvēšanai izmanto divas plūsmas — Visuma TE plūsmu (10⁻⁵⁵ m) un Stiprā spēka plūsmu (10⁻⁷⁵ m). Abām šīm plūsmām jau piemīt inerce un impulss (14.5 pamatdefinīcija). Līdz ar to arī elektrons kā no šīm plūsmām veidots objekts izrāda pretestību pret kustības stāvokļa izmaiņām. Tā inerce nav atsevišķs mehānisms, bet gan tiešs plūsmu inerces pārmantojums. Elektrona masa ir ievērojami mazāka par protona masu, jo tā struktūrā nav iekšējās matricas ar dziļu Qn hierarhiju.
 
-**14.6. Zvaigznes evolucija — no daudz-protonu ansambla lidz monolitam objektam**
-Zvaigzne ir kolektivs protonu ansamblis ar kopeju Stipra speka organizaciju, kas atrodas dinamiska lidzsvara starp gravitacijas spiediena sablivejumu un kodola ieksejo plusmu pretspiedienu.
+**14.6. Zvaigznes evolūcija — no daudz-protonu ansambļa līdz monolītam objektam**
+Zvaigzne ir kolektīvs protonu ansamblis ar kopēju Stiprā spēka organizāciju, kas atrodas dinamiskā līdzsvarā starp gravitācijas spiediena sablīvējumu un kodola iekšējo plūsmu pretspiedienu.
 
-Kad ieksejie kodolprocesi norimst un gravitacijas spiediens parsniedz kritisko robezu, protonu individualas TZ vairs nespej pretoties. To ieksejas matricas saplust vienota, monolita protona matricas regiona — rodas melnais caurums. Ta iekseja matrica paliek taja pasa hierarhijas limeni (10??? m solis), tikai klust par vienu vienotu regionu milziga meroga. Kolapsa bridi dala tumsas energijas tiek integreta jaunaja objekta, bet atlikusi dala var tikt atbrivota ka energijas uzliesmojums.
+Kad iekšējie kodolprocesi norimst un gravitācijas spiediens pārsniedz kritisko robežu, protonu individuālās TZ vairs nespēj pretoties. To iekšējās matricas saplūst vienotā, monolītā protona matricas reģionā — rodas melnais caurums. Tā iekšējā matrica paliek tajā pašā hierarhijas līmenī (10⁻⁵⁵ m solis), tikai kļūst par vienu vienotu reģionu milzīgā mērogā. Kolapsa brīdī daļa tumšās enerģijas tiek integrēta jaunajā objektā, bet atlikusī daļa var tikt atbrīvota kā enerģijas uzliesmojums.
 
-**14.7. Notikumu horizonts — 180° Qn deformacijas robeza**
-Notikumu horizonts nav saistits ar TE plusmas neesamibu — matrica un TE plusma pastav ari ta iekspuse. Notikumu horizontu nosaka fotona nespeja pamest objektu, ko izraisa Qn limena plusmas disbalansa deformacijas lenkis. Kad monolita objekta masas radita deformacija parsniedz 180°, fotons — briva TE energija — vairs nespej izklut no objekta gravitacijas zonas. Jaunizveidotais monolitais objekts jau eksiste, bet notikumu horizonts veidojas tikai tad, kad ta masa sasniedz kritisko 180° robezu.
+**14.7. Notikumu horizonts — 180° Qn deformācijas robeža**
+Notikumu horizonts nav saistīts ar TE plūsmas neesamību — matrica un TE plūsma pastāv arī tā iekšpusē. Notikumu horizontu nosaka fotona nespēja pamest objektu, ko izraisa Qn līmeņa plūsmas disbalansa deformācijas leņķis. Kad monolītā objekta masas radītā deformācija pārsniedz 180°, fotons — brīvā TE enerģija — vairs nespēj izkļūt no objekta gravitācijas zonas. Jaunizveidotais monolītais objekts jau eksistē, bet notikumu horizonts veidojas tikai tad, kad tā masa sasniedz kritisko 180° robežu.
 
-### XV. VERTIKALE — SINHRONIZACIJAS ASS UN ENERGIJU HIERARHIJA
+### XV. VERTIKĀLE — SINHRONIZĀCIJAS ASS UN ENERĢIJU HIERARHIJA
 
-**15.1. Vertikales uzbuve — eksponencialais solis un zinamais fragments**
-Vertikale sniedzas uz abam pusem no jebkuras horizontalas matricas ar soli 10?? m (vai 10??? m, atkariba no virziena). Mums ir zinami tikai dazi sis hierarhijas limeni, kas veido nelielu kartes fragmentu. Talak par so fragmentu nevaram neko apgalvot — visam ir savs sakums un beigas, tacu musu pasreizeja izpratne ir Kolumba limeni: mes zinam tikai to, ko redzam.
+**15.1. Vertikāles uzbūve — eksponenciālais solis un zināmais fragments**
+Vertikāle sniedzas uz abām pusēm no jebkuras horizontālās matricas ar soli 10²⁰ m (vai 10⁻²⁰ m, atkarībā no virziena). Mums ir zināmi tikai daži šīs hierarhijas līmeņi, kas veido nelielu kartes fragmentu. Tālāk par šo fragmentu nevaram neko apgalvot — visam ir savs sākums un beigas, taču mūsu pašreizējā izpratne ir Kolumba līmenī: mēs zinām tikai to, ko redzam.
 
-**15.2. Masu limeni un to modulacijas musu Visuma**
-Jauns Visums jebkura vertikales limeni var rasties tikai tad, ja tam ir atbilstosa lieluma mate — lielaka vertikales limena Visums, kas sasniedzis noteiktu organizacijas pakapi. Katrs vertikales limenis atbild par noteiktu paradibu klastu zemakajos limenos:
+**15.2. Māšu līmeņi un to modulācijas mūsu Visumā**
+Jauns Visums jebkurā vertikāles līmenī var rasties tikai tad, ja tam ir atbilstoša lieluma māte — lielāka vertikāles līmeņa Visums, kas sasniedzis noteiktu organizācijas pakāpi. Katrs vertikāles līmenis atbild par noteiktu parādību klāstu zemākajos līmeņos:
 
-- **Musu Visuma tiesa mate** — atbild par protonu veidosanos. Tas modulacija nosaka, ka musu matrica vispar var rasties protoni un to ieksejas matricas.
-- **Mates mate** — atbild par melno caurumu veidosanos. Tas modulacija nosaka, ka kolapss ir iespejams.
-- **Mates mates mate** — atbild par melno caurumu nakamo evolucijas posmu — to, vai monolits objekts klust par jaunu Visumu (mati nakamajam limenim).
-- Un ta talak — katrs nakamais limenis ievada savu modulaciju.
+- **Mūsu Visuma tiešā māte** — atbild par protonu veidošanos. Tās modulācija nosaka, ka mūsu matricā vispār var rasties protoni un to iekšējās matricas.
+- **Mātes māte** — atbild par melno caurumu veidošanos. Tās modulācija nosaka, ka kolapss ir iespējams.
+- **Mātes mātes māte** — atbild par melno caurumu nākamo evolūcijas posmu — to, vai monolīts objekts kļūst par jaunu Visumu (māti nākamajam līmenim).
+- Un tā tālāk — katrs nākamais līmenis ievada savu modulāciju.
 
-**15.2.a – Atgriezeniska saite starp vertikales limeniem**
-Starp vertikales limeniem pastav divvirzienu saite, kas balstas uz to pasu likumsakaribu ka protona un Visuma matricas mijiedarbiba:
+**15.2.a – Atgriezeniskā saite starp vertikāles līmeņiem**
+Starp vertikāles līmeņiem pastāv divvirzienu saite, kas balstās uz to pašu likumsakarību kā protona un Visuma matricas mijiedarbība:
 
-- **No augsas uz leju:** Mate ievada modulacijas berna, nosakot pamata iespejamibas. Tas ir analogs Stipra speka plusmai, kas no protona izplust Visuma matrica.
-- **No lejas uz augsu:** Berns caur vertikali rada pretspiediena modulaciju mate. Si ietekme ir vajaka — ta nemaina pamata likumus, bet darbojas ka atgriezeniska saite, kas ir analogs TZ pulsacijai (13.8), kura module protona ieksejo matricu.
+- **No augšas uz leju:** Māte ievada modulācijas bērnā, nosakot pamata iespējamības. Tas ir analogs Stiprā spēka plūsmai, kas no protona izplūst Visuma matricā.
+- **No lejas uz augšu:** Bērns caur vertikāli rada pretspiediena modulāciju mātē. Šī ietekme ir vājāka — tā nemaina pamata likumus, bet darbojas kā atgriezeniskā saite, kas ir analogs TZ pulsācijai (13.8), kura modulē protona iekšējo matricu.
 
-Tadejadi vertikale nav statiska hierarhija, bet gan abpuseji saistits tikls, kura katrs limenis gan ietekme, gan sanem atbildi no parejiem, paklaujoties vienai universalai sinhronizacijai (15.4).
+Tādējādi vertikāle nav statiska hierarhija, bet gan abpusēji saistīts tīkls, kurā katrs līmenis gan ietekmē, gan saņem atbildi no pārējiem, pakļaujoties vienai universālai sinhronizācijai (15.4).
 
-**15.3. Energiju hierarhija — ierobezojumi**
-Ne jebkurs objekts jebkura limeni var spontani klut par jaunu matricu. Pastav stingra energiju hierarhija: jaunas matricas var rasties tikai caur horizontalo matricu veidojumiem, kas sasniegusi kritisko masu un organizacijas limeni. Tas ir precizi matematiski aprekinams jautajums — kadam jabut objekta izmeram un masai, lai tas spetu klut par mati nakamajam limenim. Protons sava ieksiene nevar izveidot Visumu — ta iekseja matrica ir protona limena struktura, nevis jauns Visums.
+**15.3. Enerģiju hierarhija — ierobežojumi**
+Ne jebkurš objekts jebkurā līmenī var spontāni kļūt par jaunu matricu. Pastāv stingra enerģiju hierarhija: jaunas matricas var rasties tikai caur horizontālo matricu veidojumiem, kas sasnieguši kritisko masu un organizācijas līmeni. Tas ir precīzi matemātiski aprēķināms jautājums — kādam jābūt objekta izmēram un masai, lai tas spētu kļūt par māti nākamajam līmenim. Protons savā iekšienē nevar izveidot Visumu — tā iekšējā matrica ir protona līmeņa struktūra, nevis jauns Visums.
 
-**15.4. Vertikale ka sinhronizacijas ass**
-Vertikale ir ari universala sinhronizacijas ass. Sinhronizacija un faze, kas valda matricas punktu rotacija (1.1), nepastav tikai vienas matricas ietvaros — ta ir kopiga visai vertikalei neatkarigi no objektu lieluma un piederibas (13.7). Tas nozime, ka visi limeni — no vismazaka lidz vislielakajam — ir saskanoti viena universala fazes pulksteni.
+**15.4. Vertikāle kā sinhronizācijas ass**
+Vertikāle ir arī universālā sinhronizācijas ass. Sinhronizācija un fāze, kas valda matricas punktu rotācijā (1.1), nepastāv tikai vienas matricas ietvaros — tā ir kopīga visai vertikālei neatkarīgi no objektu lieluma un piederības (13.7). Tas nozīmē, ka visi līmeņi — no vismazākā līdz vislielākajam — ir saskaņoti vienā universālā fāzes pulkstenī.
 
-**15.5. Vertikale un Muziba**
-Vertikale darbojas Muziba (11.1) — tas logika nav ierobezota ar musu Visuma matricas laika ritejumu. Ta ir muziga, nemainiga hierarhija, kura horizontalas matricas rodas, attistas un izzud, bet pati vertikale paliek.
+**15.5. Vertikāle un Mūžība**
+Vertikāle darbojas Mūžībā (11.1) — tās loģika nav ierobežota ar mūsu Visuma matricas laika ritējumu. Tā ir mūžīga, nemainīga hierarhija, kurā horizontālās matricas rodas, attīstās un izzūd, bet pati vertikāle paliek.
 
-### XVI. VAJA MIJIEDARBIBA
+### XVI. VĀJĀ MIJIEDARBĪBA
 
-**16.1. Vaja mijiedarbiba ka ieksejas modulacijas izpausme**
-Vaja mijiedarbiba nav atsevisks fundamentals speks, bet gan protona (vai neitrona) ieksejas TE plusmas modulacijas izpausme, kas noved pie ieksejas organizacijas parkartosanas un liekas energijas atbrivosanas. Tas pamata ir divu preteju pus-fazu princips (1.3):
-- 0° faze — materijas dalinu izdalisanas.
-- 180° faze — antimaterijas pazimes (antineitrino) izdalisanas.
+**16.1. Vājā mijiedarbība kā iekšējās modulācijas izpausme**
+Vājā mijiedarbība nav atsevišķs fundamentāls spēks, bet gan protona (vai neitrona) iekšējās TE plūsmas modulācijas izpausme, kas noved pie iekšējās organizācijas pārkārtošanās un liekās enerģijas atbrīvošanas. Tās pamatā ir divu pretēju pus-fāžu princips (1.3):
+- 0° fāze — matērijas daļiņu izdalīšanās.
+- 180° fāze — antimatērijas pazīmes (antineitrīno) izdalīšanās.
 
-**16.2. Neitrona sabruksana (beta?)**
-Neitrons ir modificets protona stavoklis ar iekseju 10??? m ? 10??? m konfiguraciju (13.9). Sis stavoklis ir mazak stabils neka protona pamatstavoklis.
+**16.2. Neitrona sabrukšana (beta⁻)**
+Neitrons ir modificēts protona stāvoklis ar iekšēju 10⁻⁹⁵ m × 10⁻⁷⁵ m konfigurāciju (13.9). Šis stāvoklis ir mazāk stabils nekā protona pamatstāvoklis.
 
-Protona iekseja matrica bez 10??? m TE cikliem pastav ari 10??? m modulacija — atgriezeniska cilpa, ko protons veido Visuma matrica (7.3). Si modulacija ir elektrona toposas strukturas pamats. Neitrona sis modulacijas TE plusmas amplituda pakapeniski pieaug, lidz sasniedz kritisko slieksni.
+Protona iekšējā matricā bez 10⁻⁵⁵ m TE cikliem pastāv arī 10⁻³⁵ m modulācija — atgriezeniskā cilpa, ko protons veido Visuma matricā (7.3). Šī modulācija ir elektrona topošās struktūras pamats. Neitronā šīs modulācijas TE plūsmas amplitūda pakāpeniski pieaug, līdz sasniedz kritisko slieksni.
 
-Pie slieksna notiek vertikala energiju parbide par vienu 10?? soli uz augsu: smalkaka komponente 10??? m tiek aizvietota ar 10??? m komponenti, bet 10??? m komponente paliek. Protona iekseja matrica atgriezas pamatstavokli. Lieka energija sadalas divas pus-fazes:
-- 0° faze izdalas elektrons (10??? m ? 10??? m),
-- 180° faze izdalas antineitrino (10??? m ? 10??? m).
+Pie sliekšņa notiek vertikāla enerģiju pārbīde par vienu 10²⁰ soli uz augšu: smalkākā komponente 10⁻⁹⁵ m tiek aizvietota ar 10⁻⁵⁵ m komponenti, bet 10⁻⁷⁵ m komponente paliek. Protona iekšējā matrica atgriežas pamatstāvoklī. Liekā enerģija sadalās divās pus-fāzēs:
+- 0° fāzē izdalās elektrons (10⁻⁷⁵ m × 10⁻⁵⁵ m),
+- 180° fāzē izdalās antineitrīno (10⁻⁹⁵ m × 10⁻⁷⁵ m).
 
-Process: n? > p? + e? + antineitrino.
+Process: n⁰ → p⁺ + e⁻ + antineitrīno.
 
-**16.3. Energijas ierobezojumi**
-Protona energija nav bezgaliga, tapec izolets protons nevar izveidot pozitronu — sim procesam nepieciesama papildu energija. Brivs protons ir stabils. Kodola vide (13.9) protons var sanemt papildu energiju no kolektivas Stipra speka organizacijas, kas padara iespejamu beta? sabruksanu vai elektronu satversanu.
+**16.3. Enerģijas ierobežojumi**
+Protona enerģija nav bezgalīga, tāpēc izolēts protons nevar izveidot pozitronu — šim procesam nepieciešama papildu enerģija. Brīvs protons ir stabils. Kodola vidē (13.9) protons var saņemt papildu enerģiju no kolektīvās Stiprā spēka organizācijas, kas padara iespējamu beta⁺ sabrukšanu vai elektronu satveršanu.
 
-**16.4. Miona sabruksana**
-Mions ir ierosinats elektrona stavoklis ar tadu pasu pamatstrukturu, bet ar lielaku ieksejo energiju. Kad sis stavoklis zaude stabilitati, lieka energija sadalas divas pus-fazes:
-- 0° faze izdalas neitrino (10??? m ? 10??? m).
-- 180° faze izdalas antineitrino.
+**16.4. Miona sabrukšana**
+Mions ir ierosināts elektrona stāvoklis ar tādu pašu pamatstruktūru, bet ar lielāku iekšējo enerģiju. Kad šis stāvoklis zaudē stabilitāti, liekā enerģija sadalās divās pus-fāzēs:
+- 0° fāzē izdalās neitrīno (10⁻⁹⁵ m × 10⁻⁷⁵ m).
+- 180° fāzē izdalās antineitrīno.
 
-Process: mions > elektrons + neitrino + antineitrino.
+Process: mions → elektrons + neitrīno + antineitrīno.
 
-**16.5. Vajas mijiedarbibas kopsavilkums**
-Visos gadijumos vaja mijiedarbiba izpauzas ka ieksejas modulacijas izraisita pareja starp diviem stavokliem, kur lieka energija sadalas divas pretejas pus-fazes.
+**16.5. Vājās mijiedarbības kopsavilkums**
+Visos gadījumos vājā mijiedarbība izpaužas kā iekšējās modulācijas izraisīta pāreja starp diviem stāvokļiem, kur liekā enerģija sadalās divās pretējās pus-fāzēs.
 
 ### XVII. LAIKS
 
-**17.1. Absolutais laiks — vertikales pulkstenis**
-Laiks nav relativa dimensija, bet gan absoluta, nemainiga atskaite. To nosaka vertikales prasibas, un tas izpauzas ka matricas punktu absoluti sinhrona rotacija (1.1). Viena pilna matricas punkta rotacijas cikla periods, Q1 (3.5), ir fundamentala laika vieniba, kas ir vienada visa Visuma matrica un visos vertikales limenos. Sis absolutais laiks nav paklauts nekadam izmainam — ne gravitacija, ne kustiba to nevar ietekmet.
+**17.1. Absolūtais laiks — vertikāles pulkstenis**
+Laiks nav relatīva dimensija, bet gan absolūta, nemainīga atskaite. To nosaka vertikāles prasības, un tas izpaužas kā matricas punktu absolūti sinhronā rotācija (1.1). Viena pilna matricas punkta rotācijas cikla periods, Q1 (3.5), ir fundamentālā laika vienība, kas ir vienāda visā Visuma matricā un visos vertikāles līmeņos. Šis absolūtais laiks nav pakļauts nekādām izmaiņām — ne gravitācija, ne kustība to nevar ietekmēt.
 
-**17.2. Atrums ka stabilitates parbaude**
-Energiju balanss starp objektu un Visuma matricu ir primars. Atrums nav laika izmainu celonis, bet gan stabilitates parbaudes kriterijs: tas parbauda, vai objekta ieksejas saites spej pielagoties mainigajiem matricas fazu apstakliem, objektam traucoties cauri arvien jauniem punktu izkartojumiem.
+**17.2. Ātrums kā stabilitātes pārbaude**
+Enerģiju balanss starp objektu un Visuma matricu ir primārs. Ātrums nav laika izmaiņu cēlonis, bet gan stabilitātes pārbaudes kritērijs: tas pārbauda, vai objekta iekšējās saites spēj pielāgoties mainīgajiem matricas fāžu apstākļiem, objektam traucoties cauri arvien jauniem punktu izkārtojumiem.
 
-- Ja objekts spej pielagoties, tas turpina pastavet, tacu ta ieksejo procesu norisei nepieciesamo Q1 ciklu skaits var mainities. Piemeram, mions liela atruma izstiepjas, saglabajot balansu, bet ta ieksejai modulacijai nepieciesams lielaks Q1 ciklu skaits, lai sasniegtu sabruksanas slieksni — tapec tas dzivo ilgak absolutaja laika.
-- Ja objekts nespej pielagoties, ta ieksejas saites zaude balansu, un objekts sadalas smalkakas energijas — process, kas analogs TZ parveides funkcijai (13.3), kur nesaderiga energija tiek parveidota, lidz atgriezas pielaujama balansa stavokli.
+- Ja objekts spēj pielāgoties, tas turpina pastāvēt, taču tā iekšējo procesu norisei nepieciešamo Q1 ciklu skaits var mainīties. Piemēram, mions lielā ātrumā izstiepjas, saglabājot balansu, bet tā iekšējai modulācijai nepieciešams lielāks Q1 ciklu skaits, lai sasniegtu sabrukšanas slieksni — tāpēc tas dzīvo ilgāk absolūtajā laikā.
+- Ja objekts nespēj pielāgoties, tā iekšējās saites zaudē balansu, un objekts sadalās smalkākās enerģijās — process, kas analogs TZ pārveides funkcijai (13.3), kur nesaderīga enerģija tiek pārveidota, līdz atgriežas pieļaujamā balansa stāvoklī.
 
-Plusmam ir savs laiks — procesu ilgums, ko mera Q1 ciklos — un sis laiks ir jaievero. Absolutais laiks (17.1) nav paklauts izmainam; mainas tikai tas, cik Q1 ciklu konkretais process aiznem pie konkretiem apstakliem.
+Plūsmām ir savs laiks — procesu ilgums, ko mēra Q1 ciklos — un šis laiks ir jāievēro. Absolūtais laiks (17.1) nav pakļauts izmaiņām; mainās tikai tas, cik Q1 ciklu konkrētais process aizņem pie konkrētiem apstākļiem.
 
-### PIELIKUMS: Butiskakas definicijas
+### PIELIKUMS: Būtiskākās definīcijas
 
-| Termins | Definicija |
+| Termins | Definīcija |
 |---|---|
-| Visuma matrica | Matrica ar 10??? m soli, kas veido mums zinamo telpu |
-| Protona iekseja matrica | Matrica ar 10??? m soli, kas atrodas protona ieksiene |
-| Transformacijas zona (TZ) | Robezslanis starp abam matricam; bezmatricas zona, fazes filtrs un energijas regulators |
-| TE plusma (10??? m) | Vieniga briva plusma Visuma matrica |
-| Stipra speka plusma (10??? m) | Protona ieksejas 10??? m plusmas turpinajums Visuma matrica |
-| Protona liela TE plusma (10??? m) | Plusma, kas iziet no protona matricas caur TZ un klust par Stipro speku |
-| Protona maza TE plusma (10??? m) | Plusma, kas primari darbojas protona ieksiene; var iziet arpus, bet ar niecigu ietekmi |
-| L0 rezims | Matricas fona limenis — statisku lauku tikls, ko veido no plusmam atbrivoti objekti opozicija |
-| L1 rezims | Materijas inducets, polarizets statiskais lauks ar elektrisko potencialu |
-| Q1 | Viens pilns matricas punkta rotacijas periods |
-| Qn | Augstaks organizacijas limenis, kas satur zemakos Qn |
-| FV parametrs | Fazes-virziena parametrs, kas nosaka TE plusmas spiediena sadalijumu un ciklisko bilanci |
-| Elektriba | Ladinu (10??? m) plusma, kuras bilanci uztur vertikale caur L1 lauku, reagejot uz potencialu starpibu |
-| Elektrons | Divu pus-fazu noslegta sfera (10??? m ? 10??? m); horizontals kondensators |
-| Neitrino | Elektrona analogs smalkaka izskata (10??? m ? 10??? m); praktiski neredzams |
-| Neitrons | Modificets protona stavoklis ar iekseju 10??? m ? 10??? m konfiguraciju; imitacijas limena nesejs kodola |
-| Monolitais objekts | Melnais caurums — vienots protona matricas regions, absoluti necaurlaidigs TE plusmai |
-| Daudz-protonu objekts | Planeta, zvaigzne — materijas kopa ar daleji caurlaidigu strukturu |
-| Notikumu horizonts | 180° Qn deformacijas robeza, pie kuras fotons nespej pamest objektu |
-| Melnais caurums | Viens loti liels protons — vienots objekts, nevis materijas kolekcija |
-| Gravitacija | TE plusmas spiediena disbalanss, ko rada protons ka skerslis |
-| G | Gravitacijas konstante — divu paralelu vienvirziena kanalu integrala asimetrija, kas nosaka speka merogu |
-| 1/r? likums | FV cikliska atskaites bilance, kas izriet no geometriskas izkliedes un 10?? kanalu optimala cela |
-| Tumsa energija | Statiski energetiskie lauki (L0, L1... Ln), ko veido no plusmam atbrivoti objekti opozicija |
-| Tumsa materija | L1 statiska lauka koncentreta izpausme ap materiju — TZ burbulis |
-| Inerce | Plusmu pretestiba pret kustibas stavokla izmainam; protonam — ieksejas matricas latence, elektronam — plusmu parmantojums |
-| Vaja mijiedarbiba | Ieksejas modulacijas izpausme, kas noved pie energijas atbrivosanas divas pus-fazes |
-| Absolutais laiks | Vertikales noteikts, nemainigs Q1 ciklu ritejums |
-| Vertikale | Eksponencialo limenu hierarhija ar 10?? soli; universala sinhronizacijas ass; zinams tikai fragments |
-| Dvesele | Vertikals organizacijas limena kontrolieris, kas pieder Dzivibas hierarhijai |
-| EM lauks | Atoma ieksejas plusmu vides precizs nospiedums uz Visuma TE plusmu |
-| Orbitales | Divu dominancu parejas rezonanses mezgli — diskretas Visuma TE plusmas cirkulacijas ap protonu |
-| Fotons | Organizeta briva TE energija, kas papildina kanala bilanci no L0 |
-| EM vilnis | Kanalu organizetas TE plusmas rezonanse, kas patere kanala energiju savai izplatibai |
-| Sferiskais izliekums | Matricas globala topologija, kas rada 10?? solu fazu nobidi starp pus-fazem |
-| Antimaterijas zonas | Lokali izliekuma variaciju apgabali, kuros antimaterija var pastavet kvazi-stabili |
-| Kodols | Nakamais protona pastavesanas limenis — musu Visuma imitacija |
+| Visuma matrica | Matrica ar 10⁻³⁵ m soli, kas veido mums zināmo telpu |
+| Protona iekšējā matrica | Matrica ar 10⁻⁵⁵ m soli, kas atrodas protona iekšienē |
+| Transformācijas zona (TZ) | Robežslānis starp abām matricām; bezmatricas zona, fāzes filtrs un enerģijas regulators |
+| TE plūsma (10⁻⁵⁵ m) | Vienīgā brīvā plūsma Visuma matricā |
+| Stiprā spēka plūsma (10⁻⁷⁵ m) | Protona iekšējās 10⁻⁷⁵ m plūsmas turpinājums Visuma matricā |
+| Protona lielā TE plūsma (10⁻⁷⁵ m) | Plūsma, kas iziet no protona matricas caur TZ un kļūst par Stipro spēku |
+| Protona mazā TE plūsma (10⁻⁹⁵ m) | Plūsma, kas primāri darbojas protona iekšienē; var iziet ārpus, bet ar niecīgu ietekmi |
+| L0 režīms | Matricas fona līmenis — statisku lauku tīkls, ko veido no plūsmām atbrīvoti objekti opozīcijā |
+| L1 režīms | Matērijas inducēts, polarizēts statiskais lauks ar elektrisko potenciālu |
+| Q1 | Viens pilns matricas punkta rotācijas periods |
+| Qn | Augstāks organizācijas līmenis, kas satur zemākos Qn |
+| FV parametrs | Fāzes-virziena parametrs, kas nosaka TE plūsmas spiediena sadalījumu un ciklisko bilanci |
+| Elektrība | Lādiņu (10⁻⁷⁵ m) plūsma, kuras bilanci uztur vertikāle caur L1 lauku, reaģējot uz potenciālu starpību |
+| Elektrons | Divu pus-fāžu noslēgta sfēra (10⁻⁷⁵ m × 10⁻⁵⁵ m); horizontāls kondensators |
+| Neitrīno | Elektrona analogs smalkākā izskatā (10⁻⁹⁵ m × 10⁻⁷⁵ m); praktiski neredzams |
+| Neitrons | Modificēts protona stāvoklis ar iekšēju 10⁻⁹⁵ m × 10⁻⁷⁵ m konfigurāciju; imitācijas līmeņa nesējs kodolā |
+| Monolītais objekts | Melnais caurums — vienots protona matricas reģions, absolūti necaurlaidīgs TE plūsmai |
+| Daudz-protonu objekts | Planēta, zvaigzne — matērijas kopa ar daļēji caurlaidīgu struktūru |
+| Notikumu horizonts | 180° Qn deformācijas robeža, pie kuras fotons nespēj pamest objektu |
+| Melnais caurums | Viens ļoti liels protons — vienots objekts, nevis matērijas kolekcija |
+| Gravitācija | TE plūsmas spiediena disbalanss, ko rada protons kā šķērslis |
+| G | Gravitācijas konstante — divu paralēlu vienvirziena kanālu integrālā asimetrija, kas nosaka spēka mērogu |
+| 1/r² likums | FV cikliskā atskaites bilance, kas izriet no ģeometriskās izkliedes un 10²⁰ kanālu optimālā ceļa |
+| Tumšā enerģija | Statiski enerģētiskie lauki (L0, L1... Ln), ko veido no plūsmām atbrīvoti objekti opozīcijā |
+| Tumšā matērija | L1 statiskā lauka koncentrēta izpausme ap matēriju — TZ burbulis |
+| Inerce | Plūsmu pretestība pret kustības stāvokļa izmaiņām; protonam — iekšējās matricas latence, elektronam — plūsmu pārmantojums |
+| Vājā mijiedarbība | Iekšējās modulācijas izpausme, kas noved pie enerģijas atbrīvošanas divās pus-fāzēs |
+| Absolūtais laiks | Vertikāles noteikts, nemainīgs Q1 ciklu ritējums |
+| Vertikāle | Eksponenciālo līmeņu hierarhija ar 10²⁰ soli; universālā sinhronizācijas ass; zināms tikai fragments |
+| Dvēsele | Vertikāls organizācijas līmeņa kontrolieris, kas pieder Dzīvības hierarhijai |
+| EM lauks | Atoma iekšējās plūsmu vides precīzs nospiedums uz Visuma TE plūsmu |
+| Orbitāles | Divu dominanču pārejas rezonanses mezgli — diskrētas Visuma TE plūsmas cirkulācijas ap protonu |
+| Fotons | Organizētā brīvā TE enerģija, kas papildina kanāla bilanci no L0 |
+| EM vilnis | Kanālu organizētās TE plūsmas rezonanse, kas patērē kanāla enerģiju savai izplatībai |
+| Sfēriskais izliekums | Matricas globālā topoloģija, kas rada 10²⁰ soļu fāžu nobīdi starp pus-fāzēm |
+| Antimatērijas zonas | Lokāli izliekuma variāciju apgabali, kuros antimatērija var pastāvēt kvazi-stabili |
+| Kodols | Nākamais protona pastāvēšanas līmenis — mūsu Visuma imitācija |
