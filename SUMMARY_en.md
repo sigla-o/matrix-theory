@@ -14,7 +14,7 @@ The universe is not a void but a **fixed cubic grid** — a matrix whose points 
 
 ## Matter and antimatter
 
-Matter and antimatter are organized manifestations of the two opposite flows (0° and 180° half-phases). The **dominance of matter** is not accidental — it is determined by the modulation of our Universe's mother and the spherical curvature of the Universe, which creates a 10?? step phase shift in favor of the 0° phase. Antimatter arises only temporarily and can exist quasi-stably only in **antimatter zones** — local regions of curvature variation (for example, near black holes).
+Matter and antimatter are organized manifestations of the two opposite flows (0° and 180° half-phases). The **dominance of matter** is not accidental — it is determined by the modulation of our Universe's mother and the spherical curvature of the Universe, which creates a 10²⁰ step phase shift in favor of the 0° phase. Antimatter arises only temporarily and can exist quasi-stably only in **antimatter zones** — local regions of curvature variation (for example, near black holes).
 
 ## The nucleus as an imitation of the Universe
 
