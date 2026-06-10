@@ -362,6 +362,38 @@ Organisma iekšējā komunikācija norit divos līmeņos:
 
 - **Sekundārais līmenis — apziņas atgriezeniskā saite caur nervu sistēmu:** Nervu sistēma ir specializēta, lēnāka atgriezeniskā saite, kuras uzdevums ir sinhronizēt apziņu ar organismu. Tā kalpo kā interfeiss (11.3), caur kuru Dvēsele var uztvert organisma stāvokli un iedarboties uz to.
 
+- **13.15. Kvantu superpozīcija kā Qn fāžu svārstība**
+
+Kvantu superpozīcija nav varbūtību mākonis, bet gan **Qn līmeņa plūsmas organizācijas svārstība** starp divām pus-fāzēm (0° un 180°). Jebkurš organizēts objekts (elektrons, atoms) normālos apstākļos uztur stabilu plūsmu konfigurāciju, kurā viena pus-fāze ir dominējošā un nosaka skaidru "pamatvirzienu".
+
+Ja dominējošā fāze kāda traucējuma dēļ (ārēja ietekme, Qn iekšēja nestabilitāte) vairs nespēj noturēt šo pamatvirzienu, sistēma zaudē viennozīmīgu fāžu izvēli. Tā sāk strauji svārstīties starp abām pus-fāzēm. No ārpuses tas izskatās kā divi stāvokļi vienlaicīgi — superpozīcija —, bet faktiski notiek ļoti ātra, cikliska fāžu maiņa, ko novērotājs nespēj izšķirt.
+
+Mērījums ierobežo pieejamo kanālu apakškopu (skat. 8. matemātisko uzdevumu) un piespiež plūsmu izvēlēties vienu konkrētu fāzi — superpozīcija "sabrūk" noteiktā stāvoklī.
+
+**13.16. Samezglojums kā kopīga kanālu sinhronizācija**
+
+Samezglojums (entanglement) ir divu objektu stāvokļu korelācija, kas saglabājas neatkarīgi no attāluma. Matricas teorijā tā nav noslēpumaina "darbība no attāluma", bet gan **divu objektu kopīga fāžu sinhronizācija**, realizēta caur noteiktu 10²⁰ kanālu apakškopu.
+
+Samezglotā pārī viens objekts atrodas 0° pus-fāzes dominancē, otrs – 180° pus-fāzes dominancē. Fāze no pret-fāzes vienā virzienā atpaliek pa vienu Qn diametru (attālumu starp pretējiem Qn slāņa punktiem). Kopā tas veido 0 plūsmu bilanci virzienā – abas fāzes precīzi izlīdzina viena otru, bet telpiski tās ir nobīdītas.
+
+Vertikāle (XV nodaļa) kā universāla sinhronizācijas ass nodrošina, ka abi objekti paliek sinhronizēti neatkarīgi no telpiskā attāluma. Signāls starp tiem nepārvietojas – tie abi pakļaujas vienai un tai pašai sinhronizācijai, kas jau pastāv.
+
+**Divi samezglojuma režīmi**
+
+- **Horizontālais samezglojums (elektroni):** Elektroni (7.2) ir horizontāli kondensatori bez vertikālas saites. Tie darbojas tikai Visuma matricas ietvaros. Novērotājs nevar noteikt starta fāzi – mērījums fiksē vienu fāzi, un otrs objekts automātiski ieņem pretējo.
+
+- **Vertikāli atbalstīts samezglojums (protoni):** Protoni (5.2, 13.8) ir savienoti ar vertikāli caur TZ un var izmantot tumšo enerģiju (L0/L1 laukus, 13.3.f) kā papildu enerģijas apmaiņas kanālu. Protonu samezglojumu var ilustrēt kā **Ņūtona bumbiņas, kas pakārtas uz diegiem**: pirmā un pēdējā ir atsevišķu protonu TZ, bet pa vidu – tumšās enerģijas apvalks, kas kalpo kā saistošā vide. Impulss vienā TZ caur šo apvalku tiek nodots otrai TZ. Tas ir cits enerģijas apmaiņas režīms, kurā starta fāze var būt pieejama caur vertikāli.
+
+Mērījums jebkurā gadījumā ierobežo pieejamo kanālu apakškopu un fiksē viena objekta fāzi – otras automātiski ieņem pretējo, jo kopējā kanālu kopa vairs nevar uzturēt iepriekšējo sadalījumu.
+
+**13.17. Tunelēšana kā kanālu pārslēgšanās**
+
+Tunelēšana ir parādība, kad daļiņa (piemēram, elektrons) šķērso enerģētisku barjeru, kuras pārvarēšanai tai klasiski nepietiek enerģijas. Matricas teorijā tunelēšana nav viļņu funkcijas "noplūde", bet gan **pagaidu kanālu pārslēgšanās**, ko izraisa fāžu svārstība barjeras priekšā.
+
+Barjera ir matricas reģions, kurā elektrona normālajai kanālu apakškopai ir paaugstināta pretestība – kabatu pārsedzes neatveras pareizajā fāzē, ceļš ir bloķēts. Barjeras priekšā dominējošā fāze zaudē spēju noturēt pamatvirzienu (tāpat kā superpozīcijā, 13.15), un sistēma sāk svārstīties starp 0° un 180° pus-fāzēm. Šīs svārstības laikā elektrons uz īsu brīdi iegūst piekļuvi citai 10²⁰ kanālu apakškopai – tai, kuru izmanto pretējā pus-fāze un kurai barjera nav slēgta. Pa šo apakškopu elektrons šķērso barjeru, pēc tam atgriežoties savā normālajā kanālu konfigurācijā.
+
+Tunelēšanas varbūtība ir atkarīga no barjeras biezuma (cik Q1 ciklu nepieciešams, lai svārstība "trāpītu" pareizajā apakškopā) un augstuma (cik šaura ir apakškopa, kas spēj barjeru šķērsot). Tas pilnībā saskan ar superpozīcijas mehānismu (13.15) un nenoteiktības principa izcelsmi (MATH_TASKS 8. uzdevums).
+
 ### XIV. GRAVITĀCIJA
 
 **14.1. Gravitācija kā TE plūsmas spiediena disbalanss**
@@ -426,6 +458,21 @@ Kad iekšējie kodolprocesi norimst un gravitācijas spiediens pārsniedz kritis
 
 **14.7. Notikumu horizonts — 180° Qn deformācijas robeža**
 Notikumu horizonts nav saistīts ar TE plūsmas neesamību — matrica un TE plūsma pastāv arī tā iekšpusē. Notikumu horizontu nosaka fotona nespēja pamest objektu, ko izraisa Qn līmeņa plūsmas disbalansa deformācijas leņķis. Kad monolītā objekta masas radītā deformācija pārsniedz 180°, fotons — brīvā TE enerģija — vairs nespēj izkļūt no objekta gravitācijas zonas. Jaunizveidotais monolītais objekts jau eksistē, bet notikumu horizonts veidojas tikai tad, kad tā masa sasniedz kritisko 180° robežu.
+
+**14.7.a – Melnā cauruma zonu uzbūve: iekša, TZ, NH un tumšās enerģijas burbulis**
+
+Melnais caurums sastāv no četrām koncentriskām zonām, kuru secība daļēji atkarīga no masas. No centra uz āru:
+
+1. **Iekšējā matrica** — vienota protona matrica ar 10⁻⁵⁵ m soli (9.2, 14.6), absolūti necaurlaidīga Visuma TE plūsmai.
+
+2. **Transformācijas zona (TZ)** — šaura, matemātiski aprēķināma bezmatricas robežzona (13.3), fāzes filtrs un smalcinātājs. TZ izmērs ir atkarīgs no enerģijas daudzuma — jo lielāka masa, jo lielāka smalcināšanas jauda.
+
+3. **Notikumu horizonta (NH) zona** — atrodas Visuma matricā, tieši aiz TZ. Tas ir cits enerģiju plūsmas režīms, kurā plūsmu daudzumi un virzieni krietni atšķiras no klasiskās balansa zonas, un Qn deformācijas leņķis pārsniedz 180° (14.7).
+
+   - **Mazākas masas objekts:** TZ ir šaura, NH atrodas uzreiz aiz tās — šāds melnais caurums ir **aktīvs**, ap to novērojama aktivitāte (akrēcijas diski, starojums).
+   - **Lielas masas objekts:** TZ izmērs pieaug tik liels, ka tā "apsteidz" NH zonu — NH faktiski atrodas **zem** TZ, dziļāk objektā. Šāds melnais caurums ir **tīrs, kluss** — visa ienākošā enerģija pa taisno nonāk TZ smalcinātājā, pirms sasniedz NH zonu. Nav ārējo plūsmu sadursmju, nav starojuma.
+
+4. **Tumšās enerģijas burbulis** — šī zona nav kompakts slānis, bet gan **milzīgs, galaktikas mēroga** veidojums Visuma matricā, kas aptver visu iepriekšējo struktūru. To veido no TZ izspiestie un sasmalcinātie statiskie L0/L1/Ln lauki (13.3.b, 13.3.f). Burbulis ir tas lielums, kas darbojas Visuma vizuālās izplešanās skatā — burbuļi savstarpēji atgrūžas (14.3.b), radot kosmisko atstumšanos. Melnā cauruma burbulis nav lokāls — tas sniedzas pāri visai galaktikai, kuras centrā objekts atrodas.
 
 ### XV. VERTIKĀLE — SINHRONIZĀCIJAS ASS UN ENERĢIJU HIERARHIJA
 
@@ -501,6 +548,18 @@ Enerģiju balanss starp objektu un Visuma matricu ir primārs. Ātrums nav laika
 
 Plūsmām ir savs laiks — procesu ilgums, ko mēra Q1 ciklos — un šis laiks ir jāievēro. Absolūtais laiks (17.1) nav pakļauts izmaiņām; mainās tikai tas, cik Q1 ciklu konkrētais process aizņem pie konkrētiem apstākļiem.
 
+**17.3. Termodinamika kā L0/L1 plūsmu amplitūdas diapazons**
+Termodinamika Matricas teorijā nav atsevišķa fizikas nozare, bet gan sekas tam, kā TE plūsmas sadalās pa 10²⁰ kanāliem. Temperatūra, siltums un entropija nav fundamentāli lielumi, bet gan statistiski rādītāji, kas raksturo plūsmu organizācijas pakāpi.
+
+**L0 līmenis = 0 Kelvini.** L0 ir stāvoklis, kurā Visuma TE plūsma plūst pa saviem dabīgi izveidotajiem virzieniem — tā ir tīra plūsmas loģika bez jebkādas ārējas aktivitātes. Šodien L0 līmenis ir zināms tikai kā Kelvina nulle. Jebkura aktivitāte — protona klātbūtne, Stiprā spēka organizācija, matērijas kustība, starojums — šo Kelvina ciparu ceļ uz augšu. Jo augstāks Ln līmenis, jo augstāka temperatūra.
+
+**Temperatūra kā kanālu aizpildījuma blīvums.** Temperatūra ir mērs tam, cik liela daļa no 10²⁰ kanāliem konkrētajā matricas reģionā ir aktīvi iesaistīti enerģijas pārnesē. Pie zemas temperatūras plūsmas izmanto tikai šauru, optimālu kanālu apakškopu. Pie augstas temperatūras plūsmas ir izkliedētas pa lielu skaitu kanālu. Temperatūra tieši atspoguļo L0/L1 plūsmu amplitūdas diapazonu — jo plašāks diapazons, jo vairāk kanālu tiek aktivizēti.
+
+**Siltums kā kanālu pārdale.** Siltuma pārnese ir process, kurā plūsmas pārdalās no vienas kanālu apakškopas citā. Diviem objektiem saskaroties, augstākās temperatūras objekta plašāk izkliedētā plūsma pakāpeniski paplašina arī aukstākā objekta plūsmu sadalījumu pa papildu kanāliem — līdz iestājas līdzsvars.
+
+**Entropija kā organizācijas zuduma mērs.** Entropija nav haoss (12.1), bet gan zaudētas informācijas mērs par to, kuru tieši kanālu plūsma izmanto. Pie zemas entropijas plūsmas ceļš ir šaurs un precīzi prognozējams. Pie augstas entropijas plūsma ir vienmērīgi sadalīta pa visiem 10²⁰ kanāliem, un nav iespējams noteikt, kuru tā izmantos nākamajā ciklā. L0 fons ir maksimāli augstas entropijas stāvoklis, kurā plūsmas ir vienmērīgi sadalītas un nav organizētas — taču tā ir dabiska kārtība, nevis haoss.
+
+**Otrais termodinamikas likums** nav fundamentāls dabas likums, bet gan statistiska neizbēgamība: pastāv milzīgs skaits veidu, kā plūsma var būt sadalīta pa 10²⁰ kanāliem (augsta entropija), bet salīdzinoši maz veidu, kā tā var būt šauri organizēta (zema entropija). Tāpēc sistēma dabiski virzās uz stāvokli, kurā plūsmas ir maksimāli izkliedētas, ja vien kāds organizējošs spēks (Stiprais spēks, protona iekšējā matrica) neuztur lokālu organizāciju. Reliktstarojums (≈ 2.7 K) atspoguļo Visuma vidējo L0/L1 līdzsvaru — to nosaka Visuma sfēriskais izliekums un visu tajā esošo objektu kopējā ietekme uz matricas plūsmām.
 ### PIELIKUMS: Būtiskākās definīcijas
 
 | Termins | Definīcija |
