@@ -42,6 +42,21 @@ Tas atbilst Planka garumam. Matricas teorijā tas nav fundamentāls nejaušības
 ## Vai matricas teorija ir saistīta ar kādu reliģiju?
 Nē. Lai gan teorija iekļauj tādus jēdzienus kā Dvēsele un Mūžība, tie tiek definēti kā vertikāles organizācijas līmeņi, nevis reliģiskas dogmas. Teorija ir konceptuāls fizikas modelis.
 
+## Kā matricas teorija izskaidro kvantu superpozīciju?
+Superpozīcija nav varbūtību mākonis, bet gan Qn līmeņa fāžu svārstība starp 0° un 180° pus-fāzēm. Kad dominējošā fāze zaudē spēju noturēt pamatvirzienu, sistēma sāk strauji svārstīties starp abām fāzēm. Mērījums ierobežo pieejamo kanālu apakškopu un piespiež plūsmu izvēlēties vienu fāzi — superpozīcija "sabrūk".
+
+## Kas ir samezglojums matricas teorijā?
+Samezglojums ir divu objektu kopīga kanālu sinhronizācija caur 10²⁰ kanālu apakškopu. Viens objekts atrodas 0° fāzē, otrs — 180° fāzē, ar nobīdi pa vienu Qn diametru. Elektroniem tas ir tīri horizontāls process; protoni var izmantot arī vertikāli (tumšo enerģiju) kā papildu enerģijas apmaiņas kanālu — līdzīgi kā Ņūtona bumbiņas uz diegiem.
+
+## Kā darbojas tunelēšana?
+Tunelēšana ir pagaidu kanālu pārslēgšanās. Barjeras priekšā dominējošā fāze zaudē stabilitāti, un daļiņa svārstās starp abām pus-fāzēm. Šīs svārstības laikā tā iegūst piekļuvi citai kanālu apakškopai, kurai barjera nav slēgta, un šķērso to. Pēc barjeras pārvarēšanas daļiņa atgriežas savā normālajā kanālu konfigurācijā.
+
+## Kāda ir melnā cauruma iekšējā uzbūve?
+Melnais caurums sastāv no četrām koncentriskām zonām: (1) iekšējā vienotā protona matrica, (2) Transformācijas zona (TZ) — šaurs bezmatricas slānis, (3) notikumu horizonta (NH) zona — cits plūsmu režīms, (4) galaktikas mēroga tumšās enerģijas burbulis. Lielas masas objektos TZ var "apsteigt" NH — tad melnais caurums ir kluss, jo visa enerģija nonāk tieši TZ smalcinātājā.
+
+## Kas ir temperatūra matricas teorijā?
+Temperatūra ir mērs tam, cik liela daļa no 10²⁰ kanāliem ir aktīvi iesaistīti enerģijas pārnesē. **L0 līmenis = 0 Kelvini** — tīra plūsmas loģika bez aktivitātes. Jebkura aktivitāte ceļ temperatūru. Entropija nav haoss, bet gan zaudētas informācijas mērs par to, kuru kanālu plūsma izmanto.
+
 ## Kā es varu palīdzēt?
 - Izlasi karti un uzdod jautājumus.
 - Ja tev ir matemātikas vai fizikas prasmes, palīdzi ar formalizāciju.
