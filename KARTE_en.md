@@ -362,6 +362,36 @@ Internal communication in the organism occurs at two levels:
 
 - **Secondary level — conscious feedback via the nervous system:** The nervous system is a specialized, slower feedback loop whose task is to synchronize consciousness with the organism. It serves as the interface (11.3) through which the Soul can perceive the state of the organism and act upon it.
 
+- **13.15. Quantum Superposition as Qn Phase Oscillation**
+Quantum superposition is not a cloud of probabilities but a **Qn-level oscillation of flow organization** between the two half-phases (0° and 180°). Any organized object (electron, atom) normally maintains a stable flow configuration in which one half-phase is dominant and determines a clear "baseline direction".
+
+If the dominant phase, due to some disturbance (external influence, internal Qn instability), can no longer maintain this baseline direction, the system loses its unambiguous phase choice. It begins to oscillate rapidly between the two half-phases. From the outside, this appears as two states simultaneously — superposition — but in reality, a very fast, cyclic phase change is occurring that the observer cannot resolve.
+
+A measurement restricts the available channel subset (see Mathematical Task 8) and forces the flow to choose one specific phase — the superposition "collapses" into a definite state.
+
+**13.16. Entanglement as Shared Channel Synchronization**
+
+Entanglement is a correlation between the states of two objects that persists regardless of distance. In Matrix Theory, it is not a mysterious "spooky action at a distance" but a **shared phase synchronization** between two objects, realized through a specific subset of the 10²⁰ channels.
+
+In an entangled pair, one object is in 0° phase dominance, the other — in 180° phase dominance. The phase lags behind the counter-phase by one Qn diameter (the distance between opposite points in the Qn layer) in one direction. Together, this yields a net flow balance of zero — the two phases precisely offset each other, but they are spatially shifted.
+
+The vertical (Chapter XV) as a universal synchronization axis ensures that both objects remain synchronized regardless of spatial distance. No signal travels between them — they both obey the same synchronization that already exists.
+
+**Two entanglement regimes**
+
+- **Horizontal entanglement (electrons):** Electrons (7.2) are horizontal capacitors without a vertical link. They operate only within the Universe matrix. The observer cannot determine the starting phase — the measurement fixes one phase, and the other object automatically assumes the opposite one.
+
+- **Vertically supported entanglement (protons):** Protons (5.2, 13.8) are connected to the vertical through the TZ and can use dark energy (L0/L1 fields, 13.3.f) as an additional energy exchange channel. Proton entanglement can be illustrated as **Newton's balls hanging on strings**: the first and last are the TZs of individual protons, while in between — a dark energy envelope serving as the binding medium. An impulse in one TZ is transferred through this envelope to the other TZ. This is a different regime of energy exchange, in which the starting phase can be accessible through the vertical.
+
+In either case, a measurement restricts the available channel subset and fixes one object's phase — the other automatically assumes the opposite one, because the shared channel set can no longer maintain the previous distribution.
+
+**13.17. Tunneling as Channel Switching**
+
+Tunneling is a phenomenon in which a particle (e.g., an electron) crosses an energy barrier that it classically lacks sufficient energy to overcome. In Matrix Theory, tunneling is not a "leakage" of the wave function but a **temporary channel switch** caused by phase oscillation in front of the barrier.
+
+A barrier is a matrix region where the electron's normal channel subset has increased resistance — the pocket bridges do not open in the correct phase, and the path is blocked. In front of the barrier, the dominant phase loses the ability to maintain the baseline direction (just as in superposition, 13.15), and the system begins to oscillate between the 0° and 180° half-phases. During this oscillation, the electron briefly gains access to a different 10²⁰ channel subset — the one used by the opposite half-phase, for which the barrier is not closed. Through this subset, the electron crosses the barrier, then returns to its normal channel configuration.
+
+The tunneling probability depends on the barrier thickness (how many Q1 cycles are required for the oscillation to "hit" the right subset) and height (how narrow is the subset that can cross the barrier). This is fully consistent with the superposition mechanism (13.15) and the origin of the uncertainty principle (MATH_TASKS Task 8).
 ### XIV. GRAVITY
 
 **14.1. Gravity as TE Flow Pressure Imbalance**
@@ -427,6 +457,19 @@ When the internal core processes subside and the gravitational pressure exceeds 
 **14.7. Event Horizon — The 180° Qn Deformation Limit**
 The event horizon is not related to the absence of TE flow — the matrix and TE flow exist inside it as well. The event horizon is determined by the photon's inability to leave the object, caused by the deformation angle of the Qn-level flow imbalance. When the deformation caused by the monolithic object's mass exceeds 180°, the photon — free TE energy — can no longer escape the object's gravitational zone. The newly formed monolithic object already exists, but the event horizon forms only when its mass reaches the critical 180° threshold.
 
+**14.7.a – Black Hole Zone Structure: Interior, TZ, Event Horizon, and Dark Energy Bubble**
+A black hole consists of four concentric zones, the order of which partly depends on the object's mass. From the centre outward:
+
+1. **Internal matrix** — a unified proton matrix with a 10⁻⁵⁵ m step (9.2, 14.6), absolutely impermeable to the Universe TE flow.
+
+2. **Transformation Zone (TZ)** — a narrow, mathematically calculable matrix-free boundary zone (13.3), acting as a phase filter and fragmenter. The size of the TZ depends on the amount of energy — the greater the mass, the greater the fragmentation capacity.
+
+3. **Event Horizon (EH) zone** — located in the Universe matrix, directly outside the TZ. This is a different energy flow regime, where flow quantities and directions differ significantly from the classical balance zone, and the Qn deformation angle exceeds 180° (14.7).
+
+   - **Lower-mass object:** The TZ is narrow, and the EH lies immediately outside it — such a black hole is **active**, with observable activity around it (accretion disks, radiation).
+   - **Higher-mass object:** The TZ grows so large that it "overtakes" the EH zone — the EH is effectively located **beneath** the TZ, deeper inside the object. Such a black hole is **clean and silent** — all incoming energy goes straight into the TZ fragmenter before reaching the EH zone. There are no external flow collisions, no radiation.
+
+4. **Dark energy bubble** — this zone is not a compact layer but a **vast, galaxy-scale** formation in the Universe matrix that encompasses the entire preceding structure. It is formed by the static L0/L1/Ln fields (13.3.b, 13.3.f) expelled and fragmented by the TZ. The bubble is the entity that operates in the visual expansion of the Universe — bubbles repel each other (14.3.b), producing cosmic repulsion. A black hole's bubble is not local — it extends across the entire galaxy at whose centre the object resides.
 ### XV. THE VERTICAL — SYNCHRONIZATION AXIS AND ENERGY HIERARCHY
 
 **15.1. Structure of the Vertical — Exponential Step and the Known Fragment**
@@ -500,6 +543,19 @@ The energy balance between an object and the Universe matrix is primary. Speed i
 - If the object is unable to adapt, its internal bonds lose balance, and the object disintegrates into finer energies — a process analogous to the TZ transformation function (13.3), where incompatible energy is transformed until it returns to a permissible balance state.
 
 Flows have their own time — the duration of processes measured in Q1 cycles — and this time must be respected. Absolute time (17.1) is not subject to change; only the number of Q1 cycles a specific process takes under specific conditions changes.
+
+**17.3. Thermodynamics as the Amplitude Range of L0/L1 Flows**
+Thermodynamics in Matrix Theory is not a separate branch of physics but a consequence of how TE flows are distributed across the 10²⁰ channels. Temperature, heat, and entropy are not fundamental quantities but statistical indicators characterizing the degree of flow organization.
+
+**L0 level = 0 Kelvin.** L0 is the state in which the Universe TE flow moves along its naturally formed directions — it is pure flow logic without any external activity. Today, the L0 level is known only as zero Kelvin. Any activity — the presence of a proton, Strong force organization, motion of matter, radiation — raises this Kelvin number. The higher the Ln level, the higher the temperature.
+
+**Temperature as channel occupancy density.** Temperature is a measure of how large a fraction of the 10²⁰ channels in a given matrix region is actively involved in energy transfer. At low temperatures, flows use only a narrow, optimal channel subset. At high temperatures, flows are spread across a large number of channels. Temperature directly reflects the L0/L1 flow amplitude range — the broader the range, the more channels are activated.
+
+**Heat as channel redistribution.** Heat transfer is the process by which flows redistribute from one channel subset to another. When two objects with different temperatures come into contact, the more widely dispersed flow of the hotter object gradually broadens the colder object's flow distribution across additional channels — until equilibrium is reached.
+
+**Entropy as a measure of organizational loss.** Entropy is not chaos (12.1) but a measure of lost information about which specific channel the flow is using. At low entropy, the flow path is narrow and highly predictable. At high entropy, the flow is evenly distributed across all 10²⁰ channels, and it is impossible to determine which one it will use in the next cycle. The L0 background is a state of maximally high entropy, where flows are evenly distributed and unorganized — yet this is natural order, not chaos.
+
+**The second law of thermodynamics** is not a fundamental law of nature but a statistical inevitability: there are vastly many ways for a flow to be distributed across 10²⁰ channels (high entropy), but comparatively few ways for it to be narrowly organized (low entropy). Hence, a system naturally tends toward a state where flows are maximally dispersed, unless some organizing force (the Strong force, the proton's internal matrix) maintains local organization. The CMB (≈ 2.7 K) reflects the Universe's average L0/L1 balance — determined by the spherical curvature of the Universe and the collective influence of all objects within it on the matrix flows.
 
 ### APPENDIX: Key Definitions
 
