@@ -1,44 +1,44 @@
-# Matricas teorija — butiba viena lapa
+# Matricas teorija — būtība vienā lapā
 
 ## Pamatideja
 
-Visums nav tuksums, bet gan **fiksets kubisks rezgis** — matrica, kuras punkti absoluti sinhroni rote. Katrs punkts sastav no divam pretfaze rotejosam dalam, veidojot divas pretejas "kabatas", caur kuram plust **TE energija** — divas neatkarigas, pretejas plusmas. Lokali matrica ir stingra, bet Visuma meroga tai piemit **sferisks izliekums**, kas rada sistematisku fazu nobidi starp abam plusmam.
+Visums nav tukšums, bet gan **fiksēts kubisks režģis** — matrica, kuras punkti absolūti sinhroni rotē. Katrs punkts sastāv no divām pretfāzē rotējošām daļām, veidojot divas pretējas "kabatas", caur kurām plūst **TE enerģija** — divas neatkarīgas, pretējas plūsmas. Lokāli matrica ir stingra, bet Visuma mērogā tai piemīt **sfērisks izliekums**, kas rada sistemātisku fāžu nobīdi starp abām plūsmām.
 
-## Ka rodas materija un speki
+## Kā rodas matērija un spēki
 
-- **Protons** ir sis matricas ieksejais regions ar smalkaku matricu. Ta plusma iziet arpus protona un klust par **Stipro speku**, kas organize telpu ap protonu.
-- **Gravitacija** nav pievilksanas, bet gan spiediena disbalanss starp divam pretejam plusmam, ko rada protons ka skerslis.
-- **Elektriba** rodas, kad vertikale izmanto ap protonu uzkrato statisko lauku (L1), lai uzturetu ladinu plusmu.
-- **Vajais speks** ir protona ieksejas strukturas parkartosanas.
-- **Tumsa energija un tumsa materija** ir si pasa mehanisma dabiskas izpausmes — statiski lauki ap materiju.
+- **Protons** ir šīs matricas iekšējais reģions ar smalkāku matricu. Tā plūsma iziet ārpus protona un kļūst par **Stipro spēku**, kas organizē telpu ap protonu.
+- **Gravitācija** nav pievilkšanās, bet gan spiediena disbalanss starp divām pretējām plūsmām, ko rada protons kā šķērslis.
+- **Elektrība** rodas, kad vertikāle izmanto ap protonu uzkrāto statisko lauku (L1), lai uzturētu lādiņu plūsmu.
+- **Vājais spēks** ir protona iekšējās struktūras pārkārtošanās.
+- **Tumšā enerģija un tumšā matērija** ir šī paša mehānisma dabiskas izpausmes — statiski lauki ap matēriju.
 
-## Materija un antimaterija
+## Matērija un antimatērija
 
-Materija un antimaterija ir divu pretejo plusmu (0° un 180° pus-fazes) organizetas izpausmes. **Materijas dominance** nav nejausa — to nosaka musu Visuma mates modulacija un Visuma sferiskais izliekums, kas rada 10?? solu fazu nobidi par labu 0° fazei. Antimaterija rodas tikai islaicigi, un ta var pastavet kvazi-stabili vienigi **antimaterijas zonas** — lokalos izliekuma variaciju apgabalos (piemeram, melno caurumu tuvuma).
+Matērija un antimatērija ir divu pretējo plūsmu (0° un 180° pus-fāzes) organizētas izpausmes. **Matērijas dominance** nav nejauša — to nosaka mūsu Visuma mātes modulācija un Visuma sfēriskais izliekums, kas rada 10²⁰ soļu fāžu nobīdi par labu 0° fāzei. Antimatērija rodas tikai īslaicīgi, un tā var pastāvēt kvazi-stabili vienīgi **antimatērijas zonās** — lokālos izliekuma variāciju apgabalos (piemēram, melno caurumu tuvumā).
 
-## Kodols ka Visuma imitacija
+## Kodols kā Visuma imitācija
 
-Protons var pastavet tikai musu Visuma matrica. Atoma kodols ir **nakamais protona pastavesanas limenis** — musu Visuma imitacija, kuras izveidei dala protonu klust par neitroniem. Neitroni ir sis imitacijas neseji. Kodola stabilitati nosaka ieksejo plusmu speja uzturet optimalu organizaciju; radioaktivitate sakas, kad si organizacija zaude lidzsvaru.
+Protons var pastāvēt tikai mūsu Visuma matricā. Atoma kodols ir **nākamais protona pastāvēšanas līmenis** — mūsu Visuma imitācija, kuras izveidei daļa protonu kļūst par neitroniem. Neitroni ir šīs imitācijas nesēji. Kodola stabilitāti nosaka iekšējo plūsmu spēja uzturēt optimālu organizāciju; radioaktivitāte sākas, kad šī organizācija zaudē līdzsvaru.
 
-## Galvenas atskiribas no Standarta modela
+## Galvenās atšķirības no Standarta modeļa
 
-- **Telpa** ir fikseta, nevis izplesas vai lokas.
-- **Laiks** ir absoluts — viena matricas punkta rotacijas periods (Q1).
-- **Visi speki** ir viena mehanisma dazadas izpausmes.
-- **Nav haosa** — viss ir organizets, tikai dazados veidos.
+- **Telpa** ir fiksēta, nevis izplešas vai lokās.
+- **Laiks** ir absolūts — viena matricas punkta rotācijas periods (Q1).
+- **Visi spēki** ir viena mehānisma dažādas izpausmes.
+- **Nav haosa** — viss ir organizēts, tikai dažādos veidos.
 
-## Ko teorija piedava
+## Ko teorija piedāvā
 
-- Vienotu izskaidrojumu visiem cetriem spekiem.
-- Tumsas energijas un tumsas materijas dabisku izcelsmi.
-- Dabigu materijas/antimaterijas asimetrijas skaidrojumu.
-- Ietvaru, kura ieklaujas ari dziviba un apzina.
-- Skaidru, vizuali iztelojamu Visuma modeli.
+- Vienotu izskaidrojumu visiem četriem spēkiem.
+- Tumšās enerģijas un tumšās matērijas dabisku izcelsmi.
+- Dabīgu matērijas/antimatērijas asimetrijas skaidrojumu.
+- Ietvaru, kurā iekļaujas arī dzīvība un apziņa.
+- Skaidru, vizuāli iztēlojamu Visuma modeli.
 
-## Kas nepieciesams talak
+## Kas nepieciešams tālāk
 
-- Matematiska formalizacija (vienadojumi, konstantes).
-- Eksperimentalas prognozes un parbaudes.
-- Sadarbiba ar fizikas sabiedribu.
+- Matemātiskā formalizācija (vienādojumi, konstantes).
+- Eksperimentālas prognozes un pārbaudes.
+- Sadarbība ar fizikas sabiedrību.
 
-*Pilns izklasts: `KARTE_lv.md`*
+*Pilns izklāsts: `KARTE_lv.md`*
