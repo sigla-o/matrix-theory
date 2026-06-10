@@ -4,7 +4,7 @@
 No. Currently it is a conceptual alternative to the Standard Model developed by an independent researcher. It has not yet been published in peer-reviewed journals and has not been experimentally tested.
 
 ## How does Matrix Theory explain gravity?
-Gravity is not attraction but a pressure difference between two opposite TE flows caused by matter acting as an obstacle. The 1/r? law arises from matrix geometry and the cyclic balance of the FV (phase-direction) parameter.
+Gravity is not attraction but a pressure difference between two opposite TE flows caused by matter acting as an obstacle. The 1/r² law arises from matrix geometry and the cyclic balance of the FV (phase-direction) parameter.
 
 ## What are dark energy and dark matter?
 They are not separate substances. They are **static energy fields** (L0, L1...) formed by objects released from flows. The L1 level possesses an electric potential and is both the source of electricity and the cause of cosmic repulsion.
@@ -13,7 +13,7 @@ They are not separate substances. They are **static energy fields** (L0, L1...) 
 Time is determined by the vertical as a universal synchronization axis. All matrix point rotations are coordinated, and the Q1 cycle period is constant. Relativistic effects are explained as structural changes in objects, not time dilation.
 
 ## Why does matter dominate over antimatter in the Universe?
-Matter and antimatter are manifestations of the two opposite TE flows (0° and 180° half-phases). The direct mother of our Universe (at the vertical level) has determined that protons form in the 0° phase. Additionally, the spherical curvature of the Universe creates a permanent 10?? step phase shift in favor of the 0° phase. Hence matter is more stable and dominant. Antimatter arises only temporarily.
+Matter and antimatter are manifestations of the two opposite TE flows (0° and 180° half-phases). The direct mother of our Universe (at the vertical level) has determined that protons form in the 0° phase. Additionally, the spherical curvature of the Universe creates a permanent 10²⁰ step phase shift in favor of the 0° phase. Hence matter is more stable and dominant. Antimatter arises only temporarily.
 
 ## Can antimatter exist in our Universe?
 Theoretically yes, but only in **antimatter zones** — local regions where the curvature of space changes near massive objects (e.g., black holes), altering the phase shift between half-phases. These zones are limited in space and time.
@@ -36,7 +36,7 @@ Everything that appears chaotic is actually organized at a finer level. Even obj
 ## What is TE?
 TE denotes the energy that flows through the pockets of matrix points. It is not electromagnetic energy in the traditional sense, but a fundamental flow that underlies all interactions.
 
-## Why is the matrix point step exactly 10??? m?
+## Why is the matrix point step exactly 10⁻³⁵ m?
 This corresponds to the Planck length. In Matrix Theory, this is not a fundamental random quantity but the grid step of our Universe matrix, arising from the hierarchy of the vertical.
 
 ## Is Matrix Theory connected to any religion?
