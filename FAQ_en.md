@@ -42,6 +42,21 @@ This corresponds to the Planck length. In Matrix Theory, this is not a fundament
 ## Is Matrix Theory connected to any religion?
 No. Although the theory includes concepts such as the Soul and Eternity, these are defined as organizational levels of the vertical, not as religious dogmas. The theory is a conceptual model of physics.
 
+## How does Matrix Theory explain quantum superposition?
+Superposition is not a probability cloud but a Qn-level phase oscillation between the 0° and 180° half-phases. When the dominant phase loses the ability to maintain the baseline direction, the system rapidly oscillates between the two phases. A measurement restricts the available channel subset and forces the flow to choose one phase — the superposition "collapses".
+
+## What is entanglement in Matrix Theory?
+Entanglement is a shared channel synchronization between two objects through a subset of the 10²⁰ channels. One object is in 0° phase, the other in 180° phase, offset by one Qn diameter. For electrons, this is a purely horizontal process; protons can also use the vertical (dark energy) as an additional energy exchange channel — similar to Newton's balls hanging on strings.
+
+## How does tunneling work?
+Tunneling is a temporary channel switch. In front of a barrier, the dominant phase loses stability, and the particle oscillates between the two half-phases. During this oscillation, it gains access to a different channel subset for which the barrier is not closed, and crosses it. After passing the barrier, the particle returns to its normal channel configuration.
+
+## What is the internal structure of a black hole?
+A black hole consists of four concentric zones: (1) the internal unified proton matrix, (2) the Transformation Zone (TZ) — a narrow matrix-free layer, (3) the event horizon (EH) zone — a different flow regime, (4) a galaxy-scale dark energy bubble. In high-mass objects, the TZ can "overtake" the EH — then the black hole is silent because all energy goes directly into the TZ fragmenter.
+
+## What is temperature in Matrix Theory?
+Temperature is a measure of how large a fraction of the 10²⁰ channels is actively involved in energy transfer. **L0 level = 0 Kelvin** — pure flow logic without any activity. Any activity raises the temperature. Entropy is not chaos but a measure of lost information about which channel the flow is using.
+
 ## How can I help?
 - Read the map and ask questions.
 - If you have math or physics skills, help with formalization.
