@@ -1,6 +1,6 @@
-# Matematiskie uzdevumi / Mathematical Tasks
+# Matemātiskie uzdevumi / Mathematical Tasks
 
-Izvelies valodu / Choose your language:
+Izvēlies valodu / Choose your language:
 
-- ???? [Latviski](MATH_TASKS_lv.md)
-- ???? [English](MATH_TASKS_en.md)
+- 🇱🇻 [Latviski](MATH_TASKS_lv.md)
+- 🇬🇧 [English](MATH_TASKS_en.md)
