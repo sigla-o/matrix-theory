@@ -19,7 +19,10 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 9. [Visuma izplešanās un tumšā enerģija](#9-visuma-izplešanās-un-tumšā-enerģija)
 10. [Kosmoloģiskā sarkanā nobīde](#10-kosmoloģiskā-sarkanā-nobīde)
 11. [Atvērtie jautājumi un pētniecības virzieni](#11-atvērtie-jautājumi-un-pētniecības-virzieni)
-
+12. [Spēku pārnese bez virtuālajām daļiņām](#6-spēku-pārnese-bez-virtuālajām-daļiņām)
+13. [Samezglojums un EPR paradokss](#7-samezglojums-un-epr-paradokss)
+14. [Vājā mijiedarbība un W/Z bozoni](#8-vājā-mijiedarbība-un-wz-bozoni)
+15. [Vielas un antimatērijas asimetrija (CP pārkāpums)](#9-vielas-un-antimatērijas-asimetrija-cp-pārkāpums)
 ---
 
 ## 1. Melnais caurums kā "viens liels protons" — lādiņa jautājums
@@ -167,6 +170,56 @@ Kā Matricas teorijā izskaidrojama LIGO novērotā "čirpa" signāla precīzā 
 
 ### 11.4. Visuma ciklisko fāžu kvantitatīvais apraksts
 Kā precīzi nosakāmi pārejas punkti starp revīzijas, akumulācijas un izplešanās fāzēm? Kāds ir kritērijs, kad Visums ir "gatavs" jaunai izplešanai?
+
+## 12. Spēku pārnese bez virtuālajām daļiņām
+
+**Standarta modeļa skatījums:** Fundamentālie spēki tiek pārnesti ar apmaiņas bozoniem — virtuālajām daļiņām. Elektromagnētisms izmanto virtuālos fotonus, stiprais spēks — gluonus, vājais spēks — W un Z bozonus. Virtuālās daļiņas ir kvantu lauka teorijas matemātiskais instruments.
+
+**Matricas teorijas skatījums:** Nekā virtuāla nav. Viss, kas piedalās enerģiju apmaiņā, satur savus parametrus. Spēki rodas no plūsmu stāvokļiem potenciālajā saskarsmes zonā starp objektiem.
+
+**Matricas teorijas atbilde:**
+> Šajā teorijā nekā virtuāla nav. Viss, kas piedalās jebkādā enerģiju apmaiņā, satur savus parametrus. Tieši šo parametru saprašana un modelēšana dod atbildes. Elektroni atgrūžas tāpēc, ka potenciālā saskarsmes vietā objektu sinhronas fāzes dēļ starp visiem objektiem vienmēr ir pretējās plūsmas.
+
+**Skaidrojums:** Divu vienādu objektu (piemēram, elektronu) sinhronās fāzes rada pretējas plūsmas potenciālajā saskarsmes vietā — tas rada atgrūšanos. Matērijas un antimatērijas gadījumā rodas vienvirziena plūsmas, kas noved pie anihilācijas. Spēks nav kaut kas, kas "lido" no viena objekta pie otra — tas ir tiešs plūsmu stāvokļu iznākums.
+
+---
+
+## 13. Samezglojums un EPR paradokss
+
+**Standarta modeļa skatījums:** Samezglotas daļiņas veido vienotu, nedalāmu sistēmu neatkarīgi no attāluma. Korelācijas ir momentānas. Bella nevienādību pārkāpums pierāda, ka realitāte nav lokāla — pasaule ir fundamentāli nelokāla.
+
+**Matricas teorijas skatījums:** Matricas teorija c ātruma pārkāpumu nepieļauj horizontāles ietvaros. Samezglojums nav signāla pārraide ar ātrumu > c, bet gan vertikāles process, kas izpaužas caur tumšo enerģiju.
+
+**Matricas teorijas atbilde:**
+> Matricas teorija c ātruma pārkāpumu nepieļauj horizontāles ietvaros. Vēl pastāv tumšā enerģija, kura ir matērijas neatņemama daļa. Tumšai enerģijai piemīt statiskās īpašības un attiecīgie Ln līmeni. Šī enerģija ir tiešais vertikāles pārstāvis, kur likumi jau ir citi, ieskaitot kustības ātrumu. Matricas teorijai ir kontakts ar vertikāli, bet tā neapraksta tās likumsakarības. Ja mēs skatāmies tikai no kontakta viedokļa un ņemam vērā tumšās enerģijas "apaugšanu" Visuma matricas telpā, tad te tuvākais skaidrojums der Ņūtona bumbiņu rinda uz diegiem, kur pirmais un pēdējais objekti ir samezglotā stāvoklī, bet telpa tiešā impulsa nodošana caur Tumšo enerģiju.
+
+**Skaidrojums:** Divi samezgloti objekti ir savienoti caur tumšās enerģijas apvalku, kas tos abus iekļauj. Impulss tiek nodots nevis pa matricas kanāliem (kur to ierobežo c), bet gan caur vertikāli, kurai nav horizontāles ātruma ierobežojumu. Bella nevienādību pārkāpums nav pierādījums nelokālai realitātei, bet gan pierādījums tam, ka mērījums ir skāris vertikāles līmeni — tumšo enerģiju, kura savieno abus objektus.
+
+---
+
+## 14. Vājā mijiedarbība un W/Z bozoni
+
+**Standarta modeļa skatījums:** Vājais spēks tiek pārnests ar masīviem W un Z bozoniem. Tie ir fundamentālas daļiņas, kas iegūst masu caur Higsa mehānismu. W un Z bozoni tika tieši atklāti CERN 1983. gadā.
+
+**Matricas teorijas skatījums:** Vājā mijiedarbība ir iekšējās modulācijas izpausme, kas noved pie enerģijas atbrīvošanas divās pus-fāzēs. W/Z bozoni nav fundamentālas daļiņas, bet gan pārejas formas.
+
+**Matricas teorijas atbilde:**
+> Abos pieminētos gadījumos ir saskatāmas pārejas formas, kurās ir iekļautas enerģijas ar objektu lielumu 10^-95m. Tā ir normāla matērijas iekšējā sastāvdaļa, kura aizpilda iekšējo EM modulāciju. Pārejas procesā modulācija paliek, bet mainās EM sastāvdaļas. Higsa bozonam tieši tas pats. Sasmalcināta enerģija, ietekmējot matricas struktūras organizētam spiedienam, izspiež 10-95m enerģiju vertikālē un atjauno default struktūru. Tālāk jau Qn lielumi, kuru cikliskums nosaka bozonu lielumu. Pozitīvie, negatīvie vai neitrālie bozoni - jau ir modulācijas procesa sākums, kurš ved pie fāzes piederības.
+
+**Skaidrojums:** W/Z bozoni ir iekšējās EM modulācijas pārejas formas, kurās 10⁻⁹⁵ m enerģija (matērijas normāla iekšējā sastāvdaļa) maina savu konfigurāciju. To masas (~80 un ~91 GeV) atbilst konkrētiem Qn līmeņiem. Pozitīvais, negatīvais vai neitrālais lādiņš ir modulācijas procesa sākums, kas nosaka, kurai pus-fāzei (0° vai 180°) process piederēs.
+
+---
+
+## 15. Vielas un antimatērijas asimetrija (CP pārkāpums)
+
+**Standarta modeļa skatījums:** Visuma līmenī matērijas ir daudz vairāk nekā antimatērijas. CP simetrijas pārkāpums ir eksperimentāli novērots vājajā mijiedarbībā, taču tas ir pārāk mazs, lai izskaidrotu novērojamo asimetriju. Tiek meklēti jauni CP pārkāpuma avoti.
+
+**Matricas teorijas skatījums:** Matērijas dominance nav nejauša. To nosaka divi faktori: Mātes modulācija un Visuma sfēriskais izliekums. Modulācija, šķērsojot TZ gandrīz paralēli Visuma virsmai, iegūst precīzu 0° un 180° nobīdi.
+
+**Matricas teorijas atbilde:**
+> Tu taču zini ka modulēta (fotona) plūsma, šķērsojot pāreju ar dažādām vidēm, maina virzienu. Divas matricas arī ir tas nosacījums, kur modulācija, šķērsojot pāreju tiek "pārrēķināta". Te ir viena būtiskā atšķirība no fotona. Fotonam ir šķērsošanas virziens, bet mūsu gadījumā modulācija iet gandrīz paralēli Visuma virsmai. Tas nodrošina 0 un 180 grādu nobīdi skaitliskā vērtībā, kuru var aprēķināt jau matricas punktu lielumos un attiecīgi, enerģijās. Tieši šī enerģiju starpība arī nosaka, kura būs dominējošā pus-fāze.
+
+**Skaidrojums:** Atšķirībā no fotona, kas šķērso vidi ar noteiktu virzienu, protona iekšējā modulācija ceļo gandrīz paralēli Visuma virsmai. Šī ģeometrija, saskaroties ar divu matricu pāreju (TZ), rada precīzu 0° un 180° nobīdi, kas ir aprēķināma. Enerģiju starpība starp šīm divām nobīdēm nosaka dominējošo pus-fāzi. Tā kā Visuma sfēriskais izliekums jau ievada sistemātisku nobīdi par labu 0° fāzei, matērija dominē. CP simetrijas pārkāpums ir vertikāles modulācijas un matricas ģeometrijas tiešs nospiedums horizontālajā matricā.
 
 ---
 
