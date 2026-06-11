@@ -167,4 +167,24 @@ Physics has reached an impasse for three fundamental reasons: the vertical 10²�
 - **Matrix view:** "Starting with the ^20 step, not introducing phase to the quantum, and trying to virtualize one's inability to explain."
 - **Resolution:** (1) Physics has confined itself to a single horizontal and does not recognize the exponential hierarchy of the vertical. (2) In quantum mechanics, phase has not been introduced as a fundamental dimension of reality — hence everything reduces to probabilities. (3) Instead of describing real flow processes in matrix channels, physics uses the concept of virtual particles as a mathematical crutch. In Matrix Theory, nothing is virtual — everything is real flows with their own parameters.
 
+  ### 11. What is a supernova in Matrix Theory?
+
+**Short answer:**
+A supernova is a process of horizontal transition. When a star can no longer maintain synchronization with the Universe matrix, its interior space is taken over by the finer proton matrix (10⁻⁵⁵ m). Part of the energy goes into forming the new horizontal, and the surplus is ejected as an explosion.
+
+- **Classical view:** "A supernova is a core collapse, a shockwave, and a neutrino burst that ejects the star's outer layers."
+- **Matrix view:** "As long as the star can maintain the Universe matrix's energy structure within balance limits, the star exists. When a critical transition boundary is reached, where the matrix in the star's interior can no longer maintain synchronization (rotation, flows), this environment is taken over by the finer horizontal's matrix (10^-55m). All the necessary energy goes into sustaining the new horizontal; the remaining energy is ejected into outer space in the form of an explosion."
+- **Resolution:** A supernova is not merely destruction — it is the birth act of a new horizontal. The ejected matter is the energy surplus that was not incorporated into the new monolithic object.
+
+---
+
+### 12. How do galaxies form in Matrix Theory?
+
+**Short answer:**
+Galaxies are not random formations. They are the central black hole's instrument for raising the dark energy level. The black hole, through its dark energy zone, directs protons into specific "star locations" that activate once the accumulation is sufficient. Example: The Kuiper and Oort clouds are unactivated matter reserves.
+
+- **Classical view:** "Galaxies form from dark matter halos, into which ordinary matter flows, creating stars and planets."
+- **Matrix view:** "It is the black hole's direct work to build a galaxy around itself, because this is what ensures the rise of the Dark Energy level, which in turn creates the conditions for the black hole's next expansion step. The black hole's Dark Energy is a conditionally static zone, which also directs protons according to the requirements of the vertical balance level."
+- **Resolution:** The spiral structure of galaxies is not random — it is a map of proton motion trajectories determined by the central black hole's rotation and the shape of its L1 bubble. The Kuiper and Oort clouds are evidence that the Solar System is still in the process of formation.
+
 *These answers reflect the theory's current stage of development and may be refined.*
