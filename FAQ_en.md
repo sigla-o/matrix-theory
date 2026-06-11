@@ -116,6 +116,36 @@ It is neither a particle nor a field quantum, but the energy imprint of a matrix
 - **Matrix view:** "In a collision at 2c, the question is not what remained of the objects. The question is what happened to the matrix location where it occurred and how many points of the Universe matrix were converted into finer energy (this is a rupture in the matrix), which the Universe then restored. That is the balance."
 - **Resolution:** A head-on proton collision at an effective speed of ~2c destroys the matrix points themselves. The restoration process, using existing and dark energy, is quantized according to the size of the destroyed Qn sphere. 125 GeV is the "cost" of restoring this specific Qn unit.
 
+### 6. How does Matrix Theory explain entanglement?
+
+**Short answer:**
+Entanglement is not "spooky action at a distance," but a shared phase synchronization of two objects, realized through dark energy as the direct representative of the vertical in the horizontal matrix.
+
+- **Classical view:** "Two entangled particles correlate instantaneously regardless of distance. This violates the speed of light limit and indicates a non-local reality."
+- **Matrix view:** "Matrix Theory does not permit c-speed violation within the horizontal framework. There also exists dark energy, which is an inseparable part of matter. This energy is the direct representative of the vertical, where the laws are different, including the speed of motion. The closest explanation is a row of Newton's balls on strings, where the first and last objects are in an entangled state, but the space transmits the impulse directly through Dark Energy."
+- **Resolution:** Two entangled objects are connected through a dark energy envelope that encompasses both. The impulse is transmitted not through matrix channels (where it is limited by c), but through the vertical, which has no horizontal speed limit.
+
 ---
+
+### 7. What are W and Z bosons in Matrix Theory?
+
+**Short answer:**
+They are not fundamental particles, but transitional forms of the internal EM modulation, in which 10⁻⁹⁵ m energy is involved. Their masses are determined by Qn cyclicity.
+
+- **Classical view:** "W and Z bosons are fundamental carriers of the weak force with masses of ~80 and ~91 GeV. They acquire mass through the Higgs mechanism."
+- **Matrix view:** "In both mentioned cases, transitional forms can be discerned, in which energies with an object size of 10^-95m are involved. This is a normal internal component of matter, which fills the internal EM modulation. During the transition process, the modulation remains, but the EM components change."
+- **Resolution:** Positive, negative, or neutral bosons mark the beginning of the modulation process that leads to phase affiliation. Their masses (80.4, 80.4, 91.2 GeV) correspond to specific Qn levels, similar to the 125 GeV Higgs case.
+
+---
+
+### 8. Why does matter dominate over antimatter in the Universe?
+
+**Short answer:**
+It is determined by two factors: the Mother's modulation (primary choice at the vertical level for the 0° phase) and the Universe's spherical curvature (10²⁰ step phase shift between half-phases). The modulation, crossing the TZ almost parallel to the Universe's surface, acquires a calculable 0° and 180° shift, and the energy difference gives preference to matter.
+
+- **Classical view:** "In the Big Bang, matter and antimatter should have been created in equal amounts. Why matter dominates is not fully explained — the CP symmetry violation in the Standard Model is too small."
+- **Matrix view:** "Our Universe's direct mother determines that protons form precisely within the 0° phase. The Universe's spherical curvature creates a systematic phase shift between the 0° and 180° flows by 10²⁰ matrix steps. The modulation travels almost parallel to the Universe's surface, ensuring a 0 and 180 degree shift in numerical value, which can be calculated in matrix point sizes and correspondingly, in energies."
+- **Resolution:** The energy difference between these two shifts determines the dominant half-phase. CP violation is not random but a direct imprint of the vertical modulation and the matrix geometry in the horizontal matrix.
+
 
 *These answers reflect the theory's current stage of development and may be refined.*
