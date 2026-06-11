@@ -146,6 +146,25 @@ It is determined by two factors: the Mother's modulation (primary choice at the 
 - **Classical view:** "In the Big Bang, matter and antimatter should have been created in equal amounts. Why matter dominates is not fully explained — the CP symmetry violation in the Standard Model is too small."
 - **Matrix view:** "Our Universe's direct mother determines that protons form precisely within the 0° phase. The Universe's spherical curvature creates a systematic phase shift between the 0° and 180° flows by 10²⁰ matrix steps. The modulation travels almost parallel to the Universe's surface, ensuring a 0 and 180 degree shift in numerical value, which can be calculated in matrix point sizes and correspondingly, in energies."
 - **Resolution:** The energy difference between these two shifts determines the dominant half-phase. CP violation is not random but a direct imprint of the vertical modulation and the matrix geometry in the horizontal matrix.
+  
+### 9. How does Matrix Theory resolve the incompatibility between quantum field theory and general relativity?
 
+**Short answer:**
+In Matrix Theory, this incompatibility does not exist. The problems of both theories (singularities, infinities) arise from failing to respect the limits of the horizontal range. Gravity and quantum phenomena fit within a unified Qn phase system.
+
+- **Classical view:** "General relativity and quantum field theory are incompatible — GR requires a dynamic, curved spacetime, while QFT operates on a static background. The mathematics breaks down at the Planck scale."
+- **Matrix view:** "In Matrix Theory, mathematics is constrained by the horizontal range, which does not permit singularities. QFT is closest to Matrix Theory. But it also requires the same constraint. In Matrix Theory, I see no contradiction between Qn and gravity, because everything fits within Qn phases."
+- **Resolution:** The matrix point spacing (10⁻³⁵ m) establishes an absolute lower bound for space — nothing can collapse to zero. Singularities are a mathematical extrapolation that ignores the discrete nature of the matrix. Gravity is not a separate force but a TE flow pressure imbalance, subject to the same Qn cycles as all other flows. There is no "quantum world" and "gravity world" — only a single matrix architecture.
+
+---
+
+### 10. Why has physics failed to arrive at this solution?
+
+**Short answer:**
+Physics has reached an impasse for three fundamental reasons: the vertical 10²⁰ step has not been recognized; phase has not been introduced as a fundamental quantum dimension; and the inability to explain processes has been masked by "virtualization" (virtual particles).
+
+- **Classical view:** "Physics has been searching for a quantum gravity theory for nearly a century, but all approaches (string theory, loop quantum gravity) have failed to produce experimentally verifiable results."
+- **Matrix view:** "Starting with the ^20 step, not introducing phase to the quantum, and trying to virtualize one's inability to explain."
+- **Resolution:** (1) Physics has confined itself to a single horizontal and does not recognize the exponential hierarchy of the vertical. (2) In quantum mechanics, phase has not been introduced as a fundamental dimension of reality — hence everything reduces to probabilities. (3) Instead of describing real flow processes in matrix channels, physics uses the concept of virtual particles as a mathematical crutch. In Matrix Theory, nothing is virtual — everything is real flows with their own parameters.
 
 *These answers reflect the theory's current stage of development and may be refined.*
