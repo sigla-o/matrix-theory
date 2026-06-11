@@ -25,6 +25,8 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 15. [Matter-Antimatter Asymmetry (CP Violation)](#9-matter-antimatter-asymmetry-cp-violation)
 16. [Incompatibility of Quantum Field Theory and General Relativity](#12-incompatibility-of-quantum-field-theory-and-general-relativity)
 17. [Why Physics Has Not Arrived at This Solution](#13-why-physics-has-not-arrived-at-this-solution)
+18. [Supernovae — The Process of Horizontal Transition](#14-supernovae--the-process-of-horizontal-transition)
+19. [Galaxy Formation — The Black Hole's Instrument](#15-galaxy-formation--the-black-holes-instrument)
 
 ---
 
@@ -253,6 +255,30 @@ How can the transition points between the audit, accumulation, and expansion pha
 2. **Failure to introduce phase to the quantum.** Quantum mechanics speaks of particle states but does not introduce phase as a fundamental dimension of reality. In Matrix Theory, everything is phase — synchronous rotation, two half-phases, Qn cycles. If phase is not introduced, everything reduces to probabilities — like a shadow cast by the unresolved 10¹⁶ phase variants.
 
 3. **Virtualization as a cover for inability to explain.** Instead of describing real flow processes in matrix channels, physics uses the concept of virtual particles — "particles that momentarily appear and disappear." This is a mathematical trick masking an inability to explain. In Matrix Theory, nothing is virtual — everything is real flows with their own parameters, and force is a direct outcome of the flow states.
+
+## 18. Supernovae — The Process of Horizontal Transition
+
+**Standard Model view:** A supernova is a core collapse, where the iron core collapses, forming a neutron star or black hole, and a shockwave ejects the star's outer layers.
+
+**Matrix Theory view:** A supernova is a process of horizontal transition — the transition from a Universe matrix (10⁻³⁵ m) environment to a proton matrix (10⁻⁵⁵ m) environment.
+
+**Matrix Theory answer:**
+> As long as the star can maintain the Universe matrix's energy structure within balance limits, the star exists. When a critical transition boundary is reached, where the matrix in the star's interior can no longer maintain synchronization (rotation, flows), this environment is taken over by the finer horizontal's matrix (10^-55m). All the necessary energy goes into sustaining the new horizontal; the remaining energy is ejected into outer space in the form of an explosion.
+
+**Explanation:** A supernova is not merely destruction — it is the birth act of a new horizontal. The energy surplus not incorporated into the new monolithic object (white or black hole) is ejected into space. This explains why supernovae are so energetically powerful — they are not "explosions" in the traditional sense, but a side effect of a horizontal change.
+
+---
+
+## 19. Galaxy Formation — The Black Hole's Instrument
+
+**Standard Model view:** Galaxies form within dark matter halos, into which ordinary matter flows under gravity, forming stars and planets. Spiral structure arises from rotation and density waves.
+
+**Matrix Theory view:** A galaxy is not random. It is the central black hole's instrument for raising the dark energy level, to ensure the continuation of its own expansion cycle.
+
+**Matrix Theory answer:**
+> It is the black hole's direct work to build a galaxy around itself, because this is what ensures the rise of the Dark Energy level, which in turn creates the conditions for the black hole's next expansion step. The black hole's Dark Energy is a conditionally static zone, which also directs protons according to the requirements of the vertical balance level. The galaxy's structure is not created chaotically. It has its own star locations, which activate once filled.
+
+**Explanation:** After the "Audit," a black hole loses most of its galactic structure. During the accumulation phase, it converts energy into protons through its jets, and its dark energy zone places them in specific positions. When the proton accumulation reaches a critical amount, these "star locations" activate — star formation begins. Stars, in turn, through their life cycles (especially supernovae), return energy back to the black hole, raising the dark energy level. The Kuiper Belt and Oort Cloud are examples of unactivated matter reserves — "spare parts" already in position but not yet incorporated into stars or planets.
 ---
 
 *This document reflects the theory's current stage of development and will be supplemented as discussions and modeling progress.*
