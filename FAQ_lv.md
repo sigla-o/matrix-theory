@@ -131,6 +131,43 @@ It is neither a particle nor a field quantum, but the energy imprint of a matrix
 - **Matrix view:** "Pie sadursmes ar 2c nepastāv jautājums, kas palika no objektiem. Pastāv jautājums, kas notika ar matricas vietu, kurā tas notika, un cik daudz Visuma matricas punktu pārvērtās smalkākā enerģijā (tā ir plaisa matricā), kuru Visums atjaunoja. Tā arī ir bilance."
 - **Resolution:** Protonu frontāla sadursme ar ātrumu ~2c iznīcina pašus matricas punktus. Atjaunošanas process, izmantojot esošo un tumšo enerģiju, ir kvantēts atbilstoši iznīcinātās Qn sfēras lielumam. 125 GeV ir šīs konkrētās Qn vienības atjaunošanas "cena".
 
+### 6. Kā Matricas teorija izskaidro samezglojumu (entanglement)?
+
+**Īsa atbilde:**
+Samezglojums nav "spokaina darbība no attāluma", bet gan divu objektu kopīga fāžu sinhronizācija, realizēta caur tumšo enerģiju kā vertikāles tiešo pārstāvi horizontālajā matricā.
+
+**Īsa atbilde (angliski):**
+Entanglement is not "spooky action at a distance," but a shared phase synchronization of two objects, realized through dark energy as the direct representative of the vertical in the horizontal matrix.
+
+- **Classical view:** "Divas samezglotas daļiņas momentāni korelē neatkarīgi no attāluma. Tas pārkāpj gaismas ātruma robežu un liecina par nelokālu realitāti."
+- **Matrix view:** "Matricas teorija c ātruma pārkāpumu nepieļauj horizontāles ietvaros. Vēl pastāv tumšā enerģija, kura ir matērijas neatņemama daļa. Šī enerģija ir tiešais vertikāles pārstāvis, kur likumi jau ir citi, ieskaitot kustības ātrumu. Tuvākais skaidrojums der Ņūtona bumbiņu rinda uz diegiem, kur pirmais un pēdējais objekti ir samezglotā stāvoklī, bet telpa tiešā impulsa nodošana caur Tumšo enerģiju."
+- **Resolution:** Divi samezgloti objekti ir savienoti caur tumšās enerģijas apvalku, kas tos abus iekļauj. Impulss tiek nodots nevis pa matricas kanāliem (kur to ierobežo c), bet gan caur vertikāli, kurai nav horizontāles ātruma ierobežojumu.
+
+### 7. Kas ir W un Z bozoni Matricas teorijā?
+
+**Īsa atbilde:**
+Tās nav fundamentālas daļiņas, bet gan iekšējās EM modulācijas pārejas formas, kurās iesaistīta 10⁻⁹⁵ m enerģija. To masas nosaka Qn cikliskums.
+
+**Īsa atbilde (angliski):**
+They are not fundamental particles, but transitional forms of the internal EM modulation, in which 10⁻⁹⁵ m energy is involved. Their masses are determined by Qn cyclicity.
+
+- **Classical view:** "W un Z bozoni ir fundamentāli vājā spēka pārnesēji ar masām ~80 un ~91 GeV. Tie iegūst masu caur Higsa mehānismu."
+- **Matrix view:** "Abos pieminētos gadījumos ir saskatāmas pārejas formas, kurās ir iekļautas enerģijas ar objektu lielumu 10^-95m. Tā ir normāla matērijas iekšējā sastāvdaļa, kura aizpilda iekšējo EM modulāciju. Pārejas procesā modulācija paliek, bet mainās EM sastāvdaļas."
+- **Resolution:** Pozitīvie, negatīvie vai neitrālie bozoni ir modulācijas procesa sākums, kas ved pie fāzes piederības. To masas (80.4, 80.4, 91.2 GeV) atbilst konkrētiem Qn līmeņiem, līdzīgi kā 125 GeV Higsa gadījumā.
+
+---
+
+### 8. Kāpēc Visumā dominē matērija, nevis antimatērija?
+
+**Īsa atbilde:**
+To nosaka divi faktori: Mātes modulācija (primārā izvēle vertikāles līmenī 0° fāzei) un Visuma sfēriskais izliekums (10²⁰ soļu fāžu nobīde starp pus-fāzēm). Modulācija, šķērsojot TZ gandrīz paralēli Visuma virsmai, iegūst aprēķināmu 0° un 180° nobīdi, un enerģiju starpība dod priekšroku matērijai.
+
+**Īsa atbilde (angliski):**
+It is determined by two factors: the Mother's modulation (primary choice at the vertical level for the 0° phase) and the Universe's spherical curvature (10²⁰ step phase shift between half-phases). The modulation, crossing the TZ almost parallel to the Universe's surface, acquires a calculable 0° and 180° shift, and the energy difference gives preference to matter.
+
+- **Classical view:** "Lielajā Sprādzienā matērijai un antimatērijai vajadzēja rasties vienādos daudzumos. Kāpēc matērija dominē, nav pilnībā izskaidrots — CP simetrijas pārkāpums Standarta modelī ir pārāk mazs."
+- **Matrix view:** "Mūsu Visuma tiešā māte nosaka, ka protoni veidojas tieši 0° fāzes ietvaros. Visuma sfēriskais izliekums rada sistemātisku fāžu nobīdi starp 0° un 180° plūsmām par 10²⁰ matricas soļiem. Modulācija iet gandrīz paralēli Visuma virsmai, kas nodrošina 0 un 180 grādu nobīdi skaitliskā vērtībā, kuru var aprēķināt matricas punktu lielumos un enerģijās."
+- **Resolution:** Enerģiju starpība starp šīm divām nobīdēm nosaka dominējošo pus-fāzi. CP pārkāpums nav nejaušs, bet gan vertikāles modulācijas un matricas ģeometrijas tiešs nospiedums horizontālajā matricā.
 ---
 
 *Šīs atbildes atspoguļo teorijas pašreizējo attīstības stadiju un var tikt precizētas.*
