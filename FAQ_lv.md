@@ -168,6 +168,31 @@ It is determined by two factors: the Mother's modulation (primary choice at the 
 - **Classical view:** "Lielajā Sprādzienā matērijai un antimatērijai vajadzēja rasties vienādos daudzumos. Kāpēc matērija dominē, nav pilnībā izskaidrots — CP simetrijas pārkāpums Standarta modelī ir pārāk mazs."
 - **Matrix view:** "Mūsu Visuma tiešā māte nosaka, ka protoni veidojas tieši 0° fāzes ietvaros. Visuma sfēriskais izliekums rada sistemātisku fāžu nobīdi starp 0° un 180° plūsmām par 10²⁰ matricas soļiem. Modulācija iet gandrīz paralēli Visuma virsmai, kas nodrošina 0 un 180 grādu nobīdi skaitliskā vērtībā, kuru var aprēķināt matricas punktu lielumos un enerģijās."
 - **Resolution:** Enerģiju starpība starp šīm divām nobīdēm nosaka dominējošo pus-fāzi. CP pārkāpums nav nejaušs, bet gan vertikāles modulācijas un matricas ģeometrijas tiešs nospiedums horizontālajā matricā.
+
+### 9. Kā Matricas teorija atrisina kvantu lauka teorijas un vispārīgās relativitātes nesavienojamību?
+
+**Īsa atbilde:**
+Matricas teorijā šī nesavienojamība nepastāv. Abu teoriju problēmas (singularitātes, bezgalības) rodas no horizontāles diapazona ierobežojumu neievērošanas. Gravitācija un kvantu parādības iekļaujas vienotā Qn fāžu sistēmā.
+
+**Īsa atbilde (angliski):**
+In Matrix Theory, this incompatibility does not exist. The problems of both theories (singularities, infinities) arise from failing to respect the limits of the horizontal range. Gravity and quantum phenomena fit within a unified Qn phase system.
+
+- **Classical view:** "Vispārīgā relativitāte un kvantu lauka teorija nav savienojamas — VR prasa dinamisku, izliektu telplaiku, KLT darbojas uz statiska fona. Matemātika saduras pie Planka skalas."
+- **Matrix view:** "Matricu teorijā matemātiku ierobežo horizontāļu diapazons, kurš nepieļauj singularitātes. KLT ir vistuvāk Matricas teorijai. Bet te arī prasās tāds pats ierobežojums. Matricas teorijā es neredzu nekādu domstarpību starp Qn un gravitāciju, jo viss iekļaujas Qn fāzēs."
+- **Resolution:** Matricas punktu solis (10⁻³⁵ m) nosaka absolūtu telpas apakšējo robežu — nekas nevar sabrukt līdz nullei. Singularitātes ir matemātiska ekstrapolācija, kas ignorē matricas diskrēto dabu. Gravitācija nav atsevišķs spēks, bet gan TE plūsmas spiediena disbalanss, kas pakļaujas tiem pašiem Qn cikliem kā visas pārējās plūsmas. Nav "kvantu pasaules" un "gravitācijas pasaules" — ir tikai viena matricas arhitektūra.
+
+### 10. Kāpēc fizika nav spējusi nonākt pie šī risinājuma?
+
+**Īsa atbilde:**
+Fizika ir nonākusi strupceļā trīs fundamentālu iemeslu dēļ: nav atzīts vertikāles 10²⁰ solis; nav ieviesta fāze kā fundamentāla kvantu dimensija; un nespēja izskaidrot procesus tiek aizsegta ar "virtualizāciju" (virtuālajām daļiņām).
+
+**Īsa atbilde (angliski):**
+Physics has reached an impasse for three fundamental reasons: the vertical 10²⁰ step has not been recognized; phase has not been introduced as a fundamental quantum dimension; and the inability to explain processes has been masked by "virtualization" (virtual particles).
+
+- **Classical view:** "Fizika jau gandrīz gadsimtu meklē kvantu gravitācijas teoriju, taču visas pieejas (stīgu teorija, cilpas kvantu gravitācija) nav devušas eksperimentāli apstiprināmu rezultātu."
+- **Matrix view:** "Sākot ar ^20 soli, neieviešot fāzi kvantam un mēģinot virtualizēt savu nespēju izskaidrot."
+- **Resolution:** (1) Fizika ir aprobežojusies ar vienu horizontāli un nepazīst vertikāles eksponenciālo hierarhiju. (2) Kvantu mehānikā fāze nav ieviesta kā fundamentāla realitātes dimensija — tāpēc viss reducējas uz varbūtībām. (3) Tā vietā, lai aprakstītu reālus plūsmu procesus matricas kanālos, fizika izmanto virtuālo daļiņu jēdzienu kā matemātisku kruķi. Matricas teorijā nekas nav virtuāls — viss ir reālas plūsmas ar saviem parametriem.
+
 ---
 
 *Šīs atbildes atspoguļo teorijas pašreizējo attīstības stadiju un var tikt precizētas.*
