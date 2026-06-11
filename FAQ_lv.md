@@ -217,7 +217,7 @@ Galaxies are not random formations. They are the central black hole's instrument
 
 - **Classical view:** "Galaktikas veidojas no tumšās matērijas halos, kuros ieplūst parastā matērija, veidojot zvaigznes un planētas."
 - **Matrix view:** "Tā ir melna cauruma tiešais darbs veidot ap sevi galaktiku, jo tieši tas nodrošina Tumšās enerģijas līmeņa celšanos, kurš arī rada apstākļus nākamam melna cauruma palielināšanas solim. Melna cauruma Tumšās enerģijas ir nosacīti statiskā zona, kura arī virza protonus pa vertikāla balansa līmeņa prasībām."
-- **Resolution:** Galaktiku spirālveida struktūra nav nejauša — tā ir protonu kustības trajektoriju karte, ko nosaka centrālā melanā cauruma rotācija un tā L1 burbuļa forma. Koipera un Orta mākoņi ir pierādījums, ka Saules sistēma vēl atrodas veidošanās procesā.
+- **Resolution:** Galaktiku spirālveida struktūra nav nejauša — tā ir protonu kustības trajektoriju karte, ko nosaka centrālā melnā cauruma rotācija un tā L1 burbuļa forma. Koipera un Orta mākoņi ir pierādījums, ka Saules sistēma vēl atrodas veidošanās procesā.
 ---
 
 *Šīs atbildes atspoguļo teorijas pašreizējo attīstības stadiju un var tikt precizētas.*
