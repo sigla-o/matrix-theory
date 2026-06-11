@@ -62,3 +62,60 @@ Temperature is a measure of how large a fraction of the 10²⁰ channels is acti
 - If you have math or physics skills, help with formalization.
 - Translate content into other languages.
 - Spread the word.
+
+### 1. Wouldn't a black hole as "one big proton" have an enormous electric charge?
+
+**Short answer:**
+No, because the observer (us) resides inside this system and is an integral part of its potential. From the inside, this potential is zero.
+
+- **Classical view:** "The proton has an elementary charge of +e. If a black hole is one big proton, shouldn't it have an enormous charge?"
+- **Matrix view:** "If you sit outside the proton's potential, you can measure it. In the case of a black hole (within our galaxy's bounds), you are an inseparable component of this potential. That is precisely why it equals 0."
+- **Resolution:** In Matrix Theory, charge is not a fundamental property but a measure of flow asymmetry between two half-phases. When the observer is part of the system, this asymmetry cannot be measured as an external charge.
+
+---
+
+### 2. How does Matrix Theory explain time dilation (e.g., the extended lifetime of muons)?
+
+**Short answer:**
+It is not time slowing down, but a geometric stretching of the object, performed by the Transformation Zone (TZ) to compensate for flow incompatibility. This stretching lengthens the internal process path in absolute time.
+
+- **Classical view:** "A muon moving near the speed of light lives longer. In the Standard Model, this is direct evidence for the relativity of time. How is this explained if time is absolute?"
+- **Matrix view:** "An object at rest is a sphere. Moving close to c, flow incompatibility starts to develop, which the object compensates for by stretching. [...] The length is the direct motion time interval, which is also presented as the muon's lifetime."
+- **Resolution:** The TZ, as an adaptation mechanism, stretches the object in the direction of motion. The internal modulation requires more Q1 cycles to propagate through the elongated structure and reach the decay threshold. Absolute time has not changed—only the number of steps required for the process has increased.
+
+---
+
+### 3. Why does randomness appear at the quantum level if the Matrix is strictly deterministic?
+
+**Short answer:**
+It is not true randomness, but an opacity created by 10¹⁶ unresolved phase variants. Our experimental resolution (~10¹⁹) is far smaller than the matrix's fundamental depth (10³⁵).
+
+- **Classical view:** "In quantum mechanics, measurement outcomes are fundamentally random. Einstein disagreed with this. How does Matrix Theory, which denies chaos, explain this experimental fact?"
+- **Matrix view:** "The biggest problem in experimental physics is the inability to determine the Qn phase with which one is experimenting. The difference between the mentioned numbers indicates that the remaining number of phase state variants is around ^16. From this arise all of today's physics problems."
+- **Resolution:** We always measure only the integrated result at the Qn level after 10¹⁶ phase variants have already played out at the fundamental level. This unresolved set of phases creates a statistical picture, which we mistakenly consider to be fundamental randomness.
+
+---
+
+### 4. Why do the electron, muon, and tau particle have such different masses if their structure is the same?
+
+**Short answer:**
+They are different energy amplitudes of the same closed EM structure. Each occupies a different number of matrix points, which directly determines its mass (inertia).
+
+- **Classical view:** "In the Standard Model, these particles are identical but have different masses granted by the Higgs field. How does Matrix Theory explain this?"
+- **Matrix view:** "You cannot deny that an EM wave has an energy amplitude. [...] The electron+ is the same thing, just in a closed form. There is a direct relationship between the amount of energy and the number of matrix points each of these objects occupies."
+- **Resolution:** Mass is not granted by an external field but is a spectrum of spatial-energy amplitude. The greater the amplitude, the more matrix points are involved in the closed flow, and the greater the inertia (mass).
+
+---
+
+### 5. What exactly is the Higgs boson in Matrix Theory?
+
+**Short answer:**
+It is neither a particle nor a field quantum, but the energy imprint of a matrix rupture repair event. 125 GeV is the energy amount required to restore a destroyed sphere of matrix points of a specific Qn size.
+
+- **Classical view:** "The LHC discovered the Higgs boson with a mass of ~125 GeV. How does Matrix Theory interpret this discovery if it has no Higgs field?"
+- **Matrix view:** "In a collision at 2c, the question is not what remained of the objects. The question is what happened to the matrix location where it occurred and how many points of the Universe matrix were converted into finer energy (this is a rupture in the matrix), which the Universe then restored. That is the balance."
+- **Resolution:** A head-on proton collision at an effective speed of ~2c destroys the matrix points themselves. The restoration process, using existing and dark energy, is quantized according to the size of the destroyed Qn sphere. 125 GeV is the "cost" of restoring this specific Qn unit.
+
+---
+
+*These answers reflect the theory's current stage of development and may be refined.*
