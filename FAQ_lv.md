@@ -62,3 +62,75 @@ Temperatūra ir mērs tam, cik liela daļa no 10²⁰ kanāliem ir aktīvi iesai
 - Ja tev ir matemātikas vai fizikas prasmes, palīdzi ar formalizāciju.
 - Tulko saturu citās valodās.
 - Izplati informāciju.
+
+### 1. Vai melnais caurums kā "viens liels protons" nebūtu ar milzīgu elektrisko lādiņu?
+
+**Īsa atbilde:**
+Nē, jo novērotājs (mēs) atrodas šīs sistēmas iekšienē un ir tās potenciāla neatņemama sastāvdaļa. No iekšienes šis potenciāls ir nulle.
+
+**Īsa atbilde (angliski):**
+No, because the observer (us) resides inside this system and is an integral part of its potential. From the inside, this potential is zero.
+
+- **Classical view:** "Protonam piemīt elementārais lādiņš +e. Ja melnais caurums ir viens liels protons, vai tam nevajadzētu būt milzīgam lādiņam?"
+- **Matrix view:** "Ja tu sēdi ārpus protona potenciāla, tu to vari izmērīt. Melna cauruma gadījumā (mūsu galaktikas robežās), tu esi šī potenciāla neatņemama sastāvdaļa. Tieši tāpēc tas ir vienāds ar 0."
+- **Resolution:** Lādiņš Matricas teorijā nav fundamentāla īpašība, bet gan plūsmu asimetrijas mērs starp divām pus-fāzēm. Ja novērotājs ir daļa no sistēmas, šī asimetrija nav izmērāma kā ārējs lādiņš.
+
+---
+
+### 2. Kā Matricas teorija izskaidro laika dilatāciju (piemēram, mionu dzīves ilguma pagarināšanos)?
+
+**Īsa atbilde:**
+Tā nav laika palēnināšanās, bet gan objekta ģeometriska izstiepšanās, ko veic Transformācijas zona (TZ), lai kompensētu plūsmu nesaderību. Šis izstiepums pagarina iekšējo procesu ceļu absolūtajā laikā.
+
+**Īsa atbilde (angliski):**
+It is not time slowing down, but a geometric stretching of the object, performed by the Transformation Zone (TZ) to compensate for flow incompatibility. This stretching lengthens the internal process path in absolute time.
+
+- **Classical view:** "Mions, kustoties tuvu gaismas ātrumam, dzīvo ilgāk. Standarta modelī tas ir tiešs pierādījums laika relativitātei. Kā to izskaidrot, ja laiks ir absolūts?"
+- **Matrix view:** "Objekts miera stāvoklī ir sfēra. Kustoties tuvu c, objektam sāk veidoties plūsmu nesaderība, kuru objekts kompensē caur izstiepšanos. [...] Garums ir tiešais kustības laika intervāls, kurš arī tiek pasniegts kā Miona dzīves ilgums."
+- **Resolution:** TZ kā adaptācijas mehānisms izstiepj objektu kustības virzienā. Iekšējai modulācijai nepieciešams vairāk Q1 ciklu, lai izplatītos cauri garākajai struktūrai un sasniegtu sabrukšanas slieksni. Absolūtais laiks nav mainījies — mainījies ir procesam nepieciešamo soļu skaits.
+
+---
+
+### 3. Kāpēc kvantu līmenī valda nejaušība, ja Matrica ir stingri determinēta?
+
+**Īsa atbilde:**
+Tā nav īsta nejaušība, bet gan 10¹⁶ neizšķirtu fāžu variantu radīta necaurredzamība. Mūsu eksperimentālā izšķirtspēja (ap 10¹⁹) ir par mazāka nekā matricas fundamentālais dziļums (10³⁵).
+
+**Īsa atbilde (angliski):**
+It is not true randomness, but an opacity created by 10¹⁶ unresolved phase variants. Our experimental resolution (~10¹⁹) is far smaller than the matrix's fundamental depth (10³⁵).
+
+- **Classical view:** "Kvantu mehānikā mērījumu iznākumi ir fundamentāli nejauši. Einšteins tam nepiekrita. Kā Matricas teorija, kas noliedz haosu, izskaidro šo eksperimentālo faktu?"
+- **Matrix view:** "Lielākā eksperimentālās fizikas problēma ir nespēja noteikt Qn fāzi, ar kuru viņa eksperimentē. Jau pieminēto ciparu starpība norāda, ka atlikušais fāzes stāvokļu variantu skaits ir ap ^16. No tā arī izriet visas šodienas fizikas problēmas."
+- **Resolution:** Mēs vienmēr mērām tikai Qn līmeņa integrālo rezultātu pēc tam, kad 10¹⁶ fāžu varianti jau ir izspēlējušies fundamentālajā līmenī. Šī neizšķirtā fāžu kopa rada statistisku ainu, ko mēs kļūdaini uzskatām par fundamentālu nejaušību.
+
+---
+
+### 4. Kāpēc elektrons, mions un tau daļiņa ir ar tik atšķirīgām masām, ja to uzbūve ir vienāda?
+
+**Īsa atbilde:**
+Tās ir vienas un tās pašas slēgtās EM struktūras dažādas enerģētiskās amplitūdas. Katra aizņem atšķirīgu matricas punktu skaitu, kas tieši nosaka tās masu (inerci).
+
+**Īsa atbilde (angliski):**
+They are different energy amplitudes of the same closed EM structure. Each occupies a different number of matrix points, which directly determines its mass (inertia).
+
+- **Classical view:** "Standarta modelī šīs daļiņas ir vienādas, bet ar dažādām masām, ko piešķir Higsa lauks. Kā Matricas teorija to izskaidro?"
+- **Matrix view:** "Tu taču nevari apstrīdēt, ka EM vilnim ir enerģētiskā amplitūda. [...] Elektrons+ ir tas pats tikai slēgtā formā. Te pastāv tiešā likumsakarība starp enerģijas daudzumu un matricas punktu skaitu, kuru aizņem katrs minētais objekts."
+- **Resolution:** Masa nav ārēja lauka piešķirta, bet gan telpiski-enerģētiskās amplitūdas spektrs. Jo lielāka amplitūda, jo vairāk matricas punktu tiek iesaistīts slēgtajā plūsmā, un jo lielāka ir inerce (masa).
+
+---
+
+### 5. Kas īsti ir Higsa bozons Matricas teorijā?
+
+**Īsa atbilde:**
+Tas nav ne daļiņa, ne lauka kvants, bet gan matricas plaisas atjaunošanas akta enerģētiskais nospiedums. 125 GeV ir enerģijas daudzums, kas nepieciešams, lai atjaunotu noteiktu Qn izmēra iznīcinātu matricas punktu sfēru.
+
+**Īsa atbilde (angliski):**
+It is neither a particle nor a field quantum, but the energy imprint of a matrix rupture repair event. 125 GeV is the energy amount required to restore a destroyed sphere of matrix points of a specific Qn size.
+
+- **Classical view:** "LHC atklāja Higsa bozonu ar masu ~125 GeV. Kā Matricas teorija interpretē šo atklājumu, ja tai nav Higsa lauka?"
+- **Matrix view:** "Pie sadursmes ar 2c nepastāv jautājums, kas palika no objektiem. Pastāv jautājums, kas notika ar matricas vietu, kurā tas notika, un cik daudz Visuma matricas punktu pārvērtās smalkākā enerģijā (tā ir plaisa matricā), kuru Visums atjaunoja. Tā arī ir bilance."
+- **Resolution:** Protonu frontāla sadursme ar ātrumu ~2c iznīcina pašus matricas punktus. Atjaunošanas process, izmantojot esošo un tumšo enerģiju, ir kvantēts atbilstoši iznīcinātās Qn sfēras lielumam. 125 GeV ir šīs konkrētās Qn vienības atjaunošanas "cena".
+
+---
+
+*Šīs atbildes atspoguļo teorijas pašreizējo attīstības stadiju un var tikt precizētas.*
