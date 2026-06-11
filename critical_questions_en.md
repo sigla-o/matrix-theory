@@ -23,6 +23,8 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 13. [Entanglement and the EPR Paradox](#7-entanglement-and-the-epr-paradox)
 14. [Weak Interaction and W/Z Bosons](#8-weak-interaction-and-wz-bosons)
 15. [Matter-Antimatter Asymmetry (CP Violation)](#9-matter-antimatter-asymmetry-cp-violation)
+16. [Incompatibility of Quantum Field Theory and General Relativity](#12-incompatibility-of-quantum-field-theory-and-general-relativity)
+17. [Why Physics Has Not Arrived at This Solution](#13-why-physics-has-not-arrived-at-this-solution)
 
 ---
 
@@ -222,6 +224,35 @@ How can the transition points between the audit, accumulation, and expansion pha
 
 **Explanation:** Unlike a photon, which crosses a medium with a specific direction, the proton's internal modulation travels almost parallel to the Universe's surface. This geometry, encountering the transition between two matrices (TZ), creates a precise 0° and 180° shift that is calculable. The energy difference between these two shifts determines the dominant half-phase. Since the Universe's spherical curvature already introduces a systematic shift in favor of the 0° phase, matter dominates. CP symmetry violation is a direct imprint of the vertical modulation and matrix geometry in the horizontal matrix.
 
+## 16. Incompatibility of Quantum Field Theory and General Relativity
+
+**Standard Model view:** General relativity (GR) describes gravity as the curvature of spacetime and is deterministic. Quantum field theory (QFT) describes the other three forces on a static, flat space background and is fundamentally probabilistic. Attempts to unify them (e.g., at the center of a black hole or at the beginning of the Big Bang) result in infinite values in the mathematics. GR is non-renormalizable — it cannot be turned into a consistent quantum theory.
+
+**Matrix Theory view:** In Matrix Theory, this incompatibility does not exist. Mathematics is constrained by the horizontal range, which does not permit singularities. Gravity and quantum phenomena fit within a unified Qn phase system.
+
+**Matrix Theory answer:**
+> In Matrix Theory, mathematics is constrained by the horizontal range, which does not permit singularities. QFT is closest to Matrix Theory. But it also requires the same constraint. In Matrix Theory, I see no contradiction between Qn and gravity, because everything fits within Qn phases.
+
+**Explanation:** The matrix point spacing (10⁻³⁵ m) is the absolute lower bound — nothing can be smaller, nothing can collapse to zero. A singularity is only a mathematical extrapolation that ignores the discrete nature of the matrix. Gravity is not a separate force that needs to be unified with the quantum world — it is a TE flow pressure imbalance, subject to the same Qn cycles, phase windows, and synchronous rotation as all other flows. There is no "quantum world" and "gravity world" — only a single matrix architecture where everything follows the same laws.
+
+---
+
+## 17. Why Physics Has Not Arrived at This Solution
+
+**Standard Model view:** Physics has been searching for a "quantum gravity" theory for nearly a century — string theory, loop quantum gravity, etc. — yet none have been experimentally confirmed.
+
+**Matrix Theory view:** Physics has reached an impasse due to three fundamental errors, all stemming from an incomplete map of reality.
+
+**Matrix Theory answer:**
+> Starting with the ^20 step, not introducing phase to the quantum, and trying to virtualize one's inability to explain.
+
+**Explanation:**
+
+1. **Non-recognition of the vertical 10²⁰ step.** Physics has confined itself to a single horizontal — our Universe's matrix. It does not recognize the exponential hierarchy of the vertical. Without this step, it is impossible to understand why different energy levels (proton mass, Higgs boson, W/Z bosons, Planck mass) are interconnected.
+
+2. **Failure to introduce phase to the quantum.** Quantum mechanics speaks of particle states but does not introduce phase as a fundamental dimension of reality. In Matrix Theory, everything is phase — synchronous rotation, two half-phases, Qn cycles. If phase is not introduced, everything reduces to probabilities — like a shadow cast by the unresolved 10¹⁶ phase variants.
+
+3. **Virtualization as a cover for inability to explain.** Instead of describing real flow processes in matrix channels, physics uses the concept of virtual particles — "particles that momentarily appear and disappear." This is a mathematical trick masking an inability to explain. In Matrix Theory, nothing is virtual — everything is real flows with their own parameters, and force is a direct outcome of the flow states.
 ---
 
 *This document reflects the theory's current stage of development and will be supplemented as discussions and modeling progress.*
