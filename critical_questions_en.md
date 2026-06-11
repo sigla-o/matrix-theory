@@ -19,6 +19,10 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 9. [Universe Expansion and Dark Energy](#9-universe-expansion-and-dark-energy)
 10. [Cosmological Redshift](#10-cosmological-redshift)
 11. [Open Questions and Research Directions](#11-open-questions-and-research-directions)
+12. [Force Transmission Without Virtual Particles](#6-force-transmission-without-virtual-particles)
+13. [Entanglement and the EPR Paradox](#7-entanglement-and-the-epr-paradox)
+14. [Weak Interaction and W/Z Bosons](#8-weak-interaction-and-wz-bosons)
+15. [Matter-Antimatter Asymmetry (CP Violation)](#9-matter-antimatter-asymmetry-cp-violation)
 
 ---
 
@@ -167,6 +171,56 @@ How does Matrix Theory explain the precise "chirp" signal form observed by LIGO,
 
 ### 11.4. Quantitative Description of the Universe's Cyclic Phases
 How can the transition points between the audit, accumulation, and expansion phases be precisely determined? What is the criterion for when the Universe is "ready" for a new expansion?
+
+## 12. Force Transmission Without Virtual Particles
+
+**Standard Model view:** Fundamental forces are transmitted by exchange bosons — virtual particles. Electromagnetism uses virtual photons, the strong force uses gluons, the weak force uses W and Z bosons. Virtual particles are a mathematical tool of quantum field theory.
+
+**Matrix Theory view:** There is nothing virtual. Everything that participates in any energy exchange contains its own parameters. Forces arise from the flow states in the potential contact zone between objects.
+
+**Matrix Theory answer:**
+> In this theory, nothing is virtual. Everything that participates in any energy exchange contains its own parameters. Understanding and modeling these parameters is what provides the answers. Electrons repel because, due to the synchronous phase of the objects, there are always opposing flows at the potential contact point between all objects.
+
+**Explanation:** The synchronous phases of two identical objects (e.g., electrons) create opposing flows at the potential contact point — this causes repulsion. In the case of matter and antimatter, unidirectional flows arise, leading to annihilation. Force is not something that "flies" from one object to another — it is a direct outcome of the flow states.
+
+---
+
+## 13. Entanglement and the EPR Paradox
+
+**Standard Model view:** Entangled particles form a unified, indivisible system regardless of distance. Correlations are instantaneous. Bell's inequality violations prove that reality is non-local — the world is fundamentally non-local.
+
+**Matrix Theory view:** Matrix Theory does not permit c-speed violation within the horizontal framework. Entanglement is not a signal transmitted at speed > c, but a vertical process manifesting through dark energy.
+
+**Matrix Theory answer:**
+> Matrix Theory does not permit c-speed violation within the horizontal framework. There also exists dark energy, which is an inseparable part of matter. Dark energy possesses static properties and corresponding Ln levels. This energy is the direct representative of the vertical, where the laws are different, including the speed of motion. Matrix Theory has contact with the vertical, but it does not describe its regularities. If we look only from the contact point of view and take into account dark energy's "overgrowth" in the Universe matrix space, the closest explanation is a row of Newton's balls on strings, where the first and last objects are in an entangled state, but the space transmits the impulse directly through Dark Energy.
+
+**Explanation:** Two entangled objects are connected through a dark energy envelope that encompasses both. The impulse is transmitted not through matrix channels (where it is limited by c), but through the vertical, which has no horizontal speed limit. Bell's inequality violations are not proof of non-local reality, but proof that the measurement has touched the vertical level — the dark energy connecting both objects.
+
+---
+
+## 14. Weak Interaction and W/Z Bosons
+
+**Standard Model view:** The weak force is transmitted by massive W and Z bosons. They are fundamental particles that acquire mass through the Higgs mechanism. W and Z bosons were directly discovered at CERN in 1983.
+
+**Matrix Theory view:** The weak interaction is a manifestation of internal modulation, leading to energy release in two half-phases. W/Z bosons are not fundamental particles, but transitional forms.
+
+**Matrix Theory answer:**
+> In both mentioned cases, transitional forms can be discerned, in which energies with an object size of 10^-95m are involved. This is a normal internal component of matter, which fills the internal EM modulation. During the transition process, the modulation remains, but the EM components change. The same applies to the Higgs boson. Fragmented energy, under the influence of the matrix structure's organized pressure, squeezes out the 10-95m energy into the vertical and restores the default structure. Then it's a matter of Qn sizes, whose cyclicity determines the boson sizes. Positive, negative, or neutral bosons — this is already the beginning of the modulation process that leads to phase affiliation.
+
+**Explanation:** W/Z bosons are transitional forms of the internal EM modulation, where 10⁻⁹⁵ m energy (a normal internal component of matter) changes its configuration. Their masses (~80 and ~91 GeV) correspond to specific Qn levels. The positive, negative, or neutral charge marks the beginning of the modulation process that determines which half-phase (0° or 180°) the process will belong to.
+
+---
+
+## 15. Matter-Antimatter Asymmetry (CP Violation)
+
+**Standard Model view:** At the Universe level, there is much more matter than antimatter. CP symmetry violation has been experimentally observed in the weak interaction, but it is too small to explain the observed asymmetry. New sources of CP violation are being sought.
+
+**Matrix Theory view:** Matter dominance is not random. It is determined by two factors: the Mother's modulation and the Universe's spherical curvature. The modulation, crossing the TZ almost parallel to the Universe's surface, acquires a precise 0° and 180° shift.
+
+**Matrix Theory answer:**
+> You know that a modulated (photon) flow, crossing a transition between different media, changes direction. Two matrices are also the condition where the modulation, crossing the transition, gets "recalculated." There is one essential difference from the photon. The photon has a crossing direction, but in our case, the modulation travels almost parallel to the Universe's surface. This ensures a 0 and 180 degree shift in numerical value, which can be calculated in matrix point sizes and correspondingly, in energies. It is precisely this energy difference that determines which half-phase will be dominant.
+
+**Explanation:** Unlike a photon, which crosses a medium with a specific direction, the proton's internal modulation travels almost parallel to the Universe's surface. This geometry, encountering the transition between two matrices (TZ), creates a precise 0° and 180° shift that is calculable. The energy difference between these two shifts determines the dominant half-phase. Since the Universe's spherical curvature already introduces a systematic shift in favor of the 0° phase, matter dominates. CP symmetry violation is a direct imprint of the vertical modulation and matrix geometry in the horizontal matrix.
 
 ---
 
