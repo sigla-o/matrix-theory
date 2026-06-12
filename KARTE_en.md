@@ -475,6 +475,21 @@ A black hole consists of four concentric zones, the order of which partly depend
 **15.1. Structure of the Vertical — Exponential Step and the Known Fragment**
 The vertical extends to both sides of any horizontal matrix with a step of 10²⁰ m (or 10⁻²⁰ m, depending on direction). We only know a few levels of this hierarchy, forming a small fragment of the map. Beyond this fragment, we cannot claim anything — everything has its beginning and end, but our current understanding is at the level of Columbus: we only know what we see.
 
+**15.1.a – Origin and flexibility of the ^20 step**
+
+The vertical step of 10²⁰ is not an arbitrarily chosen number. It is derived from the ratio of two experimentally measured quantities:
+
+- Planck length ≈ 10⁻³⁵ m (the natural matrix spacing in the Universe matrix)
+- Mean proton radius ≈ 10⁻¹⁵ m (the size of the most stable matter object)
+
+The ratio between these two quantities is:
+
+10⁻¹⁵ m / 10⁻³⁵ m = 10²⁰
+
+It is this ratio that became the exponential step of the vertical. Since both source quantities — the Planck length and the proton radius — are empirical (obtained from measurements, not derived theoretically), 10²⁰ is also not an absolute, immutable constant. It is a **rounded working value** that serves as an initial skeleton. It can and should be refined based on new experimental data.
+
+Thus, the ^20 step is not a dogmatic postulate but a flexible instrument derived from two fundamental matrix nodes — the Planck level (the lower horizontal) and the proton level (the upper horizontal). This connection makes the vertical a measurable hierarchy, not a mystical one.
+
 **15.2. Mother Levels and Their Modulations in Our Universe**
 A new Universe at any vertical level can only arise if it has a mother of appropriate size — a Universe of a larger vertical level that has reached a certain degree of organization. Each vertical level is responsible for a specific set of phenomena in the lower levels:
 
