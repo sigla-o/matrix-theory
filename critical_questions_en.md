@@ -82,17 +82,18 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 
 ---
 
-## 5. The Nature of the Higgs Boson
+## 5. The Nature of the Higgs Boson and the Statistical Filtration Paradox
 
-**Standard Model view:** The Higgs boson is the quantum of the Higgs field — an elementary particle with a mass of ~125 GeV/c². Its discovery in 2012 confirmed the Higgs mechanism as the explanation for the origin of mass.
+**Standard Model view:** The Higgs boson is the quantum of the Higgs field — an elementary particle with a mass of ~125 GeV/c². In proton collisions at the LHC, detectors register a vast, continuous energy spectrum (from background noise at ~135 MeV up to 6 TeV jets). In approximately 99.999% of cases, nothing unique occurs (background scattering), but in a microscopic fraction of cases (~0.0001%), a statistical deviation (a peak) appears in the data at the 125 GeV threshold, which is declared the discovery of a new particle.
 
-**Matrix Theory view:** There is neither a Higgs field nor a Higgs boson as a fundamental particle. Mass arises from Qn size and flow organization. The 125 GeV event is the energy imprint of a matrix rupture repair event.
+**Matrix Theory view:** There is no independent Higgs field or standalone particle. Academic physics currently suffers from "confirmation bias" — it ignores 99.999% of the matrix's own fundamental work (the logic of scattering) in order to worship a 0.0001% statistical peak that it has artificially provoked with a +2c relative impact. The 125 GeV event is not a new object, but the energy imprint of a local matrix rupture repair event.
 
 **Matrix Theory answer:**
 > In a collision at 2c, the question is not what remained of the objects. The question is what happened to the matrix location where it occurred and how many points of the Universe matrix were converted into finer energy (this is a rupture in the matrix), which the Universe then restored. That is the balance.
 
-**Explanation:** A head-on proton collision at an effective speed of ~2c exceeds the matrix's structural limit (c). Both protons and their TZs no longer exist as intact structures. Matrix points are destroyed — a rupture in the matrix. 125 GeV is the energy amount required to restore a destroyed sphere of points of a specific Qn size. This is not a mass-granting mechanism but the cost of maintaining the matrix's integrity.
-
+**Explanation and phase mechanics:**
+- **Why is the background noise 99.999%?** When two protons meet at a +2c relative speed, the enormous impact energy acts on the background matrix. However, in the vast majority of cases (99.999%), the internal matrix point rotation phase angles of the two proton structures at the collision micro-point do not align perfectly. Because the phases do not match, the matrix cannot block this flow. The impact pressure simply dissipates (drains away) through the free TE channels and propagates through space as low-level waves (mesons, pions), which physics dismisses as "background noise."
+- **What is the 0.0001% phase resonance?** Once in hundreds of thousands of collisions, the geometrically inevitable occurs: the two protons collide in perfect phase and angle alignment relative to the background matrix. In this unique instant, the +2c pressure is concentrated so densely that the background matrix points cannot channel the flow away. A local hydrodynamic shock is created — a "matrix rupture." The amount of energy required to create this rupture in the background matrix and for it to instantly restore itself to its default state is strictly fixed — it is determined by the structural strength of the matrix grid. This energy fracture threshold is 125 GeV. Physics photographs this rupture, names it a boson, and begins calculating its mystical properties, without seeing the fabric itself.
 ---
 
 ## 6. Force Transmission Without Virtual Particles
