@@ -82,17 +82,18 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 
 ---
 
-## 5. Higsa bozona daba
+## 5. Higsa bozona daba un statistikas filtrācijas paradokss
 
-**Standarta modeļa skatījums:** Higsa bozons ir Higsa lauka kvants — elementārdaļiņa ar masu ~125 GeV/c². Tā atklāšana 2012. gadā apstiprināja Higsa mehānismu kā masas izcelsmes skaidrojumu.
+**Standarta modeļa skatījums:** Higsa bozons ir Higsa lauka kvants — elementārdaļiņa ar masu ~125 GeV/c². Protonu sadursmēs LHC detektori reģistrē milzīgu, nepārtrauktu enerģijas spektru (no fona trokšņa ~135 MeV līdz pat 6 TeV strūklām). Aptuveni 99.999% gadījumu nekas unikāls nenotiek (fona izkliede), bet mikroskopiskā daļā gadījumu (~0.0001%) datu masīvā parādās statistiska novirze (pīķis) pie 125 GeV sliekšņa, kas tiek pasludināta par jaunas daļiņas atklāšanu.
 
-**Matricas teorijas skatījums:** Nav ne Higsa lauka, ne Higsa bozona kā fundamentālas daļiņas. Masa izriet no Qn lieluma un plūsmu organizācijas. 125 GeV notikums ir matricas plaisas atjaunošanas akta enerģētiskais nospiedums.
+**Matricas teorijas skatījums:** Nav nekāda patstāvīga Higsa lauka vai neatkarīgas daļiņas. Akadēmiskā fizika šobrīd cieš no "apstiprinājuma aizsprieduma" (confirmation bias) — tā ignorē 99.999% matricas paša pamatdarba (izkliedes loģiku), lai pielūgtu 0.0001% statistisko pīķi, ko pati mākslīgi izprovocējusi ar +2c relatīvo triecienu. 125 GeV notikums ir nevis jauns objekts, bet gan fona matricas lokālās plaisas atjaunošanas akta enerģētiskais nospiedums.
 
 **Matricas teorijas atbilde:**
 > Pie sadursmes ar 2c nepastāv jautājums, kas palika no objektiem. Pastāv jautājums, kas notika ar matricas vietu, kurā tas notika, un cik daudz Visuma matricas punktu pārvērtās smalkākā enerģijā (tā ir plaisa matricā), kuru Visums atjaunoja. Tā arī ir bilance.
 
-**Skaidrojums:** Protonu frontāla sadursme ar kopējo ātrumu ~2c pārsniedz matricas strukturālo robežu (c). Abi protoni un to TZ vairs neeksistē kā veselas struktūras. Notiek matricas punktu iznīcināšana — plaisa matricā. 125 GeV ir enerģijas daudzums, kas nepieciešams, lai atjaunotu noteikta Qn izmēra iznīcinātu punktu sfēru. Tas nav masas piešķiršanas mehānisms, bet gan matricas integritātes uzturēšanas cena.
-
+**Skaidrojums un fāžu mehānika:**
+- **Kāpēc fona troksnis ir 99.999%?** Kad divi protoni satiekas ar +2c relatīvo ātrumu, milzīgā trieciena enerģija iedarbojas uz fona matricu. Taču absolūtajā vairākumā gadījumu (99.999%) abu protonu struktūru iekšējie matricas punktu rotācijas fāžu leņķi sadursmes mikropunktā nesakrīt ideāli. Tā kā fāzes nesaskan, matrica nespēj nobloķēt šo plūsmu. Trieciena spiediens vienkārši dissipē (notek) pa brīvajiem TE kanāliem un izplatās telpā kā zema līmeņa viļņi (mezoni, pioni), ko fizika noraksta "fona troksnī".
+- **Kas ir 0.0001% fāžu rezonanse?** Reizi simtos tūkstošu sadursmju notiek ģeometriski neizbēgamais: abi protoni saduras ideālā fāžu un leņķu sakritībā attiecībā pret fona matricu. Šajā unikālajā mirklī +2c spiediens tiek koncentrēts tik blīvi, ka fona matricas punkti nespēj plūsmu novadīt prom. Veidojas lokāls hidrodinamiskais trieciens — "matricas plaisa". Enerģijas daudzums, kas nepieciešams, lai šo plaisu fona matricā radītu un lai tā acumirklī restaurētos atpakaļ default stāvoklī, ir stingri fiksēts — to nosaka matricas režģa strukturālā izturība. Šis enerģētiskais lūzuma slieksnis ir 125 GeV. Fizika nofotografē šo plaisu, nosauc to par bozonu un sāk aprēķināt tā mistiskās īpašības, neredzot pašu audumu.
 ---
 
 ## 6. Spēku pārnese bez virtuālajām daļiņām
