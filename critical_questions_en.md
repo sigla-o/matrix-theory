@@ -27,7 +27,7 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 17. [Why Physics Has Not Arrived at This Solution](#17-why-physics-has-not-arrived-at-this-solution)
 18. [Supernovae — The Process of Horizontal Transition](#18-supernovae--the-process-of-horizontal-transition)
 19. [Galaxy Formation — The Black Hole's Instrument](#19-galaxy-formation--the-black-holes-instrument)
-20. [Precision Limits and the Mechanical Nature of the Lorentz Factor](#20-precision-limits-and-the-mechanical-nature-of-the-lorentz-factor)
+20. [20. Precision Boundaries and the Mechanical Nature of the Lorentz Factor](#lorentz-hardware)
 
 ---
 
@@ -302,6 +302,7 @@ In Matrix Theory, all physical parameters are dimensionless quantities (phase an
 
 **Explanation:** After the "Audit," a black hole loses most of its galactic structure. During the accumulation phase, it converts energy into protons through its jets, and its dark energy zone places them in specific positions. When the proton accumulation reaches a critical amount, these "star locations" activate — star formation begins. Stars, in turn, through their life cycles (especially supernovae), return energy back to the black hole, raising the dark energy level. The Kuiper Belt and Oort Cloud are examples of unactivated matter reserves — "spare parts" already in position but not yet incorporated into stars or planets.
 
+<a id="lorentz-hardware"></a>
 ## 20. Precision Boundaries and the Mechanical Nature of the Lorentz Factor
 
 **Standard Model View:** The Lorentz factor ($\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$) is treated as an absolute, infinitely smooth mathematical curve governing time dilation, mass increase, and length contraction. As velocity approaches the speed of light ($v \to c$), the factor spikes to infinity ($\gamma \to \infty$). This is the baseline for the classical "Twin Paradox" — the assumption that a fast-traveling twin physically ages slower and returns younger because pushing an object to exact $c$ requires infinite energy.
