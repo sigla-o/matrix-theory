@@ -479,6 +479,21 @@ Melnais caurums sastāv no četrām koncentriskām zonām, kuru secība daļēji
 **15.1. Vertikāles uzbūve — eksponenciālais solis un zināmais fragments**
 Vertikāle sniedzas uz abām pusēm no jebkuras horizontālās matricas ar soli 10²⁰ m (vai 10⁻²⁰ m, atkarībā no virziena). Mums ir zināmi tikai daži šīs hierarhijas līmeņi, kas veido nelielu kartes fragmentu. Tālāk par šo fragmentu nevaram neko apgalvot — visam ir savs sākums un beigas, taču mūsu pašreizējā izpratne ir Kolumba līmenī: mēs zinām tikai to, ko redzam.
 
+**15.1.a – ^20 soļa izcelsme un elastība**
+
+Vertikāles solis 10²⁰ nav patvaļīgi izvēlēts skaitlis. Tas iegūts no divu eksperimentāli izmērītu lielumu attiecības:
+
+- Planka garums ≈ 10⁻³⁵ m (dabiskais matricas solis Visuma matricā)
+- Protona vidējais rādiuss ≈ 10⁻¹⁵ m (stabilākā matērijas objekta izmērs)
+
+Attiecība starp šiem diviem lielumiem ir:
+
+10⁻¹⁵ m / 10⁻³⁵ m = 10²⁰
+
+Tieši šī attiecība kļuva par vertikāles eksponenciālo soli. Tā kā abi izejas lielumi — Planka garums un protona rādiuss — ir empīriski (iegūti no mērījumiem, nevis teorētiski atvasināti), arī 10²⁰ nav absolūta, nemainīga konstante. Tā ir **noapaļota darba vērtība**, kas kalpo kā sākotnējais skelets. To var un vajag precizēt, balstoties uz jauniem eksperimentāliem datiem.
+
+Tādējādi ^20 solis nav dogmatisks postulāts, bet gan elastīgs instruments, kas izriet no diviem fundamentāliem matricas mezgliem — Planka līmeņa (apakšējā horizontāle) un protona līmeņa (augšējā horizontāle). Šī saikne padara vertikāli par izmērāmu, nevis mistisku hierarhiju.
+
 **15.2. Māšu līmeņi un to modulācijas mūsu Visumā**
 Jauns Visums jebkurā vertikāles līmenī var rasties tikai tad, ja tam ir atbilstoša lieluma māte — lielāka vertikāles līmeņa Visums, kas sasniedzis noteiktu organizācijas pakāpi. Katrs vertikāles līmenis atbild par noteiktu parādību klāstu zemākajos līmeņos:
 
