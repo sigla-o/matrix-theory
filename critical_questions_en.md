@@ -350,6 +350,14 @@ This section defines the operation of high-level software (Life) running on the 
 * **System Fork:** Cancer is not a code malfunction or chaos, but a highly organized **parallel P2P structure**—an unauthorized protocol **fork** running on the exact same hardware base.
 * **Autonomy:** The cancer cell cluster disconnects from the main network synchronization and completely ignores Vertical governance, while maintaining excellent internal P2P coordination.
 * **Resource Hijacking:** This rogue network hijacks and consumes shared hardware resources—the TE flow and nutrient pathways—diverting them toward aggressive local self-replication (a recursive loop) operating against the core system architecture.
+  
+#### 4. Vertical Write-Back Protocol (Chromosome Protection)
+* **Hypervisor Role:** The Soul does not issue low-level operational commands but controls the system's overall perimeter and environment. When the body successfully fulfills its task and executes its genetic lineage, a *Write-Back* mechanism is triggered, updating the chromosome set with newly acquired vertical experience.
+* **Unhackable Code:** This data is written into the chromosomes directly from the Vertical axis and is cryptographically signed with a unique system signature. Any horizontal attempts to hack or artificially modify this code (bio-hacking, genetic engineering) yield no fundamental results. The horizontal layer can alter temporary hardware configurations, but it cannot change or overwrite the vertically protected core code.
+
+#### 5. Session Timeout and Anti-Tamper Firewall (Aging)
+* **Security Protocol:** Aging is not a system flaw or wear-and-tear, but a built-in security mechanism (*Session Timeout / Anti-Tamper*). If a single firmware session lasted 1000 years on the exact same hardware platform, external horizontal code (rapidly mutating viruses and bacteria) would achieve full reverse engineering of the platform and completely compromise the organism.
+* **Time as Defense:** Limiting session duration (lifespan) acts as a firewall that prevents external code from permanently adapting to the body. Artificial attempts to horizontally extend life dismantle this firewall, giving viruses the time required to hack the bio-platform, which ultimately leads to the systemic collapse of the entire species.
 ---
 
 *This document reflects the theory's current stage of development and will be supplemented as discussions and modeling progress.*
