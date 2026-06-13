@@ -28,7 +28,7 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 18. [Supernovas — horizontāļu nomaiņas process](#18-supernovas--horizontāļu-nomaiņas-process)
 19. [Galaktiku veidošanās — melnā cauruma instruments](#19-galaktiku-veidošanās--melnā-cauruma-instruments)
 20. [Lorenca faktora precizitātes robežas un mehāniskā daba](#20-lorenca-faktora-precizitātes-robežas-un-mehāniskā-daba)
-* [21. Dzīvības algoritmi, tehnisko apziņu P2P tīkls un asu saskarsmes arhitektūra](#punkts-21)
+21. [Dzīvības algoritmi, tehnisko apziņu P2P tīkls un asu saskarsmes arhitektūra](#punkts-21)
 ---
 
 ## 1. Melnais caurums kā "viens liels protons" — lādiņa jautājums
