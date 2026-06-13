@@ -334,6 +334,17 @@ Matricas teorijā visi fizikālie parametri ir bezdimensijas lielumi (fāžu le�
 * **Mehānika:** Šūna nav pasīvs bioķīmisks elements, bet gan autonoma mikroprogrammatūra (*firmware*) ar lokālu **tehnisko apziņu**.
 * **Slēgtais cikls:** Atšķirībā no nedzīvās dabas, kas darbojas atvērtā ciklā (*open-loop*) un pasīvi pakļaujas inercei, tehniskā apziņa nodrošina slēgtu **atgriezenisko saiti** (*closed-loop*), aktīvi uzturot savu struktūru pret fona režģa ietekmi.
 * **Kvantu P2P protokols:** Informācijas apmaiņa starp šūnu tehniskajām apziņām pa horizontāli ($L_0$ režģis) notiek tiešā **P2P (Peer-to-Peer)** režīmā kvantu fāžu līmenī. Tas nodrošina tūlītēju sistēmas sinhronizāciju un lokālo SP punktu aizsardzību bez makrolīmeņa (ķīmisko vai nervu signālu) aiztures.
+
+#### 2. Divu asu saskarsmes punkti (Vārtejas)
+* **Decentralizēts interfeiss:** Saskarsmes punkti ar Vertikāli (Dvēseles asi) ir decentralizēti un integrēti katrā ķermeņa šūnā. Kopējā makro-apziņa rodas, visam paralēlo vārteju masīvam vienlaicīgi nolasot Vertikāles signālu.
+* **Horizontālā vektora ietekme:** Tā kā šie punkti fiziski atrodas uz horizontāles režģa virsmas, tos var ietekmēt *tikai* horizontāles virzienā.
+* **Aparatūras bloķēšana:** Ķīmiskas vielas (toksīni, anestēzija, stimulatori) izmaina šūnu tehnisko apziņu, mehāniski nobloķējot vai kropļojot šīs vārtejas. Vertikāles pamatkods paliek nemainīgs, bet horizontālais aparāts zaudē spēju to tīri nolasīt, izraisot apziņas izmaiņas vai pagaidu nodzišanu.
+
+#### 3. Protokola anomālijas (Vēža mehānika)
+* **Sistēmas Fork:** Vēzis nav koda bojājums vai haoss, bet gan ļoti efektīvi organizēta **paralēla P2P struktūra** — neautorizēta protokola nodalīšanās (*fork*) uz tās PowerShell vai dzelžu bāzes.
+* **Autonomija:** Vēža šūnu kopums atslēdzas no kopējā tīkla sinhronizācijas un pilnībā ignorē Vertikāles vadību, tajā pašā laikā saglabājot izcilu iekšējo P2P koordināciju.
+* **Resursu pārtveršana:** Šis paralēlais tīkls pārtver un patērē kopējos aparatūras resursus — TE plūsmu un barības maģistrāles — novirzot tos agresīvai lokālai pašreplikācijai (rekursīvai cilpai) pret galvenās sistēmas arhitektūru.
+
 ---
 
 *Šis dokuments atspoguļo teorijas pašreizējo attīstības stadiju un tiks papildināts, attīstoties diskusijām un modelēšanai.*
