@@ -370,7 +370,15 @@ This section defines the operation of high-level software (Life) running on the 
 #### 8. Holistic EM Field Memory and Continuous Background P2P Process
 * **Non-Local Memory:** The organism is a complex electromagnetic field at the quantum level. Information storage does not occur solely within the brain — every daily imprint and experience is recorded across the entire field simultaneously (holographic principle) throughout the L_0 grid.
 * **Continuous P2P Background:** Everything left behind by the day does not vanish at its conclusion. It persists as a continuous, permanent background P2P information exchange across the body's entire hardware, maintaining the overall resonance of the field and forming the raw data array prior to the Soul's audit.
-* **Role of the Brain and Intellect:** The brain and intellect are not the system's primary data center. They represent merely a specialized hardware node designed for receiving three-dimensional horizontal signals, logical structuring, and linear translation into human-comprehensible thoughts or reactions.  
+* **Role of the Brain and Intellect:** The brain and intellect are not the system's primary data center. They represent merely a specialized hardware node designed for receiving three-dimensional horizontal signals, logical structuring, and linear translation into human-comprehensible thoughts or reactions.
+
+#### 9. Quantum Phase Isolation (Hardware Firewall)
+* **Object-Bound Phase:** The holistic EM field operates within the quantum range, where each quantum possesses a specific phase strictly bound to the object that generated it (the specific individual).
+* **Inviolability of Critical Structures:** This unique phase alignment ensures system integrity. All internal critical structures (the cellular P2P network and SP points) are inherently protected from chaotic overlapping by other fields or arbitrary external interference on the horizontal plane.
+
+#### 10. Collective P2P Interface and the Intellectual Filter
+* **The Gatekeeper:** For inter-system information exchange, a collective P2P interface (network layer) exists, which is partially controlled by the intellect. The intellect functions as an access filter (*Access Controller*).
+* **Mechanics of Mass Synchronization:** External collective processes or ideologies cannot breach the system directly. Synchronization becomes widespread only when the intellect is convinced. Once it accepts the external narrative, it voluntarily opens the gateways of the collective P2P interface, causing the individual EM field to resonate with the frequency of the collective crowd.  
 ---
 
 *This document reflects the theory's current stage of development and will be supplemented as discussions and modeling progress.*
