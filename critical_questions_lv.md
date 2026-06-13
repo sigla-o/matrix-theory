@@ -365,6 +365,14 @@ Matricas teorijā visi fizikālie parametri ir bezdimensijas lielumi (fāžu le�
 * **Ne-lokālā atmiņa:** Organisms ir komplekss elektromagnētiskais lauks kvantu līmenī. Informācijas saglabāšana nenotiek tikai smadzenēs — katrs dienas nospiedums un pieredze ierakstās visā laukā vienlaicīgi (hologrāfiskais princips) pa visu L_0 režģi.
 * **Pastāvīgais P2P fons:** Viss, ko ir atstājusi diena, nepazūd līdz ar tās noslēgumu. Tas turpinās kā nepārtraukts, pastāvīgs P2P informācijas apmaiņas fons visā ķermeņa aparatūrā, uzturot lauka kopējo rezonansi un veidojot jēlo datu masīvu pirms Dvēseles audita.
 * **Smadzeņu un intelekta loma:** Smadzenes un intelekts nav sistēmas galvenais datu centrs. Tie ir tikai specializēts aparatūras mezgls, kas paredzēts ārējās trīsdimensiju horizontāles signālu uztveršanai, loģiskajai strukturēšanai un lineārai tulkošanai cilvēkam saprotamās domās vai reakcijās.
+
+#### 9. Kvantu fāžu izolācija (Aparatūras ugunsmūris)
+* **Fāžu piesaiste objektam:** Iepriekš minētais holistiskais EM lauks darbojas kvantu diapazonā, kur katram kvantam ir specifiska fāze, kas stingri saistīta ar tā radīto objektu (konkrēto cilvēku).
+* **Kritisko struktūru neaizskaramība:** Šis unikālais fāžu marķējums nodrošina sistēmas integritāti. Visas iekšējās kritiskās struktūras (šūnu P2P tīkls un SP punkti) ir dabiski pasargātas no citu cilvēku lauku haotiskas pārklāšanās vai patvaļīgas ārējas ietekmes horizontālē.
+
+#### 10. Kolektīvais P2P interfeiss un intelekta filtrs
+* **Vārtejas sargs:** Starpsistēmu informācijas apmaiņai eksistē kolektīvais P2P interfeiss (tīkla slānis), kuru daļēji kontrolē intelekts. Intelekts darbojas kā piekļuves filtrs (*Access Controller*).
+* **Masu sinhronizācijas mehānisms:** Ārējie kolektīvie procesi vai ideoloģijas nespēj uzlauzt sistēmu tiešā veidā. Sinhronizācija kļūst masveidīga tikai tad, kad tiek pārliecināts intelekts. Tiklīdz tas akceptē ārējo naratīvu, tas pats brīvprātīgi atver kolektīvā P2P interfeisa vārtejas, un individuālais EM lauks sāk rezonēt kopējā pūļa frekvencē.
 ---
 
 *Šis dokuments atspoguļo teorijas pašreizējo attīstības stadiju un tiks papildināts, attīstoties diskusijām un modelēšanai.*
