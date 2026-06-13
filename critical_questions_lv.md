@@ -4,6 +4,8 @@
 
 Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdotajiem jautājumiem.
 
+**Fināla kopsavilkums:** Matricas teorija nevis apgāž Standarta modeli, bet gan ieliek to stingros rāmjos, parādot, ka mūslaiku fizika ir tikai virspusēja, statistiska aproksimācija dziļākajai un dzelžaini determinētajai matricas pamatmezglu mehānikai.
+
 ---
 
 ## Saturs
