@@ -360,7 +360,11 @@ Matricas teorijā visi fizikālie parametri ir bezdimensijas lielumi (fāžu le�
 #### 7. Sapņu ģenerēšanas mehānika
 * **Fāžu konfrontācija:** Sapņi nav nejaušas smadzeņu neironu izlādes vai izolētas simulācijas. Sapnis ir vizuāls un sensorisks blakusprodukts, kas rodas no berzes (interferences), Vertikāles tīrajam kodam sastopoties un pārklājoties ar jēlo, trokšņaino horizontāles dienas pieredzi.
 * **Dekodēšana:** Lokālā tehniskā apziņa (šūnu aparāts) mēģina šo augsta līmeņa salīdzināšanas un sinhronizācijas procesu interpretēt sev saprotamos simbolos un tēlos, ko cilvēks uztver kā sapni.
-
+  
+#### 8. Holistiskā EM lauka atmiņa un pastāvīgais fona P2P process
+* **Ne-lokālā atmiņa:** Organisms ir komplekss elektromagnētiskais lauks kvantu līmenī. Informācijas saglabāšana nenotiek tikai smadzenēs — katrs dienas nospiedums un pieredze ierakstās visā laukā vienlaicīgi (hologrāfiskais princips) pa visu L_0 režģi.
+* **Pastāvīgais P2P fons:** Viss, ko ir atstājusi diena, nepazūd līdz ar tās noslēgumu. Tas turpinās kā nepārtraukts, pastāvīgs P2P informācijas apmaiņas fons visā ķermeņa aparatūrā, uzturot lauka kopējo rezonansi un veidojot jēlo datu masīvu pirms Dvēseles audita.
+* **Smadzeņu un intelekta loma:** Smadzenes un intelekts nav sistēmas galvenais datu centrs. Tie ir tikai specializēts aparatūras mezgls, kas paredzēts ārējās trīsdimensiju horizontāles signālu uztveršanai, loģiskajai strukturēšanai un lineārai tulkošanai cilvēkam saprotamās domās vai reakcijās.
 ---
 
 *Šis dokuments atspoguļo teorijas pašreizējo attīstības stadiju un tiks papildināts, attīstoties diskusijām un modelēšanai.*
