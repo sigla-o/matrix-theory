@@ -5,7 +5,7 @@
 
 ## Vertikāle
 
-**Definīcija:** Vertikāle ir cikliska protonu tipa stabilu enerģijas vienību hierarhija, kura eksursē neatkarīgi no horizontālēm un veido Visuma pamatstruktūru. Kamēr nav apstiprinājuma par robežām, varam uzskatīt par begalīgu.
+**Definīcija:** Vertikāle ir cikliska protonu tipa stabilu enerģijas vienību hierarhija, kura eksistē neatkarīgi no horizontālēm un veido enerģiju hierarhijas pamatstruktūru. Kamēr nav apstiprinājuma par robežām, varam uzskatīt par bezgalīgu.
 
 ### Pamatprincipi
 
