@@ -1,7 +1,59 @@
 # MATRICAS TEORIJAS LOĢISKĀ KARTE
 ## Pilnā redakcija (atjaunināta)
 
-### I. ABSOLŪTAIS PAMATS
+###  ABSOLŪTAIS PAMATS
+
+## Vertikāle
+
+**Definīcija:** Vertikāle ir cikliska protonu tipa stabilu enerģijas vienību hierarhija, kura eksursē neatkarīgi no horizontālēm un veido Visuma pamatstruktūru. Kamēr nav apstiprinājuma par robežām, varam uzskatīt par begalīgu.
+
+### Pamatprincipi
+
+1. **Enerģijas nezūdamība**
+   - Enerģija nepazūd, bet nepārtraukti maina savu organizācijas formu.
+
+2. **Cikliskums**
+   - Stabilas enerģijas formas atkārtojas diskrētos vertikāles ciklos.
+
+3. **Universālais vertikāles solis (~10²⁰ m)**
+   - Blakus stabilo formu ciklus atdala aptuvens mēroga solis `10²⁰`.
+   - Šis lielums ir teorijas loģiskais karkass, kas kalibrēts no zināmiem atskaites punktiem un precizējams, saskaņojot teoriju ar eksperimentālajiem datiem.
+   - Solis definē pāreju starp vertikāles līmeņiem.
+
+4. **TZ darbība**
+   - Vertikāles cikliskumu un pārejas starp stabilajām enerģijas formām nosaka TZ.
+
+5. **Likumu invariance**
+   - Vertikāles pamatlikumi ir vienādi visos tās līmeņos.
+   - Mainās tikai organizācijas mērogs un enerģijas formu izpausmes.
+
+### Saistība ar horizontālēm
+
+**Horizontāle** ir konkrēta vertikāles vienību organizācijas un evolūcijas pakāpe.
+
+- Horizontāles neeksistē neatkarīgi no vertikāles.
+- Tās rodas kā vertikāles stabilo enerģijas vienību organizācijas rezultāts.
+
+### Vertikāles hierarhijas likums
+
+> Horizontāle savā evolūcijā nevar apsteigt savu radītāju – nākamo augstāko (+1) horizontāli.
+
+Vertikāle nosaka:
+- iespējamās stabilās enerģijas formas;
+- iespējamos organizācijas līmeņus;
+- evolūcijas robežas;
+- mijiedarbības hierarhiju starp horizontālēm.
+
+### Kopsavilkums
+
+> Vertikāle ir Visuma enerģijas cikliskās pašlīdzības hierarhija, bet horizontāles ir šīs hierarhijas lokālās organizācijas un evolūcijas stāvokļi.
+"""
+
+path = Path("/mnt/data/kartes_lv_vertikale.md")
+path.write_text(md, encoding="utf-8")
+str(path)
+
+## I. Horizontāle (Visums)
 
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
