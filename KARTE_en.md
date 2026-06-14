@@ -1,7 +1,54 @@
-# MATRIX THEORY — LOGICAL MAP
+# LOGICAL MAP OF MATRIX THEORY
 ## Full Edition (Updated)
 
-### I. ABSOLUTE FOUNDATION
+### ABSOLUTE FOUNDATION
+
+## Vertical
+
+**Definition:** The Vertical is a cyclic hierarchy of stable proton-type energy units that exists independently of the Horizontals and forms the fundamental structure of the Universe. Until its boundaries are confirmed, it may be considered infinite.
+
+### Fundamental Principles
+
+1. **Conservation of Energy**
+   - Energy does not disappear but continuously changes its form of organization.
+
+2. **Cyclicality**
+   - Stable energy forms repeat in discrete vertical cycles.
+
+3. **Universal Vertical Step (~10²⁰ m)**
+   - Adjacent cycles of stable forms are separated by an approximate scale step of `10²⁰`.
+   - This value serves as the logical framework of the theory, calibrated from known reference points and subject to refinement through consistency with experimental data.
+   - The step defines the transition between Vertical levels.
+
+4. **TZ Operation**
+   - The cyclicality of the Vertical and the transitions between stable energy forms are governed by TZ.
+
+5. **Law Invariance**
+   - The fundamental laws of the Vertical are identical at all its levels.
+   - Only the scale of organization and the manifestations of energy forms change.
+
+### Relationship with Horizontals
+
+A **Horizontal** is a specific stage of organization and evolution of the Vertical's units.
+
+- Horizontals do not exist independently of the Vertical.
+- They emerge as a result of the organization of the Vertical's stable energy units.
+
+### Law of Vertical Hierarchy
+
+> A Horizontal cannot surpass its creator—the next higher (+1) Horizontal—in its evolutionary development.
+
+The Vertical determines:
+- possible stable energy forms;
+- possible levels of organization;
+- evolutionary limits;
+- the hierarchy of interactions between Horizontals.
+
+### Summary
+
+> The Vertical is a hierarchy of cyclic self-similarity of the Universe's energy, while Horizontals are local states of organization and evolution within this hierarchy.
+
+### I. Horizontal (Universe)
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
