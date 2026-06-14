@@ -47,13 +47,9 @@ Vertikāle nosaka:
 ### Kopsavilkums
 
 > Vertikāle ir Visuma enerģijas cikliskās pašlīdzības hierarhija, bet horizontāles ir šīs hierarhijas lokālās organizācijas un evolūcijas stāvokļi.
-"""
 
-path = Path("/mnt/data/kartes_lv_vertikale.md")
-path.write_text(md, encoding="utf-8")
-str(path)
 
-## I. Horizontāle (Visums)
+### I. Horizontāle (Visums)
 
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
