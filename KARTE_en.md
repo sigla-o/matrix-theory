@@ -142,6 +142,27 @@ If local synchronization is lost, the space becomes incompatible with the surrou
    - All local regions of the Matrix are compatible with the overall rotational synchronization of the Matrix.
    - If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
 
+### Principle of the Matrix Point
+
+A Matrix point is the minimal functional unit of the Matrix and consists of two mutually organized Vertical Energy Units (VEUs).
+
+The formation principle of a Matrix point is universal for all VEUs and is based on:
+
+- TE pressure;
+- the influence of external cyclicity (modulation).
+
+The combined VEUs occupy an optimal position within a common sphere maintained by TE pressure balance.
+
+A Matrix point forms a double object resembling a yin-yang configuration – two interconnected objects rotating around a common center.
+
+Closer to the common center of rotation, two images (pockets) are formed and filled with TE.
+
+Each rotational side organizes its own TE flow, and the two flows are mutually opposite.
+
+The simultaneous existence of these opposite flows forms symmetrical half-phases.
+
+The stability of the Matrix point is ensured by the symmetrical half-phases and by the invariant spherical balance maintained by TE pressure.
+
 
 ## Transit Energy (TE)
 
