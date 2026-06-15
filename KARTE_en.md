@@ -50,6 +50,40 @@ The Vertical determines:
 
 ### I. Horizontal (Universe)
 
+**Definition:** A Horizontal is an organized matrix of stable energy units of a particular Vertical, within which the discrete evolution of energy units occurs through successive levels.
+
+### Fundamental Principles
+
+1. **Secondary Nature**
+   - A Horizontal does not exist independently of the Vertical.
+   - It emerges from the critical energy organization of a higher (+1) Horizontal.
+
+2. **Single-Type Matrix**
+   - All evolutionary levels of a given Horizontal share the same matrix.
+   - A change of evolutionary level does not imply a change of matrix.
+
+3. **Discrete Evolution**
+   - Energy units organize into successive evolutionary levels.
+   - Each subsequent level represents a higher degree of energy organization within the same matrix.
+
+4. **Branched Evolution**
+   - In large Horizontals, evolution may branch into multiple parallel directions.
+   - Multiple stable objects may belong to the same evolutionary level.
+
+5. **Hierarchy Principle**
+   - A Horizontal cannot, in its evolution, surpass its creator—the next higher (+1) Horizontal.
+   - A new Horizontal can emerge only toward the finer direction:
+     `Hn → H(n−1)`.
+
+### H-1 Example
+
+- Level 0 – Vertical energy unit;
+- Level 1 – proton;
+- Level 2 – white dwarf, black hole.
+
+All of these levels exist within the same H-1 matrix.
+
+
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
 
