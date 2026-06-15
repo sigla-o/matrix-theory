@@ -111,6 +111,37 @@ The stability of any organization is determined by its ability to maintain local
 
 If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
 
+## Matrix
+
+**Definition:** A Matrix is the first level of organization above Vertical Energy Units (VEUs), consisting of mutually organized VEU pairs and realizing Absolute Synchronization as an organized space.
+
+### Fundamental Principles
+
+1. **Principle of First Organization**
+   - VEUs constitute Level 0 of the Vertical and exist as individual energy units.
+   - The Matrix is the first level of organization in which VEUs organize into pairs.
+
+2. **Principle of Pairs**
+   - The minimal stable organizational unit of the Matrix is a VEU pair.
+   - A pair is the first form of organization capable of simultaneously sustaining two opposite flows.
+
+3. **Principle of Half-Phases**
+   - The opposite flows are sustained within the two images (pockets) of the pair.
+   - The simultaneous existence of these flows forms half-phases.
+   - All higher forms of flow organization are derived from the organization of half-phases.
+
+4. **Principle of Synchronization**
+   - The Matrix realizes the Absolute Synchronization of VEUs as an organized space.
+   - The stability of the Matrix is determined by its ability to maintain local and global synchronization.
+
+5. **Principle of Rotation**
+   - Matrix rotation arises from the organization of half-phases.
+   - Matrix rotation organizes Transit Energy (TE) flows and energy distribution.
+
+6. **Principle of Compatibility**
+   - All local regions of the Matrix are compatible with the overall rotational synchronization of the Matrix.
+   - If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
+
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
 
