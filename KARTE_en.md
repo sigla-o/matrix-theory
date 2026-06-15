@@ -142,6 +142,40 @@ If local synchronization is lost, the space becomes incompatible with the surrou
    - All local regions of the Matrix are compatible with the overall rotational synchronization of the Matrix.
    - If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
 
+
+## Transit Energy (TE)
+
+**Definition:** Transit Energy (TE) is a continuous flow of energy that enters a Horizontal, circulates through its Matrix, and exits it, providing Matrix rotational synchronization and energy organization processes.
+
+### Fundamental Principles
+
+1. **Principle of Transit**
+   - TE does not belong to any specific object.
+   - TE continuously enters and exits a Horizontal.
+   - Objects realize the organization of TE flows but do not accumulate all TE.
+
+2. **Principle of Pressure**
+   - The primary direction of TE flows is determined by the TE pressure difference.
+   - The TE pressure difference arises from the influence of H(n+1) modulation on the Hn TE flows.
+
+3. **Principle of Organization**
+   - The synchronized rotation of Matrix points organizes and normalizes the distribution of TE flows.
+   - Modulation determines the primary direction of flow, while the Matrix determines the organization of flows.
+
+4. **Principle of Cyclicity**
+   - The modulation half-period spans approximately `10²⁰` Matrix points.
+   - Therefore, TE flows exhibit a cyclic flow logic that repeats across successive regions of Matrix points.
+
+5. **Principle of Flow Logic**
+   - The logic of TE flows is determined by the relationship between the surface of an object's sphere and the modulation produced by an H(n+1) Matrix point.
+   - This relationship determines the half-phase difference in degrees.
+   - As the size of an object changes, both the half-phase difference and the logic of TE flows change.
+
+6. **Principle of Stability**
+   - The half-phase difference determines the balance of an object's internal energy distribution.
+   - Energy imbalance may create the need for additional energy equalizers.
+   - Local blockage of TE flows causes loss of synchronization and may initiate the genesis of a new Horizontal.
+
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
 
