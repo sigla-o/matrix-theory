@@ -102,6 +102,16 @@ Ja bloķētais enerģijas daudzums ir pietiekams stabilas organizācijas uzturē
 
 H(n−1) Matricas lielumu nosaka enerģētiskais balanss starp H(n−1) Matricu un Hn TE plūsmu modulāciju, kuru nosaka H(n+1) ietekme uz Hn TE plūsmu.
 
+## Absolūtās sinhronizācijas princips
+
+Absolūtā sinhronizācija piemīt Vertikālās Enerģijas Vienībām (VEV), kas veido Vertikāles 0. evolūcijas līmeni.
+
+Visas pārējās enerģijas organizācijas formas rodas no VEV un realizē Absolūto sinhronizāciju caur savu Matricu, tās rotāciju un Tranzīta Enerģijas (TE) plūsmām.
+
+Jebkuras organizācijas stabilitāti nosaka tās spēja uzturēt lokālu saderību ar VEV Absolūto sinhronizāciju.
+
+Lokāla sinhronizācijas zuduma gadījumā telpa kļūst nesaderīga ar apkārtējo Matricu un var tikt izolēta no tās.
+
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
