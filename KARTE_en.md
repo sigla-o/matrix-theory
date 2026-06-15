@@ -101,6 +101,16 @@ If the blocked amount of energy is sufficient to maintain stable organization:
 
 The size of the H(n−1) Matrix is determined by the energetic balance between the H(n−1) Matrix and the modulation of the Hn TE flow, which is governed by the influence of H(n+1) on the Hn TE flow.
 
+## Principle of Absolute Synchronization
+
+Absolute Synchronization is an intrinsic property of Vertical Energy Units (VEUs), which constitute Level 0 of Vertical evolution.
+
+All other forms of energy organization arise from VEUs and realize Absolute Synchronization through their Matrix, its rotation, and Transit Energy (TE) flows.
+
+The stability of any organization is determined by its ability to maintain local compatibility with the Absolute Synchronization of VEUs.
+
+If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
+
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
 
