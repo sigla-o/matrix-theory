@@ -83,6 +83,23 @@ The Vertical determines:
 
 All of these levels exist within the same H-1 matrix.
 
+## Principle of Horizontal Genesis
+
+If the local blockage of Transit Energy (TE) flows within Hn reaches a critical level:
+
+- a local concentration of TE is formed;
+- the local rotational synchronization of the Hn Matrix with the overall Hn Matrix is disrupted;
+- the local space becomes incompatible with the surrounding Hn space;
+- the local space becomes isolated from the Hn Matrix.
+
+The isolated space is then taken over by the H(n−1) Vertical Energy Units.
+
+If the blocked amount of energy is sufficient to maintain stable organization:
+
+- an H(n−1) Matrix is formed;
+- the evolution of the new Horizontal begins.
+
+The size of the H(n−1) Matrix is determined by the energetic balance between the H(n−1) Matrix and the modulation of the Hn TE flow, which is governed by the influence of H(n+1) on the Hn TE flow.
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
