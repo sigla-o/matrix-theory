@@ -282,7 +282,7 @@ In Matrix Theory, all physical parameters are dimensionless quantities (phase an
 
 3. **Virtualization as a cover for inability to explain.** Instead of describing real flow processes in matrix channels, physics uses the concept of virtual particles — "particles that momentarily appear and disappear." This is a mathematical trick masking an inability to explain. In Matrix Theory, nothing is virtual — everything is real flows with their own parameters, and force is a direct outcome of the flow states.
 
-## 18. Supernovae — The Process of Horizontal Transition
+## 18. Supernova — The Process of Horizontal Transition
 
 **Standard Model view:** A supernova is a core collapse, where the iron core collapses, forming a neutron star or black hole, and a shockwave ejects the star's outer layers.
 
@@ -291,7 +291,11 @@ In Matrix Theory, all physical parameters are dimensionless quantities (phase an
 **Matrix Theory answer:**
 > As long as the star can maintain the Universe matrix's energy structure within balance limits, the star exists. When a critical transition boundary is reached, where the matrix in the star's interior can no longer maintain synchronization (rotation, flows), this environment is taken over by the finer horizontal's matrix (10^-55m). All the necessary energy goes into sustaining the new horizontal; the remaining energy is ejected into outer space in the form of an explosion.
 
-**Explanation:** A supernova is not merely destruction — it is the birth act of a new horizontal. The energy surplus not incorporated into the new monolithic object (white or black hole) is ejected into space. This explains why supernovae are so energetically powerful — they are not "explosions" in the traditional sense, but a side effect of a horizontal change.
+**Explanation: Supernova as an Example of Horizontal Genesis**
+
+A supernova is a specific realization of the Principle of Horizontal Genesis, in which a local blockage of Hn TE flows reaches a critical level and initiates the formation of an H(n−1) Matrix.
+
+During the supernova process, a local space separates from the Hn Matrix and the Level 2 evolution of the new Horizontal begins.
 
 ---
 
