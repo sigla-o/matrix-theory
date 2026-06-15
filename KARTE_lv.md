@@ -51,6 +51,40 @@ Vertikāle nosaka:
 
 ### I. Horizontāle (Visums)
 
+**Definīcija:** Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību organizēta matrica, kurā notiek diskrēta enerģijas vienību evolūcija pa secīgiem līmeņiem.
+
+### Pamatprincipi
+
+1. **Sekundaritāte**
+   - Horizontāle neeksistē neatkarīgi no Vertikāles.
+   - Tā rodas no augstākas (+1) Horizontāles kritiskas enerģijas organizācijas.
+
+2. **Viena tipa matrica**
+   - Visiem konkrētās Horizontāles evolūcijas līmeņiem ir viena un tā pati matrica.
+   - Evolūcijas līmeņu maiņa nenozīmē matricas maiņu.
+
+3. **Diskrēta evolūcija**
+   - Enerģijas vienības organizējas secīgos evolūcijas līmeņos.
+   - Katrs nākamais līmenis ir augstāka enerģijas organizācijas pakāpe tajā pašā matricā.
+
+4. **Sazarota evolūcija**
+   - Lielās Horizontālēs evolūcija var sazaroties vairākos paralēlos virzienos.
+   - Vairāki stabili objekti var piederēt vienam un tam pašam evolūcijas līmenim.
+
+5. **Hierarhijas princips**
+   - Horizontāle savā evolūcijā nevar apsteigt savu radītāju – nākamo augstāko (+1) Horizontāli.
+   - Jauna Horizontāle var rasties tikai smalkākajā virzienā:
+     `Hn → H(n−1)`.
+
+### H-1 piemērs
+
+- 0. līmenis – Vertikālās enerģijas vienība;
+- 1. līmenis – protons;
+- 2. līmenis – baltais punduris, melnais caurums.
+
+Visi šie līmeņi eksistē vienā un tajā pašā H-1 matricā.
+
+
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
