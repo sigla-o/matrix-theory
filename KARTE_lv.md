@@ -112,6 +112,37 @@ Jebkuras organizācijas stabilitāti nosaka tās spēja uzturēt lokālu saderī
 
 Lokāla sinhronizācijas zuduma gadījumā telpa kļūst nesaderīga ar apkārtējo Matricu un var tikt izolēta no tās.
 
+## Matrica
+
+**Definīcija:** Matrica ir pirmais organizācijas līmenis virs Vertikālajām Enerģijas Vienībām (VEV), kas sastāv no savstarpēji organizētiem VEV divniekiem un realizē Absolūto sinhronizāciju kā organizētu telpu.
+
+### Pamatprincipi
+
+1. **Pirmās organizācijas princips**
+   - VEV ir Vertikāles 0. līmenis un eksistē kā enerģijas vieninieki.
+   - Matrica ir pirmais organizācijas līmenis, kurā VEV organizējas divniekos.
+
+2. **Divnieku princips**
+   - Matricas minimālā stabilā organizācijas vienība ir VEV divnieks.
+   - Divnieks ir pirmā organizācijas forma, kas spēj vienlaicīgi uzturēt divas pretējas plūsmas.
+
+3. **Pus-fāžu princips**
+   - Pretējās plūsmas tiek uzturētas divnieka divās tēlpās (kabatās).
+   - Šo plūsmu vienlaicīga eksistence veido pus-fāzes.
+   - Visas augstākās plūsmu organizācijas formas ir atvasināmas no pus-fāžu organizācijas.
+
+4. **Sinhronizācijas princips**
+   - Matrica realizē VEV Absolūto sinhronizāciju organizētas telpas veidā.
+   - Matricas stabilitāti nosaka tās spēja uzturēt lokālu un globālu sinhronizāciju.
+
+5. **Rotācijas princips**
+   - Matricas rotācija rodas no pus-fāžu organizācijas.
+   - Matricas rotācija nodrošina Tranzīta Enerģijas (TE) plūsmu organizāciju un enerģijas sadali.
+
+6. **Saderības princips**
+   - Visas lokālās Matricas daļas ir saderīgas ar kopējo Matricas rotācijas sinhronizāciju.
+   - Lokāla sinhronizācijas zuduma gadījumā telpa kļūst nesaderīga ar apkārtējo Matricu un var tikt izolēta.
+
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
