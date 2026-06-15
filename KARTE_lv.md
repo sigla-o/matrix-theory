@@ -84,6 +84,23 @@ Vertikāle nosaka:
 
 Visi šie līmeņi eksistē vienā un tajā pašā H-1 matricā.
 
+## Horizontāļu ģenēzes princips
+
+Ja Hn Tranzīta Enerģijas (TE) plūsmu bloķēšanās lokāli sasniedz kritisku līmeni:
+
+- veidojas lokāla TE koncentrācija;
+- tiek traucēta Hn Matricas rotācijas lokālā sinhronizācija ar kopējo Hn Matricu;
+- lokālā telpa kļūst nesaderīga ar apkārtējo Hn telpu;
+- lokālā telpa tiek izolēta no Hn Matricas.
+
+Izolēto telpu pārņem H(n−1) Vertikālās Enerģijas Vienības.
+
+Ja bloķētais enerģijas daudzums ir pietiekams stabilas organizācijas uzturēšanai:
+
+- veidojas H(n−1) Matrica;
+- sākas jaunās Horizontāles evolūcija.
+
+H(n−1) Matricas lielumu nosaka enerģētiskais balanss starp H(n−1) Matricu un Hn TE plūsmu modulāciju, kuru nosaka H(n+1) ietekme uz Hn TE plūsmu.
 
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
