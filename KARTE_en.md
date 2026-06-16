@@ -470,11 +470,100 @@ where:
 
 This formula is the macroscopic form of the TE pressure law and describes the consequences of collective TE deformations produced by objects.
 
+# Electromagnetism (EM)
 
+## Definition
+
+Electromagnetism (EM) is a collective organizational effect of Transit Energy (TE) flows that operates through Qn-level flow logic and arises in the transition region between the object's fine TE dominance and the surrounding large-scale TE dominance.
+
+EM is not an independent form of energy and is not a separate fundamental force. It is a consequence of the spatial and cyclic reorganization of TE flows.
+
+---
+
+## Fundamental Principles
+
+### 1. Fine TE Dominance Principle
+
+In the immediate vicinity of an object, the object's fine TE organization dominates.
+
+In this region:
+
+- fine TE pressure gradients exceed large-scale TE gradients;
+- the flow organization is determined by the object itself;
+- large-scale TE becomes subordinated to fine TE organization.
+
+This region is realized as the Strong Interaction zone.
+
+---
+
+### 2. Cyclic Transition (Mix) Principle
+
+As the distance from the object increases:
+
+- the influence of fine TE decreases;
+- the influence of large-scale TE increases;
+- a cyclic transition region is formed.
+
+In this region:
+
+- neither flow completely dominates;
+- dominance periodically redistributes through Qn flow cycles;
+- selective channels and stable circulations are formed.
+
+This transition region is called the electromagnetic (EM) zone.
+
+---
+
+### 3. Large-Scale TE Dominance Principle
+
+At sufficiently large distances:
+
+- the influence of fine TE becomes negligible;
+- the spatial organization is determined by large-scale TE;
+- electromagnetic effects gradually disappear.
+
+---
+
+### 4. Qn Organization Principle
+
+EM operates through Qn-level TE flow organization.
+
+EM is determined by:
+
+- Qn geometry;
+- flow pathways;
+- resonance nodes;
+- cyclic feedback loops;
+- selective channel activation.
+
+---
+
+### 5. Distinction Principle
+
+Gravity and EM are parallel forms of collective TE organization.
+
+Gravity:
+
+- operates through repeating Phase-Direction (PD/FV) states;
+- arises from a persistent TE flow deficit.
+
+Electromagnetism:
+
+- operates through Qn flow organization;
+- arises from the cyclic interaction between fine and large-scale TE flows.
+
+---
+
+## Summary
+
+Electromagnetism is a Qn-level TE flow organization regime that arises in the radial transition region between an object's fine TE dominance and the surrounding large-scale TE dominance and manifests as stable TE circulations, selective channels, and resonance structures.
 
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
+
+
+
 
 **1.2. Basic Node Structure**
 Each matrix point consists of two rotating spheres around a common central axis. Between the spheres, dynamic "pockets" form — spaces where TE energy can accumulate and flow. The size and pressure of the pockets change with the rotation of the spheres. The spheres rotate in counter-phase (one against the other), forming two opposite pockets (yin-yang symbol in cross-section).
