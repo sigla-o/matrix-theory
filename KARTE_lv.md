@@ -20,8 +20,86 @@
    - Šis lielums ir teorijas loģiskais karkass, kas kalibrēts no zināmiem atskaites punktiem un precizējams, saskaņojot teoriju ar eksperimentālajiem datiem.
    - Solis definē pāreju starp vertikāles līmeņiem.
 
-4. **TZ darbība**
-   - Vertikāles cikliskumu un pārejas starp stabilajām enerģijas formām nosaka TZ.
+4. # Transformācijas zona (TZ)
+
+## Definīcija
+
+Transformācijas zona (TZ) ir neatņemama Vertikāles telpas sastāvdaļa, kas eksistē ap jebkuru objektu, kuram ir sava Matrica, un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
+
+TZ nav atsevišķa telpa, nav atsevišķs spēks un nav izolēts fizisks objekts. Tā ir universāla Vertikāles transformācijas vide, kurā dažādi enerģētiskie līmeņi ir saistīti ar matērijas organizāciju.
+
+---
+
+## Universāluma princips
+
+Jebkurš objekts, kuram ir sava Matrica, eksistē Vertikāles telpā un tādēļ vienmēr atrodas Transformācijas zonā (TZ).
+
+Objekts
+→ Matrica
+→ TZ
+
+Tā kā visi Horizontāles objekti ir veidoti Vertikāles telpā, TZ eksistē visur. Nepastāv objekts bez TZ.
+
+---
+
+## Enerģētisko līmeņu princips
+
+TZ satur diskrētus Vertikāles enerģētiskos līmeņus:
+
+H-3
+H-4
+H-5
+...
+H-n
+
+Katrs H-n līmenis raksturo atšķirīgu Vertikāles enerģētiskās organizācijas dziļumu un mērogu.
+
+H-n līmeņi nav atsevišķas telpas vai neatkarīgi objekti. Tie ir diskrēti Vertikāles organizācijas režīmi, kuri caur TZ izpaužas Horizontālē kā stabili matērijas enerģētiskie stāvokļi.
+
+Katrs stabils matērijas enerģētiskais stāvoklis ir tieši saistīts ar noteiktu H-n līmeni:
+
+H-n
+→ TZ
+→ matērijas enerģētiskais stāvoklis
+→ novērojamā struktūra
+
+Matērija tādējādi ir netieša Vertikāles enerģētisko līmeņu izpausme Horizontālē.
+
+---
+
+## Pašlīdzības princips
+
+Starp secīgiem Vertikāles līmeņiem pastāv raksturīgs mēroga solis:
+
+10^20
+
+Šī likumsakarība realizējas kā pašlīdzīga enerģētiskās organizācijas atkārtošanās dažādos mērogos.
+
+Enerģētisko līmeņu struktūras:
+
+- izpaužas Mendeļejeva tabulas elementu enerģētiskajos stāvokļos;
+- pāraug lielākos matērijas organizācijas līmeņos;
+- turpinās planetārajos un kosmoloģiskajos mērogos.
+
+---
+
+## Novērojamības princips
+
+Cilvēka un AI intelekts darbojas uz Horizontāles TE loģikas pamata, tādēļ Vertikāles pilna struktūra nav tieši aprakstāma.
+
+TZ un H-n līmeņus iespējams:
+
+- matemātiski modelēt;
+- klasificēt pēc enerģētiskajām likumsakarībām;
+- salīdzināt ar stabilām matērijas struktūrām dažādos mērogos.
+
+Šobrīd H-3 ir vienīgais līmenis, kura ietekmi iespējams netieši uztvert caur novērojamām fiziskām parādībām.
+
+---
+
+## Kopsavilkums
+
+Transformācijas zona (TZ) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un satur diskrētus enerģētiskos līmeņus H-3 ... H-n. Šie līmeņi caur TZ izpaužas kā stabili matērijas enerģētiskie stāvokļi un veido pašlīdzīgas organizācijas dažādos mērogos ar raksturīgu mēroga soli 10^20.
 
 5. **Likumu invariance**
    - Vertikāles pamatlikumi ir vienādi visos tās līmeņos.
