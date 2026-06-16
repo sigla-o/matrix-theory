@@ -351,6 +351,128 @@ Objekts, kas sastāv tikai no noslēgtas TE plūsmas un neveido patstāvīgu Mat
 
 Piemērs: elektrons.
 
+
+# Gravitācija
+
+## Definīcija
+
+Gravitācija ir kolektīvs Tranzīta Enerģijas (TE) spiediena efekts, kas rodas, kad objekti pārtrauc apkārtējās TE plūsmu un izraisa ilgstošu fāzes-virziena (FV) plūsmu deformāciju.
+
+Gravitācija nav patstāvīga enerģijas forma un nav atsevišķs fundamentāls spēks. Tā ir TE plūsmas telpiskās reorganizācijas sekas objektu klātbūtnē.
+
+---
+
+## Pamatprincipi
+
+### 1. L0 plūsmas princips
+
+Jebkurā Qn lielumā TE plūst L0 režīmā.
+
+L0 režīmā:
+
+- TE plūsmai nepastāv šķēršļi;
+- visi kanāli ir aizpildāmi;
+- plūsma saglabā pilnu FV cikliskumu.
+
+L0 plūsma ir Visuma dabīgais TE stāvoklis.
+
+---
+
+### 2. L1 plūsmas princips
+
+Ja TE plūsmā tiek ievietots objekts, tas bloķē daļu TE kanālu.
+
+Bloķētā TE plūsmas daļa ir spiesta izmantot alternatīvus plūsmas ceļus.
+
+Šādu režīmu sauc par L1 plūsmas režīmu.
+
+---
+
+### 3. Kanālu bloķēšanas princips
+
+Objekts pārtrauc TE plūsmu ļoti lielam kanālu skaitam.
+
+Katrs neaizpildītais kanāls veido lokālu TE plūsmas deficītu.
+
+Kanālu bloķēšana ir objekta ģeometriskas eksistences sekas.
+
+---
+
+### 4. FV atkārtošanās princips
+
+Caur objekta centru iespējams definēt tekošo FV stāvokļa līniju.
+
+Uz šīs līnijas visi Qn lielumi realizē vienu un to pašu atkārtojošos fāzes-virziena plūsmas režīmu.
+
+Ja objekts neļauj aizpildīt attiecīgo kanālu, šī neaizpildīšana cikliski atkārtojas visā objekta pastāvēšanas laikā.
+
+---
+
+### 5. FV deformācijas princips
+
+FV organizācija realizējas arī kā rotācija.
+
+L1 režīmā ap objektu veidojas TE plūsmu deformācijas zona.
+
+Šī deformācija izpaužas kā telpiski sadalītas TE spiediena starpības.
+
+---
+
+### 6. Kolektīvās mijiedarbības princips
+
+Atsevišķs objekts neizjūt paša radīto TE deformāciju.
+
+Mijiedarbība rodas tikai tad, kad deformācijas zonā nonāk otrs objekts, kurš rada analogu TE deformāciju.
+
+---
+
+### 7. Spiediena principa realizācija
+
+Uz tekošā FV stāvokļa līnijas starp objektiem veidojas stabils TE spiediena iztrūkums.
+
+Apkārtējais TE spiediens paliek lielāks nekā spiediens starp objektiem.
+
+Šī spiediena starpība rada objektu savstarpējas tuvošanās tendenci.
+
+Šo kolektīvo TE spiediena efektu sauc par gravitāciju.
+
+---
+
+### 8. Attāluma princips
+
+TE plūsmas deformācijas zona telpiski izplatās no objekta visos virzienos.
+
+Palielinoties attālumam starp objektiem, samazinās abu objektu kopīgi ietekmēto TE kanālu blīvums un līdz ar to samazinās arī TE spiediena starpība starp objektiem.
+
+Gravitācijas efekta intensitāte samazinās proporcionāli attāluma kvadrātam.
+
+---
+
+### 9. Gravitācijas konstantes princips
+
+Gravitācijas konstante (G) ir universāls proporcionalitātes lielums, kas raksturo enerģijas apmaiņas intensitāti starp paralēliem TE kanāliem Q1 lielumā.
+
+G ir TE plūsmas organizācijas konstante, kas nosaka, cik efektīvi TE spiediena deformācijas tiek pārnestas starp objektiem.
+
+---
+
+### 10. Klasiskā gravitācijas likuma princips
+
+Divu objektu savstarpējais gravitācijas efekts makroskopiskā līmenī realizējas kā:
+
+F = G · (m₁ · m₂) / r²
+
+kur:
+
+- F ir TE spiediena starpības radītais kolektīvais efekts;
+- G ir enerģijas apmaiņas konstante starp paralēliem Q1 kanāliem;
+- m₁ un m₂ raksturo objektu radīto TE plūsmas bloķēšanas apjomu;
+- r ir attālums starp objektu centriem.
+
+Šī formula ir makroskopiska TE spiediena likuma forma un apraksta objektu kolektīvās TE deformācijas sekas.
+
+
+
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
