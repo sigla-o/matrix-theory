@@ -20,9 +20,9 @@
    - Šis lielums ir teorijas loģiskais karkass, kas kalibrēts no zināmiem atskaites punktiem un precizējams, saskaņojot teoriju ar eksperimentālajiem datiem.
    - Solis definē pāreju starp vertikāles līmeņiem.
 
-4. # Transformācijas zona (TZ)
+4.  **Transformācijas zona (TZ)**
 
-## Definīcija
+   **Definīcija**
 
 Transformācijas zona (TZ) ir neatņemama Vertikāles telpas sastāvdaļa, kas eksistē ap jebkuru objektu, kuram ir sava Matrica, un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
 
