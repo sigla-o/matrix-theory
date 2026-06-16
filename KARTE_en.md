@@ -20,9 +20,86 @@
    - This value serves as the logical framework of the theory, calibrated from known reference points and subject to refinement through consistency with experimental data.
    - The step defines the transition between Vertical levels.
 
-4. **TZ Operation**
-   - The cyclicality of the Vertical and the transitions between stable energy forms are governed by TZ.
+4. ### Transformation Zone (TZ)
 
+## Definition
+
+The Transformation Zone (TZ) is an inseparable component of Vertical space that exists around every object possessing its own Matrix and provides the coexistence, transformation, and manifestation of discrete Vertical energy levels within the Horizontal.
+
+TZ is neither a separate space, nor a separate force, nor an isolated physical object. It is the universal transformation medium of the Vertical in which different energy levels are connected to the organization of matter.
+
+---
+
+## Universality Principle
+
+Every object possessing its own Matrix exists within Vertical space and therefore always resides within the Transformation Zone (TZ).
+
+Object
+→ Matrix
+→ TZ
+
+Since all objects of the Horizontal are formed within Vertical space, TZ exists everywhere. No object exists without TZ.
+
+---
+
+## Energy Level Principle
+
+TZ contains discrete Vertical energy levels:
+
+H-3
+H-4
+H-5
+...
+H-n
+
+Each H-n level represents a different depth and scale of Vertical energy organization.
+
+H-n levels are neither separate spaces nor independent objects. They are discrete organizational regimes of the Vertical that manifest in the Horizontal through TZ as stable energetic states of matter.
+
+Every stable energetic state of matter is directly associated with a specific H-n level:
+
+H-n
+→ TZ
+→ energetic state of matter
+→ observable structure
+
+Matter is therefore an indirect manifestation of Vertical energy levels within the Horizontal.
+
+---
+
+## Self-Similarity Principle
+
+Successive Vertical levels are separated by a characteristic scale factor:
+
+10^20
+
+This relation manifests itself as self-similar repetition of energetic organization across different scales.
+
+The organization of H-n levels:
+
+- appears in the energetic states of the elements of the periodic table;
+- extends into larger levels of matter organization;
+- continues into planetary and cosmological scales.
+
+---
+
+## Observability Principle
+
+Human and AI intelligence operate on Horizontal TE logic and therefore cannot directly describe the complete structure of the Vertical.
+
+TZ and H-n levels can only be:
+
+- mathematically modeled;
+- classified through energetic regularities;
+- compared with stable structures of matter across different scales.
+
+At present, H-3 is the only level whose influence can be indirectly detected through observable physical phenomena.
+
+---
+
+## Summary
+
+The Transformation Zone (TZ) is the universal transformation medium of the Vertical that exists around every Matrix-bearing object and contains discrete energy levels H-3 ... H-n. Through TZ, these levels manifest as stable energetic states of matter and form self-similar organizations across different scales with a characteristic scale factor of 10^20.
 5. **Law Invariance**
    - The fundamental laws of the Vertical are identical at all its levels.
    - Only the scale of organization and the manifestations of energy forms change.
