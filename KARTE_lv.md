@@ -560,7 +560,71 @@ Elektromagnētisms:
 
 Elektromagnētisms ir Qn līmeņa TE plūsmu organizācijas režīms, kas rodas radiālajā pārejas zonā starp objekta smalkās TE dominanci un apkārtējās lielās TE dominanci un realizējas kā stabilas TE cirkulācijas, selektīvi kanāli un rezonanses struktūras.
 
+# Elektriskais lādiņš
 
+## Definīcija
+
+Elektriskais lādiņš ir lokāls VEV H-3 (10^-75 m) līmeņa Tranzīta Enerģijas (TE) pastāvīgs uzkrājums H0 Matricā ap matēriju.
+
+Lādiņš nav patstāvīga enerģijas forma un nav elektromagnētisma cēlonis. Tas ir stabils lokāls Tumšās enerģijas organizācijas stāvoklis, kuru ģenerē protona pus-fāžu disbalanss.
+
+---
+
+## Izcelsmes princips
+
+Elektriskais lādiņš rodas:
+
+Protona pus-fāžu disbalanss
+→ VEV H-3 TE uzkrāšanās
+→ lokāla H0 Matricas deformācija
+→ stabila Tumšās enerģijas koncentrācija
+→ elektriskais lādiņš.
+
+---
+
+## Tumšās enerģijas princips
+
+Elektriskais lādiņš ir šodien tieši novērojamā Tumšās enerģijas lokālā izpausme.
+
+Tas realizējas kā:
+
+- ilgstošs VEV H-3 TE uzkrājums;
+- stabila H0 Matricas deformācija;
+- lokāla TE blīvuma anomālija ap matēriju.
+
+---
+
+## TZ balansēšanas princips
+
+Elektriskais lādiņš neeksistē izolēti.
+
+VEV H-3 uzkrājums caur TZ atrodas nosacītā dinamiskā līdzsvarā ar elektromagnētisko organizāciju.
+
+TZ nodrošina:
+
+- lādiņa ilgtermiņa stabilitāti;
+- enerģijas apmaiņu starp H-3 uzkrājumu un apkārtējo TE vidi;
+- lādiņa un EM savstarpējo korekciju.
+
+---
+
+## Attiecības ar EM
+
+Elektriskais lādiņš:
+- ir lokāls Tumšās enerģijas uzkrājums;
+- eksistē H0 Matricā;
+- tiek ģenerēts no pus-fāžu disbalansa.
+
+Elektromagnētisms:
+- ir Qn līmeņa TE plūsmu organizācijas režīms;
+- rodas kā dinamiska reakcija uz lādiņa radīto TE konfigurāciju;
+- piedalās lādiņa balansēšanā caur TZ.
+
+---
+
+## Kopsavilkums
+
+Elektriskais lādiņš ir protona pus-fāžu disbalansa radīts VEV H-3 līmeņa pastāvīgs TE uzkrājums H0 Matricā ap matēriju, kas realizējas kā lokāla Tumšās enerģijas koncentrācija un caur TZ atrodas nosacītā dinamiskā līdzsvarā ar elektromagnētisko organizāciju.
 
 
 **1.1. Matricas punktu 100% sinhronā rotācija**
