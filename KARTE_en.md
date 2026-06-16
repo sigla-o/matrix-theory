@@ -275,6 +275,82 @@ It has not yet been determined:
 
 These questions remain subjects of further theoretical development and revision.
 
+# Object
+
+## Definition
+
+An object is a self-sustaining, closed organization of Transit Energy (TE) that preserves its identity and internal organization under conditions of continuous TE dynamics.
+
+An object is not a primary material entity. It emerges from the closure of cyclically organized TE flows.
+
+---
+
+## Fundamental Principles
+
+### 1. Principle of Organization
+
+Every object is a stable form of TE organization.
+
+---
+
+### 2. Principle of Closure
+
+An object emerges when a cyclic TE flow closes into a self-sustaining configuration.
+
+---
+
+### 3. Principle of Identity
+
+An object preserves its organization and boundaries despite continuous internal TE dynamics.
+
+---
+
+### 4. Principle of Sphericity
+
+A minimal closed TE organization forms a local spherical boundary.
+
+The sphere is a consequence of closed TE flow organization.
+
+---
+
+### 5. Principle of Synchronization
+
+The internal TE organization of an object is in complete Phase-Direction (FV) synchronization with the surrounding TE flow.
+
+An object does not exist in isolation from the surrounding TE environment.
+
+---
+
+### 6. Principle of Energy Balance
+
+An object exists only when complete energetic balance is established between its internal and external TE organization.
+
+Internal and external TE form a unified and mutually compensated system.
+
+---
+
+### 7. Principle of Pressure (Blocking)
+
+The boundary of an object is realized as a pressure-equilibrium surface where the internal and external TE flows mutually block and stabilize one another.
+
+---
+
+### 8. Principle of Object Types
+
+Two fundamental types of objects exist.
+
+#### Matrix Object
+
+An object possessing its own internal Matrix and internally organized TE flows.
+
+Example: proton.
+
+#### Flow Object
+
+An object consisting solely of a closed TE flow and not forming an independent Matrix.
+
+Example: electron.
+
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
 
