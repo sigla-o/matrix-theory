@@ -164,38 +164,116 @@ The simultaneous existence of these opposite flows forms symmetrical half-phases
 The stability of the Matrix point is ensured by the symmetrical half-phases and by the invariant spherical balance maintained by TE pressure.
 
 
-## Transit Energy (TE)
+# Transit Energy (TE)
 
-**Definition:** Transit Energy (TE) is a continuous flow of energy that enters a Horizontal, circulates through its Matrix, and exits it, providing Matrix rotational synchronization and energy organization processes.
+## Definition
 
-### Fundamental Principles
+Transit Energy (TE) is a Matrix-organized energy flow that realizes the dynamics of the Universe. TE is neither a static object nor tied to any specific material carrier. It exists as a continuous, discretely organized flow between Matrix points.
 
-1. **Principle of Transit**
-   - TE does not belong to any specific object.
-   - TE continuously enters and exits a Horizontal.
-   - Objects realize the organization of TE flows but do not accumulate all TE.
+TE is the generative foundation of all processes, interactions, and objects.
 
-2. **Principle of Pressure**
-   - The primary direction of TE flows is determined by the TE pressure difference.
-   - The TE pressure difference arises from the influence of H(n+1) modulation on the Hn TE flows.
+---
 
-3. **Principle of Organization**
-   - The synchronized rotation of Matrix points organizes and normalizes the distribution of TE flows.
-   - Modulation determines the primary direction of flow, while the Matrix determines the organization of flows.
+## Fundamental Principles
 
-4. **Principle of Cyclicity**
-   - The modulation half-period spans approximately `10²⁰` Matrix points.
-   - Therefore, TE flows exhibit a cyclic flow logic that repeats across successive regions of Matrix points.
+### 1. Principle of Discreteness
 
-5. **Principle of Flow Logic**
-   - The logic of TE flows is determined by the relationship between the surface of an object's sphere and the modulation produced by an H(n+1) Matrix point.
-   - This relationship determines the half-phase difference in degrees.
-   - As the size of an object changes, both the half-phase difference and the logic of TE flows change.
+TE does not propagate through a continuous space. Its flow is always realized through a discrete organization of Matrix points.
 
-6. **Principle of Stability**
-   - The half-phase difference determines the balance of an object's internal energy distribution.
-   - Energy imbalance may create the need for additional energy equalizers.
-   - Local blockage of TE flows causes loss of synchronization and may initiate the genesis of a new Horizontal.
+---
+
+### 2. Principle of Half-Phases
+
+TE flow consists of two complete and mutually independent half-phases:
+
+- 0° half-phase;
+- 180° half-phase.
+
+Both half-phases coexist and are required for the realization of a complete TE organization.
+
+---
+
+### 3. Phase-Direction (FV) Principle
+
+TE flow is realized through inseparable phase-direction states.
+
+A phase cannot be defined independently of its direction, and a direction cannot be defined independently of its phase.
+
+Therefore, TE organization occurs in the Phase-Direction (FV) mode.
+
+FV organization provides:
+
+- cyclic flow organization;
+- mutual synchronization between flows;
+- spatial orientation of TE processes;
+- generation of higher-order collective effects, including gravity.
+
+The detailed structure of FV states and their minimal Matrix realization remain subjects of further theoretical development.
+
+---
+
+### 4. Principle of Minimal Bases
+
+The minimal organization of TE flow requires two independent half-phases.
+
+At present, two candidate minimal flow bases remain open.
+
+#### 7-Point Base
+
+- the minimum number of Matrix points that allows the realization of two independent half-phases;
+- the minimal carrier of half-phase organization;
+- full self-sustaining cyclicity has not yet been established.
+
+#### 13-Point Base
+
+- consists of one central point and twelve surrounding channels;
+- is a candidate for a complete Phase-Direction organization;
+- is a candidate for the minimal self-sustaining TE flow structure;
+- suggests the possible existence of a 12-channel organization in FV mode.
+
+---
+
+### 5. Principle of Cyclicity
+
+TE flow is cyclic.
+
+A complete cycle is achieved when:
+
+- both half-phases realize their full FV organization;
+- the flow returns to its initial configuration;
+- the system requires no external correction to maintain its cycle.
+
+---
+
+### 6. Principle of Object Generation
+
+TE flow can generate higher levels of organization called objects.
+
+Two fundamental object types are distinguished.
+
+#### Matrix Object
+
+An object possessing its own internal Matrix and internally organized TE flows.
+
+Example: proton.
+
+#### Flow Object
+
+An object consisting solely of a closed TE flow and not forming an independent Matrix.
+
+Example: electron.
+
+---
+
+## Open Questions
+
+It has not yet been determined:
+
+- whether flow Q1 is the minimal carrier of two half-phases (7-point base);
+- whether flow Q1 is the minimal realization of complete FV cyclicity (13-point base);
+- how a possible 12-channel FV organization generates full periodicity and subsequent object formation.
+
+These questions remain subjects of further theoretical development and revision.
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
