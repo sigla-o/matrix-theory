@@ -275,6 +275,82 @@ Nav noteikts:
 
 Šie jautājumi ir turpmākās teorijas attīstības un revīzijas priekšmets.
 
+# Objekts
+
+## Definīcija
+
+Objekts ir pašuzturoša, noslēgta Tranzīta Enerģijas (TE) organizācija, kura saglabā savu identitāti un iekšējo organizāciju nepārtrauktas TE dinamikas apstākļos.
+
+Objekts nav primāra vieliska vienība. Tas rodas no cikliski organizētu TE plūsmu noslēgšanās.
+
+---
+
+## Pamatprincipi
+
+### 1. Organizācijas princips
+
+Jebkurš objekts ir stabila TE organizācijas forma.
+
+---
+
+### 2. Noslēgšanās princips
+
+Objekts rodas tad, kad cikliska TE plūsma noslēdzas pašuzturošā konfigurācijā.
+
+---
+
+### 3. Identitātes princips
+
+Objekts saglabā savu organizāciju un robežas, neskatoties uz nepārtrauktu iekšējo TE dinamiku.
+
+---
+
+### 4. Sfēriskuma princips
+
+Minimāla noslēgta TE organizācija veido lokālu sfērisku robežu.
+
+Sfēra ir noslēgtas TE plūsmas organizācijas sekas.
+
+---
+
+### 5. Sinhronizācijas princips
+
+Objekta iekšējā TE organizācija atrodas pilnā fāzes-virziena (FV) sinhronizācijā ar apkārtējo TE plūsmu.
+
+Objekts nepastāv izolēti no apkārtējās TE vides.
+
+---
+
+### 6. Enerģiju balansa princips
+
+Objekts eksistē tikai tad, ja starp tā iekšējo un ārējo TE organizāciju pastāv pilns enerģētiskais balanss.
+
+Iekšējā un ārējā TE veido vienotu, savstarpēji kompensētu sistēmu.
+
+---
+
+### 7. Spiediena (bloķēšanas) princips
+
+Objekta robeža realizējas kā spiediena līdzsvara virsma, kurā objekta iekšējās un ārējās TE plūsmas savstarpēji bloķējas un stabilizē viena otru.
+
+---
+
+### 8. Objektu tipu princips
+
+Pastāv divi fundamentāli objektu tipi.
+
+#### Matricveida objekts
+
+Objekts, kuram ir sava iekšējā Matrica un organizētas TE plūsmas.
+
+Piemērs: protons.
+
+#### Plūsmas objekts
+
+Objekts, kas sastāv tikai no noslēgtas TE plūsmas un neveido patstāvīgu Matricu.
+
+Piemērs: elektrons.
+
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
 
