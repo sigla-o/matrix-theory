@@ -164,38 +164,116 @@ Katra rotācijas puse organizē savu TE plūsmu, un abas plūsmas ir savstarpēj
 
 Matricas punkta stabilitāti nodrošina simetriskās pus-fāzes un nemainīgais TE spiediena uzturētais sfēras līdzsvars.
 
-   ## Tranzīta Enerģija (TE)
+  # Tranzīta Enerģija (TE)
 
-**Definīcija:** Tranzīta Enerģija (TE) ir nepārtraukta enerģijas plūsma, kas ieplūst Horizontālē, cirkulē tās Matricā un izplūst no tās, nodrošinot Matricas rotācijas sinhronizāciju un enerģijas organizācijas procesus.
+## Definīcija
 
-### Pamatprincipi
+Tranzīta Enerģija (TE) ir Matricas organizēta enerģijas plūsma, kura realizē Visuma dinamiku. TE nav statisks objekts un nav saistīta ar konkrētu vielisku nesēju. Tā eksistē kā nepārtraukta, diskrēti organizēta plūsma starp Matricas punktiem.
 
-1. **Tranzīta princips**
-   - TE nepieder nevienam konkrētam objektam.
-   - TE nepārtraukti ieplūst Horizontālē un izplūst no tās.
-   - Objekti realizē TE plūsmu organizāciju, bet neuzkrāj visu TE.
+TE ir visu procesu, mijiedarbību un objektu ģenerējošais pamats.
 
-2. **Spiediena princips**
-   - TE plūsmu pamatvirzienu nosaka TE spiediena starpība.
-   - TE spiediena starpība rodas H(n+1) modulācijas ietekmē uz Hn TE plūsmām.
+---
 
-3. **Organizācijas princips**
-   - Sinhronizētā Matricas punktu rotācija organizē un normē TE plūsmu sadali.
-   - Modulācija nosaka plūsmas pamatvirzienu, bet Matrica nosaka plūsmu organizāciju.
+## Pamatprincipi
 
-4. **Cikliskuma princips**
-   - Modulācijas pus-periods aptver aptuveni `10²⁰` Matricas punktus.
-   - Tādēļ TE plūsmām piemīt cikliska plūsmas loģika, kas atkārtojas pa secīgiem Matricas punktu apgabaliem.
+### 1. Diskrētuma princips
 
-5. **Plūsmu loģikas princips**
-   - TE plūsmu loģiku nosaka attiecība starp objekta sfēras virsmu un H(n+1) Matricas punkta veidoto modulāciju.
-   - Šī attiecība nosaka pus-fāžu starpību grādos.
-   - Mainoties objekta lielumam, mainās pus-fāžu starpība un TE plūsmu loģika.
+TE nepārvietojas nepārtrauktā telpā. Tās plūsma vienmēr realizējas caur diskrētu Matricas punktu organizāciju.
 
-6. **Stabilitātes princips**
-   - Pus-fāžu starpība nosaka objekta iekšējo enerģiju līdzsvaru.
-   - Enerģiju nelīdzsvarotība var radīt nepieciešamību pēc papildu enerģiju izlīdzinātājiem.
-   - TE plūsmu lokāla bloķēšanās izraisa sinhronizācijas zudumu un var ierosināt jaunās Horizontāles ģenēzi.
+---
+
+### 2. Pus-fāžu princips
+
+TE plūsma sastāv no divām pilnvērtīgām un savstarpēji neatkarīgām pus-fāzēm:
+
+- 0° pus-fāze;
+- 180° pus-fāze.
+
+Abas pus-fāzes eksistē vienlaikus un ir nepieciešamas pilnas TE organizācijas realizācijai.
+
+---
+
+### 3. Fāzes-Virziena (FV) princips
+
+TE plūsma realizējas nedalāmos fāzes-virziena stāvokļos.
+
+Fāzi nevar definēt neatkarīgi no tās virziena, un virzienu nevar definēt neatkarīgi no tā fāzes.
+
+Tādēļ TE organizācija notiek Fāzes-Virziena (FV) režīmā.
+
+FV organizācija nodrošina:
+
+- ciklisku plūsmu organizāciju;
+- plūsmu savstarpēju sinhronizāciju;
+- TE procesu telpisko orientāciju;
+- augstāka līmeņa kolektīvo efektu, tostarp gravitācijas, veidošanos.
+
+FV stāvokļu detalizēta struktūra un to minimālā Matricas realizācija ir turpmākas teorijas attīstības priekšmets.
+
+---
+
+### 4. Minimālās bāzes princips
+
+TE plūsmas minimālajai organizācijai ir nepieciešamas divas neatkarīgas pus-fāzes.
+
+Pašlaik ir atvērti divi minimālās plūsmas bāzes virzieni.
+
+#### 7 punktu bāze
+
+- minimālais Matricas punktu skaits, kurā iespējama divu neatkarīgu pus-fāžu realizācija;
+- minimālais pus-fāžu nesējs;
+- pilna pašpietiekama cikla realizācija nav noteikta.
+
+#### 13 punktu bāze
+
+- sastāv no viena centrālā punkta un divpadsmit apkārtējiem kanāliem;
+- ir kandidāts pilnai Fāzes-Virziena organizācijai;
+- ir kandidāts minimālai pašpietiekamai TE plūsmas struktūrai;
+- norāda uz iespējamu 12 kanālu organizāciju FV režīmā.
+
+---
+
+### 5. Cikliskuma princips
+
+TE plūsma ir cikliska.
+
+Pilns cikls ir sasniegts tad, kad:
+
+- abas pus-fāzes realizē pilnu FV organizāciju;
+- plūsma atgriežas sākotnējā konfigurācijā;
+- sistēmai nav nepieciešama ārēja korekcija cikla uzturēšanai.
+
+---
+
+### 6. Objektu ģenerēšanas princips
+
+TE plūsma spēj ģenerēt augstāka līmeņa organizācijas – objektus.
+
+Pastāv divi pamatobjektu tipi.
+
+#### Matricveida objekts
+
+Objekts ar savu iekšējo Matricu un organizētām TE plūsmām.
+
+Piemērs: protons.
+
+#### Plūsmas objekts
+
+Objekts, kas sastāv tikai no noslēgtas TE plūsmas un neveido patstāvīgu Matricu.
+
+Piemērs: elektrons.
+
+---
+
+## Atvērtie jautājumi
+
+Nav noteikts:
+
+- vai plūsmas Q1 ir minimālais divu pus-fāžu nesējs (7 punktu bāze);
+- vai plūsmas Q1 ir minimālā pilnā FV cikliskuma realizācija (13 punktu bāze);
+- kā iespējamā 12 kanālu FV organizācija ģenerē pilnu periodiskumu un tālāku objektu veidošanos.
+
+Šie jautājumi ir turpmākās teorijas attīstības un revīzijas priekšmets.
 
 **1.1. Matricas punktu 100% sinhronā rotācija**
 Visa matricas uzbūve balstās uz vienu principu: matricas punktu rotācija ir absolūti sinhrona visos līmeņos un visās dimensijās. Šī rotācija nav relatīva — tā ir universāla atskaite, kas nosaka visus plūsmu kanālus, visus ciklus, visu laika ritējumu.
