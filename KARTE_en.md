@@ -702,7 +702,74 @@ Electromagnetism:
 
 Electric charge is a proton half-phase imbalance induced persistent accumulation of VEV H-3 level TE within the H0 Matrix surrounding matter, manifested as a local concentration of Dark Energy and maintained in conditional dynamic equilibrium with electromagnetic organization through TZ.
 
+# Electricity, Magnetism and Electromagnetic Induction
 
+## Electricity
+
+Electricity is an organized H-3 Transit Energy (TE) flow propagating through interconnected Strong Interaction zones of atoms and governed by TE Qn flow logic.
+
+Electricity is not an electron flow and is not fundamentally dependent on electron motion. Its basis is the organization of H-3 TE flows within collective atomic structures.
+
+In systems containing many atoms, Strong Interaction zones may become interconnected and form continuous pathways for H-3 TE flows:
+
+Atomic chain
+→ interconnected Strong Interaction zones
+→ H-3 TE flow
+→ electricity
+
+In certain systems, such as semiconductors, electron organization may influence the configuration of H-3 flows, but the fundamental mechanism of electricity remains the organization of H-3 TE flows.
+
+---
+
+## Magnetism
+
+Magnetism is a collective organizational regime of H-2 Transit Energy (TE) flows induced by stable H-3 electrical flows and manifested as spatially organized magnetic field lines.
+
+Magnetism is neither an independent form of energy nor a primary fundamental force.
+
+Electricity
+→ excitation of H-2 flows
+→ magnetic field lines
+→ magnetism
+
+Magnetism may arise from:
+
+- externally maintained H-3 flows (for example, in electrical conductors);
+- internally self-sustained closed H-3 flows determined by atomic architecture (for example, in permanent magnets).
+
+In both cases, magnetism is a consequence of H-2 flow organization induced by H-3 TE flows.
+
+---
+
+## Electromagnetic Induction
+
+Electromagnetic induction is a mutual organizational process of H-2 and H-3 TE flows in which changes in one flow configuration cause reorganization of the other.
+
+Changes in H-3 flows
+→ reorganization of H-2 flows
+
+Changes in H-2 flows
+→ reorganization of H-3 flows
+
+Induction establishes the mutual coupling between electricity and magnetism and allows self-sustained electromagnetic systems to emerge.
+
+---
+
+## Summary
+
+Electric charge
+→ H-3 accumulation
+
+H-3 flow
+→ electricity
+
+H-2 flow organization
+→ magnetism
+
+Mutual H-2 and H-3 reorganization
+→ electromagnetic induction
+
+Together, electricity, magnetism, and electromagnetic induction form a unified electromagnetic (EM) TE organization system.
 
 
 
