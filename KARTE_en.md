@@ -862,6 +862,124 @@ A photon:
 An electromagnetic wave is a regime of Matrix channel-flow organization in which H-3 and H-2 TE flows cyclically reorganize and propagate through Matrix channels, utilizing TZ H-3 organization and transferring energy as a collective transformation of flows.
 
 
+# Photon
+
+## Definition
+
+A photon is a free-energy H-3 ↔ H-2 electromagnetic (EM) formation generated during an electron orbital transition, when the excess energy of a complete Qn cycle is expelled from the electron's domain.
+
+A photon is neither a closed EM object nor an electromagnetic wave. It is a self-reproducing free-energy process of an open electron Qn structure whose function is to remove excess load from overloaded Qn channels.
+
+---
+
+## Electron Principle
+
+An electron is a closed EM object that stores energy in the amplitude of its EM oscillations.
+
+Each orbital state corresponds to a specific Qn frequency.
+
+During an orbital transition:
+
+Qn₁
+→ Qn₂
+
+the electron enters a different energetic regime.
+
+---
+
+## Photon Generation Principle
+
+During the orbital transition, the complete energetic content of the previous Qn cycle cannot be fully retained.
+
+The excess energy is expelled:
+
+Electron
+→ orbital transition
+→ expulsion of excess complete-Qn-cycle energy
+→ photon formation.
+
+The expelled energy:
+
+- is no longer confined within the electron;
+- preserves the complete Qn organizational structure of the electron;
+- becomes a free-energy H-3 ↔ H-2 EM formation.
+
+---
+
+## Free Energy Principle
+
+A photon is an open copy of the electron's Qn structure.
+
+It does not transport matter and does not constitute a stable closed EM object.
+
+It realizes:
+
+H-3 ↔ H-2
+EM organization
+in a free-energy regime.
+
+---
+
+## Propagation Principle
+
+Unlike an electromagnetic wave, a photon does not use Matrix channels as its propagation pathway.
+
+A photon uses channel overlaps as energy springboards for the H-2 flow, while its H-3 component is supplied by the Matrix Transformation Zone (TZ).
+
+Its propagation occurs through successive self-reproduction of its Qn organization across numerous channel overlaps.
+
+---
+
+## Single Overlap Cycle
+
+Within each channel overlap, the photon performs three sequential processes:
+
+1. Free energy enters the channel;
+2. The channel reacts to the sudden energy influx and balances the overall Qn structure;
+3. The channel overlap releases the excess energy.
+
+This process repeats through an extremely large number of channel overlaps (~10^20), producing the observable propagation of the photon.
+
+---
+
+## Functional Principle
+
+A photon is a Matrix load-regulation mechanism.
+
+Overloaded Qn channels
+→ excess energy accumulation in the electron
+→ orbital transition
+→ photon
+→ excess energy removal
+→ new Qn equilibrium state.
+
+---
+
+## Distinction Principle
+
+Electromagnetic wave:
+
+- uses Matrix channels;
+- is a regime of channel-flow organization;
+- transfers energy through channel reorganization.
+
+Photon:
+
+- does not use Matrix channels;
+- uses channel overlaps;
+- is a free-energy H-3 ↔ H-2 EM formation;
+- is a self-reproducing process of an open electron Qn structure;
+- removes excess load from overloaded Qn channels.
+
+---
+
+## Summary
+
+A photon is a free-energy H-3 ↔ H-2 electromagnetic formation generated during an electron orbital transition by the expulsion of excess complete-Qn-cycle energy from the electron. It is a self-reproducing process of an open electron Qn structure that uses channel overlaps as energy springboards and removes excess load from overloaded Qn channels.
+
+
+
+
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
