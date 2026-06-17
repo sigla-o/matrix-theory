@@ -1,6 +1,8 @@
 # LOGICAL MAP OF MATRIX THEORY
 ## Full Edition (Updated)
 
+## Current Revision Version
+
 ### ABSOLUTE FOUNDATION
 
 ## Vertical
@@ -1017,6 +1019,8 @@ orbital
 
 The electron acts as an EM energy accumulator that transfers and stores energy from the orbital flow within its internal structure.
 
+
+## Previous Working Version
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
 The entire matrix structure is based on one principle: the rotation of matrix points is absolutely synchronous at all levels and in all dimensions. This rotation is not relative — it is a universal reference that determines all flow channels, all cycles, all passage of time.
