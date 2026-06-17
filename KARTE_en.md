@@ -1053,6 +1053,32 @@ As nuclear complexity increases, orbital geometry progressively deviates from th
 Electrons do not create orbitals. They occupy already formed orbitals and assume collective resonance states within them.
 
 
+### Electron
+
+An electron is a closed structure of a two half-phase electromagnetic (EM) wave.
+
+Unlike a free EM wave, the EM wave of the electron does not propagate through matrix space. Instead, it generates motion within a closed spherical internal space, maintaining minimum and maximum flow states in complete H-2 and H-3 synchronization.
+
+The current balance state of the electron always matches the energetic balance of its surrounding environment.
+
+An electron can exist:
+- within an orbital;
+- in free space.
+
+Within an orbital, the electron occupies one of two EM zones because only these zones provide complete compatibility between the electron and the orbital environment.
+
+These zones correspond to the symmetric states of the orbital EM flow, in which the center of the electron is in complete synchronization with the center of the orbital:
+- 0°;
+- 180°.
+
+These states should not be interpreted as an energetic "hill" or "well". They are determined by an equal synchronization-symmetry balance that maintains the electron at these locations.
+
+When full synchronization is achieved, energy flows are redirected from the orbital to the electron and from the electron back to the orbital.
+
+This bidirectional energy exchange produces a capacitor effect.
+
+The capacitor effect compensates for the proton half-phase imbalance and maintains the stable overall EM balance of the electron-orbital system.
+
 
 ## Previous Working Version
 
