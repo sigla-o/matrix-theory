@@ -1023,6 +1023,39 @@ orbitāle
 Elektrons darbojas kā EM enerģijas akumulators, kurš enerģiju no orbitāles plūsmas pārvieto un uzkrāj savā iekšējā struktūrā.
 
 
+### Atoma orbitāļu arhitektūra
+
+Atoms ir daudzlīmeņu H-2 ↔ H-3 plūsmu balansa sistēma.
+
+Atoma kopējais enerģijas daudzums atrodas enerģētiskā balansā ar TE H-2 un TE H-3 plūsmām.
+
+Pieejamais TE H-3 enerģijas daudzums nosaka, cik EM ciklus iespējams izveidot TE H-2 zonā.
+
+Katrs pilns EM cikls veido vienu max/min pāri.
+
+Pieaugot atoma enerģijai, pieaug arī stabilo EM ciklu un max/min zonu skaits.
+
+Protonu un neitronu ģeometriskās pozīcijas kodolā nav patvaļīgas. Tās nosaka TE H-2 un TE H-3 plūsmu savstarpējā saderība un enerģētiskais balanss.
+
+Stabila nukleonu ģeometrija
+→ nosaka TE H-3 plūsmu virzienus;
+→ nosaka TE H-3 plūsmu koncentrāciju;
+→ nosaka L1 plūsmu organizāciju;
+→ nosaka EM plūsmu organizāciju ap atomu.
+
+Orbitāles ir gatavas EM plūsmas struktūras, kuras veidojas no visu L1 plūsmu kopējā rezultāta.
+
+Orbitāļu ģeometriju nosaka:
+- atoma kopējais enerģijas daudzums;
+- TE H-2 un TE H-3 plūsmu balanss;
+- protonu un neitronu ģeometriskais izvietojums kodolā;
+- TE H-3 plūsmu virzieni un koncentrācija.
+
+Pieaugot kodola sarežģītībai, orbitāļu forma arvien vairāk attālinās no sākotnējās sfēriskās L0 simetrijas.
+
+Elektroni orbitāles neveido. Tie aizpilda jau izveidojušās orbitāles un tajās ieņem kolektīvās rezonanses stāvokļus.
+
+
 
 ## Iepriekšējā darba versija
 
