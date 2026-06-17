@@ -866,6 +866,123 @@ Fotons:
 Elektromagnētiskais vilnis ir Matricas kanālu plūsmu organizācijas režīms, kurā H-3 un H-2 TE plūsmas cikliski reorganizējas un izplatās pa Matricas kanāliem, izmantojot TZ H-3 organizāciju un pārnesot enerģiju kā kolektīvu plūsmu transformāciju.
 
 
+# Fotons
+
+## Definīcija
+
+Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks (EM) veidojums, kas rodas elektrona orbitālās pārejas laikā, kad no elektrona telpas tiek izstumta pilna Qn cikla liekā enerģija.
+
+Fotons nav slēgts EM objekts un nav elektromagnētisks vilnis. Tas ir atvērta elektrona Qn struktūras brīvās enerģijas pašreproducējošs process, kura funkcija ir aizvadīt lieko slodzi no pārpildītiem Qn kanāliem.
+
+---
+
+## Elektrona princips
+
+Elektrons ir slēgta tipa EM objekts, kas uzkrāj enerģiju savu EM svārstību amplitūdā.
+
+Katram elektrona orbitālajam stāvoklim atbilst noteikta Qn frekvence.
+
+Orbitāles maiņas laikā:
+
+Qn₁
+→ Qn₂
+
+elektrons pāriet citā enerģētiskajā režīmā.
+
+---
+
+## Fotona rašanās princips
+
+Orbitāles maiņas laikā pilns iepriekšējā Qn cikla enerģētiskais saturs nevar pilnībā saglabāties jaunajā stāvoklī.
+
+Liekā enerģija tiek izstumta no elektrona telpas:
+
+Elektrons
+→ orbitāles maiņa
+→ pilna Qn cikla liekās enerģijas izstumšana
+→ fotona veidošanās.
+
+Izstumtā enerģija:
+
+- vairs nav slēgta elektrona telpā;
+- saglabā pilnu elektrona Qn organizācijas struktūru;
+- kļūst par brīvās enerģijas H-3 ↔ H-2 EM veidojumu.
+
+---
+
+## Brīvās enerģijas princips
+
+Fotons ir atvērta elektrona Qn struktūras kopija.
+
+Fotons nepārnes matēriju un neveido stabilu slēgtu EM objektu.
+
+Tas realizē:
+
+H-3 ↔ H-2
+EM organizāciju
+brīvās enerģijas režīmā.
+
+---
+
+## Kustības princips
+
+Atšķirībā no elektromagnētiskā viļņa fotons neizmanto Matricas kanālus kā plūsmas ceļu.
+
+Fotons izmanto kanālu pārsedzes kā enerģētiskus tramplīnus H-2 plūsmai, savukārt H-3 komponente tiek izmantota no Matricas Transformācijas zonas (TZ).
+
+Fotona kustība realizējas kā secīga Qn organizācijas pašreproducēšanās daudzās kanālu pārsedzēs.
+
+---
+
+## Vienas pārsedzes cikls
+
+Katras kanālu pārsedzes laikā fotons veic trīs secīgus procesus:
+
+1. Brīvā enerģija nonāk kanālā;
+2. Kanāls reaģē uz pēkšņo enerģijas pieplūdumu un sabalansē kopējo Qn struktūru;
+3. Kanālu pārsedze atbrīvojas no liekās enerģijas.
+
+Šis process atkārtojas ļoti lielā kanālu pārsedžu skaitā (~10^20), radot novērojamu fotona izplatīšanos.
+
+---
+
+## Funkcionālais princips
+
+Fotons ir Matricas slodzes regulācijas mehānisms.
+
+Pārpildīti Qn kanāli
+→ liekās enerģijas akumulācija elektronā
+→ orbitāles maiņa
+→ fotons
+→ liekās enerģijas aizvadīšana
+→ jauns Qn līdzsvara stāvoklis.
+
+---
+
+## Atšķirības princips
+
+Elektromagnētiskais vilnis:
+
+- izmanto Matricas kanālus;
+- ir kanālu plūsmu organizācijas režīms;
+- pārnes enerģiju caur kanālu reorganizāciju.
+
+Fotons:
+
+- neizmanto Matricas kanālus;
+- izmanto kanālu pārsedzes;
+- ir brīvās enerģijas H-3 ↔ H-2 EM veidojums;
+- ir atvērta elektrona Qn struktūras pašreproducējošs process;
+- aizvada lieko slodzi no pārpildītiem Qn kanāliem.
+
+---
+
+## Kopsavilkums
+
+Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks veidojums, kas rodas elektrona orbitālās pārejas laikā, kad no elektrona telpas tiek izstumta pilna Qn cikla liekā enerģija. Tas ir atvērta elektrona Qn struktūras pašreproducējošs process, kas izmanto kanālu pārsedzes kā enerģētiskus tramplīnus un realizē liekās enerģijas aizvadīšanu no pārpildītiem Qn kanāliem.
+
+
+
 
 
 
