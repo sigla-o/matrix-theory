@@ -1078,6 +1078,20 @@ When full synchronization is achieved, energy flows are redirected from the orbi
 This bidirectional energy exchange produces a capacitor effect.
 
 The capacitor effect compensates for the proton half-phase imbalance and maintains the stable overall EM balance of the electron-orbital system.
+The internal EM energy accumulation of the electron is not unlimited.
+
+Upon reaching a critical energy threshold, the electron becomes unable to continue energy accumulation in its current state.
+
+At this point, excess energy is released in the form of a photon and a new energy accumulation cycle begins.
+
+Photon emission can occur:
+- when the electron reaches its critical energy accumulation threshold;
+- when the electron transitions to another orbital.
+
+Photon emission restores the overall H-2 ↔ H-3 energetic balance of the electron-orbital system.
+
+
+
 
 
 ## Previous Working Version
