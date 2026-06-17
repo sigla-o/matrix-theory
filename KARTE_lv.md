@@ -1082,6 +1082,23 @@ Kad tiek sasniegta pilna sinhronizācija, notiek enerģijas plūsmu novirze no o
 Kondensatora efekts nodrošina protona pus-fāžu disbalansa izlīdzināšanu un uztur stabilu elektrona un orbitāles kopējo EM balansu.
 
 
+Elektrona iekšējās EM enerģijas uzkrāšana nav neierobežota.
+
+Sasniedzot kritisku enerģijas robežu, elektrons kļūst nespējīgs turpināt enerģijas akumulāciju tekošajā stāvoklī.
+
+Šajā brīdī notiek liekās enerģijas atbrīvošana fotona veidā un sākas jauns enerģijas akumulācijas cikls.
+
+Fotona emisija var notikt:
+- sasniedzot kritisku enerģijas uzkrājuma robežu;
+- elektronam pārejot uz citu orbitāli.
+
+Fotona emisija atjauno elektrona un orbitāles kopējo H-2 ↔ H-3 enerģētisko balansu.
+
+
+
+
+
+
 ## Iepriekšējā darba versija
 
 
