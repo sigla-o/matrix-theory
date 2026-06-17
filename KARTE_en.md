@@ -1020,6 +1020,40 @@ orbital
 The electron acts as an EM energy accumulator that transfers and stores energy from the orbital flow within its internal structure.
 
 
+### Atomic Orbital Architecture
+
+An atom is a multi-level H-2 ↔ H-3 flow balance system.
+
+The total energy of the atom is in energetic balance with TE H-2 and TE H-3 flows.
+
+The available amount of TE H-3 energy determines how many EM cycles can be formed within the TE H-2 region.
+
+Each complete EM cycle forms one max/min pair.
+
+As the atomic energy increases, the number of stable EM cycles and max/min zones also increases.
+
+The geometric positions of protons and neutrons within the nucleus are not arbitrary. They are determined by the mutual compatibility and energetic balance of TE H-2 and TE H-3 flows.
+
+Stable nucleon geometry
+→ determines the directions of TE H-3 flows;
+→ determines the concentration of TE H-3 flows;
+→ determines the organization of L1 flows;
+→ determines the organization of EM flows around the atom.
+
+Orbitals are pre-formed EM flow structures that emerge from the combined result of all L1 flows.
+
+Orbital geometry is determined by:
+- the total energy of the atom;
+- the balance between TE H-2 and TE H-3 flows;
+- the geometric arrangement of protons and neutrons within the nucleus;
+- the directions and concentration of TE H-3 flows.
+
+As nuclear complexity increases, orbital geometry progressively deviates from the original spherical L0 symmetry.
+
+Electrons do not create orbitals. They occupy already formed orbitals and assume collective resonance states within them.
+
+
+
 ## Previous Working Version
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
