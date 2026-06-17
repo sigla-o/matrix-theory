@@ -978,7 +978,44 @@ Photon:
 A photon is a free-energy H-3 ↔ H-2 electromagnetic formation generated during an electron orbital transition by the expulsion of excess complete-Qn-cycle energy from the electron. It is a self-reproducing process of an open electron Qn structure that uses channel overlaps as energy springboards and removes excess load from overloaded Qn channels.
 
 
+### Orbital
 
+An orbital is a stable spatial structure of an electromagnetic (EM) wave formed around a proton.
+
+The EM wave is produced by the mutual modulation of H-3 and H-2:
+
+External H-2 flow
+→ proton's H-3 feedback in the external matrix
+→ internal H-3 modulation
+→ stable EM flow configuration
+→ orbital.
+
+An orbital is not a particle trajectory and is not a structure created by the electron. It is a large-scale EM flow environment that exists around the proton independently of the electron.
+
+From the electron's perspective, the orbital is a very large EM structure.
+
+The EM flow of the orbital contains wave phase maxima and minima (max/min), which simultaneously correspond to:
+- maxima and minima of EM amplitude;
+- phases of H-3 and H-2 dominance.
+
+The electron is a closed H-3 ↔ H-2 EM structure composed of approximately 10^20 mutually organized channels.
+
+The electron does not create the orbital. It exists within the orbital's EM flow and continuously interacts with it.
+
+The electron has only two stable collective resonance modes:
+- min;
+- max.
+
+These modes are not geometric points in space. They are two collective resonance states of the entire set of electron channels, in which the EM phase of the orbital becomes compatible with the electron's internal organization.
+
+The EM flow of the orbital continuously modulates the internal structure of the electron:
+
+orbital
+→ changes in the amplitudes of the electron's channels
+→ transfer of energy into the electron's internal space
+→ accumulation of the electron's internal EM energy.
+
+The electron acts as an EM energy accumulator that transfers and stores energy from the orbital flow within its internal structure.
 
 
 **1.1. 100% Synchronous Rotation of Matrix Points**
