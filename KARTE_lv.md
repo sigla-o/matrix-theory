@@ -982,6 +982,46 @@ Fotons:
 Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks veidojums, kas rodas elektrona orbitālās pārejas laikā, kad no elektrona telpas tiek izstumta pilna Qn cikla liekā enerģija. Tas ir atvērta elektrona Qn struktūras pašreproducējošs process, kas izmanto kanālu pārsedzes kā enerģētiskus tramplīnus un realizē liekās enerģijas aizvadīšanu no pārpildītiem Qn kanāliem.
 
 
+### Orbitāle
+
+Orbitāle ir ap protonu izveidota stabila elektromagnētiskā (EM) viļņa telpiska struktūra.
+
+EM vilni veido H-3 un H-2 savstarpējā modulācija:
+
+Ārējā H-2 plūsma
+→ protona H-3 atgriezeniskā saite ārējā matricā
+→ H-3 iekšējā modulācija
+→ stabila EM plūsmas konfigurācija
+→ orbitāle.
+
+Orbitāle nav daļiņas trajektorija un nav elektrona radīts veidojums. Tā ir liela mēroga EM plūsmas vide, kura eksistē ap protonu neatkarīgi no elektrona.
+
+No elektrona skata punkta orbitāle ir ļoti liels EM veidojums.
+
+Orbitāles EM plūsma satur viļņa fāžu maksimumus un minimumus (max/min), kuri vienlaikus atbilst:
+- EM amplitūdas maksimumiem un minimumiem;
+- H-3 un H-2 dominances fāzēm.
+
+Elektrons ir slēgts H-3 ↔ H-2 EM veidojums, kura struktūru veido aptuveni 10^20 savstarpēji organizētu kanālu.
+
+Elektrons orbitāli neveido. Tas eksistē orbitāles EM plūsmā un nepārtraukti mijiedarbojas ar to.
+
+Elektronam ir tikai divi stabili kolektīvās rezonanses režīmi:
+- min;
+- max.
+
+Šie režīmi nav ģeometriski punkti telpā. Tie ir divi visa elektrona kanālu kopuma kolektīvās rezonanses stāvokļi, kuros orbitāles EM fāze kļūst saderīga ar elektrona iekšējo organizāciju.
+
+Orbitāles EM plūsma nepārtraukti modulē elektrona iekšējo struktūru:
+orbitāle
+→ elektrona kanālu amplitūdas izmaiņas
+→ enerģijas pārnese elektrona iekšējā telpā
+→ elektrona iekšējās EM enerģijas uzkrāšana.
+
+Elektrons darbojas kā EM enerģijas akumulators, kurš enerģiju no orbitāles plūsmas pārvieto un uzkrāj savā iekšējā struktūrā.
+
+
+
 
 
 
