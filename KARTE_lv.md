@@ -1,6 +1,8 @@
 # MATRICAS TEORIJAS LOĢISKĀ KARTE
 ## Pilnā redakcija (atjaunināta)
 
+## Aktuālā revīzijas versija
+
 ###  ABSOLŪTAIS PAMATS
 
 ## Vertikāle
@@ -1022,7 +1024,7 @@ Elektrons darbojas kā EM enerģijas akumulators, kurš enerģiju no orbitāles 
 
 
 
-
+## Iepriekšējā darba versija
 
 
 
