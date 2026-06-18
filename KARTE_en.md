@@ -297,13 +297,13 @@ The minimal organization of TE flow requires two independent half-phases.
 
 At present, two candidate minimal flow bases remain open.
 
-#### 7-Point Base
+#### 7-Point Base (B7)
 
 - the minimum number of Matrix points that allows the realization of two independent half-phases;
 - the minimal carrier of half-phase organization;
 - full self-sustaining cyclicity has not yet been established.
 
-#### 13-Point Base
+#### 13-Point Base (B13)
 
 - consists of one central point and twelve surrounding channels;
 - is a candidate for a complete Phase-Direction organization;
@@ -321,11 +321,11 @@ The minimal bases of Transit Energy (TE) flows can realize two fundamentally dif
 
 #### Closed Cycle Principle
 
-The 7-point basis (Q7) is the minimal closed-type TE organization in which both half-phases complete a full cycle within the same local 7-point structure.
+The 7-point basis (B7) is the minimal closed-type TE organization in which both half-phases complete a full cycle within the same local 7-point structure.
 
 The complete energy balance is achieved without requiring external channels.
 
-Q7
+B7
 → full cycle
 → initial configuration
 → next cycle.
@@ -339,7 +339,7 @@ Closed cycles naturally realize:
 
 #### Open Cycle Principle
 
-The 13-point basis (Q13) is the minimal open-type TE organization in which a single 7-point structure realizes only one half-period.
+The 13-point basis (B13) is the minimal open-type TE organization in which a single 7-point structure realizes only one half-period.
 
 A complete cycle requires two consecutive half-periods realized across multiple interconnected organizational regions.
 
@@ -389,8 +389,8 @@ Example: electron.
 
 It has not yet been determined:
 
-- whether flow Q1 is the minimal carrier of two half-phases (7-point base);
-- whether flow Q1 is the minimal realization of complete FV cyclicity (13-point base);
+- whether flow Q1 is the minimal carrier of two half-phases B7;
+- whether flow Q1 is the minimal realization of complete FV cyclicity B13;
 - how a possible 12-channel FV organization generates full periodicity and subsequent object formation.
 
 These questions remain subjects of further theoretical development and revision.
