@@ -464,6 +464,66 @@ To eksistenci iespējams noteikt netieši:
 
 Qn ir kolektīvās TE organizācijas loģiskā telpa, kurā realizējas noteikta enerģijas apmaiņas periodiskums un kļūst novērojamas stabilas organizācijas likumsakarības. Qn nav fiziska robeža vai atsevišķa plūsma, bet kolektīvs enerģijas apmaiņas režīms, kas veido hierarhiski pašlīdzīgas organizācijas dažādos mērogos.
 
+# H+1 modulācijas princips
+
+## Definīcija
+
+H+1 modulācija ir H+1 matricas radīta Tranzīta Enerģijas (TE) organizācijas modulācija, kas darbojas kā organizāciju selekcijas mehānisms.
+
+Tā ietekmē TE plūsmu organizāciju, slāpē lielāko daļu teorētiski iespējamo konfigurāciju un ļauj ilgstoši saglabāties tikai ierobežotam skaitam stabilu organizācijas režīmu.
+
+---
+
+## Pamatprincipi
+
+### 1. H+1 matricas princips
+
+H+1 modulācijas avots ir H+1 matrica.
+
+Modulācija nav patstāvīgs spēks un nav neatkarīga Matricas īpašība. Tā rodas H+1 matricas iedarbības rezultātā un realizējas caur TE procesiem.
+
+---
+
+### 2. Modulācijas princips
+
+H+1 modulācija maina TE organizācijas iespēju telpu.
+
+Tā neaptur TE plūsmas un nenosaka stingras robežas enerģijas kustībai, bet ietekmē to, kuri organizācijas režīmi spēj sasniegt un ilgstoši uzturēt līdzsvaru.
+
+---
+
+### 3. Objektu zoo princips
+
+Matrica teorētiski pieļauj ļoti lielu iespējamo objektu un procesu daudzveidību.
+
+Bez H+1 modulācijas varētu eksistēt ievērojami lielāks skaits alternatīvu stabilu konfigurāciju.
+
+---
+
+### 4. Selekcijas princips
+
+H+1 modulācija darbojas kā selektīvas slāpēšanas filtrs.
+
+Tā:
+
+- slāpē lielāko daļu iespējamo organizācijas režīmu;
+- samazina stabilo konfigurāciju daudzveidību;
+- ļauj ilgstoši saglabāties tikai noteiktiem līdzsvarotiem režīmiem.
+
+---
+
+### 5. Stabilitātes princips
+
+Novērojamie stabilie objekti un procesi ir H+1 modulācijas atlasīto organizācijas režīmu sekas.
+
+To ilgstoša pastāvēšana nav automātiskas Matricas iespējamības rezultāts, bet H+1 matricas radītās TE modulācijas sekas.
+
+---
+
+## Kopsavilkums
+
+H+1 modulācija ir H+1 matricas radīta TE organizācijas modulācija, kas darbojas kā organizāciju selekcijas mehānisms. Tā neierobežo enerģijas kustību ar stingrām robežām, bet selektīvi slāpē lielāko daļu teorētiski iespējamo organizācijas režīmu un nodrošina tikai neliela skaita ilgstoši stabilu konfigurāciju pastāvēšanu.
+
 # Objekts
 
 ## Definīcija
