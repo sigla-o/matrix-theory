@@ -313,16 +313,57 @@ Pašlaik ir atvērti divi minimālās plūsmas bāzes virzieni.
 
 ---
 
-### 5. Cikliskuma princips
+### 5. Slēgto un atvērto ciklu princips
 
-TE plūsma ir cikliska.
+TE plūsmu minimālās bāzes var realizēt divus fundamentāli atšķirīgus organizācijas režīmus:
 
-Pilns cikls ir sasniegts tad, kad:
+- slēgta tipa ciklu;
+- atvērta tipa ciklu.
 
-- abas pus-fāzes realizē pilnu FV organizāciju;
-- plūsma atgriežas sākotnējā konfigurācijā;
-- sistēmai nav nepieciešama ārēja korekcija cikla uzturēšanai.
+#### Slēgtā cikla princips
 
+7 punktu bāze (Q7) ir minimāla slēgta tipa TE organizācija, kurā abas pus-fāzes realizē pilnu ciklu vienā un tajā pašā lokālajā 7 punktu telpā.
+
+Pilna enerģijas bilance tiek sasniegta bez nepieciešamības izmantot ārējos kanālus.
+
+Q7
+→ pilns cikls
+→ sākotnējā konfigurācija
+→ nākamais cikls.
+
+Slēgtie cikli dabiski realizē:
+
+- enerģijas uzkrāšanu;
+- lokālu rezonansi;
+- pašuzturošus objektus;
+- slēgtas elektromagnētiskās struktūras.
+
+#### Atvērtā cikla princips
+
+13 punktu bāze (Q13) ir minimāla atvērta tipa TE organizācija, kurā viena 7 punktu struktūra realizē tikai vienu pus-periodu.
+
+Pilna cikla realizācijai nepieciešami divi secīgi pus-periodi, kuri tiek realizēti vairākās savstarpēji saistītās organizācijas zonās.
+
+7 punkti
+→ pus-periods
+→ pāreja
+→ 7 punkti
+→ pus-periods
+→ pilns cikls.
+
+Atvērtie cikli dabiski realizē:
+
+- enerģijas pārnesi;
+- translējošas TE plūsmas;
+- elektromagnētiskos viļņus;
+- fotonu pašreproducēšanos;
+- kolektīvas kanālu reorganizācijas.
+
+#### Universālais organizācijas princips
+
+Slēgti TE cikli primāri uzkrāj un stabilizē enerģiju.
+
+Atvērti TE cikli primāri pārnes un izplata enerģiju.
 ---
 
 ### 6. Objektu ģenerēšanas princips
