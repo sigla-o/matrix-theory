@@ -298,13 +298,13 @@ TE plūsmas minimālajai organizācijai ir nepieciešamas divas neatkarīgas pus
 
 Pašlaik ir atvērti divi minimālās plūsmas bāzes virzieni.
 
-#### 7 punktu bāze
+#### 7 punktu bāze (B7)
 
 - minimālais Matricas punktu skaits, kurā iespējama divu neatkarīgu pus-fāžu realizācija;
 - minimālais pus-fāžu nesējs;
 - pilna pašpietiekama cikla realizācija nav noteikta.
 
-#### 13 punktu bāze
+#### 13 punktu bāze (B13)
 
 - sastāv no viena centrālā punkta un divpadsmit apkārtējiem kanāliem;
 - ir kandidāts pilnai Fāzes-Virziena organizācijai;
@@ -322,11 +322,11 @@ TE plūsmu minimālās bāzes var realizēt divus fundamentāli atšķirīgus or
 
 #### Slēgtā cikla princips
 
-7 punktu bāze (Q7) ir minimāla slēgta tipa TE organizācija, kurā abas pus-fāzes realizē pilnu ciklu vienā un tajā pašā lokālajā 7 punktu telpā.
+7 punktu bāze (B7) ir minimāla slēgta tipa TE organizācija, kurā abas pus-fāzes realizē pilnu ciklu vienā un tajā pašā lokālajā 7 punktu telpā.
 
 Pilna enerģijas bilance tiek sasniegta bez nepieciešamības izmantot ārējos kanālus.
 
-Q7
+B7
 → pilns cikls
 → sākotnējā konfigurācija
 → nākamais cikls.
@@ -340,7 +340,7 @@ Slēgtie cikli dabiski realizē:
 
 #### Atvērtā cikla princips
 
-13 punktu bāze (Q13) ir minimāla atvērta tipa TE organizācija, kurā viena 7 punktu struktūra realizē tikai vienu pus-periodu.
+13 punktu bāze (B13) ir minimāla atvērta tipa TE organizācija, kurā viena 7 punktu struktūra realizē tikai vienu pus-periodu.
 
 Pilna cikla realizācijai nepieciešami divi secīgi pus-periodi, kuri tiek realizēti vairākās savstarpēji saistītās organizācijas zonās.
 
@@ -390,8 +390,8 @@ Piemērs: elektrons.
 
 Nav noteikts:
 
-- vai plūsmas Q1 ir minimālais divu pus-fāžu nesējs (7 punktu bāze);
-- vai plūsmas Q1 ir minimālā pilnā FV cikliskuma realizācija (13 punktu bāze);
+- vai plūsmas Q1 ir minimālais divu pus-fāžu nesējs B7;
+- vai plūsmas Q1 ir minimālā pilnā FV cikliskuma realizācija B13;
 - kā iespējamā 12 kanālu FV organizācija ģenerē pilnu periodiskumu un tālāku objektu veidošanos.
 
 Šie jautājumi ir turpmākās teorijas attīstības un revīzijas priekšmets.
