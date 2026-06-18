@@ -366,6 +366,8 @@ Slēgti TE cikli primāri uzkrāj un stabilizē enerģiju.
 Atvērti TE cikli primāri pārnes un izplata enerģiju.
 ---
 
+
+
 ### 6. Objektu ģenerēšanas princips
 
 TE plūsma spēj ģenerēt augstāka līmeņa organizācijas – objektus.
@@ -386,15 +388,81 @@ Piemērs: elektrons.
 
 ---
 
-## Atvērtie jautājumi
+# Qn hierarhija
 
-Nav noteikts:
+## Definīcija
 
-- vai plūsmas Q1 ir minimālais divu pus-fāžu nesējs B7;
-- vai plūsmas Q1 ir minimālā pilnā FV cikliskuma realizācija B13;
-- kā iespējamā 12 kanālu FV organizācija ģenerē pilnu periodiskumu un tālāku objektu veidošanos.
+Qn ir kolektīvās Tranzīta Enerģijas (TE) organizācijas cikls, kurā realizējas noteikta enerģijas apmaiņas loģika un kļūst novērojamas konkrētas organizācijas likumsakarības.
 
-Šie jautājumi ir turpmākās teorijas attīstības un revīzijas priekšmets.
+Qn nav fizisks objekts, nav atsevišķa plūsma un nav telpiski noslēgta robeža.
+
+Qn ir loģiska telpa kolektīvu TE procesu aprakstīšanai.
+
+---
+
+## Pamatprincipi
+
+### 1. Kolektīvās organizācijas princips
+
+Katrs Qn līmenis realizē noteiktu kolektīvu enerģijas apmaiņas režīmu.
+
+Qn veidojas no ļoti liela zemāko līmeņu plūsmu un ciklu kopuma mijiedarbības.
+
+---
+
+### 2. Loģiskās telpas princips
+
+Qn nenosaka telpiskas robežas, kurām enerģijai būtu jāpakļaujas.
+
+Qn definē loģisku telpu, kurā iespējams identificēt:
+
+- enerģijas apmaiņas periodiskumu;
+- kolektīvus rezonanses režīmus;
+- stabilas organizācijas likumsakarības;
+- pārejas starp organizācijas režīmiem.
+
+---
+
+### 3. Hierarhijas princips
+
+Katrs nākamais Qn līmenis realizē jaunu kolektīvās organizācijas režīmu.
+
+Q(n+1) nav izolēta Qn kopija.
+
+Q(n+1) izmanto zemāko līmeņu organizācijas likumsakarības un realizē tās jaunā kolektīvā režīmā.
+
+---
+
+### 4. Pašlīdzības princips
+
+Līdzīgas enerģijas apmaiņas likumsakarības var realizēties dažādos Qn līmeņos.
+
+Mainās:
+
+- kolektīvās organizācijas mērogs;
+- enerģijas apmaiņas intensitāte;
+- novērojamās izpausmes.
+
+Nemainīgi saglabājas organizācijas pamatprincipi.
+
+---
+
+### 5. Novērojamības princips
+
+Qn līmeņi nav tieši novērojami objekti.
+
+To eksistenci iespējams noteikt netieši:
+
+- no periodiskām struktūrām;
+- no rezonanses režīmiem;
+- no stabilām enerģijas konfigurācijām;
+- no kolektīvu procesu atkārtošanās dažādos mērogos.
+
+---
+
+## Kopsavilkums
+
+Qn ir kolektīvās TE organizācijas loģiskā telpa, kurā realizējas noteikta enerģijas apmaiņas periodiskums un kļūst novērojamas stabilas organizācijas likumsakarības. Qn nav fiziska robeža vai atsevišķa plūsma, bet kolektīvs enerģijas apmaiņas režīms, kas veido hierarhiski pašlīdzīgas organizācijas dažādos mērogos.
 
 # Objekts
 
