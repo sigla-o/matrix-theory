@@ -385,15 +385,81 @@ Example: electron.
 
 ---
 
-## Open Questions
+# Qn Hierarchy
 
-It has not yet been determined:
+## Definition
 
-- whether flow Q1 is the minimal carrier of two half-phases B7;
-- whether flow Q1 is the minimal realization of complete FV cyclicity B13;
-- how a possible 12-channel FV organization generates full periodicity and subsequent object formation.
+Qn is a collective Transit Energy (TE) organizational cycle in which a specific logic of energy exchange is realized and particular organizational regularities become observable.
 
-These questions remain subjects of further theoretical development and revision.
+Qn is not a physical object, not a separate flow, and not a spatially closed boundary.
+
+Qn is a logical space for describing collective TE processes.
+
+---
+
+## Fundamental Principles
+
+### 1. Principle of Collective Organization
+
+Each Qn level realizes a specific collective energy exchange regime.
+
+Qn emerges from the interaction of a very large number of lower-level flows and cycles.
+
+---
+
+### 2. Principle of Logical Space
+
+Qn does not define spatial boundaries that energy must obey.
+
+Qn defines a logical space in which it is possible to identify:
+
+- periodicities of energy exchange;
+- collective resonance regimes;
+- stable organizational regularities;
+- transitions between organizational regimes.
+
+---
+
+### 3. Principle of Hierarchy
+
+Each subsequent Qn level realizes a new collective organizational regime.
+
+Q(n+1) is not an isolated copy of Qn.
+
+Q(n+1) uses the organizational regularities of lower levels and realizes them in a new collective regime.
+
+---
+
+### 4. Principle of Self-Similarity
+
+Similar energy exchange regularities can be realized across different Qn levels.
+
+What changes:
+
+- the scale of collective organization;
+- the intensity of energy exchange;
+- the observable manifestations.
+
+The fundamental organizational principles remain invariant.
+
+---
+
+### 5. Principle of Observability
+
+Qn levels are not directly observable objects.
+
+Their existence can be inferred indirectly from:
+
+- periodic structures;
+- resonance regimes;
+- stable energy configurations;
+- repetition of collective processes across different scales.
+
+---
+
+## Summary
+
+Qn is a logical space of collective TE organization in which a specific periodicity of energy exchange and stable organizational regularities become observable. Qn is neither a physical boundary nor a separate flow, but a collective energy exchange regime that forms hierarchically self-similar organizations across different scales.
 
 # Object
 
