@@ -312,16 +312,57 @@ At present, two candidate minimal flow bases remain open.
 
 ---
 
-### 5. Principle of Cyclicity
+### 5. Principle of Closed and Open Cycles
 
-TE flow is cyclic.
+The minimal bases of Transit Energy (TE) flows can realize two fundamentally different organizational regimes:
 
-A complete cycle is achieved when:
+- closed cycles;
+- open cycles.
 
-- both half-phases realize their full FV organization;
-- the flow returns to its initial configuration;
-- the system requires no external correction to maintain its cycle.
+#### Closed Cycle Principle
 
+The 7-point basis (Q7) is the minimal closed-type TE organization in which both half-phases complete a full cycle within the same local 7-point structure.
+
+The complete energy balance is achieved without requiring external channels.
+
+Q7
+→ full cycle
+→ initial configuration
+→ next cycle.
+
+Closed cycles naturally realize:
+
+- energy accumulation;
+- local resonance;
+- self-sustaining objects;
+- closed electromagnetic structures.
+
+#### Open Cycle Principle
+
+The 13-point basis (Q13) is the minimal open-type TE organization in which a single 7-point structure realizes only one half-period.
+
+A complete cycle requires two consecutive half-periods realized across multiple interconnected organizational regions.
+
+7 points
+→ half-period
+→ transition
+→ 7 points
+→ half-period
+→ full cycle.
+
+Open cycles naturally realize:
+
+- energy transfer;
+- translational TE flows;
+- electromagnetic waves;
+- photon self-reproduction;
+- collective channel reorganizations.
+
+#### Universal Organization Principle
+
+Closed TE cycles primarily accumulate and stabilize energy.
+
+Open TE cycles primarily transfer and distribute energy.
 ---
 
 ### 6. Principle of Object Generation
