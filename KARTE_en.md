@@ -1174,42 +1174,17 @@ A photon is a free-energy H-3 ↔ H-2 electromagnetic formation generated during
 
 ### Orbital
 
-An orbital is a stable spatial structure of an electromagnetic (EM) wave formed around a proton.
+An orbital is a stable electromagnetic (EM) resonance configuration formed around a proton.
 
-The EM wave is produced by the mutual modulation of H-3 and H-2:
+An orbital is realized within a modulated H-3 ↔ H-2 transition environment, where H-2 modulation is determined by the H0 Matrix and H-3 acts as the feedback of the H-2 modulation.
 
-External H-2 flow
-→ proton's H-3 feedback in the external matrix
-→ internal H-3 modulation
-→ stable EM flow configuration
-→ orbital.
+Orbitals form at locations where the half-phase differences of the H-2 and H-3 modulations do not coincide, creating stable resonance zones.
 
-An orbital is not a particle trajectory and is not a structure created by the electron. It is a large-scale EM flow environment that exists around the proton independently of the electron.
+Orbitals are not electron trajectories and are not structures created by electrons. They exist around the proton independently of the electron.
 
-From the electron's perspective, the orbital is a very large EM structure.
+An electron does not create an orbital and does not independently choose its trajectory. It localizes within the stable resonance points of an orbital and follows their spatial dynamics.
 
-The EM flow of the orbital contains wave phase maxima and minima (max/min), which simultaneously correspond to:
-- maxima and minima of EM amplitude;
-- phases of H-3 and H-2 dominance.
-
-The electron is a closed H-3 ↔ H-2 EM structure composed of approximately 10^20 mutually organized channels.
-
-The electron does not create the orbital. It exists within the orbital's EM flow and continuously interacts with it.
-
-The electron has only two stable collective resonance modes:
-- min;
-- max.
-
-These modes are not geometric points in space. They are two collective resonance states of the entire set of electron channels, in which the EM phase of the orbital becomes compatible with the electron's internal organization.
-
-The EM flow of the orbital continuously modulates the internal structure of the electron:
-
-orbital
-→ changes in the amplitudes of the electron's channels
-→ transfer of energy into the electron's internal space
-→ accumulation of the electron's internal EM energy.
-
-The electron acts as an EM energy accumulator that transfers and stores energy from the orbital flow within its internal structure.
+The spatial geometry of orbitals is determined by the collective organization of the H-2 and H-3 flows of nucleons.
 
 
 ### Atomic Orbital Architecture
