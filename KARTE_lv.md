@@ -861,7 +861,16 @@ TZ nodrošina:
 - enerģijas apmaiņu starp H-3 uzkrājumu un apkārtējo TE vidi;
 - lādiņa un EM savstarpējo korekciju.
 
+
+## Enerģētiskās bilances princips
+
+Objekta enerģētiskā bilance tiek saglabāta vienmēr neatkarīgi no tā, kur atrodas visas bilanci veidojošās enerģijas.
+
+Elektriskie stāvokļi raksturo nevis enerģijas esamību vai neesamību, bet gan pus-fāžu enerģijas telpisko organizāciju un dominances attiecības.
+
+Elektriskais potenciāls raksturo pus-fāžu enerģijas dominanci. Potenciāls, kas ir vienāds ar nulli, nenozīmē enerģijas neesamību, bet gan pus-fāžu enerģētisko līdzsvaru.
 ---
+
 
 ## Attiecības ar EM
 
