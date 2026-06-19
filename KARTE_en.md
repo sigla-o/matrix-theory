@@ -967,6 +967,8 @@ Together, electricity, magnetism, and electromagnetic induction form a unified e
 
 An electromagnetic wave (EM wave) is a Matrix channel-flow formation in which organized H-3 and H-2 Transit Energy (TE) flows cyclically reorganize and propagate through Matrix channels.
 
+TE H-2 is not bound to a specific H-3 realization environment. During H-2 reorganization, H-3 is displaced into the environment where flow reconfiguration is energetically easier to realize. Consequently, an electromagnetic wave can be realized in both the Matrix and object TE structures and can freely transition between the two environments.
+
 An EM wave is neither a free-energy object nor a photon. It is a collective regime of Matrix TE flow organization.
 
 ---
