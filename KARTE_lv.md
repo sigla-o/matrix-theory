@@ -869,6 +869,7 @@ Objekta enerģētiskā bilance tiek saglabāta vienmēr neatkarīgi no tā, kur 
 Elektriskie stāvokļi raksturo nevis enerģijas esamību vai neesamību, bet gan pus-fāžu enerģijas telpisko organizāciju un dominances attiecības.
 
 Elektriskais potenciāls raksturo pus-fāžu enerģijas dominanci. Potenciāls, kas ir vienāds ar nulli, nenozīmē enerģijas neesamību, bet gan pus-fāžu enerģētisko līdzsvaru.
+
 ---
 
 
