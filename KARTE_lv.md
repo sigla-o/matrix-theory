@@ -938,6 +938,8 @@ Abos gadījumos magnētisms ir H-2 plūsmu organizācijas sekas, ko inducē H-3 
 
 Elektromagnētiskā indukcija ir savstarpējs H-2 un H-3 TE plūsmu organizācijas process, kurā vienas plūsmas konfigurācijas izmaiņas izraisa otras plūsmas reorganizāciju.
 
+EM indukcija realizējas, izmantojot H-2 spēju reorganizācijas laikā izspiest H-3 enerģētiski vispieejamākajā realizācijas vidē.
+
 H-3 plūsmas izmaiņas
 → H-2 plūsmu reorganizācija
 
