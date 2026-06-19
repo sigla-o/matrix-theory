@@ -1200,9 +1200,9 @@ Atoma kopējais enerģijas daudzums atrodas enerģētiskā balansā ar TE H-2 un
 
 Pieejamais TE H-3 enerģijas daudzums nosaka, cik EM ciklus iespējams izveidot TE H-2 zonā.
 
-Katrs pilns EM cikls veido vienu max/min pāri.
+Katrs pilns EM cikls veido vienu 0°/180° pāri.
 
-Pieaugot atoma enerģijai, pieaug arī stabilo EM ciklu un max/min zonu skaits.
+Pieaugot atoma enerģijai, pieaug arī stabilo EM ciklu un 0°/180° zonu skaits.
 
 Protonu un neitronu ģeometriskās pozīcijas kodolā nav patvaļīgas. Tās nosaka TE H-2 un TE H-3 plūsmu savstarpējā saderība un enerģētiskais balanss.
 
