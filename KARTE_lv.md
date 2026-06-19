@@ -893,6 +893,7 @@ Elektromagnētisms:
 
 Elektriskais lādiņš ir protona pus-fāžu disbalansa radīts VEV H-3 līmeņa pastāvīgs TE uzkrājums H0 Matricā ap matēriju, kas realizējas kā lokāla Tumšās enerģijas koncentrācija un caur TZ atrodas nosacītā dinamiskā līdzsvarā ar elektromagnētisko organizāciju.
 
+Elektriskais lādiņš un elektrība realizējas dažādās TE vidēs. Elektriskais lādiņš ir H-3 TE papildinājums Matricā un veido potenciālu starpību, savukārt elektrība ir organizēta H-3 TE plūsma objekta TE struktūrā. Potenciāla starpība nosaka elektrības realizācijas iespēju un virzienu, bet pati H-3 plūsma notiek tikai caur objekta TE struktūru.
 
 # Elektrība, magnētisms un elektromagnētiskā indukcija
 
