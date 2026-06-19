@@ -823,7 +823,7 @@ Electric charge arises through:
 
 Proton half-phase imbalance
 → accumulation of VEV H-3 TE
-→ local deformation of the H0 Matrix
+→ local H0 TE flow deformation relative to the initial L0 Qn state
 → stable local concentration of Dark Energy
 → electric charge.
 
@@ -836,7 +836,7 @@ Electric charge is the directly observable local manifestation of Dark Energy.
 It is realized as:
 
 - persistent accumulation of VEV H-3 TE;
-- stable deformation of the H0 Matrix;
+- local H0 TE flow deformation relative to the initial L0 Qn state;
 - local TE density anomaly surrounding matter.
 
 ---
