@@ -935,6 +935,8 @@ In both cases, magnetism is a consequence of H-2 flow organization induced by H-
 
 Electromagnetic induction is a mutual organizational process of H-2 and H-3 TE flows in which changes in one flow configuration cause reorganization of the other.
 
+EM induction is realized through the ability of H-2 to displace H-3 into the energetically most accessible realization environment during reorganization.
+
 Changes in H-3 flows
 → reorganization of H-2 flows
 
