@@ -889,6 +889,9 @@ Electromagnetism:
 
 Electric charge is a proton half-phase imbalance induced persistent accumulation of VEV H-3 level TE within the H0 Matrix surrounding matter, manifested as a local concentration of Dark Energy and maintained in conditional dynamic equilibrium with electromagnetic organization through TZ.
 
+Electric charge and electricity are realized in different TE environments. Electric charge is an H-3 TE surplus within the Matrix and establishes a potential difference, whereas electricity is an organized H-3 TE flow within an object's TE structure. The potential difference determines the possibility and direction of electrical realization, while the H-3 flow itself occurs only through the object's TE structure.
+
+
 # Electricity, Magnetism and Electromagnetic Induction
 
 ## Electricity
