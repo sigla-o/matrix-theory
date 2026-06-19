@@ -383,6 +383,12 @@ An object consisting solely of a closed TE flow and not forming an independent M
 
 Example: electron.
 
+### 7. TE Flow Deformation
+
+A TE flow deformation is any stable or transient deviation from the L0 regime of TE flow organization.
+
+A deformation may manifest as changes in TE flow magnitude, distribution, directional dominance, or half-phase energy balance and does not imply changes in Matrix geometry, point arrangement, or Absolute Synchronization.
+
 ---
 
 # Qn Hierarchy
