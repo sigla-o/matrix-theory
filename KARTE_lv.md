@@ -825,7 +825,7 @@ Elektriskais lādiņš rodas:
 
 Protona pus-fāžu disbalanss
 → VEV H-3 TE uzkrāšanās
-→ lokāla H0 Matricas deformācija
+→ lokāla H0 TE plūsmas deformācija attiecībā pret L0 Qn sākotnējo stāvokli
 → stabila Tumšās enerģijas koncentrācija
 → elektriskais lādiņš.
 
@@ -838,7 +838,7 @@ Elektriskais lādiņš ir šodien tieši novērojamā Tumšās enerģijas lokāl
 Tas realizējas kā:
 
 - ilgstošs VEV H-3 TE uzkrājums;
-- stabila H0 Matricas deformācija;
+- lokāla H0 TE plūsmas deformācija attiecībā pret L0 Qn sākotnējo stāvokli;
 - lokāla TE blīvuma anomālija ap matēriju.
 
 ---
