@@ -386,6 +386,12 @@ Objekts, kas sastāv tikai no noslēgtas TE plūsmas un neveido patstāvīgu Mat
 
 Piemērs: elektrons.
 
+### 7. TE plūsmas deformācija
+
+TE plūsmas deformācija ir jebkura stabila vai pārejoša novirze no L0 režīma TE plūsmu organizācijas.
+
+Deformācija var izpausties kā TE plūsmu daudzuma, sadalījuma, virziena dominances vai pus-fāžu enerģētiskā balansa izmaiņas un neparedz Matricas ģeometrijas, punktu izvietojuma vai Absolūtās sinhronizācijas izmaiņas.
+
 ---
 
 # Qn hierarhija
