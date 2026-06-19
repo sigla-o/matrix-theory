@@ -859,6 +859,14 @@ TZ provides:
 - energy exchange between the H-3 accumulation and the surrounding TE environment;
 - mutual correction between charge and EM.
 
+## Energy Balance Principle
+
+The energy balance of an object is always conserved regardless of where all balance-forming energies are located.
+
+Electrical states characterize not the presence or absence of energy, but the spatial organization and dominance relationships of half-phase energies.
+
+Electric potential characterizes half-phase energy dominance. A potential equal to zero does not imply the absence of energy but rather the energetic equilibrium of the half-phases.
+
 ---
 
 ## Relationship to EM
