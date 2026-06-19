@@ -835,6 +835,8 @@ Protona pus-fāžu disbalanss
 → stabila Tumšās enerģijas koncentrācija
 → elektriskais lādiņš.
 
+Elektriskais lādiņš ir Matricā lokāli uzkrāts H-3 TE papildinājums, kura lielumu nosaka dinamiskais līdzsvars starp elektromagnētiskās darbības radīto H-3 TE pārpalikumu un Matricas tendenci atbrīvoties no tai nevajadzīgās enerģijas.
+
 ---
 
 ## Tumšās enerģijas princips
