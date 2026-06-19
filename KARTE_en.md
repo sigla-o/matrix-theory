@@ -1195,9 +1195,9 @@ The total energy of the atom is in energetic balance with TE H-2 and TE H-3 flow
 
 The available amount of TE H-3 energy determines how many EM cycles can be formed within the TE H-2 region.
 
-Each complete EM cycle forms one max/min pair.
+Each complete EM cycle forms one 0°/180° pair.
 
-As the atomic energy increases, the number of stable EM cycles and max/min zones also increases.
+As the atomic energy increases, the number of stable EM cycles and 0°/180° zones also increases.
 
 The geometric positions of protons and neutrons within the nucleus are not arbitrary. They are determined by the mutual compatibility and energetic balance of TE H-2 and TE H-3 flows.
 
