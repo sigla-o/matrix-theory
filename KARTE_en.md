@@ -1176,48 +1176,52 @@ A photon is a free-energy H-3 ↔ H-2 electromagnetic formation generated during
 
 An orbital is a stable electromagnetic (EM) resonance configuration formed around a proton.
 
-An orbital is realized within a modulated H-3 ↔ H-2 transition environment, where H-2 modulation is determined by the H0 Matrix and H-3 acts as the feedback of the H-2 modulation.
+An orbital is realized within the modulated H-3 ↔ H-2 transition environment, where H-2 modulation is determined by the H0 Matrix, while H-3 acts as a feedback mechanism of H-2 modulation.
 
-Orbitals form at locations where the half-phase differences of the H-2 and H-3 modulations do not coincide, creating stable resonance zones.
+Orbitals form in regions where the half-phase differences of H-2 and H-3 modulations do not coincide and create stable resonance zones.
 
-Orbitals are not electron trajectories and are not structures created by electrons. They exist around the proton independently of the electron.
+Orbitals are not electron trajectories and are not structures created by electrons. They exist around a proton independently of the electron.
 
-An electron does not create an orbital and does not independently choose its trajectory. It localizes within the stable resonance points of an orbital and follows their spatial dynamics.
+The electron does not create an orbital and does not choose its trajectory. It localizes at stable resonance points of the orbital and follows their spatial dynamics.
 
-The spatial geometry of orbitals is determined by the collective organization of the H-2 and H-3 flows of nucleons.
+The spatial geometry of orbitals is determined by the combined organization of nucleonic H-2 and H-3 flows.
 
+An orbital is a fully synchronized H-2 ↔ H-3 electromagnetic resonance structure that emerges as a self-organized configuration of protons, neutrons, electrons, and the surrounding TE H-2 environment.
 
-### Atomic Orbital Architecture
+Orbitals are not pre-existing spatial shells. Their geometry and capacity arise as a balance between:
+- the geometry of the atom's internal H-3 flows;
+- the spatial arrangement of protons and neutrons;
+- H-2 flow phase synchronization;
+- compatibility requirements imposed by the surrounding TE H-2 environment.
 
-An atom is a multi-level H-2 ↔ H-3 flow balance system.
+Each orbital is characterized by the maximum number of complete EM cycles (TE periods):
 
-The total energy of the atom is in energetic balance with TE H-2 and TE H-3 flows.
+P = n²,
 
-The available amount of TE H-3 energy determines how many EM cycles can be formed within the TE H-2 region.
+where:
+- P — number of complete EM cycles (TE periods);
+- n — orbital order number.
 
-Each complete EM cycle forms one 0°/180° pair.
+Each complete EM cycle realizes one 0°/180° resonance pair:
 
-As the atomic energy increases, the number of stable EM cycles and 0°/180° zones also increases.
+1 EM cycle → 1 × (0°/180°) → 2 stabilization points.
 
-The geometric positions of protons and neutrons within the nucleus are not arbitrary. They are determined by the mutual compatibility and energetic balance of TE H-2 and TE H-3 flows.
+The maximum number of stabilization points within an orbital is:
 
-Stable nucleon geometry
-→ determines the directions of TE H-3 flows;
-→ determines the concentration of TE H-3 flows;
-→ determines the organization of L1 flows;
-→ determines the organization of EM flows around the atom.
+N = 2n²,
 
-Orbitals are pre-formed EM flow structures that emerge from the combined result of all L1 flows.
+where:
+- N — maximum number of electron synchronization points.
 
-Orbital geometry is determined by:
-- the total energy of the atom;
-- the balance between TE H-2 and TE H-3 flows;
-- the geometric arrangement of protons and neutrons within the nucleus;
-- the directions and concentration of TE H-3 flows.
+This mathematics describes only the maximum orbital capacity. The existence of actual stabilization points is determined by:
+- the available TE H-3 energy;
+- Qn H+1 modulation;
+- energetically preferred directions of TE H-3 flows;
+- complete phase synchronization of the atom's internal and external H-2 ↔ H-3 flows.
 
-As nuclear complexity increases, orbital geometry progressively deviates from the original spherical L0 symmetry.
+Orbital shapes are a direct manifestation of TE H-3 flow geometry. H-3 determines the energetically preferred flow directions and orbital shapes, while H-2 provides synchronization, stability, and compatibility of these structures with the surrounding environment.
 
-Electrons do not create orbitals. They occupy already formed orbitals and assume collective resonance states within them.
+Thus, an orbital is a discrete, self-organized, and fully synchronized TE flow geometry capable of sustaining stable electron synchronization points.
 
 
 ### Electron
