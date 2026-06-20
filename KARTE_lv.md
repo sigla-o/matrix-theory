@@ -1179,6 +1179,7 @@ Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks veidojums, kas roda
 
 ### Orbitāle
 
+
 Orbitāle ir ap protonu izveidota stabila elektromagnētiskās (EM) rezonanses konfigurācija.
 
 Orbitāle realizējas modulētajā H-3 ↔ H-2 pārejas vidē, kur H-2 modulāciju nosaka H0 Matrica, bet H-3 darbojas kā H-2 modulācijas atgriezeniskā saite.
@@ -1191,38 +1192,45 @@ Elektrons neveido orbitāli un neizvēlas savu kustības trajektoriju. Tas lokal
 
 Orbitāļu telpisko ģeometriju nosaka nukleonu H-2 un H-3 plūsmu kopējā organizācija.
 
+Orbitāle ir pilnībā sinhronizēta H-2 ↔ H-3 elektromagnētiskās rezonanses struktūra, kas rodas kā kopēja protonu, neitronu, elektronu un apkārtējās TE H-2 vides pašorganizācijas forma.
 
-### Atoma orbitāļu arhitektūra
+Orbitāles nav iepriekš eksistējošas telpiskas čaulas. To ģeometrija un kapacitāte veidojas kā balanss starp:
+- atoma iekšējo H-3 plūsmu ģeometriju;
+- protonu un neitronu telpisko izvietojumu;
+- H-2 plūsmu fāžu sinhronizāciju;
+- apkārtējās TE H-2 vides saderības prasībām.
 
-Atoms ir daudzlīmeņu H-2 ↔ H-3 plūsmu balansa sistēma.
+Katru orbitāli raksturo maksimālais pilno EM ciklu (TE periodu) skaits:
 
-Atoma kopējais enerģijas daudzums atrodas enerģētiskā balansā ar TE H-2 un TE H-3 plūsmām.
+P = n²,
 
-Pieejamais TE H-3 enerģijas daudzums nosaka, cik EM ciklus iespējams izveidot TE H-2 zonā.
+kur:
+- P — pilno EM ciklu (TE periodu) skaits;
+- n — orbitāles kārtas numurs.
 
-Katrs pilns EM cikls veido vienu 0°/180° pāri.
+Katrs pilns EM cikls realizē vienu 0°/180° rezonanses pāri:
 
-Pieaugot atoma enerģijai, pieaug arī stabilo EM ciklu un 0°/180° zonu skaits.
+1 EM cikls → 1 × (0°/180°) → 2 stabilizācijas punkti.
 
-Protonu un neitronu ģeometriskās pozīcijas kodolā nav patvaļīgas. Tās nosaka TE H-2 un TE H-3 plūsmu savstarpējā saderība un enerģētiskais balanss.
+Maksimālais stabilizācijas punktu skaits orbitālē ir:
 
-Stabila nukleonu ģeometrija
-→ nosaka TE H-3 plūsmu virzienus;
-→ nosaka TE H-3 plūsmu koncentrāciju;
-→ nosaka L1 plūsmu organizāciju;
-→ nosaka EM plūsmu organizāciju ap atomu.
+N = 2n²,
 
-Orbitāles ir gatavas EM plūsmas struktūras, kuras veidojas no visu L1 plūsmu kopējā rezultāta.
+kur:
+- N — maksimālais elektrona sinhronizācijas punktu skaits.
 
-Orbitāļu ģeometriju nosaka:
-- atoma kopējais enerģijas daudzums;
-- TE H-2 un TE H-3 plūsmu balanss;
-- protonu un neitronu ģeometriskais izvietojums kodolā;
-- TE H-3 plūsmu virzieni un koncentrācija.
+Šī matemātika apraksta orbitāles maksimālo kapacitāti. Reālo stabilizācijas punktu eksistenci nosaka:
+- pieejamais TE H-3 enerģijas daudzums;
+- Qn H+1 modulācija;
+- TE H-3 plūsmu enerģētiski preferētie virzieni;
+- atoma iekšējo un ārējo H-2 ↔ H-3 plūsmu pilnā fāžu sinhronizācija.
 
-Pieaugot kodola sarežģītībai, orbitāļu forma arvien vairāk attālinās no sākotnējās sfēriskās L0 simetrijas.
+Orbitāļu formas ir tieša TE H-3 plūsmu ģeometrijas izpausme. H-3 nosaka enerģētiski preferētos plūsmu virzienus un orbitāļu formu, savukārt H-2 nodrošina šo struktūru sinhronizāciju, stabilitāti un saderību ar apkārtējo vidi.
 
-Elektroni orbitāles neveido. Tie aizpilda jau izveidojušās orbitāles un tajās ieņem kolektīvās rezonanses stāvokļus.
+Tādējādi orbitāle ir diskrēta, pašorganizēta un pilnībā sinhronizēta TE plūsmu ģeometrija, kurā iespējama stabilu elektrona sinhronizācijas punktu eksistence.
+
+---
+
 
 ### Elektrons
 
