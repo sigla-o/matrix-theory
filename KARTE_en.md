@@ -1254,7 +1254,7 @@ The proton is the first fully closed Qn structure in which the H0 and H-1 matric
 
 An electron is a closed structure of a two half-phase electromagnetic (EM) wave.
 
-Unlike a free EM wave, the EM wave of the electron does not propagate through matrix space. Instead, it generates motion within a closed spherical internal space, maintaining minimum and maximum flow states in complete H-2 and H-3 synchronization.
+Unlike a free EM wave, the EM wave of the electron does not propagate through matrix space. Instead, it generates motion within a closed spherical internal space in complete H-2 and H-3 synchronization.
 
 The current balance state of the electron always matches the energetic balance of its surrounding environment.
 
