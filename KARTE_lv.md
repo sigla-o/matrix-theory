@@ -973,7 +973,7 @@ Elektrība, magnētisms un elektromagnētiskā indukcija kopā veido vienotu ele
 
 Elektromagnētiskais vilnis (EM vilnis) ir matricas kanālu plūsmu veidojums, kurā organizētas H-3 un H-2 Tranzīta Enerģijas (TE) plūsmas cikliski savstarpēji reorganizējas un izplatās pa Matricas kanāliem.
 
-TE H-2 nav piesaistīta konkrētai H-3 realizācijas videi. H-2 reorganizācijas laikā H-3 tiek izspiesta tajā vidē, kur enerģētiski ir vieglāk realizēt plūsmas pārkārtošanos. Tādēļ elektromagnētiskais vilnis var realizēties gan Matricas, gan objekta TE struktūrās un brīvi pāriet starp abām vidēm.
+TE H-2 nav piesaistīta konkrētai H-3 realizācijas videi. H-2 reorganizācijas laikā H-3 tiek izspiesta tajā vidē, kur enerģētiski ir vieglāk realizēt plūsmas pārkārtošanos. 
 
 EM vilnis nav brīvās enerģijas objekts un nav fotons. Tas ir Matricas kolektīvās TE plūsmas organizācijas režīms.
 
