@@ -1229,6 +1229,65 @@ Orbitāļu formas ir tieša TE H-3 plūsmu ģeometrijas izpausme. H-3 nosaka ene
 
 Tādējādi orbitāle ir diskrēta, pašorganizēta un pilnībā sinhronizēta TE plūsmu ģeometrija, kurā iespējama stabilu elektrona sinhronizācijas punktu eksistence.
 
+#### LV — Papildinājums
+
+Orbitāļu matemātiskā kapacitāte izriet no diskrētas Qn cikliskās adresācijas.
+
+Ja \(n\) ir diskrētais kopīgās H0 ↔ H-1 adresācijas rādiuss, tad orbitālē maksimāli pieejamo pilno EM ciklu (TE periodu) skaits ir:
+
+\[
+P=n^2
+\]
+
+kur:
+- \(P\) — pilno EM ciklu (TE periodu) skaits;
+- \(n\) — diskrētais orbitāles rādiuss.
+
+Šī sakarība rodas tādēļ, ka pilna H0 ↔ H-1 sinhronizācija var realizēties tikai pilnībā aizpildītos diskrētos cikliskās adresācijas slāņos.
+
+Katrs nākamais adresācijas slānis pievieno:
+
+\[
+\Delta P=2n-1
+\]
+
+jaunus pilnus EM ciklus.
+
+Tādējādi:
+
+\[
+1=1
+\]
+
+\[
+4=1+3
+\]
+
+\[
+9=1+3+5
+\]
+
+\[
+16=1+3+5+7
+\]
+
+utt.
+
+Katrs pilns EM cikls realizē vienu 0°/180° pus-fāžu pāri, tādēļ maksimālais elektrona sinhronizācijas punktu skaits orbitālē ir:
+
+\[
+N=2n^2
+\]
+
+kur:
+- \(N\) — maksimālais elektrona sinhronizācijas punktu skaits.
+
+Šī matemātika nosaka orbitāles maksimālo kapacitāti. Reāli realizēto stabilizācijas punktu un orbitāļu ģeometriju nosaka H-2 un H-3 plūsmu enerģētiskā saderība, H+1 modulācija un pilna H0 ↔ H-1 matricas fāžu sinhronizācija.
+
+Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas realizē absolūtu sinhronizāciju. Orbitāles ir nākamie diskrētie atvērtie Qn līmeņi, kuri saglabā šo kopīgo adresācijas principu.
+
+---
+
 ---
 
 
