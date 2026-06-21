@@ -1265,7 +1265,7 @@ Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas rea
 
 Elektrons ir slēgts divu pus-fāžu elektromagnētiskā (EM) viļņa veidojums.
 
-Atšķirībā no brīva EM viļņa, elektrona EM vilnis neizplatās pa matricas telpu. Tas rada kustību slēgtā sfēriskā iekšējā telpā, uzturot plūsmas minimuma un maksimuma stāvokļus pilnā H-2 un H-3 sinhronizācijā.
+Atšķirībā no brīva EM viļņa, elektrona EM vilnis neizplatās pa matricas telpu. Tas rada kustību slēgtā sfēriskā iekšējā telpā, uzturot plūsmas pilnā H-2 un H-3 sinhronizācijā.
 
 Elektrona tekošais balansa stāvoklis vienmēr sakrīt ar apkārtējās vides enerģētisko balansu.
 
