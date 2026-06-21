@@ -1193,35 +1193,6 @@ Orbitals are not pre-existing spatial shells. Their geometry and capacity arise 
 - H-2 flow phase synchronization;
 - compatibility requirements imposed by the surrounding TE H-2 environment.
 
-Each orbital is characterized by the maximum number of complete EM cycles (TE periods):
-
-P = n²,
-
-where:
-- P — number of complete EM cycles (TE periods);
-- n — orbital order number.
-
-Each complete EM cycle realizes one 0°/180° resonance pair:
-
-1 EM cycle → 1 × (0°/180°) → 2 stabilization points.
-
-The maximum number of stabilization points within an orbital is:
-
-N = 2n²,
-
-where:
-- N — maximum number of electron synchronization points.
-
-This mathematics describes only the maximum orbital capacity. The existence of actual stabilization points is determined by:
-- the available TE H-3 energy;
-- Qn H+1 modulation;
-- energetically preferred directions of TE H-3 flows;
-- complete phase synchronization of the atom's internal and external H-2 ↔ H-3 flows.
-
-Orbital shapes are a direct manifestation of TE H-3 flow geometry. H-3 determines the energetically preferred flow directions and orbital shapes, while H-2 provides synchronization, stability, and compatibility of these structures with the surrounding environment.
-
-Thus, an orbital is a discrete, self-organized, and fully synchronized TE flow geometry capable of sustaining stable electron synchronization points.
-
 
 The mathematical capacity of orbitals arises from discrete cyclic Qn addressing.
 
