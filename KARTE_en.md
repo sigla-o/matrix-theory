@@ -1224,6 +1224,62 @@ Orbital shapes are a direct manifestation of TE H-3 flow geometry. H-3 determine
 Thus, an orbital is a discrete, self-organized, and fully synchronized TE flow geometry capable of sustaining stable electron synchronization points.
 
 
+The mathematical capacity of orbitals arises from discrete cyclic Qn addressing.
+
+If \(n\) is the discrete radius of the common H0 ↔ H-1 addressing, then the maximum number of complete EM cycles (TE periods) available within an orbital is:
+
+\[
+P=n^2
+\]
+
+where:
+- \(P\) — number of complete EM cycles (TE periods);
+- \(n\) — discrete orbital radius.
+
+This relation arises because complete H0 ↔ H-1 synchronization can exist only within fully populated discrete layers of cyclic addressing.
+
+Each subsequent addressing layer adds:
+
+\[
+\Delta P=2n-1
+\]
+
+new complete EM cycles.
+
+Thus:
+
+\[
+1=1
+\]
+
+\[
+4=1+3
+\]
+
+\[
+9=1+3+5
+\]
+
+\[
+16=1+3+5+7
+\]
+
+and so on.
+
+Each complete EM cycle realizes one 0°/180° half-phase pair. Therefore, the maximum number of electron synchronization points within an orbital is:
+
+\[
+N=2n^2
+\]
+
+where:
+- \(N\) — maximum number of electron synchronization points.
+
+This mathematics defines the maximum orbital capacity. The actually realized stabilization points and orbital geometry are determined by the energetic compatibility of H-2 and H-3 flows, H+1 modulation, and complete H0 ↔ H-1 matrix phase synchronization.
+
+The proton is the first fully closed Qn structure in which the H0 and H-1 matrices realize absolute synchronization. Orbitals are the subsequent discrete open Qn levels that preserve this common addressing principle.
+
+
 ### Electron
 
 An electron is a closed structure of a two half-phase electromagnetic (EM) wave.
