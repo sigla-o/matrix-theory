@@ -1229,7 +1229,6 @@ Orbitāļu formas ir tieša TE H-3 plūsmu ģeometrijas izpausme. H-3 nosaka ene
 
 Tādējādi orbitāle ir diskrēta, pašorganizēta un pilnībā sinhronizēta TE plūsmu ģeometrija, kurā iespējama stabilu elektrona sinhronizācijas punktu eksistence.
 
-#### LV — Papildinājums
 
 Orbitāļu matemātiskā kapacitāte izriet no diskrētas Qn cikliskās adresācijas.
 
