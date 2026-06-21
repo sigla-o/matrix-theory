@@ -1200,35 +1200,6 @@ Orbitāles nav iepriekš eksistējošas telpiskas čaulas. To ģeometrija un kap
 - H-2 plūsmu fāžu sinhronizāciju;
 - apkārtējās TE H-2 vides saderības prasībām.
 
-Katru orbitāli raksturo maksimālais pilno EM ciklu (TE periodu) skaits:
-
-P = n²,
-
-kur:
-- P — pilno EM ciklu (TE periodu) skaits;
-- n — orbitāles kārtas numurs.
-
-Katrs pilns EM cikls realizē vienu 0°/180° rezonanses pāri:
-
-1 EM cikls → 1 × (0°/180°) → 2 stabilizācijas punkti.
-
-Maksimālais stabilizācijas punktu skaits orbitālē ir:
-
-N = 2n²,
-
-kur:
-- N — maksimālais elektrona sinhronizācijas punktu skaits.
-
-Šī matemātika apraksta orbitāles maksimālo kapacitāti. Reālo stabilizācijas punktu eksistenci nosaka:
-- pieejamais TE H-3 enerģijas daudzums;
-- Qn H+1 modulācija;
-- TE H-3 plūsmu enerģētiski preferētie virzieni;
-- atoma iekšējo un ārējo H-2 ↔ H-3 plūsmu pilnā fāžu sinhronizācija.
-
-Orbitāļu formas ir tieša TE H-3 plūsmu ģeometrijas izpausme. H-3 nosaka enerģētiski preferētos plūsmu virzienus un orbitāļu formu, savukārt H-2 nodrošina šo struktūru sinhronizāciju, stabilitāti un saderību ar apkārtējo vidi.
-
-Tādējādi orbitāle ir diskrēta, pašorganizēta un pilnībā sinhronizēta TE plūsmu ģeometrija, kurā iespējama stabilu elektrona sinhronizācijas punktu eksistence.
-
 
 Orbitāļu matemātiskā kapacitāte izriet no diskrētas Qn cikliskās adresācijas.
 
