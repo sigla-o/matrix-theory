@@ -1046,217 +1046,93 @@ Savstarpēja H-2 un H-3 reorganizācija
 Elektrība, magnētisms un elektromagnētiskā indukcija kopā veido vienotu elektromagnētisko (EM) TE organizācijas sistēmu.
 
 
+
 # Elektromagnētiskais vilnis (EM vilnis)
 
 ## Definīcija
 
-Elektromagnētiskais vilnis (EM vilnis) ir matricas kanālu plūsmu veidojums, kurā organizētas H-3 un H-2 Tranzīta Enerģijas (TE) plūsmas cikliski savstarpēji reorganizējas un izplatās pa Matricas kanāliem.
+Elektromagnētiskais vilnis (EM vilnis) ir H-3 un H-2 Tranzīta Enerģijas (TE) plūsmu ciklisks organizācijas režīms, kurā abas plūsmas nepārtraukti savstarpēji reorganizējas un realizē enerģijas pārnesi.
 
-TE H-2 nav piesaistīta konkrētai H-3 realizācijas videi. H-2 reorganizācijas laikā H-3 tiek izspiesta tajā vidē, kur enerģētiski ir vieglāk realizēt plūsmas pārkārtošanos. 
+EM vilnis nav patstāvīga enerģijas forma un nav fundamentāls spēks. Tas ir H-3 ↔ H-2 plūsmu dinamisks process, kas var realizēties dažādās TE vidēs.
 
-EM vilnis nav brīvās enerģijas objekts un nav fotons. Tas ir Matricas kolektīvās TE plūsmas organizācijas režīms.
+EM vilnim raksturīgs ļoti plašs realizējamo frekvenču diapazons. Tādēļ tas spēj eksistēt daudzās enerģētiskās konfigurācijās un pielāgoties dažādiem organizācijas apstākļiem.
 
+Atkarībā no realizācijas vides EM vilnis var eksistēt:
+
+- kā kolektīvs Matricas kanālu plūsmu organizācijas režīms;
+- kā lokāla slēgta organizācija elektrona sfēriskajā telpā.
 
 ---
 
 ## Organizācijas princips
 
-EM vilnis realizējas tikai Matricas vidē.
+EM vilni vienmēr veido:
 
-Matrica
-→ kanālu plūsmas
-→ H-3 ↔ H-2 organizācija
-→ EM vilnis
+- H-3 plūsmas;
+- H-2 plūsmas;
+- to savstarpēja cikliska reorganizācija;
+- pilna 0° un 180° pus-fāžu realizācija.
 
-Kanāli nosaka:
+EM vilnim nav vienas obligātas ģeometriskas formas. Tā konkrēto realizāciju nosaka vide, kurā notiek H-3 ↔ H-2 organizācija.
 
-- plūsmas ceļus;
-- plūsmas ģeometriju;
-- plūsmas stabilitāti;
-- enerģijas pārneses virzienu.
+Matricas vidē EM vilnis realizējas kā kanālu plūsmu reorganizācija.
 
----
+Elektrona vidē EM vilnis realizējas kā slēgta sfēriska cirkulācija.
 
-## H-3 ↔ H-2 princips
 
-EM vilnī:
+# Elektrons
 
-- H-3 un H-2 plūsmas ir savstarpēji saistītas;
-- abu plūsmu konfigurācijas nepārtraukti reorganizējas;
-- enerģija tiek pārnesta kā kolektīva plūsmu transformācija.
+## Definīcija
 
-EM vilnis realizē savstarpēju H-3 ↔ H-2 TE plūsmu ciklu Matricas kanālos.
+Elektrons ir slēgta elektromagnētiskā viļņa realizācijas forma, kurā H-3 un H-2 Tranzīta Enerģijas plūsmas veido pašuzturošu sfērisku cirkulāciju un realizē pilnu 0° un 180° pus-fāžu sinhronizāciju.
 
----
+Atšķirībā no brīva elektromagnētiskā viļņa, elektrona elektromagnētiskais vilnis neizplatās pa Matricas telpu. Tas nepārtraukti cirkulē slēgtā sfēriskā trajektorijā elektrona iekšējā telpā.
 
-## TZ princips
+Elektrona slēgtajam elektromagnētiskajam vilnim raksturīgs ļoti šaurs stabilu frekvenču diapazons. Šis ierobežojums nodrošina elektrona augsto stabilitāti un nosaka tā spēju uzkrāt un atbrīvot enerģiju tikai ierobežotos un savstarpēji saderīgos stāvokļos.
 
-EM viļņa H-3 komponente izmanto Matricas Transformācijas zonas (TZ) H-3 organizāciju.
+Elektrona elektromagnētiskais vilnis nepārtraukti cenšas saglabāt enerģētisku saderību ar apkārtējās vides organizāciju. Enerģijas uzkrāšanās rezultātā mainās slēgtā EM viļņa frekvence un iekšējais enerģētiskais stāvoklis.
 
-TZ nodrošina:
+Sasniedzot kritisku frekvenču un enerģētiskās slodzes robežu, slēgtais elektromagnētiskais vilnis vairs nespēj uzturēt papildu enerģiju savā stabilajā frekvenču diapazonā.
 
-- H-3 plūsmu ilgtermiņa stabilitāti;
-- enerģijas pieejamību Matricas kanālos;
-- nepārtrauktu H-3 ↔ H-2 reorganizācijas iespēju.
+Šajā brīdī pilna Qn cikla liekā enerģija tiek izstumta no elektrona sfēriskās telpas un realizējas kā fotons.
 
----
+Pēc liekās enerģijas atbrīvošanas elektrons pāriet jaunā enerģētiskā līdzsvara stāvoklī.
 
-## Izplatīšanās princips
-
-EM vilnis izplatās kā secīga Matricas kanālu plūsmu reorganizācija.
-
-Enerģija netiek pārvietota kā atsevišķs brīvās enerģijas objekts.
-
-Izplatīšanās realizējas kā:
-
-kanāls
-→ H-3 ↔ H-2 reorganizācija
-→ nākamais kanāls
-→ H-3 ↔ H-2 reorganizācija
-→ ...
-
----
-
-## Atšķirības princips
-
-EM vilnis:
-
-- izmanto Matricas kanālus;
-- ir kolektīvs plūsmu veidojums;
-- izmanto TZ H-3 organizāciju;
-- pārnes enerģiju caur kanālu reorganizāciju.
-
-Fotons:
-
-- neizmanto Matricas kanālus;
-- izmanto kanālu pārsedzes;
-- ir brīvās enerģijas H-3 ↔ H-2 veidojums;
-- rodas elektrona orbitālās pārejas rezultātā.
-
----
-
-## Kopsavilkums
-
-Elektromagnētiskais vilnis ir Matricas kanālu plūsmu organizācijas režīms, kurā H-3 un H-2 TE plūsmas cikliski reorganizējas un izplatās pa Matricas kanāliem, izmantojot TZ H-3 organizāciju un pārnesot enerģiju kā kolektīvu plūsmu transformāciju.
 
 
 # Fotons
 
 ## Definīcija
 
-Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks (EM) veidojums, kas rodas elektrona orbitālās pārejas laikā, kad no elektrona telpas tiek izstumta pilna Qn cikla liekā enerģija.
+Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks veidojums, kas rodas, kad slēgta elektrona elektromagnētiskais vilnis sasniedz kritisku enerģijas un frekvenču robežu un no elektrona sfēriskās telpas tiek izstumta pilna Qn cikla liekā enerģija.
 
-Fotons nav slēgts EM objekts un nav elektromagnētisks vilnis. Tas ir atvērta elektrona Qn struktūras brīvās enerģijas pašreproducējošs process, kura funkcija ir aizvadīt lieko slodzi no pārpildītiem Qn kanāliem.
+Fotons nav slēgts elektromagnētisks objekts un nav elektrons.
 
----
-
-## Elektrona princips
-
-Elektrons ir slēgta tipa EM objekts, kas uzkrāj enerģiju savu EM svārstību amplitūdā.
-
-Katram elektrona orbitālajam stāvoklim atbilst noteikta Qn frekvence.
-
-Orbitāles maiņas laikā:
-
-Qn₁
-→ Qn₂
-
-elektrons pāriet citā enerģētiskajā režīmā.
+Fotons saglabā H-3 ↔ H-2 elektromagnētiskās organizācijas principu, taču tas realizējas kā atvērts brīvās enerģijas process.
 
 ---
 
-## Fotona rašanās princips
+## Rašanās princips
 
-Orbitāles maiņas laikā pilns iepriekšējā Qn cikla enerģētiskais saturs nevar pilnībā saglabāties jaunajā stāvoklī.
+Elektrons uzkrāj enerģiju sava slēgtā elektromagnētiskā viļņa organizācijā.
 
-Liekā enerģija tiek izstumta no elektrona telpas:
-
-Elektrons
-→ orbitāles maiņa
+enerģijas uzkrāšanās
+→ frekvences palielināšanās
+→ kritiska enerģijas un frekvenču robeža
 → pilna Qn cikla liekās enerģijas izstumšana
-→ fotona veidošanās.
+→ fotons.
 
-Izstumtā enerģija:
+Fotona rašanās ir elektrona enerģētiskā balansa atjaunošanas process.
 
-- vairs nav slēgta elektrona telpā;
-- saglabā pilnu elektrona Qn organizācijas struktūru;
-- kļūst par brīvās enerģijas H-3 ↔ H-2 EM veidojumu.
+Fotons neveido elektronu un automātiski nepārvēršas atpakaļ slēgtā elektromagnētiskā vilnī.
 
----
-
-## Brīvās enerģijas princips
-
-Fotons ir atvērta elektrona Qn struktūras kopija.
-
-Fotons nepārnes matēriju un neveido stabilu slēgtu EM objektu.
-
-Tas realizē:
-
-H-3 ↔ H-2
-EM organizāciju
-brīvās enerģijas režīmā.
-
----
-
-## Kustības princips
-
-Atšķirībā no elektromagnētiskā viļņa fotons neizmanto Matricas kanālus kā plūsmas ceļu.
-
-Fotons izmanto kanālu pārsedzes kā enerģētiskus tramplīnus H-2 plūsmai, savukārt H-3 komponente tiek izmantota no Matricas Transformācijas zonas (TZ).
-
-Fotona kustība realizējas kā secīga Qn organizācijas pašreproducēšanās daudzās kanālu pārsedzēs.
-
----
-
-## Vienas pārsedzes cikls
-
-Katras kanālu pārsedzes laikā fotons veic trīs secīgus procesus:
-
-1. Brīvā enerģija nonāk kanālā;
-2. Kanāls reaģē uz pēkšņo enerģijas pieplūdumu un sabalansē kopējo Qn struktūru;
-3. Kanālu pārsedze atbrīvojas no liekās enerģijas.
-
-Šis process atkārtojas ļoti lielā kanālu pārsedžu skaitā (~10^20), radot novērojamu fotona izplatīšanos.
-
----
-
-## Funkcionālais princips
-
-Fotons ir Matricas slodzes regulācijas mehānisms.
-
-Pārpildīti Qn kanāli
-→ liekās enerģijas akumulācija elektronā
-→ orbitāles maiņa
-→ fotons
-→ liekās enerģijas aizvadīšana
-→ jauns Qn līdzsvara stāvoklis.
-
----
-
-## Atšķirības princips
-
-Elektromagnētiskais vilnis:
-
-- izmanto Matricas kanālus;
-- ir kanālu plūsmu organizācijas režīms;
-- pārnes enerģiju caur kanālu reorganizāciju.
-
-Fotons:
-
-- neizmanto Matricas kanālus;
-- izmanto kanālu pārsedzes;
-- ir brīvās enerģijas H-3 ↔ H-2 EM veidojums;
-- ir atvērta elektrona Qn struktūras pašreproducējošs process;
-- aizvada lieko slodzi no pārpildītiem Qn kanāliem.
-
----
-
-## Kopsavilkums
-
-Fotons ir brīvās enerģijas H-3 ↔ H-2 elektromagnētisks veidojums, kas rodas elektrona orbitālās pārejas laikā, kad no elektrona telpas tiek izstumta pilna Qn cikla liekā enerģija. Tas ir atvērta elektrona Qn struktūras pašreproducējošs process, kas izmanto kanālu pārsedzes kā enerģētiskus tramplīnus un realizē liekās enerģijas aizvadīšanu no pārpildītiem Qn kanāliem.
+Tomēr specifiskos enerģētiskās un fāžu saderības apstākļos fotons var tikt absorbēts un izraisīt elektrona slēgtā elektromagnētiskā viļņa reorganizāciju, pārvietojot elektronu jaunā enerģētiskā stāvoklī.
 
 
-### Orbitāle
+
+
+
+# Orbitāle
 
 
 Orbitāle ir ap protonu izveidota stabila elektromagnētiskās (EM) rezonanses konfigurācija.
