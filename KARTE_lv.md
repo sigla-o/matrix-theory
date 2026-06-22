@@ -1433,6 +1433,113 @@ Atoms ir stabila nukleonu, orbitāļu un elektronu kolektīva TE organizācija, 
 
 
 
+# Ķīmiskā saite
+
+### Definīcija
+
+Ķīmiskā saite ir stabila vairāku atomu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā H-2 un H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu enerģētiski izdevīgāku sinhronizācijas režīmu.
+
+Ķīmiskā saite nav spēks, kas savelk atomus.
+
+Tā ir kolektīvas TE pašorganizācijas sekas, kurā vairāki atomi veido kopīgu rezonanses sistēmu ar zemāku enerģētisko spriegumu un augstāku pus-fāžu saderību.
+
+---
+
+## Pamatprincipi
+
+### 1. Kolektīvās rezonanses princips
+
+Atomi var veidot kopīgu organizāciju tikai tad, ja:
+
+- orbitāļu rezonanses ir savstarpēji saderīgas;
+- H-2 un H-3 plūsmas spēj realizēt kopīgus stabilus režīmus;
+- elektronu konfigurācijas var pielāgoties kopējai organizācijai.
+
+Ķīmiskā saite ir kolektīvs rezonanses stāvoklis.
+
+---
+
+### 2. Enerģētiskās izdevīguma princips
+
+Ķīmiskā saite realizējas tad, ja:
+
+kopējais sistēmas enerģētiskais spriegums
+
+↓
+
+samazinās.
+
+Saistītais stāvoklis ir stabilāks nekā izolētu atomu stāvoklis.
+
+---
+
+### 3. Orbitāļu pārklāšanās princips
+
+Orbitāles nav cietas robežas.
+
+To rezonanses zonas var:
+
+- pārklāties;
+- reorganizēties;
+- veidot kopīgus stabilizācijas punktus.
+
+Šajās zonās elektroni lokalizējas kopējā rezonanses sistēmā.
+
+---
+
+### 4. Elektronu adaptācijas princips
+
+Elektroni neveido ķīmisko saiti.
+
+Elektroni pielāgojas:
+
+- kopējai orbitāļu rezonansei;
+- H-2 un H-3 plūsmu organizācijai;
+- kolektīvajai pus-fāžu balansēšanai.
+
+Elektronu konfigurācija ir ķīmiskās saites sekas, nevis tās primārais cēlonis.
+
+---
+
+### 5. Pus-fāžu balansēšanas princips
+
+Veidojoties saitei:
+
+- samazinās lokālie pus-fāžu disbalansi;
+- pieaug kolektīvā sinhronizācija;
+- veidojas stabilāka TE organizācija.
+
+Saite ir kopīgs pus-fāžu balansēšanas režīms.
+
+---
+
+### 6. Hierarhijas princips
+
+Ķīmiskā saite rada jaunu kolektīvās organizācijas līmeni.
+
+Atomi:
+
+→ kopīga rezonanse  
+→ kopīga TE organizācija  
+→ molekulāra struktūra.
+
+Molekula nav atomu summa.
+
+Tā ir jauna kolektīva TE organizācijas forma.
+
+---
+
+### Kopsavilkums
+
+Ķīmiskā saite ir stabila vairāku atomu kolektīva TE organizācija, kurā H-2 un H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu enerģētiski izdevīgāku pus-fāžu sinhronizācijas režīmu un veido jaunu molekulārās organizācijas līmeni.
+
+
+
+
+
+
+
+
 
 
 
