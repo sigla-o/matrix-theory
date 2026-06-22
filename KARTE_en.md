@@ -1306,7 +1306,120 @@ A nucleon is a stable matrix-type TE organization that realizes complete synchro
 
 
 
+# Atom
 
+### Definition
+
+An atom is a stable collective organization of nucleons, orbitals, and electrons in Transit Energy (TE), in which long-term synchronization of H-2 and H-3 flows, Qn cycles, and half-phases is realized.
+
+An atom is not a mechanical sum of individual particles.
+
+It is a unified collective TE organizational state in which protons, neutrons, orbitals, and electrons continuously adapt their energetic regimes to one another, forming a common stable resonance system.
+
+---
+
+## Fundamental Principles
+
+### 1. Collective Organization Principle
+
+An atom exists only when:
+
+- nucleon organization;
+- orbital resonance;
+- electron configuration;
+- H-2 and H-3 flow organization;
+- modulation by the surrounding TE environment
+
+reach a common stable synchronization.
+
+The stability of an atom is determined by the entire system rather than by its individual components.
+
+---
+
+### 2. Nucleon Organization Principle
+
+Nucleons form the central organizational core of the atom.
+
+The spatial arrangement of protons and neutrons determines:
+
+- the overall geometry of H-2 and H-3 flows;
+- the orbital resonance structure;
+- electron stabilization points;
+- the possible energetic states of the atom.
+
+---
+
+### 3. Orbital Primacy Principle
+
+Orbitals exist independently of the presence of electrons.
+
+Orbitals:
+
+- are not created by electrons;
+- are not electron trajectories;
+- are stable H-2 ↔ H-3 resonance configurations surrounding the nucleon system.
+
+Electrons localize within pre-existing stabilization points and follow the spatial dynamics of the orbitals.
+
+---
+
+### 4. Electron Adaptation Principle
+
+Electrons continuously seek energetic compatibility with the overall resonance of the atom.
+
+The state of an electron is determined by:
+
+- orbital geometry;
+- nucleon organization;
+- the presence of other electrons;
+- modulation by the surrounding TE environment.
+
+Electrons are adaptive elements of the atom's collective resonance.
+
+---
+
+### 5. Half-Phase Balancing Principle
+
+The energetic stability of an atom is achieved through continuous balancing of half-phase energy imbalances.
+
+Imbalances of proton configurations are balanced by electrons localized in orbitals.
+
+Imbalances of neutron configurations are balanced by their internal Qn structures.
+
+An atom is a fully synchronized half-phase balancing system.
+
+---
+
+### 6. Collective Resonance Principle
+
+The stability of an atom is determined by:
+
+- synchronization of H-2 and H-3 flows;
+- compatibility of Qn cycles;
+- organization of orbital resonances;
+- mutual adaptation of electrons and nucleons;
+- compatibility with the surrounding TE environment.
+
+An atom is a collective resonance state rather than a collection of isolated objects.
+
+---
+
+### 7. Evolution Principle
+
+As the number of nucleons increases:
+
+- the geometric complexity of orbitals increases;
+- the number of possible resonance regimes increases;
+- the diversity of electron stabilization configurations increases;
+- the complexity of the collective TE organization increases.
+
+The periodic table is a map of discrete stable collective resonance states.
+
+---
+
+### Summary
+
+An atom is a stable collective TE organization of nucleons, orbitals, and electrons in which complete synchronization of H-2 and H-3 flows, Qn cycles, and half-phases is realized. An atom is not a sum of individual particles but a unified resonance system in which all elements continuously adapt their energetic regimes to one another and form a stable collective organizational state.
 
 
 
