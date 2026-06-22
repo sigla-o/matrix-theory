@@ -88,7 +88,7 @@ It does not replace the experimental method and does not claim absolute truth. I
 
 **Definition:** The Vertical is a cyclic hierarchy of stable proton-type energy units that exists independently of the Horizontals and forms the fundamental structure of the Universe. Until its boundaries are confirmed, it may be considered infinite.
 
-### Fundamental Principles
+## Fundamental Principles
 
 1. **Conservation of Energy**
    - Energy does not disappear but continuously changes its form of organization.
@@ -101,9 +101,9 @@ It does not replace the experimental method and does not claim absolute truth. I
    - This value serves as the logical framework of the theory, calibrated from known reference points and subject to refinement through consistency with experimental data.
    - The step defines the transition between Vertical levels.
 
-4. ### Transformation Zone (TZ)
+## Transformation Zone (TZ)
 
-## Definition
+### Definition
 
 The Transformation Zone (TZ) is an inseparable component of Vertical space that exists around every object possessing its own Matrix and provides the coexistence, transformation, and manifestation of discrete Vertical energy levels within the Horizontal.
 
@@ -178,21 +178,23 @@ At present, H-3 is the only level whose influence can be indirectly detected thr
 
 ---
 
-## Summary
+### Summary
 
 The Transformation Zone (TZ) is the universal transformation medium of the Vertical that exists around every Matrix-bearing object and contains discrete energy levels H-3 ... H-n. Through TZ, these levels manifest as stable energetic states of matter and form self-similar organizations across different scales with a characteristic scale factor of 10^20.
 5. **Law Invariance**
    - The fundamental laws of the Vertical are identical at all its levels.
    - Only the scale of organization and the manifestations of energy forms change.
 
-### Relationship with Horizontals
+
+
+## Relationship with Horizontals
 
 A **Horizontal** is a specific stage of organization and evolution of the Vertical's units.
 
 - Horizontals do not exist independently of the Vertical.
 - They emerge as a result of the organization of the Vertical's stable energy units.
 
-### Law of Vertical Hierarchy
+## Law of Vertical Hierarchy
 
 > A Horizontal cannot surpass its creator—the next higher (+1) Horizontal—in its evolutionary development.
 
@@ -206,11 +208,11 @@ The Vertical determines:
 
 > The Vertical is a hierarchy of cyclic self-similarity of the Universe's energy, while Horizontals are local states of organization and evolution within this hierarchy.
 
-### I. Horizontal (Universe)
+## I. Horizontal (Universe)
 
 **Definition:** A Horizontal is an organized matrix of stable energy units of a particular Vertical, within which the discrete evolution of energy units occurs through successive levels.
 
-### Fundamental Principles
+## Fundamental Principles
 
 1. **Secondary Nature**
    - A Horizontal does not exist independently of the Vertical.
@@ -240,6 +242,7 @@ The Vertical determines:
 - Level 2 – white dwarf, black hole.
 
 All of these levels exist within the same H-1 matrix.
+
 
 ## Principle of Horizontal Genesis
 
@@ -273,7 +276,7 @@ If local synchronization is lost, the space becomes incompatible with the surrou
 
 **Definition:** A Matrix is the first level of organization above Vertical Energy Units (VEUs), consisting of mutually organized VEU pairs and realizing Absolute Synchronization as an organized space.
 
-### Fundamental Principles
+## Fundamental Principles
 
 1. **Principle of First Organization**
    - VEUs constitute Level 0 of the Vertical and exist as individual energy units.
@@ -300,7 +303,7 @@ If local synchronization is lost, the space becomes incompatible with the surrou
    - All local regions of the Matrix are compatible with the overall rotational synchronization of the Matrix.
    - If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
 
-### Principle of the Matrix Point
+## Principle of the Matrix Point
 
 A Matrix point is the minimal functional unit of the Matrix and consists of two mutually organized Vertical Energy Units (VEUs).
 
@@ -324,7 +327,7 @@ The stability of the Matrix point is ensured by the symmetrical half-phases and 
 
 # Transit Energy (TE)
 
-## Definition
+### Definition
 
 Transit Energy (TE) is a Matrix-organized energy flow that realizes the dynamics of the Universe. TE is neither a static object nor tied to any specific material carrier. It exists as a continuous, discretely organized flow between Matrix points.
 
@@ -334,13 +337,13 @@ TE is the generative foundation of all processes, interactions, and objects.
 
 ## Fundamental Principles
 
-### 1. Principle of Discreteness
+## 1. Principle of Discreteness
 
 TE does not propagate through a continuous space. Its flow is always realized through a discrete organization of Matrix points.
 
 ---
 
-### 2. Principle of Half-Phases
+## 2. Principle of Half-Phases
 
 TE flow consists of two complete and mutually independent half-phases:
 
@@ -351,7 +354,7 @@ Both half-phases coexist and are required for the realization of a complete TE o
 
 ---
 
-### 3. Phase-Direction (FV) Principle
+## 3. Phase-Direction (FV) Principle
 
 TE flow is realized through inseparable phase-direction states.
 
@@ -370,19 +373,19 @@ The detailed structure of FV states and their minimal Matrix realization remain 
 
 ---
 
-### 4. Principle of Minimal Bases
+## 4. Principle of Minimal Bases
 
 The minimal organization of TE flow requires two independent half-phases.
 
 At present, two candidate minimal flow bases remain open.
 
-#### 7-Point Base (B7)
+### 7-Point Base (B7)
 
 - the minimum number of Matrix points that allows the realization of two independent half-phases;
 - the minimal carrier of half-phase organization;
 - full self-sustaining cyclicity has not yet been established.
 
-#### 13-Point Base (B13)
+### 13-Point Base (B13)
 
 - consists of one central point and twelve surrounding channels;
 - is a candidate for a complete Phase-Direction organization;
@@ -391,14 +394,14 @@ At present, two candidate minimal flow bases remain open.
 
 ---
 
-### 5. Principle of Closed and Open Cycles
+## 5. Principle of Closed and Open Cycles
 
 The minimal bases of Transit Energy (TE) flows can realize two fundamentally different organizational regimes:
 
 - closed cycles;
 - open cycles.
 
-#### Closed Cycle Principle
+### Closed Cycle Principle
 
 The 7-point basis (B7) is the minimal closed-type TE organization in which both half-phases complete a full cycle within the same local 7-point structure.
 
@@ -416,7 +419,7 @@ Closed cycles naturally realize:
 - self-sustaining objects;
 - closed electromagnetic structures.
 
-#### Open Cycle Principle
+### Open Cycle Principle
 
 The 13-point basis (B13) is the minimal open-type TE organization in which a single 7-point structure realizes only one half-period.
 
@@ -437,32 +440,32 @@ Open cycles naturally realize:
 - photon self-reproduction;
 - collective channel reorganizations.
 
-#### Universal Organization Principle
+### Universal Organization Principle
 
 Closed TE cycles primarily accumulate and stabilize energy.
 
 Open TE cycles primarily transfer and distribute energy.
 ---
 
-### 6. Principle of Object Generation
+## 6. Principle of Object Generation
 
 TE flow can generate higher levels of organization called objects.
 
 Two fundamental object types are distinguished.
 
-#### Matrix Object
+### Matrix Object
 
 An object possessing its own internal Matrix and internally organized TE flows.
 
 Example: proton.
 
-#### Flow Object
+### Flow Object
 
 An object consisting solely of a closed TE flow and not forming an independent Matrix.
 
 Example: electron.
 
-### 7. TE Flow Deformation
+## 7. TE Flow Deformation
 
 A TE flow deformation is any stable or transient deviation from the L0 regime of TE flow organization.
 
@@ -472,7 +475,7 @@ A deformation may manifest as changes in TE flow magnitude, distribution, direct
 
 # Qn Hierarchy
 
-## Definition
+### Definition
 
 Qn is a collective Transit Energy (TE) organizational cycle in which a specific logic of energy exchange is realized and particular organizational regularities become observable.
 
@@ -542,7 +545,7 @@ Their existence can be inferred indirectly from:
 
 ---
 
-## Summary
+### Summary
 
 Qn is a logical space of collective TE organization in which a specific periodicity of energy exchange and stable organizational regularities become observable. Qn is neither a physical boundary nor a separate flow, but a collective energy exchange regime that forms hierarchically self-similar organizations across different scales.
 
@@ -550,7 +553,7 @@ Qn is a logical space of collective TE organization in which a specific periodic
 
 # H+1 Modulation Principle
 
-## Definition
+### Definition
 
 H+1 modulation is a modulation of Transit Energy (TE) organization generated by the H+1 Matrix and acting as an organizational selection mechanism.
 
@@ -604,13 +607,13 @@ Their long-term existence is not a result of the Matrix's automatic possibilitie
 
 ---
 
-## Summary
+### Summary
 
 H+1 modulation is a modulation of TE organization generated by the H+1 Matrix that acts as an organizational selection mechanism. It does not restrict energy movement through rigid boundaries, but selectively suppresses most theoretically possible organizational regimes and allows only a small number of long-term stable configurations to persist.
 
 # Object
 
-## Definition
+### Definition
 
 An object is a self-sustaining, closed organization of Transit Energy (TE) that preserves its identity and internal organization under conditions of continuous TE dynamics.
 
@@ -887,7 +890,7 @@ Electromagnetism:
 
 ---
 
-## Summary
+### Summary
 
 Electromagnetism is a Qn-level TE flow organization regime that arises in the radial transition region between an object's fine TE dominance and the surrounding large-scale TE dominance and manifests as stable TE circulations, selective channels, and resonance structures.
 
@@ -964,7 +967,7 @@ Electromagnetism:
 
 ---
 
-## Summary
+### Summary
 
 Electric charge is a proton half-phase imbalance induced persistent accumulation of VEV H-3 level TE within the H0 Matrix surrounding matter, manifested as a local concentration of Dark Energy and maintained in conditional dynamic equilibrium with electromagnetic organization through TZ.
 
@@ -1026,7 +1029,7 @@ Induction establishes the mutual coupling between electricity and magnetism and 
 
 ---
 
-## Summary
+### Summary
 
 Electric charge
 → H-3 accumulation
@@ -1046,7 +1049,7 @@ Together, electricity, magnetism, and electromagnetic induction form a unified e
 
 # Electromagnetic Wave (EM Wave)
 
-## Definition
+### Definition
 
 An electromagnetic wave (EM wave) is a cyclic organizational mode of H-3 and H-2 Transitory Energy (TE) flows, in which both flows continuously reorganize with one another and realize energy transfer.
 
@@ -1078,9 +1081,9 @@ Within an electron, an EM wave manifests as a closed spherical circulation.
 
 
 
-### Electron
+# Electron
 
-## Definition
+### Definition
 
 An electron is a realization of a closed electromagnetic wave in which H-3 and H-2 Transitory Energy (TE) flows form a self-sustaining spherical circulation and realize complete synchronization of the 0° and 180° half-phases.
 
@@ -1100,7 +1103,7 @@ After releasing the excess energy, the electron transitions into a new state of 
 
 # Photon
 
-## Definition
+### Definition
 
 A photon is an H-3 ↔ H-2 electromagnetic formation of free energy that arises when the closed electromagnetic wave of an electron reaches a critical energy and frequency threshold and the excess energy of a complete Qn cycle is expelled from the electron's spherical space.
 
