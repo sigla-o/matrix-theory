@@ -1213,49 +1213,6 @@ Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas rea
 
 ---
 
----
-
-
-### Elektrons
-
-Elektrons ir slēgts divu pus-fāžu elektromagnētiskā (EM) viļņa veidojums.
-
-Atšķirībā no brīva EM viļņa, elektrona EM vilnis neizplatās pa matricas telpu. Tas rada kustību slēgtā sfēriskā iekšējā telpā, uzturot plūsmas pilnā H-2 un H-3 sinhronizācijā.
-
-Elektrona tekošais balansa stāvoklis vienmēr sakrīt ar apkārtējās vides enerģētisko balansu.
-
-Elektrons var atrasties:
-- orbitālē;
-- brīvā telpā.
-
-Orbitālē elektrons ieņem vienu no divām EM zonām, jo tikai tās nodrošina pilnu elektrona un orbitāles vides saderību.
-
-Šīs zonas atbilst orbitāles EM plūsmas simetriskajiem stāvokļiem, kuros elektrona centrs atrodas pilnā sinhronizācijā ar orbitāles centru:
-- 0°;
-- 180°.
-
-Šie stāvokļi nav jāinterpretē kā enerģētisks "kalns" vai "bedre". Tos nosaka vienādas sinhronizācijas simetrijas balanss, kurš notur elektronu šajos punktos.
-
-Kad tiek sasniegta pilna sinhronizācija, notiek enerģijas plūsmu novirze no orbitāles uz elektronu un no elektrona atpakaļ uz orbitāli.
-
-Šī divvirzienu enerģijas apmaiņa veido kondensatora efektu.
-
-Kondensatora efekts nodrošina protona pus-fāžu disbalansa izlīdzināšanu un uztur stabilu elektrona un orbitāles kopējo EM balansu.
-
-Elektrona iekšējās EM enerģijas uzkrāšana nav neierobežota.
-
-Sasniedzot kritisku enerģijas robežu, elektrons kļūst nespējīgs turpināt enerģijas akumulāciju tekošajā stāvoklī.
-
-Šajā brīdī notiek liekās enerģijas atbrīvošana fotona veidā un sākas jauns enerģijas akumulācijas cikls.
-
-Fotona emisija var notikt:
-- sasniedzot kritisku enerģijas uzkrājuma robežu;
-- elektronam pārejot uz citu orbitāli.
-
-Fotona emisija atjauno elektrona un orbitāles kopējo H-2 ↔ H-3 enerģētisko balansu.
-
-
-
 
 
 
