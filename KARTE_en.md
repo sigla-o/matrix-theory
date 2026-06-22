@@ -1524,7 +1524,110 @@ A chemical bond is a stable collective TE organization of multiple atoms in whic
 
 
 
+# Molecule
 
+### Definition
+
+A molecule is a stable collective organization of multiple atoms in Transit Energy (TE), in which chemical bonds, H-2 and H-3 flows, orbital resonances, and electron configurations realize a common, long-term synchronized energetic regime.
+
+A molecule is not a mechanical sum of individual atoms.
+
+It is a new form of collective TE organization that possesses its own resonance states, energetic configurations, and emergent properties.
+
+---
+
+## Fundamental Principles
+
+### 1. Collective Organization Principle
+
+A molecule exists only when:
+
+- atomic resonances are mutually compatible;
+- chemical bonds form a stable collective organization;
+- H-2 and H-3 flows realize common stable regimes;
+- electron configurations adapt to the collective resonance.
+
+The stability of a molecule is determined by the entire system as a whole.
+
+---
+
+### 2. Emergence Principle
+
+A molecule possesses properties that do not exist in its individual atoms.
+
+These new properties arise from:
+
+- collective resonance;
+- the common TE organization;
+- mutual adaptation of atoms;
+- collective half-phase balancing.
+
+A molecule is a new organizational level with its own properties.
+
+---
+
+### 3. Resonance Geometry Principle
+
+The spatial arrangement of atoms determines:
+
+- the geometry of H-2 and H-3 flows;
+- the stability of chemical bonds;
+- electron stabilization configurations;
+- the possible resonance regimes of the molecule.
+
+The geometry of a molecule is the spatial realization of its collective resonance.
+
+---
+
+### 4. Adaptive Reorganization Principle
+
+A molecule is not a static object.
+
+Its components continuously:
+
+- adapt their resonance regimes;
+- redistribute energetic loads;
+- balance half-phase imbalances;
+- maintain overall synchronization.
+
+A molecule is a dynamically stable TE organization.
+
+---
+
+### 5. Collective Balancing Principle
+
+Within a molecule:
+
+- local imbalances are distributed;
+- energetic tensions are minimized;
+- chemical bonds act as channels of collective balancing;
+- the entire system tends toward a more stable resonance state.
+
+A molecule is a shared collective balancing regime.
+
+---
+
+### 6. Hierarchy Principle
+
+A molecule creates a new level of organization above the atom.
+
+Nucleons
+
+→ atom  
+→ chemical bond  
+→ molecule.
+
+Each successive level:
+
+- preserves the organization of previous levels;
+- realizes new collective resonance regimes;
+- acquires new emergent properties.
+
+---
+
+### Summary
+
+A molecule is a stable collective TE organization of multiple atoms in which chemical bonds, H-2 and H-3 flows, orbital resonances, and electron configurations realize a common long-term synchronized regime. A molecule is not a sum of atoms but a new collective resonance object with its own energetic configurations and emergent properties.
 
 
 
