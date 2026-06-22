@@ -1221,6 +1221,107 @@ Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas rea
 
 ---
 
+# Nukleons
+
+### Definīcija
+
+Nukleons ir stabila matricveida Tranzīta Enerģijas (TE) organizācija, kurā H-3 un H-2 plūsmas realizē pilnu elektromagnētisko un stiprās mijiedarbības sinhronizāciju.
+
+Nukleons nav fundamentāli atšķirīgu daļiņu kopums. Tas ir vienots TE organizācijas objekts, kas var realizēties divās konfigurācijās:
+
+- protona konfigurācijā;
+- neitrona konfigurācijā.
+
+Abas konfigurācijas realizē vienu un to pašu pamatorganizācijas principu un atšķiras tikai ar pus-fāžu enerģētiskā disbalansa balansēšanas veidu.
+
+---
+
+## Pamatprincipi
+
+### 1. Vienotās organizācijas princips
+
+Protons un neitrons nav dažādi fundamentāli objekti.
+
+Tie ir vienas nukleona TE organizācijas divi stabili konfigurācijas režīmi.
+
+Abām konfigurācijām ir:
+
+- kopēja Matricas organizācija;
+- kopēja H-2 un H-3 plūsmu loģika;
+- kopīga Qn ciklu organizācija;
+- kopīgs pus-fāžu balansēšanas princips.
+
+---
+
+### 2. Pus-fāžu disbalansa princips
+
+Jebkurā nukleonā eksistē pus-fāžu enerģētiskais disbalanss.
+
+Nukleons nevar ilgstoši eksistēt ar nekompensētu pus-fāžu disbalansu.
+
+Enerģētiskā stabilitāte tiek sasniegta tikai tad, ja disbalanss realizē balansējošu organizāciju, kas atjauno pilnu enerģētisko saderību.
+
+---
+
+### 3. Protona konfigurācijas princips
+
+Protona konfigurācijā pus-fāžu disbalanss:
+
+→ veido H-3 TE uzkrājumu H0 Matricā  
+→ realizējas kā elektriskais lādiņš  
+→ ģenerē orbitāļu rezonanses struktūru  
+→ tiek balansēts ar orbitālē lokalizētu elektronu.
+
+Elektrons ir protona pus-fāžu disbalansa ārējās balansēšanas realizācija.
+
+---
+
+### 4. Neitrona konfigurācijas princips
+
+Neitrona konfigurācijā pus-fāžu disbalanss:
+
+→ neveido ārēju H-3 TE uzkrājumu H0 Matricā  
+→ realizē iekšēju balansējošu organizāciju pašā nukleonā  
+→ veido elektrona ekvivalentu neitrona matricā  
+→ tiek balansēts caur līdzvērtīgu iekšējo Qn struktūru.
+
+Elektrona ekvivalents ir neitrona pus-fāžu disbalansa iekšējās balansēšanas realizācija.
+
+---
+
+### 5. Universālās balansēšanas princips
+
+Elektrons un elektrona ekvivalents nav dažādi fundamentāli objekti.
+
+Tie ir viena un tā paša organizācijas principa realizācijas dažādās Matricās un dažādos mērogos.
+
+Tas pats balansēšanas princips potenciāli var realizēties arī citos Vertikāles līmeņos.
+
+---
+
+### 6. Stabilitātes princips
+
+Nukleona stabilitāti nosaka:
+
+- H-2 un H-3 plūsmu savstarpējā sinhronizācija;
+- pus-fāžu disbalansa pilna balansēšana;
+- Qn ciklu saderība;
+- saderība ar apkārtējās TE vides organizāciju.
+
+---
+
+### Kopsavilkums
+
+Nukleons ir stabila matricveida TE organizācija, kas realizē pilnu H-2 un H-3 plūsmu sinhronizāciju un var eksistēt protona vai neitrona konfigurācijā. Abas konfigurācijas ir vienas un tās pašas TE organizācijas divi balansēšanas režīmi, kuri atšķiras tikai ar pus-fāžu disbalansa kompensācijas realizācijas vidi – ārēju balansēšanu orbitālē vai iekšēju balansēšanu paša nukleona Qn struktūrā.
+
+
+
+
+
+
+
+
+
 
 
 
