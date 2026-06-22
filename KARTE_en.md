@@ -1211,6 +1211,104 @@ This mathematics defines the maximum orbital capacity. The actually realized sta
 The proton is the first fully closed Qn structure in which the H0 and H-1 matrices realize absolute synchronization. Orbitals are the subsequent discrete open Qn levels that preserve this common addressing principle.
 
 
+# Nucleon
+
+### Definition
+
+A nucleon is a stable matrix-type organization of Transit Energy (TE) in which H-3 and H-2 flows realize complete synchronization of electromagnetic and strong interaction processes.
+
+A nucleon is not a collection of fundamentally different particles. It is a unified TE organizational object that can exist in two configurations:
+
+- proton configuration;
+- neutron configuration.
+
+Both configurations realize the same underlying organizational principle and differ only in the way their half-phase energy imbalance is balanced.
+
+---
+
+## Fundamental Principles
+
+### 1. Unified Organization Principle
+
+Protons and neutrons are not fundamentally different objects.
+
+They are two stable configuration regimes of the same nucleon TE organization.
+
+Both configurations share:
+
+- a common Matrix organization;
+- a common H-2 and H-3 flow logic;
+- a common Qn cycle organization;
+- a common half-phase balancing principle.
+
+---
+
+### 2. Half-Phase Imbalance Principle
+
+Every nucleon possesses a half-phase energy imbalance.
+
+A nucleon cannot exist indefinitely with an uncompensated half-phase imbalance.
+
+Energetic stability is achieved only when the imbalance realizes a balancing organization that restores full energetic compatibility.
+
+---
+
+### 3. Proton Configuration Principle
+
+In the proton configuration, the half-phase imbalance:
+
+→ forms an H-3 TE accumulation in the H0 Matrix  
+→ manifests as electric charge  
+→ generates the orbital resonance structure  
+→ is balanced by an electron localized in an orbital.
+
+The electron is the external balancing realization of the proton half-phase imbalance.
+
+---
+
+### 4. Neutron Configuration Principle
+
+In the neutron configuration, the half-phase imbalance:
+
+→ does not form an external H-3 TE accumulation in the H0 Matrix  
+→ realizes an internal balancing organization within the nucleon itself  
+→ forms an electron equivalent inside the neutron Matrix  
+→ is balanced through an equivalent internal Qn structure.
+
+The electron equivalent is the internal balancing realization of the neutron half-phase imbalance.
+
+---
+
+### 5. Universal Balancing Principle
+
+The electron and the electron equivalent are not fundamentally different objects.
+
+They are realizations of the same organizational principle in different Matrices and at different scales.
+
+The same balancing principle may potentially be realized at other Vertical levels.
+
+---
+
+### 6. Stability Principle
+
+The stability of a nucleon is determined by:
+
+- mutual synchronization of H-2 and H-3 flows;
+- complete balancing of the half-phase imbalance;
+- compatibility of Qn cycles;
+- compatibility with the surrounding TE environment.
+
+---
+
+### Summary
+
+A nucleon is a stable matrix-type TE organization that realizes complete synchronization of H-2 and H-3 flows and can exist in either a proton or neutron configuration. Both configurations are two balancing regimes of the same TE organization and differ only by the environment in which the half-phase imbalance is compensated—through external balancing in an orbital or through internal balancing within the nucleon's own Qn structure.
+
+
+
+
+
+
 
 
 
