@@ -338,6 +338,14 @@ Ja TE nevar tikt novadīta pa īsākajiem ceļiem, notiek TE uzkrāšanās, piea
 Kanāls nav pilnībā izolēta struktūra. Tas ir daļēji atvērts īsāko plūsmas ceļu veidojums, kurš nepārtraukti apmainās ar impulsu un TE ar blakus kanāliem.
 
 Fundamentāla vienība ir FV plūsma, bet kanāls ir īslaicīga daudzu FV inerču kolektīvas organizācijas forma. Plūsma ir primāra, bet ģeometrija ir plūsmas sekas.
+
+Papildus jāņem vērā, ka katram H0 matricas punktam eksistē divas savstarpēji nesaistītas kabatas, kuras ir atdalītas par 180°. Katra kabata veido savu neatkarīgu pārsedzes logu sistēmu ar apkārtējiem matricas punktiem.
+
+Šāds izvietojums nodrošina pretējo plūsmu režīmu. Kamēr viena kabatu sistēma prioritāri nodrošina TE plūsmu uz Qn ārpusi, otra kabatu sistēma vienlaikus nodrošina TE plūsmu pretējā virzienā.
+
+Pretējās plūsmas nav tieši savienotas. To savstarpējo organizāciju nosaka tikai kopējais spiediena lauks, H+1 matricas rotācijas modulācija un katras FV plūsmas inerce.
+
+Tādējādi katrs H0 matricas punkts vienlaikus darbojas kā lokāls divu pretēju TE plūsmas režīmu organizācijas mezgls.
   
 ### Matricas punkta princips
 
