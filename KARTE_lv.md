@@ -80,6 +80,21 @@ Teorijas galvenie mērķi ir:
 
 Tā neaizstāj eksperimentālo metodi un nepretendē uz absolūtu patiesību. Tās galvenais uzdevums ir nodrošināt vienotu interpretācijas ietvaru, identificēt kopīgas organizācijas likumsakarības un ģenerēt jaunas pārbaudāmas hipotēzes par Visuma uzbūves un attīstības principiem.
 
+---
+
+## Enerģiju diapazonu likums
+
+Katram fizikālam modelim, objektam un organizācijas līmenim eksistē noteikts enerģiju diapazons, kurā tā apraksts ir fizikāli pamatots un eksperimentāli pārbaudāms.
+
+Ārpus eksperimentāli apstiprinātā enerģiju diapazona matemātiskie risinājumi paši par sevi nav uzskatāmi par fizikālu realitāti. Tie ir iespējami teorētiski apraksti, kuru fizikālā interpretācija prasa eksperimentālu apstiprinājumu.
+
+Tādi jēdzieni kā bezgalības, singularitātes, telpas un laika izliekumi vai citas matemātiskas konstrukcijas var norādīt uz izmantotā modeļa robežu sasniegšanu un nepieciešamību pāriet uz citu organizācijas vai apraksta līmeni.
+
+Enerģiju diapazonu likums neierobežo zinātnisko attīstību. Enerģiju diapazons vienmēr var tikt paplašināts, ja jaunais diapazons tiek eksperimentāli pierādīts un reproducējami apstiprināts.
+
+
+
+
 # MATRICAS TEORIJAS LOĢISKĀ KARTE
 
 ## Absolūtais pamats
