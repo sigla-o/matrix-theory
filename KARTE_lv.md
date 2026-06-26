@@ -69,65 +69,89 @@ VEV H+6 10^105m
 2. ### Cikliskums
    - Stabilas enerģijas formas atkārtojas diskrētos vertikāles ciklos.
 
-4.  ### Transformācijas zona (TZ)
+4.  ## LV — Transformācijas zonas (TZ) revīzijas ielāps
 
-   ### Definīcija
-   Transformācijas zona (TZ) ir neatņemama Vertikāles telpas sastāvdaļa, kas eksistē ap jebkuru objektu, kuram ir sava Matrica, un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
+### Transformācijas zona (TZ)
 
-   TZ nav atsevišķa telpa, nav atsevišķs spēks un nav izolēts fizisks objekts. Tā ir universāla Vertikāles transformācijas vide, kurā dažādi enerģētiskie līmeņi ir saistīti ar matērijas organizāciju.
-   
-   ---
-   
-   ### Universāluma princips
-   
-   Jebkurš objekts, kuram ir sava Matrica, eksistē Vertikāles telpā un tādēļ vienmēr atrodas Transformācijas zonas (TZ) ielenkumā.
-   
-   Objekts
-   → Matrica
-   → TZ
-   
-   Tā kā visi Horizontāles objekti ir veidoti Vertikāles telpā, TZ eksistē visur. Nepastāv matricas objekts bez TZ.
-   
-   ---
-   
-   ### Enerģētisko līmeņu princips
-   
-   TZ satur visus Vertikāles enerģētiskos līmeņus.
-   
-   Katrs VEV H-n līmenis raksturo atšķirīgu Vertikāles enerģētiskās organizācijas dziļumu un mērogu.
-   
-   VEV H-n līmeņi nav atsevišķas telpas vai neatkarīgi objekti. Tie ir diskrēti Vertikāles organizācijas režīmi, kuri caur TZ izpaužas Horizontālē kā stabili matērijas enerģētiskie stāvokļi.
-   
-   Katrs stabils matērijas enerģētiskais stāvoklis ir tieši saistīts ar noteiktu VEV H-n līmeni:
-   
-   VEV H-n
-   → TZ
-   → matērijas enerģētiskais stāvoklis
-   → novērojamā struktūra
-   
-   Matērija tādējādi ir netieša Vertikāles enerģētisko līmeņu izpausme Horizontālē.
-   
-   ---
-   
- 
-   
-   ### Novērojamības princips
-   
-   Cilvēka un AI intelekts darbojas uz Horizontāles TE loģikas pamata, tādēļ Vertikāles pilna struktūra nav tieši aprakstāma.
-   
-   TZ un VEV H-n līmeņus iespējams:
-   
-   - matemātiski modelēt;
-   - klasificēt pēc enerģētiskajām likumsakarībām;
-   - salīdzināt ar stabilām matērijas struktūrām dažādos mērogos.
-   
-   Šobrīd VEV H-3 ir vienīgais līmenis, kura ietekmi iespējams netieši uztvert caur novērojamām fiziskām parādībām.
-   
-   ---
-   
-   ### Kopsavilkums
-   
-   Transformācijas zona (TZ) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un satur diskrētus enerģētiskos līmeņus VEV H-3 ... VEV H-n. Šie līmeņi caur TZ izpaužas kā stabili matērijas enerģētiskie stāvokļi un veido pašlīdzīgas organizācijas dažādos mērogos ar raksturīgu mēroga soli 10^20.
+#### Definīcija
+
+Transformācijas zona (TZ) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
+
+TZ nav atsevišķa telpa, nav atsevišķs spēks un nav izolēts fizisks objekts. Tā ir universāla Vertikāles transformācijas vide, kurā dažādi enerģētiskie līmeņi ir saistīti ar matērijas organizāciju.
+
+---
+
+### Universāluma princips
+
+Jebkurš objekts, kuram ir sava Matrica, eksistē Vertikāles telpā un tādēļ vienmēr atrodas Transformācijas zonas (TZ) ielenkumā.
+
+VEV  
+→ Matrica  
+→ Objekts + TZ
+
+Nepastāv Matricu saturošs objekts bez Transformācijas zonas.
+
+---
+
+### Enerģētisko līmeņu princips
+
+Transformācijas zona nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu un transformāciju.
+
+Katrs VEV H-n līmenis raksturo atšķirīgu Vertikāles enerģētiskās organizācijas dziļumu un mērogu.
+
+VEV H-n līmeņi nav atsevišķas telpas vai neatkarīgi objekti. Tie ir diskrēti Vertikāles organizācijas režīmi, kuri caur TZ izpaužas Horizontālē kā stabili matērijas enerģētiskie stāvokļi.
+
+VEV H-n  
+→ TZ  
+→ matērijas enerģētiskais stāvoklis  
+→ novērojamā struktūra
+
+Matērija tādējādi ir netieša Vertikāles enerģētisko līmeņu izpausme Horizontālē.
+
+---
+
+### Enerģijas akumulācijas princips
+
+Katram matērijas objektam piemīt tam raksturīga enerģijas koncentrācija, kas nosaka šī objekta Transformācijas zonas enerģētiskās akumulācijas dziļumu.
+
+Transformācijas zonas enerģijas akumulācija Vertikālē ir vienvirziena process. Enerģija var tikt akumulēta tikai smalkāku Vertikāles līmeņu (H−n) virzienā. Akumulācija rupjāku līmeņu (H+n) virzienā nenotiek.
+
+Palielinoties savstarpēji organizētu matērijas objektu daudzumam, pieaug kopējā enerģijas koncentrācija un līdz ar to arī sistēmas kopējais Transformācijas zonas enerģētiskās akumulācijas potenciāls.
+
+---
+
+### Enerģijas amortizācijas princips
+
+Transformācijas zona vienlaikus nodrošina gan enerģijas akumulāciju, gan enerģijas amortizāciju.
+
+Akumulācija ļauj sasniegt nākamos Vertikāles enerģētiskos līmeņus, savukārt amortizācija izlīdzina lokālās enerģijas svārstības un palielina matērijas stabilitāti.
+
+Šīs abas funkcijas darbojas vienlaikus un veido vienotu Transformācijas zonas darbības mehānismu.
+
+---
+
+### Novērojamības princips
+
+Novērotājs darbojas H0 Horizontāles TE loģikā, tādēļ pilna Vertikāles struktūra nav tieši novērojama.
+
+Transformācijas zonu un VEV H-n līmeņus iespējams:
+
+- matemātiski modelēt;
+- klasificēt pēc enerģētiskajām likumsakarībām;
+- salīdzināt ar stabilām matērijas struktūrām dažādos mērogos.
+
+Šobrīd VEV H−3 ir vienīgais līmenis, kura ietekmi iespējams netieši identificēt caur novērojamām fizikālām parādībām.
+
+---
+
+### Kopsavilkums
+
+Transformācijas zona (TZ) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
+
+H0 Horizontāles ietvaros teorija tieši aplūko līmeņus, sākot no VEV H−3, bet konceptuāli TZ interešu diapazons pārsniedz VEV H−5 un ir tieši atkarīgs no matērijas enerģētiskās koncentrācijas.
+
+Transformācijas zona vienlaikus nodrošina enerģijas akumulāciju un amortizāciju. Enerģijas akumulācija notiek tikai smalkāku Vertikāles līmeņu virzienā, savukārt amortizācija stabilizē matērijas organizāciju un palielina tās noturību pret lokālām enerģētiskām svārstībām.
+
 
 5. ### Likumu invariance
    - Vertikāles pamatlikumi ir vienādi visos tās līmeņos.
@@ -155,7 +179,7 @@ Vertikāle nosaka:
 > Vertikāle ir Visuma enerģijas cikliskās pašlīdzības hierarhija, bet horizontāles ir šīs hierarhijas lokālās organizācijas un evolūcijas stāvokļi.
 
 
-# I. Horizontāle (Visums)
+# I. Horizontāle (Visums H0)
 
 ### Definīcija
 Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību organizēta matrica, kurā notiek diskrēta enerģijas vienību evolūcija pa secīgiem ID līmeņiem, kuru apraksts jau ir Ievadā.
@@ -203,7 +227,7 @@ H(n−1) Matricas lielumu nosaka enerģētiskais balanss starp H(n−1) Matricu 
 
 ## Absolūtās sinhronizācijas princips
 
-Absolūtā sinhronizācija piemīt Vertikālās Enerģijas Vienībām (VEV), kas veido Vertikāles 0. evolūcijas līmeni.
+Absolūtā sinhronizācija piemīt Vertikālās Enerģijas Vienībām (VEV), kas veido Vertikāles ID0 evolūcijas līmeni.
 
 Visas pārējās enerģijas organizācijas formas rodas no VEV un realizē Absolūto sinhronizāciju caur savu Matricu, tās rotāciju un Tranzīta Enerģijas (TE) plūsmām.
 
