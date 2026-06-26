@@ -1,97 +1,40 @@
 # MATRIX THEORY
-### A Unified Model of Transitory Energy Organization
 
 ## Complete Edition
 
 # Introduction
 
-## Theory Overview
+### Essence of the Theory
 
-This theory proposes a unified model of the Universe in which all physical structures, processes, and interactions are interpreted as the result of Transitory Energy (TE) flow organization.
+This theory proposes a unified model of energy organization in which all physical structures, processes, and interactions are viewed as the result of cyclic energy organization.
 
-The fundamental assumption of the theory is that the Universe is not composed of isolated objects existing in empty space. Instead, it is a continuously organized energetic whole in which space, matter, and all observable phenomena emerge from the self-organization of discrete energy flows.
+The objective of the theory is to unify existing physical theories within a single conceptual mathematical framework, allowing researchers to examine their own models from a broader perspective while developing mathematical solutions independently of this theory.
 
-Within this model, particles, fields, forces, and physical interactions are not treated as independent fundamental entities. They are interpreted as different manifestations of common organizational principles.
+The theory is based on three fundamental principles.
 
----
+1. **Infinity does not exist in energy.**
+2. **Every form of energy has its own range of existence, whereas mathematics itself has no such limitation.** Consequently, any mathematical formula that accurately describes energy within its valid range continues to exist mathematically beyond that range. Beyond this boundary lies mathematical abstraction rather than physical reality.
+3. **The mathematical logic of energy is valid only within the range directly governed by that energy.** Extending this mathematical logic into different energy domains may produce anomalies, exotic objects, or other difficult-to-interpret phenomena. Since the development of relativity, mathematical models have increasingly been extrapolated beyond directly observable energy ranges.
 
-## Fundamental Postulate
+The practical scope of the theory extends approximately from **10^-115 m** to **10^105 m**. This is not an ultimate boundary but the working domain of the theory.
 
-The theory does not permit the existence of absolute emptiness.
+The theory introduces the concept of the **Eternity Cycle** as a conceptual reference framework. The Eternity Cycle consists of two interconnected components: the **Vertical** and the **Horizontal**. Determining where the Vertical begins or ends is outside the scope of this theory. Instead, the theory serves as a "window" into the hierarchy of energies, describing one Horizontal and its direct relationship with neighboring Horizontals.
 
-If no energy flows, particles, or physical phenomena are observed within a region of space, this does not mean that energy is absent.
+The Vertical emerges through conservation, preservation, and accumulation of energy within the Fundamental Horizontal. When a critical accumulation threshold is reached, a new (finer) Horizontal is formed. The same accumulation process then repeats within the new Horizontal. This cyclic mechanism forms the foundation of the Eternity Cycle and the hierarchy of Vertical levels.
 
-It means that the region has reached a state of energetic balance in which the combined result of different Transitory Energy flows becomes locally indistinguishable.
+Our Universe represents one Horizontal within this Vertical hierarchy. Since the total number of energy levels above or below our own is unknown, our Universe is designated **H0**. Larger-scale Horizontals are labeled **H+n**, while finer-scale Horizontals are labeled **H−n**.
 
-Therefore, in this theory, emptiness is not interpreted as the absence of energy. Emptiness is a state of energetic equilibrium.
+Within the accessible Vertical, only the minimal representatives of each energy level are directly observable: **VEU (Vertical Energy Units)**. These perform their respective functions inside individual Horizontals. A complete designation is, for example, **VEU H−3**. Such an object is monolithic and possesses the evolutionary identifier **ID0**.
 
-Absolute emptiness does not exist.
+Within a Horizontal begins the evolutionary organization of energy. Its first stage is the formation of matrix points, where each matrix point consists of two VEUs arranged in a yin–yang configuration. This evolutionary stage is designated **ID1**.
 
----
+**The ID designation represents the evolutionary level of energy organization rather than the physical size of an object.**
 
-## Principle of Space
+**ID2** includes the proton and subsequent organizational forms (**ID2,n**), including chemical elements, planets, and stars. **ID3** corresponds to the white dwarf stage. **ID4**, **ID5**, **ID6** ... **IDn** describe successive stages of black hole evolution, during which objects transition to the next evolutionary level after reaching the required internal and external energy state.
 
-Space is not a passive and empty geometric background.
+According to the current model, our Universe has remained in its present **IDn** evolutionary state for approximately 15 billion years. The theory does not currently predict when the next cyclic transition will occur.
 
-Space is a continuously organized Transitory Energy medium in which multiple energy flows and their organizational states coexist simultaneously.
-
-Observable physical phenomena arise not from the presence or absence of energy itself, but from local energetic imbalances, transitions, and reorganizations.
-
-An energetically balanced region may appear empty to an observer, yet it is not a region devoid of energy.
-
----
-
-## Theoretical Approach
-
-The theory offers an alternative interpretative and organizational model in which the processes of the Universe are described as the self-organization of discrete Transitory Energy flows across different scales.
-
-Its purpose is not to replace existing mathematical physics or reject experimentally validated results.
-
-The objective of the theory is to identify common organizational principles underlying seemingly different physical phenomena and to describe them within a unified conceptual framework.
-
----
-
-## Objectives of the Theory
-
-The primary objectives of the theory are:
-
-- to describe the Universe as a unified system of energetic organization;
-- to apply common organizational principles across different scales;
-- to interpret physical structures as forms of energy-flow organization;
-- to identify common patterns between microscopic, macroscopic, and biological systems;
-- to formulate new testable hypotheses concerning the organizational principles of the Universe.
-
----
-
-## Fundamental Assumptions
-
-1. Absolute emptiness does not exist.
-2. All space is filled with Transitory Energy organization.
-3. The absence of energy is not observable; only energetic balance or imbalance can be observed.
-4. All physical structures are forms of energy-flow organization.
-5. Physical interactions arise from the organization, reorganization, and compatibility of energy flows.
-6. The same organizational principles can manifest across different scales and in different physical systems.
-
----
-
-## Scope and Limitations
-
-This theory is a conceptual model of organization.
-
-It does not replace the experimental method and does not claim absolute truth. Its primary purpose is to provide a unified interpretative framework, identify common organizational principles, and generate new testable hypotheses concerning the structure and evolution of the Universe.
-
----
-
-## Energy Range Law
-
-Every physical model, object, and level of organization possesses a specific energy range within which its description is physically meaningful and experimentally verifiable.
-
-Outside the experimentally confirmed energy range, mathematical solutions by themselves should not be regarded as physical reality. They represent possible theoretical descriptions whose physical interpretation requires experimental confirmation.
-
-Concepts such as infinities, singularities, curvature of space and time, or other mathematical constructions may indicate that the limits of the applied model have been reached and that a transition to another level of organization or description is required.
-
-The Energy Range Law does not restrict scientific progress. An energy range may always be extended whenever the new range is experimentally demonstrated and reproducibly confirmed.
-
+The following chapters define and describe in detail the concepts and processes that directly or indirectly characterize our Horizontal (H0) and its place within the Vertical hierarchy of energies.
 
 
 
