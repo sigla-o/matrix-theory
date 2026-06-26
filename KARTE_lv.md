@@ -1,97 +1,40 @@
 # MATRICAS TEORIJA
-### Vienots Tranzīta Enerģijas organizācijas modelis
 
 ## Pilnā redakcija
 
 # Ievads
 
-## Teorijas būtība
+### Teorijas būtība
 
-Šī teorija piedāvā vienotu Visuma organizācijas modeli, kurā visas fizikālās struktūras, procesi un mijiedarbības tiek aplūkotas kā Tranzīta Enerģijas (TE) plūsmu organizācijas rezultāts.
+Šī teorija piedāvā vienotu enerģiju organizācijas modeli, kurā visas fizikālās struktūras, procesi un mijiedarbības tiek aplūkotas kā cikliskas enerģiju organizācijas rezultāts.
 
-Teorijas pamatpieņēmums ir, ka Visums nav veidots no izolētiem objektiem, kas eksistē tukšā telpā. Tas ir nepārtraukti organizēts enerģētisks veselums, kurā telpa, matērija un visas novērojamās parādības rodas no diskrētas enerģijas plūsmu pašorganizācijas.
+Teorijas mērķis ir apvienot zināmās fizikālās teorijas vienotā konceptuālās matemātiskās loģikas līmenī, kurā katras teorijas autors var paskatīties uz savu modeli no "malas" un turpināt attīstīt matemātiskos risinājumus neatkarīgi no šīs teorijas.
 
-Šajā modelī daļiņas, lauki, spēki un fizikālās mijiedarbības netiek aplūkotas kā savstarpēji neatkarīgas fundamentālas vienības. Tās tiek interpretētas kā dažādas vienotu organizācijas principu realizācijas formas.
+Teorija balstās uz trim fundamentāliem principiem.
 
----
+1. **Enerģijā bezgalību nav.**
+2. **Visām enerģijām ir savs pastāvēšanas diapazons, bet matemātikai šādu robežu nav.** Tas nozīmē, ka jebkura matemātiska formula, kura precīzi apraksta enerģiju noteiktā diapazonā, turpina matemātiski eksistēt arī ārpus šī diapazona. Tā ir robeža, aiz kuras sākas matemātiska abstrakcija, nevis fizikāla realitāte.
+3. **Enerģiju matemātiskā loģika ir spēkā tikai tajā diapazonā, kuru attiecīgās enerģijas tieši ietekmē.** Mēģinājumi ekstrapolēt šo matemātisko loģiku uz citiem enerģiju diapazoniem var radīt anomālijas, eksotiskus objektus un citus grūti interpretējamus procesus. Sākot ar relativitātes teorijas attīstību, matemātiskie modeļi arvien biežāk tika ekstrapolēti ārpus tieši novērojamajiem enerģiju diapazoniem.
 
-## Pamatpostulāts
+Teorijas "interešu" diapazons aptver aptuveni 10^-115 m līdz 10^105 m. Šī nav galējā robeža, bet praktiska teorijas darba zona.
 
-Teorija nepieļauj absolūta tukšuma eksistenci.
+Teorija ievieš Mūžības cikla jēdzienu kā konceptuālu atskaites sistēmu. Mūžības cikls balstās uz divām savstarpēji saistītām sastāvdaļām — **Vertikāli** un **Horizontāli**. Kur sākas vai beidzas Vertikāle, nav šīs teorijas mērķis. Teorija ir "logs" enerģiju hierarhijā, kura uzdevums ir aprakstīt vienu Horizontāli un tās tiešās saistības ar citām Horizontālēm.
 
-Ja kādā telpas apgabalā nav novērojamas enerģijas plūsmas, nav konstatējamas daļiņas vai nav novērojamas fizikālās parādības, tas nenozīmē, ka enerģijas tur nav.
+Vertikāle veidojas Pamat-Horizontāles enerģiju nezūdamības, saglabāšanas un akumulācijas procesu rezultātā. Sasniedzot kritisko enerģijas akumulācijas līmeni, izveidojas jauna (smalkāka) Horizontāle. Tajā atkārtojas tas pats akumulācijas process. Šis cikliskais mehānisms veido Mūžības cikla pamatu un Vertikāles līmeņu hierarhiju.
 
-Tas nozīmē, ka attiecīgajā telpas apgabalā ir izveidojies enerģētisks balanss, kurā dažādu Tranzīta Enerģijas plūsmu kopējais rezultāts kļūst lokāli neizšķirams.
+Mūsu Visums ir viena no šīs Vertikāles Horizontālēm. Tā kā nav zināms, cik enerģētisko līmeņu eksistē virs vai zem mūsu līmeņa, mūsu Visums teorijā tiek apzīmēts kā **H0**. Lielāka mēroga Horizontāles tiek apzīmētas kā **H+n**, bet smalkāka mēroga Horizontāles — kā **H−n**.
 
-Tādēļ šajā teorijā tukšums netiek interpretēts kā enerģijas neesamība. Tukšums ir enerģētiska līdzsvara stāvoklis.
+Mums pieejamajā Vertikālē tieši novērojami ir tikai katra līmeņa minimālie enerģijas pārstāvji — **VEV (Vertikāles Enerģijas Vienības)**, kuri pilda savas funkcijas attiecīgajās Horizontālēs. Pilns objekta apzīmējums, piemēram, ir **VEV H−3**. Tas ir monolīts objekts ar evolūcijas identifikatoru **ID0**.
 
-Absolūts tukšums nepastāv.
+Horizontālē sākas enerģiju organizācijas evolūcija. Tās pirmais posms ir matricas punktu veidošanās, kur vienu matricas punktu veido divas VEV iņ–jaņ konfigurācijā. Šis evolūcijas posms tiek apzīmēts ar **ID1**.
 
----
+**ID apzīmē enerģiju organizācijas evolūcijas pakāpi, nevis objekta lineāros izmērus.**
 
-## Telpas princips
+**ID2** ietver protonu un turpmākās organizācijas formas (**ID2,n**), piemēram, Mendeļejeva tabulas elementus, planētas un zvaigznes. **ID3** atbilst baltajam pundurim. **ID4**, **ID5**, **ID6** ... **IDn** raksturo melno caurumu evolūcijas ciklus, kuros objekti, sasniedzot nepieciešamo iekšējo un ārējo enerģētisko līmeni, pāriet nākamajā evolūcijas pakāpē.
 
-Telpa nav pasīvs un tukšs ģeometrisks fons.
+Pašreizējā izpratnē mūsu Visums savā **IDn** evolūcijas stāvoklī atrodas aptuveni 15 miljardus gadu. Kad notiks nākamais cikliskais pārejas solis, teorija šobrīd neparedz.
 
-Telpa ir nepārtraukti organizēta Tranzīta Enerģijas vide, kurā vienlaikus eksistē dažādas enerģijas plūsmas un to organizācijas stāvokļi.
-
-Novērojamās fizikālās parādības rodas nevis no enerģijas esamības vai neesamības, bet gan no enerģētisko stāvokļu lokāliem disbalansiem, pārejām un reorganizācijām.
-
-Līdzsvarota enerģētiskā vide novērotājam var šķist tukša, taču tā nav enerģijas neesamības vide.
-
----
-
-## Teorijas pieeja
-
-Teorija piedāvā alternatīvu interpretācijas un organizācijas modeli, kurā Visuma procesi tiek aprakstīti kā diskrētu Tranzīta Enerģijas plūsmu pašorganizācija dažādos mērogos.
-
-Tās mērķis nav aizstāt esošo matemātisko fiziku vai noliegt eksperimentāli apstiprinātus rezultātus.
-
-Teorijas uzdevums ir meklēt kopīgus organizācijas principus aiz šķietami atšķirīgām fizikālajām parādībām un aprakstīt tās vienotā konceptuālā sistēmā.
-
----
-
-## Teorijas mērķi
-
-Teorijas galvenie mērķi ir:
-
-- aprakstīt Visumu kā vienotu enerģētiskas organizācijas sistēmu;
-- izmantot vienotus organizācijas principus dažādos mērogos;
-- interpretēt fizikālās struktūras kā enerģijas plūsmu organizācijas formas;
-- meklēt kopīgas likumsakarības starp mikro-, makro- un bioloģiskajām sistēmām;
-- formulēt jaunas pārbaudāmas hipotēzes par Visuma organizācijas principiem.
-
----
-
-## Teorijas pamatpieņēmumi
-
-1. Absolūts tukšums neeksistē.
-2. Visu telpu aizpilda Tranzīta Enerģijas organizācija.
-3. Enerģijas neesamība nav novērojama; novērojams ir enerģiju balanss vai disbalanss.
-4. Visas fizikālās struktūras ir enerģijas plūsmu organizācijas formas.
-5. Fizikālās mijiedarbības rodas no enerģijas plūsmu organizācijas, reorganizācijas un savstarpējās saderības.
-6. Vieni un tie paši organizācijas principi var realizēties dažādos mērogos un dažādās fizikālajās sistēmās.
-
----
-
-## Teorijas robežas
-
-Šī teorija ir konceptuāls organizācijas modelis.
-
-Tā neaizstāj eksperimentālo metodi un nepretendē uz absolūtu patiesību. Tās galvenais uzdevums ir nodrošināt vienotu interpretācijas ietvaru, identificēt kopīgas organizācijas likumsakarības un ģenerēt jaunas pārbaudāmas hipotēzes par Visuma uzbūves un attīstības principiem.
-
----
-
-## Enerģiju diapazonu likums
-
-Katram fizikālam modelim, objektam un organizācijas līmenim eksistē noteikts enerģiju diapazons, kurā tā apraksts ir fizikāli pamatots un eksperimentāli pārbaudāms.
-
-Ārpus eksperimentāli apstiprinātā enerģiju diapazona matemātiskie risinājumi paši par sevi nav uzskatāmi par fizikālu realitāti. Tie ir iespējami teorētiski apraksti, kuru fizikālā interpretācija prasa eksperimentālu apstiprinājumu.
-
-Tādi jēdzieni kā bezgalības, singularitātes, telpas un laika izliekumi vai citas matemātiskas konstrukcijas var norādīt uz izmantotā modeļa robežu sasniegšanu un nepieciešamību pāriet uz citu organizācijas vai apraksta līmeni.
-
-Enerģiju diapazonu likums neierobežo zinātnisko attīstību. Enerģiju diapazons vienmēr var tikt paplašināts, ja jaunais diapazons tiek eksperimentāli pierādīts un reproducējami apstiprināts.
-
+Turpmākajās nodaļās tiek definēti un detalizēti aprakstīti procesi un jēdzieni, kas tieši vai netieši raksturo mūsu Horizontāli (H0) un tās vietu Vertikāles enerģiju hierarhijā.
 
 
 
