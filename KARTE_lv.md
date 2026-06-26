@@ -69,9 +69,7 @@ VEV H+6 10^105m
 2. ### Cikliskums
    - Stabilas enerģijas formas atkārtojas diskrētos vertikāles ciklos.
 
-4.  ## LV — Transformācijas zonas (TZ) revīzijas ielāps
-
-### Transformācijas zona (TZ)
+3. ### Transformācijas zona (TZ)
 
 #### Definīcija
 
@@ -153,7 +151,7 @@ H0 Horizontāles ietvaros teorija tieši aplūko līmeņus, sākot no VEV H−3,
 Transformācijas zona vienlaikus nodrošina enerģijas akumulāciju un amortizāciju. Enerģijas akumulācija notiek tikai smalkāku Vertikāles līmeņu virzienā, savukārt amortizācija stabilizē matērijas organizāciju un palielina tās noturību pret lokālām enerģētiskām svārstībām.
 
 
-5. ### Likumu invariance
+4. ### Likumu invariance
    - Vertikāles pamatlikumi ir vienādi visos tās līmeņos.
    - Mainās tikai organizācijas mērogs un enerģijas formu izpausmes.
 
