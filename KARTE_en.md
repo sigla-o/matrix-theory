@@ -212,41 +212,33 @@ The Vertical determines:
 The Vertical defines the universal organizational principles, whereas Horizontals represent their specific manifestations at different energy scales.
 
 
-## I. Horizontal (Universe)
+# I. Horizontal (Universe H0)
 
-**Definition:** A Horizontal is an organized matrix of stable energy units of a particular Vertical, within which the discrete evolution of energy units occurs through successive levels.
+### Definition
+A Horizontal is the matrix of stable energy units belonging to a specific Vertical, within which discrete evolution occurs through successive ID levels described in the Introduction.
 
 ## Fundamental Principles
 
 1. **Secondary Nature**
-   - A Horizontal does not exist independently of the Vertical.
-   - It emerges from the critical energy organization of a higher (+1) Horizontal.
+   - A Horizontal cannot exist independently of its Vertical.
+   - It emerges as the result of the critical organization of energy within the next higher (+1) Horizontal.
 
-2. **Single-Type Matrix**
-   - All evolutionary levels of a given Horizontal share the same matrix.
-   - A change of evolutionary level does not imply a change of matrix.
+2. **Single Matrix**
+   - All evolutionary levels of a given Horizontal share the same Hn matrix.
+   - Transition between evolutionary levels does not imply a change of the matrix itself.
 
 3. **Discrete Evolution**
    - Energy units organize into successive evolutionary levels.
    - Each subsequent level represents a higher degree of energy organization within the same matrix.
 
-4. **Branched Evolution**
-   - In large Horizontals, evolution may branch into multiple parallel directions.
+4. **Branching Evolution**
+   - Large Horizontals may branch into multiple parallel evolutionary paths.
    - Multiple stable objects may belong to the same evolutionary level.
 
 5. **Hierarchy Principle**
-   - A Horizontal cannot, in its evolution, surpass its creator—the next higher (+1) Horizontal.
-   - A new Horizontal can emerge only toward the finer direction:
+   - During a complete evolutionary cycle, a Horizontal cannot surpass the next higher (+1) Horizontal from which it originated.
+   - A new Horizontal can emerge only in the finer direction:
      `Hn → H(n−1)`.
-
-### H-1 Example
-
-- Level 0 – Vertical energy unit;
-- Level 1 – proton;
-- Level 2 – white dwarf, black hole.
-
-All of these levels exist within the same H-1 matrix.
-
 
 ## Principle of Horizontal Genesis
 
