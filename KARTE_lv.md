@@ -46,28 +46,44 @@ Turpmākajās nodaļās tiek definēti un detalizēti aprakstīti procesi un jē
 
 ### Definīcija
 
-Papildinot Ievada Vertikāles definīciju, ir jāatzīmē, ka pastāv Vertikāles cikliskais solis 10^20, kurā iekļaujas visi VEV objekti ar identifikāciju ID0. Ja sadalām enerģiju diapazonu 10^-115 m līdz 10^105 m VEV objektu vertikālā rindā, tad šo rindu veido objektu saraksts:
-VEV H-5 10^-115m
-VEV H-4 10^-95m
-VEV H-3 10^-75m
-VEV H-2 10^-55m
-VEV H-1 10^-35m
-VEV H0 10^-15m
-VEV H+1 10^5m
-VEV H+2 10^25m
-VEV H+3 10^45m
-VEV H+4 10^65m
-VEV H+5 10^85m
-VEV H+6 10^105m
-Šie arī ir Vertikāles enerģētiskie līmeņi.
+Papildinot Ievadā definēto Vertikāles jēdzienu, teorija ievieš **Vertikāles ciklisko soli 10²⁰**, kurš nosaka secīgu enerģētisko līmeņu organizāciju.
+
+Katru Vertikāles līmeni pārstāv attiecīgās Horizontāles minimālais enerģijas objekts — **VEV (Vertikāles Enerģijas Vienība)** ar evolūcijas identifikatoru **ID0**.
+
+Ja teorijas darba diapazons (10^-115 m līdz 10^105 m) tiek attēlots kā Vertikāles enerģētisko līmeņu virkne, iegūst šādu secību:
+
+- VEV H−5 — 10^-115 m
+- VEV H−4 — 10^-95 m
+- VEV H−3 — 10^-75 m
+- VEV H−2 — 10^-55 m
+- VEV H−1 — 10^-35 m
+- VEV H0 — 10^-15 m
+- VEV H+1 — 10^5 m
+- VEV H+2 — 10^25 m
+- VEV H+3 — 10^45 m
+- VEV H+4 — 10^65 m
+- VEV H+5 — 10^85 m
+- VEV H+6 — 10^105 m
+
+Katrs nākamais Vertikāles līmenis atšķiras no iepriekšējā par vienu ciklisko soli **10²⁰**, veidojot diskrētu enerģētisko hierarhiju.
+
+Šie līmeņi veido teorijas Vertikāles enerģētisko karkasu.
+
+---
 
 ## Pamatprincipi
 
-1. ### Enerģijas nezūdamība
-   - Enerģija nepazūd, bet nepārtraukti maina savu organizācijas formu.
+Šie principi darbojas visos Horizontāļu un Vertikāles līmeņos un veido teorijas aksiomātisko pamatu.
 
-2. ### Cikliskums
-   - Stabilas enerģijas formas atkārtojas diskrētos vertikāles ciklos.
+### 1. Enerģijas nezūdamība
+
+Enerģija nepazūd un nerodas no jauna. Tā nepārtraukti maina savu organizācijas formu un pāriet starp dažādiem evolūcijas stāvokļiem.
+
+### 2. Cikliskums
+
+Stabilas enerģijas organizācijas formas atkārtojas diskrētos Vertikāles ciklos, kuru pamatā ir nemainīgs cikliskais solis **10²⁰**.
+
+
 
 3. ### Transformācijas zona (TZ)
 
