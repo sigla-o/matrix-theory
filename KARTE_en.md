@@ -173,32 +173,44 @@ Within the H0 Horizontal, the theory directly considers levels beginning with **
 The Transformation Zone simultaneously provides energy accumulation and energy damping. Accumulation proceeds only toward finer Vertical levels, whereas damping stabilizes the organization of matter and increases its resistance to local energetic fluctuations.
 
 
-4. **Law Invariance**
-   - The fundamental laws of the Vertical are identical at all its levels.
-   - Only the scale of organization and the manifestations of energy forms change.
 
+### 4. Law Invariance
 
+The fundamental laws of the Vertical are invariant across all of its levels.
 
-## Relationship with Horizontals
+Only the scale of energy organization, the energy concentration, and the forms in which these laws manifest change from one Horizontal to another.
 
-A **Horizontal** is a specific stage of organization and evolution of the Vertical's units.
+---
 
-- Horizontals do not exist independently of the Vertical.
+### Relationship with Horizontals
+
+A **Horizontal** represents a specific stage in the organization and evolution of the Vertical Energy Units.
+
+- Horizontals cannot exist independently of the Vertical.
 - They emerge as a result of the organization of the Vertical's stable energy units.
+- Every Horizontal operates according to the same fundamental principles that govern the entire Vertical.
 
-## Law of Vertical Hierarchy
+---
 
-> A Horizontal cannot surpass its creator—the next higher (+1) Horizontal—in its evolutionary development.
+### Law of the Vertical Hierarchy
+
+> A Horizontal cannot evolve beyond the Horizontal that generated it — the next higher (**H+1**) Horizontal.
 
 The Vertical determines:
-- possible stable energy forms;
+
+- possible stable forms of energy;
 - possible levels of organization;
 - evolutionary limits;
 - the hierarchy of interactions between Horizontals.
 
+---
+
 ### Summary
 
-> The Vertical is a hierarchy of cyclic self-similarity of the Universe's energy, while Horizontals are local states of organization and evolution within this hierarchy.
+> **The Vertical is a cyclic hierarchy of energy organization, while Horizontals are the local organizational and evolutionary states within that hierarchy.**
+
+The Vertical defines the universal organizational principles, whereas Horizontals represent their specific manifestations at different energy scales.
+
 
 ## I. Horizontal (Universe)
 
