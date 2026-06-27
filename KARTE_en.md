@@ -393,42 +393,48 @@ FV organization provides:
 
 The detailed structure of FV states and their minimal Matrix implementation remain subjects for future development of the theory.
 
-## 4. Principle of Minimal Bases
 
-The minimal organization of TE flow requires two independent half-phases.
+### 4. Minimal Basis Principle
 
-At present, two candidate minimal flow bases remain open.
+The minimal organization of a TE flow requires two independent half-phases.
 
-### 7-Point Base (B7)
+At present, two minimal flow basis directions have been identified.
 
-- the minimum number of Matrix points that allows the realization of two independent half-phases;
-- the minimal carrier of half-phase organization;
-- full self-sustaining cyclicity has not yet been established.
+#### 7-point Basis (B7)
 
-### 13-Point Base (B13)
+- the minimum number of Matrix points required to realize two independent half-phases;
+- the minimum carrier of half-phases;
+- can operate either as a locally closed cycle or as a component of an open B13 cycle.
+
+#### 13-point Basis (B13)
 
 - consists of one central point and twelve surrounding channels;
-- is a candidate for a complete Phase-Direction organization;
-- is a candidate for the minimal self-sustaining TE flow structure;
-- suggests the possible existence of a 12-channel organization in FV mode.
+- is a candidate for complete Phase-Direction (FV) organization;
+- is a candidate for the minimal self-sufficient TE flow structure;
+- indicates a possible 12-channel organization in the FV regime.
+
+**Conceptually:**
+
+- **B7 is a local TE organization unit.**
+- **B13 is the minimal collective TE organization unit.**
 
 ---
 
-## 5. Principle of Closed and Open Cycles
+### 5. Principle of Closed and Open Cycles
 
-The minimal bases of Transit Energy (TE) flows can realize two fundamentally different organizational regimes:
+The minimal TE flow bases can realize two fundamentally different modes of organization:
 
-- closed cycles;
-- open cycles.
+- closed-cycle organization;
+- open-cycle organization.
 
-### Closed Cycle Principle
+#### Closed-Cycle Principle
 
-The 7-point basis (B7) is the minimal closed-type TE organization in which both half-phases complete a full cycle within the same local 7-point structure.
+The 7-point basis (B7) is the minimal closed TE organization in which both half-phases complete an entire cycle within the same local 7-point space.
 
-The complete energy balance is achieved without requiring external channels.
+A complete TE flow balance is achieved without requiring external channels.
 
 B7
-→ full cycle
+→ complete cycle
 → initial configuration
 → next cycle.
 
@@ -439,32 +445,34 @@ Closed cycles naturally realize:
 - self-sustaining objects;
 - closed electromagnetic structures.
 
-### Open Cycle Principle
+#### Open-Cycle Principle
 
-The 13-point basis (B13) is the minimal open-type TE organization in which a single 7-point structure realizes only one half-period.
+The 13-point basis (B13) is the minimal open TE organization in which one 7-point structure realizes only a single half-phase.
 
-A complete cycle requires two consecutive half-periods realized across multiple interconnected organizational regions.
+Completion of a full cycle requires two consecutive half-phases realized across multiple interconnected organizational regions.
 
 7 points
-→ half-period
+→ half-phase
 → transition
 → 7 points
-→ half-period
-→ full cycle.
+→ half-phase
+→ complete cycle.
 
 Open cycles naturally realize:
 
 - energy transfer;
-- translational TE flows;
+- propagating TE flows;
 - electromagnetic waves;
 - photon self-reproduction;
-- collective channel reorganizations.
+- collective channel reorganization.
+
 
 ### Universal Organization Principle
 
 Closed TE cycles primarily accumulate and stabilize energy.
 
 Open TE cycles primarily transfer and distribute energy.
+
 ---
 
 ## 6. Principle of Object Generation
