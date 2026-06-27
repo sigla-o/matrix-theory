@@ -505,7 +505,7 @@ Virziena maiņa var izpausties kā TE plūsmu daudzuma, sadalījuma, virziena do
 
 ## Definīcija
 
-Qn ir kolektīvās Tranzīta Enerģijas (TE) organizācijas cikls, kurā realizējas noteikta enerģijas apmaiņas loģika un kļūst novērojamas konkrētas organizācijas likumsakarības.
+Qn ir kolektīvās Tranzīta Enerģijas (TE) organizācijas līmenis, kurā realizējas noteikta enerģijas apmaiņas loģika un kļūst novērojamas konkrētas organizācijas likumsakarības.
 
 Qn nav fizisks objekts, nav atsevišķa plūsma un nav telpiski noslēgta robeža.
 
@@ -544,6 +544,10 @@ Q(n+1) nav izolēta Qn kopija.
 
 Q(n+1) izmanto zemāko līmeņu organizācijas likumsakarības un realizē tās jaunā kolektīvā režīmā.
 
+Katrs Q(n+1) līmenis balstās uz zemāko Qn līmeņu kolektīvo organizāciju.
+
+Ja zemākā organizācija nespēj uzturēt stabilu enerģijas apmaiņu, augstāks Qn režīms nevar ilgstoši realizēties.
+
 ---
 
 ### 4. Pašlīdzības princips
@@ -558,6 +562,10 @@ Mainās:
 
 Nemainīgi saglabājas organizācijas pamatprincipi.
 
+Pašlīdzība nenozīmē identisku struktūru atkārtošanos.
+
+Atkārtojas organizācijas principi, bet konkrētās fiziskās izpausmes nosaka attiecīgā Qn līmeņa kolektīvās organizācijas režīms.
+
 ---
 
 ### 5. Novērojamības princips
@@ -571,12 +579,25 @@ To eksistenci iespējams noteikt netieši:
 - no stabilām enerģijas konfigurācijām;
 - no kolektīvu procesu atkārtošanās dažādos mērogos.
 
+Qn līmeņi kalpo kā organizācijas modelis novērojamo procesu aprakstīšanai, nevis kā tieši izmērāmi fiziski objekti.
+
 ---
 
-### Kopsavilkums
+### 6. Organizācijas pārejas princips
 
-Qn ir kolektīvās TE organizācijas loģiskā telpa, kurā realizējas noteikta enerģijas apmaiņas periodiskums un kļūst novērojamas stabilas organizācijas likumsakarības. Qn nav fiziska robeža vai atsevišķa plūsma, bet kolektīvs enerģijas apmaiņas režīms, kas veido hierarhiski pašlīdzīgas organizācijas dažādos mērogos.
+Jauns Qn līmenis neveidojas automātiski līdz ar enerģijas daudzuma pieaugumu.
 
+Tas rodas tikai tad, kad kolektīvā enerģijas apmaiņa sasniedz stabilu organizācijas režīmu ar atkārtojamām likumsakarībām.
+
+Tādēļ Qn robežas nosaka organizācijas stabilitāte, nevis absolūts enerģijas daudzums.
+
+---
+
+## Kopsavilkums
+
+Qn ir kolektīvās TE organizācijas loģiskā telpa, kurā realizējas noteikta enerģijas apmaiņas periodiskums un kļūst novērojamas stabilas organizācijas likumsakarības.
+
+Qn nav fiziska robeža vai atsevišķa plūsma, bet kolektīvs organizācijas līmenis, kas veido hierarhiski pašlīdzīgus enerģijas apmaiņas režīmus dažādos mērogos.
 
 
 # H+1 modulācijas princips
