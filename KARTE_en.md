@@ -38,22 +38,54 @@ The following chapters define and describe in detail the concepts and processes 
 
 
 
-
-# LOGICAL MAP OF MATRIX THEORY
+# LOGICAL MAP OF THE MATRIX THEORY
 
 ## Absolute Foundation
 
 ## Vertical
 
-**Definition:** The Vertical is a cyclic hierarchy of stable proton-type energy units that exists independently of the Horizontals and forms the fundamental structure of the Universe. Until its boundaries are confirmed, it may be considered infinite.
+### Definition
+
+Expanding the definition introduced in the Introduction, the theory establishes the **Vertical cyclic step of 10²⁰**, which determines the sequence of energy levels.
+
+Each Vertical level is represented by the minimum energy object of its corresponding Horizontal — the **VEU (Vertical Energy Unit)** with the evolutionary identifier **ID0**.
+
+Representing the working range of the theory (10^-115 m to 10^105 m) as a Vertical sequence of energy levels gives:
+
+- VEU H−5 — 10^-115 m
+- VEU H−4 — 10^-95 m
+- VEU H−3 — 10^-75 m
+- VEU H−2 — 10^-55 m
+- VEU H−1 — 10^-35 m
+- VEU H0 — 10^-15 m
+- VEU H+1 — 10^5 m
+- VEU H+2 — 10^25 m
+- VEU H+3 — 10^45 m
+- VEU H+4 — 10^65 m
+- VEU H+5 — 10^85 m
+- VEU H+6 — 10^105 m
+
+Each successive Vertical level differs from the previous one by one cyclic step of **10²⁰**, forming a discrete hierarchy of energy levels.
+
+Together these levels constitute the energetic framework of the theory's Vertical.
+
+---
 
 ## Fundamental Principles
 
-1. **Conservation of Energy**
-   - Energy does not disappear but continuously changes its form of organization.
+These principles apply to every Horizontal and Vertical level and form the axiomatic foundation of the theory.
 
-2. **Cyclicality**
-   - Stable energy forms repeat in discrete vertical cycles.
+### 1. Conservation of Energy
+
+Energy is neither created nor destroyed. It continuously changes its organizational form while transitioning between different evolutionary states.
+
+### 2. Cyclicity
+
+Stable forms of energy organization repeat through discrete Vertical cycles based on the constant cyclic step of **10²⁰**.
+
+
+
+
 
 3. #### Transformation Zone (TZ)
 
