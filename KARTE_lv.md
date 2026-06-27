@@ -40,7 +40,6 @@ Turpmākajās nodaļās tiek definēti un detalizēti aprakstīti procesi un jē
 
 # MATRICAS TEORIJAS LOĢISKĀ KARTE
 
-## Absolūtais pamats
 
 ## Vertikāle
 
