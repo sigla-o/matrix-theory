@@ -242,31 +242,26 @@ A Horizontal is the matrix of stable energy units belonging to a specific Vertic
 
 ## Principle of Horizontal Genesis
 
-If the local blockage of Transit Energy (TE) flows within Hn reaches a critical level:
+When the blockage of Hn Transit Energy (TE) flows locally reaches a critical level:
 
-- a local concentration of TE is formed;
-- the local rotational synchronization of the Hn Matrix with the overall Hn Matrix is disrupted;
-- the local space becomes incompatible with the surrounding Hn space;
+- a local concentration of TE forms;
+- the local synchronization of Hn Matrix rotation with the global Hn Matrix is disrupted;
+- the local space loses compatibility with the surrounding Hn space;
 - the local space becomes isolated from the Hn Matrix.
 
-The isolated space is then taken over by the H(n−1) Vertical Energy Units.
+Within the isolated space, H(n−1) Vertical Energy Units (VEUs) become dominant.
 
-If the blocked amount of energy is sufficient to maintain stable organization:
+If the blocked amount of energy is sufficient to maintain a stable organization:
 
-- an H(n−1) Matrix is formed;
+- an H(n−1) Matrix forms;
 - the evolution of the new Horizontal begins.
 
-The size of the H(n−1) Matrix is determined by the energetic balance between the H(n−1) Matrix and the modulation of the Hn TE flow, which is governed by the influence of H(n+1) on the Hn TE flow.
+The size of the H(n−1) Matrix is determined by the energy balance between the H(n−1) Matrix and the modulation of Hn Transit Energy flows.
 
-## Principle of Absolute Synchronization
+The modulation of Hn Transit Energy flows is, in turn, determined by the influence of the H(n+1) Horizontal.
 
-Absolute Synchronization is an intrinsic property of Vertical Energy Units (VEUs), which constitute Level 0 of Vertical evolution.
 
-All other forms of energy organization arise from VEUs and realize Absolute Synchronization through their Matrix, its rotation, and Transit Energy (TE) flows.
 
-The stability of any organization is determined by its ability to maintain local compatibility with the Absolute Synchronization of VEUs.
-
-If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
 
 ## Matrix
 
