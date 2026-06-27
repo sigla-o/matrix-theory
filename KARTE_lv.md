@@ -84,24 +84,27 @@ Enerģija nepazūd un nerodas no jauna. Tā nepārtraukti maina savu organizāci
 Stabilas enerģijas organizācijas formas atkārtojas diskrētos Vertikāles ciklos, kuru pamatā ir nemainīgs cikliskais solis **10²⁰**.
 
 
-
-3. ### Transformācijas zona (TZ)
+### 3. Transformācijas zona (TZ)
 
 #### Definīcija
 
-Transformācijas zona (TZ) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, transformāciju un izpausmi Horizontālē.
+Transformācijas zona (**TZ**) ir universāla Vertikāles transformācijas vide, kas eksistē ap jebkuru Matricu saturošu objektu un nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu, mijiedarbību un izpausmi Horizontālē.
 
-TZ nav atsevišķa telpa, nav atsevišķs spēks un nav izolēts fizisks objekts. Tā ir universāla Vertikāles transformācijas vide, kurā dažādi enerģētiskie līmeņi ir saistīti ar matērijas organizāciju.
+TZ nav atsevišķa telpa, nav atsevišķs spēks un nav izolēts fizisks objekts. Tā ir universāla vide, kurā Vertikāles enerģētiskie līmeņi ir saistīti ar matērijas organizāciju un kurā kļūst iespējamas pārejas starp dažādiem enerģētiskās organizācijas stāvokļiem.
 
 ---
 
 ### Universāluma princips
 
-Jebkurš objekts, kuram ir sava Matrica, eksistē Vertikāles telpā un tādēļ vienmēr atrodas Transformācijas zonas (TZ) ielenkumā.
+Jebkurš objekts, kuram ir sava Matrica, eksistē Vertikāles enerģiju hierarhijā un tādēļ vienmēr atrodas Transformācijas zonas (TZ) ielenkumā.
 
-VEV  
-→ Matrica  
-→ Objekts + TZ
+```text
+VEV
+   ↓
+Matrica
+   ↓
+Objekts + TZ
+```
 
 Nepastāv Matricu saturošs objekts bez Transformācijas zonas.
 
@@ -109,20 +112,24 @@ Nepastāv Matricu saturošs objekts bez Transformācijas zonas.
 
 ### Enerģētisko līmeņu princips
 
-Transformācijas zona nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu un transformāciju.
+Transformācijas zona nodrošina diskrētu Vertikāles enerģētisko līmeņu līdzāspastāvēšanu un to izpausmi Horizontālē.
 
-Katrs VEV H-n līmenis raksturo atšķirīgu Vertikāles enerģētiskās organizācijas dziļumu un mērogu.
+Katrs **VEV H-n** līmenis raksturo atšķirīgu Vertikāles enerģētiskās organizācijas dziļumu un mērogu.
 
-VEV H-n līmeņi nav atsevišķas telpas vai neatkarīgi objekti. Tie ir diskrēti Vertikāles organizācijas režīmi, kuri caur TZ izpaužas Horizontālē kā stabili matērijas enerģētiskie stāvokļi.
+VEV H-n līmeņi nav atsevišķas telpas vai neatkarīgi objekti. Tie ir diskrēti Vertikāles organizācijas režīmi, kuri caur Transformācijas zonu izpaužas Horizontālē kā stabili matērijas enerģētiskie stāvokļi.
 
-VEV H-n  
-→ TZ  
-→ matērijas enerģētiskais stāvoklis  
-→ novērojamā struktūra
+```text
+VEV H-n
+    ↓
+   TZ
+    ↓
+Matērijas enerģētiskais stāvoklis
+    ↓
+Novērojamā struktūra
+```
 
-Matērija tādējādi ir netieša Vertikāles enerģētisko līmeņu izpausme Horizontālē.
+Tādējādi matērija ir Vertikāles enerģētisko līmeņu netieša izpausme Horizontālē.
 
----
 
 ### Enerģijas akumulācijas princips
 
