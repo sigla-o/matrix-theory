@@ -966,11 +966,11 @@ To nosaka kanālu bloķēšana, atkārtota FV plūsmas asimetrija, kolektīvs TE
 
 # Elektromagnētisms (EM)
 
-### Definīcija
+## Definīcija
 
-Elektromagnētisms (EM) ir kolektīvs Tranzīta Enerģijas (TE) plūsmu organizācijas efekts, kas realizējas Qn līmeņa plūsmu loģikā un rodas pārejas zonā starp objekta smalkās TE dominanci un apkārtējās lielās TE dominanci.
+Elektromagnētisms (EM) ir kolektīvs Tranzīta Enerģijas (TE) plūsmu organizācijas režīms, kas realizējas Qn līmeņa plūsmu loģikā un rodas pārejas zonā starp objekta smalkās TE dominanci un apkārtējās lielās TE dominanci.
 
-EM nav patstāvīga enerģijas forma un nav neatkarīgs fundamentāls spēks. Tā ir TE plūsmu telpiskās un cikliskās reorganizācijas sekas.
+EM nav patstāvīga enerģijas forma un nav neatkarīgs fundamentāls spēks. Tā ir objektu radītas TE plūsmu telpiskās un cikliskās reorganizācijas sekas.
 
 ---
 
@@ -988,9 +988,11 @@ Tiešā objekta tuvumā dominē objekta smalkā TE organizācija.
 
 Šī zona realizējas kā Stiprā spēka organizācija.
 
+Šajā zonā EM vēl neveidojas kā patstāvīgs organizācijas režīms.
+
 ---
 
-### 2. Cikliskās pārejas (Mix) princips
+### 2. Cikliskās pārejas princips
 
 Palielinoties attālumam no objekta:
 
@@ -1004,7 +1006,7 @@ Palielinoties attālumam no objekta:
 - dominances periodiski pārdalās pa Qn plūsmu cikliem;
 - veidojas selektīvi kanāli un stabilas cirkulācijas.
 
-Šo pārejas zonu sauc par elektromagnētisko (EM) zonu.
+Šī pārejas zona realizē Mix organizācijas režīmu un tiek saukta par elektromagnētisko (EM) zonu.
 
 ---
 
@@ -1014,7 +1016,9 @@ Pietiekami lielos attālumos:
 
 - smalkās TE ietekme kļūst niecīga;
 - telpas organizāciju nosaka lielā TE;
-- EM efekti pakāpeniski izzūd.
+- EM organizācijas režīms pakāpeniski izzūd.
+
+Šajā zonā gravitācijas efekti kļūst dominējošie pār elektromagnētisko organizāciju.
 
 ---
 
@@ -1022,35 +1026,50 @@ Pietiekami lielos attālumos:
 
 EM realizējas caur Qn līmeņa TE plūsmu organizāciju.
 
-EM nosaka:
+EM organizāciju nosaka:
 
 - Qn ģeometrija;
 - plūsmu ceļi;
 - rezonanses mezgli;
 - cikliskās atgriezeniskās saites;
-- selektīva kanālu aktivācija.
+- selektīva kanālu aktivācija;
+- H modulāciju selekcija.
 
 ---
 
 ### 5. Atšķirības princips
 
-Gravitācija un EM ir paralēlas TE kolektīvās organizācijas formas.
+Gravitācija un elektromagnētisms ir paralēlas TE kolektīvās organizācijas formas.
 
-Gravitācija:
+**Gravitācija:**
 
 - realizējas caur FV stāvokļu atkārtošanos;
-- rodas no ilgstoša TE plūsmu deficīta.
+- rodas no ilgstoša TE plūsmu deficīta;
+- izpaužas kā kolektīvs TE spiediena efekts.
 
-Elektromagnētisms:
+**Elektromagnētisms:**
 
 - realizējas caur Qn plūsmu organizāciju;
-- rodas no smalkās un lielās TE plūsmu cikliskās mijiedarbības.
+- rodas no smalkās un lielās TE plūsmu cikliskās mijiedarbības;
+- izpaužas kā stabilas TE cirkulācijas un rezonanses struktūras.
 
 ---
 
-### Kopsavilkums
+### 6. Stabilitātes princips
 
-Elektromagnētisms ir Qn līmeņa TE plūsmu organizācijas režīms, kas rodas radiālajā pārejas zonā starp objekta smalkās TE dominanci un apkārtējās lielās TE dominanci un realizējas kā stabilas TE cirkulācijas, selektīvi kanāli un rezonanses struktūras.
+EM organizācijas režīms pastāv tikai tik ilgi, kamēr saglabājas līdzsvars starp smalkās un lielās TE organizāciju.
+
+Ja viena no plūsmām iegūst pilnīgu dominanci, EM organizācijas režīms izzūd.
+
+---
+
+## Kopsavilkums
+
+Elektromagnētisms ir Qn līmeņa TE plūsmu organizācijas režīms, kas rodas radiālajā pārejas zonā starp objekta smalkās TE dominanci un apkārtējās lielās TE dominanci.
+
+Tas realizējas kā stabilas TE cirkulācijas, selektīvi kanāli un rezonanses struktūras, kuru pastāvēšanu nosaka Qn organizācija un H modulāciju selekcija.
+
+
 
 # Elektriskais lādiņš
 
