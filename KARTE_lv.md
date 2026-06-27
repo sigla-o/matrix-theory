@@ -1296,11 +1296,11 @@ Visi procesi
 
 # Elektromagnētiskais vilnis (EM vilnis)
 
-### Definīcija
+## Definīcija
 
-Elektromagnētiskais vilnis (EM vilnis) ir H-3 un H-2 Tranzīta Enerģijas (TE) plūsmu ciklisks organizācijas režīms, kurā abas plūsmas nepārtraukti savstarpēji reorganizējas un realizē enerģijas pārnesi.
+Elektromagnētiskais vilnis (EM vilnis) ir pašuzturošs H-3 un H-2 Tranzīta Enerģijas (TE) plūsmu ciklisks organizācijas režīms, kurā abas plūsmas nepārtraukti savstarpēji reorganizējas un realizē enerģijas pārnesi.
 
-EM vilnis nav patstāvīga enerģijas forma un nav fundamentāls spēks. Tas ir H-3 ↔ H-2 plūsmu dinamisks process, kas var realizēties dažādās TE vidēs.
+EM vilnis nav patstāvīga enerģijas forma un nav fundamentāls spēks. Tas ir elektromagnētiskās indukcijas realizēts H-3 ↔ H-2 plūsmu dinamisks process, kas var eksistēt dažādās TE vidēs.
 
 EM vilnim raksturīgs ļoti plašs realizējamo frekvenču diapazons. Tādēļ tas spēj eksistēt daudzās enerģētiskās konfigurācijās un pielāgoties dažādiem organizācijas apstākļiem.
 
@@ -1320,11 +1320,43 @@ EM vilni vienmēr veido:
 - to savstarpēja cikliska reorganizācija;
 - pilna 0° un 180° pus-fāžu realizācija.
 
-EM vilnim nav vienas obligātas ģeometriskas formas. Tā konkrēto realizāciju nosaka vide, kurā notiek H-3 ↔ H-2 organizācija.
+EM vilnim nav vienas obligātas ģeometriskas formas.
 
-Matricas vidē EM vilnis realizējas kā kanālu plūsmu reorganizācija.
+Tā konkrēto organizāciju nosaka vide, kurā realizējas H-3 ↔ H-2 cikliskā reorganizācija.
 
-Elektrona vidē EM vilnis realizējas kā slēgta sfēriska cirkulācija.
+---
+
+## Pašuzturēšanās princips
+
+EM vilnis eksistē tikai tad, ja H-2 un H-3 plūsmas nepārtraukti inducē viena otru.
+
+Ja savstarpējā indukcija tiek pārtraukta, EM viļņa organizācija sabrūk.
+
+---
+
+## Vides princips
+
+EM viļņa organizācijas pamatmehānisms ir universāls, bet tā realizācijas forma ir atkarīga no apkārtējās TE organizācijas.
+
+Matricas vidē EM vilnis realizējas kā organizēta kanālu plūsmu reorganizācija.
+
+Elektrona vidē EM vilnis realizējas kā slēgta sfēriska H-2 un H-3 plūsmu cirkulācija.
+
+---
+
+## Kolektivitātes princips
+
+EM vilnis nav neatkarīga H-2 vai H-3 plūsma.
+
+Tas ir abu plūsmu kolektīvs organizācijas režīms, kurā katras plūsmas eksistence nepārtraukti ir atkarīga no otras.
+
+---
+
+## Kopsavilkums
+
+Elektromagnētiskais vilnis ir pašuzturošs H-2 un H-3 TE plūsmu ciklisks organizācijas režīms, kas realizējas nepārtrauktā elektromagnētiskajā indukcijā.
+
+Atkarībā no realizācijas vides tas var eksistēt kā Matricas kanālu kolektīva plūsmu organizācija vai kā slēgta sfēriska organizācija elektrona TE struktūrā.
 
 
 # Elektrons
