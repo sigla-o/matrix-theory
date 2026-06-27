@@ -467,39 +467,42 @@ Open cycles naturally realize:
 - collective channel reorganization.
 
 
-### Universal Organization Principle
+#### Universal Organization Principle
 
-Closed TE cycles primarily accumulate and stabilize energy.
+Closed TE cycles primarily provide local energy accumulation and stabilization.
 
-Open TE cycles primarily transfer and distribute energy.
+Open TE cycles primarily provide collective energy transfer and propagation.
 
 ---
 
-## 6. Principle of Object Generation
+### 6. Principle of Object Generation
 
-TE flow can generate higher levels of organization called objects.
+Organized TE flows are capable of generating higher-level organizations — objects.
 
-Two fundamental object types are distinguished.
+Two fundamental object types exist.
 
-### Matrix Object
+#### Matrix Object
 
-An object possessing its own internal Matrix and internally organized TE flows.
+An object possessing its own internal Matrix and organized TE flows.
 
-Example: proton.
+**Example:** proton.
 
-### Flow Object
+#### Flow Object
 
 An object consisting solely of a closed TE flow and not forming an independent Matrix.
 
-Example: electron.
-
-## 7. TE Flow Deformation
-
-A TE flow deformation is any stable or transient deviation from the L0 regime of TE flow organization.
-
-A deformation may manifest as changes in TE flow magnitude, distribution, directional dominance, or half-phase energy balance and does not imply changes in Matrix geometry, point arrangement, or Absolute Synchronization.
+**Example:** electron.
 
 ---
+
+### 7. TE Flow Direction Change
+
+A TE flow direction change is any stable or temporary deviation from the L0 mode of TE flow organization. This defines the L1 TE flow regime.
+
+A direction change may be expressed as changes in TE flow quantity, distribution, directional dominance, or half-phase energy balance, while preserving the Matrix geometry, point arrangement, and Absolute Synchronization.
+
+---
+
 
 # Qn Hierarchy
 
