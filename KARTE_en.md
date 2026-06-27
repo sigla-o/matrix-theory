@@ -130,48 +130,47 @@ Observable structure
 Matter is therefore an indirect manifestation of the Vertical energy levels within a Horizontal.
 
 
-
 ### Principle of Energy Accumulation
 
-Every material object possesses its own characteristic energy concentration, which determines the accumulation depth of its Transformation Zone.
+Every material object possesses a characteristic energy concentration that determines the depth of energy accumulation within its Transformation Zone.
 
-Energy accumulation within the Transformation Zone is a one-directional process. Energy can accumulate only toward finer Vertical levels (H−n). Accumulation toward coarser levels (H+n) does not occur.
+Energy accumulation inside the Transformation Zone is a unidirectional organizational process. Energy may accumulate only toward finer Vertical levels (**H−n**). Accumulation toward coarser levels (**H+n**) does not occur.
 
-As the number of mutually organized material objects increases, the total energy concentration also increases, thereby expanding the overall accumulation potential of the system's Transformation Zone.
+As the number of mutually organized material objects or their overall energy concentration increases, the total accumulation potential of the Transformation Zone also increases, allowing progressively finer Vertical energy levels to become accessible.
 
 ---
 
 ### Principle of Energy Damping
 
-The Transformation Zone simultaneously performs two complementary functions: energy accumulation and energy damping.
+The Transformation Zone simultaneously provides both energy accumulation and energy damping.
 
-Accumulation enables access to deeper Vertical energy levels, while damping smooths local energy fluctuations and increases the stability of matter.
+Accumulation enables a system to reach higher levels of Vertical energy organization, while damping smooths local energy fluctuations, reduces organizational instability, and increases the structural stability of matter.
 
-These two functions operate simultaneously and together form the unified operating mechanism of the Transformation Zone.
+Accumulation and damping are not opposing processes; they are complementary functions of a single Transformation Zone mechanism.
 
 ---
 
 ### Principle of Observability
 
-An observer operates within the TE logic of the H0 Horizontal; therefore, the complete Vertical structure cannot be observed directly.
+An observer operates within the Transit Energy (TE) logic of the **H0 Horizontal**, therefore the complete Vertical hierarchy cannot be directly observed.
 
-The Transformation Zone and the VEU H−n levels can currently be:
+The Transformation Zone and **VEU H−n** levels can be:
 
-- modeled mathematically;
+- mathematically modeled;
 - classified according to energetic regularities;
-- compared with stable structures of matter across different scales.
+- compared with stable material structures across different scales.
 
-At present, VEU H−3 is the only level whose influence may be indirectly identified through observable physical phenomena.
+At present, the theory assumes that **VEU H−3** is the deepest Vertical level whose influence can be indirectly identified through observable physical phenomena.
 
 ---
 
 ### Summary
 
-The Transformation Zone (TZ) is a universal medium of Vertical transformation surrounding every Matrix-containing object and enabling the coexistence, transformation, and manifestation of discrete Vertical energy levels within a Horizontal.
+The **Transformation Zone (TZ)** is the universal organizational medium of the Vertical, surrounding every Matrix-containing object and enabling the coexistence, interaction, and manifestation of discrete Vertical energy levels within a Horizontal.
 
-Within the H0 Horizontal, the theory directly considers levels beginning with VEU H−3, while conceptually the TZ extends beyond VEU H−5 depending on the energy concentration of matter.
+Within the H0 Horizontal, the theory directly considers levels beginning with **VEU H−3**, while conceptually the operational range of the Transformation Zone extends beyond the currently modeled levels and depends on the energy concentration of matter.
 
-The Transformation Zone simultaneously provides energy accumulation and energy damping. Energy accumulation proceeds only toward finer Vertical levels, whereas energy damping stabilizes the organization of matter and increases its resistance to local energy fluctuations.
+The Transformation Zone simultaneously provides energy accumulation and energy damping. Accumulation proceeds only toward finer Vertical levels, whereas damping stabilizes the organization of matter and increases its resistance to local energetic fluctuations.
 
 
 4. **Law Invariance**
