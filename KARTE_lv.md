@@ -907,11 +907,15 @@ Aiz objekta robežām katrs Qn TE cikls saglabā negatīvu FV bilanci objekta vi
 
 ### 6. Gravitācijas konstantes princips
 
-TE plūsmas starpība nevar samazināties zem viena kanāla enerģijas apmaiņas.
+Gravitācijas konstante G ir fundamentāla Tranzīta Enerģijas īpašība.
 
-Minimālo pastāvīgo enerģijas apmaiņu starp paralēliem pus-fāžu kanāliem nosaka nemainīgā gravitācijas konstante G.
+Tā raksturo nemainīgu enerģijas apmaiņu starp paralēliem pus-fāžu kanāliem un pastāv neatkarīgi no objektu klātbūtnes.
 
-G nosaka minimālo kolektīvās TE spiediena pārnesi starp objektiem un veido klasiskās gravitācijas likuma pamatu.
+G ir sastopama gan L0, gan L1 TE plūsmas režīmos.
+
+Objekti nerada gravitācijas konstanti un to nemaina.
+
+Gravitācijas efekts rodas, objektiem reorganizējot jau esošo TE plūsmu, kuras enerģijas apmaiņu nosaka konstante G.
 
 ---
 
