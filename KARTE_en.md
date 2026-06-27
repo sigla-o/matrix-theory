@@ -349,49 +349,49 @@ The stability of a Matrix Point is maintained by the symmetric half-phases toget
 
 ### Definition
 
-Transit Energy (TE) is a Matrix-organized energy flow that realizes the dynamics of the Universe. TE is neither a static object nor tied to any specific material carrier. It exists as a continuous, discretely organized flow between Matrix points.
+Transit Energy (TE) is an energy flow organized by Universe (H+1), which passes through TZ, where it is transported and, when necessary, modified to realize the dynamics of Universe (H0). TE is not a static object and consists of VEV H-2 objects. It exists as a continuous, discretely organized flow between the Matrix points of Universe (H0).
 
-TE is the generative foundation of all processes, interactions, and objects.
+This is one of the two fundamental TE components that together form the electromagnetic (EM) field (the magnetic component). The other TE consists of VEV H-3 objects and is an intrinsic part of the organization of the Universe (H0) Matrix. This TE forms the electric component of the EM field.
+
+TE is the direct generative foundation of all physically realized processes, interactions, and objects within H0.
 
 ---
 
 ## Fundamental Principles
 
-## 1. Principle of Discreteness
+### 1. Discreteness Principle
 
-TE does not propagate through a continuous space. Its flow is always realized through a discrete organization of Matrix points.
+TE does not propagate through continuous space. Its flow is always realized through the discrete organization of Matrix points.
 
 ---
 
-## 2. Principle of Half-Phases
+### 2. Half-Phase Principle
 
-TE flow consists of two complete and mutually independent half-phases:
+The TE flow consists of two complete and mutually independent half-phases whose flow directions are opposite during every Qn cycle (L0 flow mode):
 
 - 0° half-phase;
 - 180° half-phase.
 
-Both half-phases coexist and are required for the realization of a complete TE organization.
+Both half-phases coexist simultaneously and are required for the complete organization of TE.
 
 ---
 
-## 3. Phase-Direction (FV) Principle
+### 3. Phase-Direction (FV) Principle
 
-TE flow is realized through inseparable phase-direction states.
+The TE flow is realized in indivisible Phase-Direction (FV) states.
 
 A phase cannot be defined independently of its direction, and a direction cannot be defined independently of its phase.
 
-Therefore, TE organization occurs in the Phase-Direction (FV) mode.
+Therefore, TE organization operates in the Phase-Direction (FV) mode.
 
 FV organization provides:
 
 - cyclic flow organization;
-- mutual synchronization between flows;
+- mutual synchronization of flows;
 - spatial orientation of TE processes;
-- generation of higher-order collective effects, including gravity.
+- formation of higher-level collective effects, including gravity.
 
-The detailed structure of FV states and their minimal Matrix realization remain subjects of further theoretical development.
-
----
+The detailed structure of FV states and their minimal Matrix implementation remain subjects for future development of the theory.
 
 ## 4. Principle of Minimal Bases
 
