@@ -40,7 +40,6 @@ The following chapters define and describe in detail the concepts and processes 
 
 # LOGICAL MAP OF THE MATRIX THEORY
 
-## Absolute Foundation
 
 ## Vertical
 
