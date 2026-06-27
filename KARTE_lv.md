@@ -465,20 +465,18 @@ Atvērtie cikli dabiski realizē:
 - fotonu pašreproducēšanos;
 - kolektīvas kanālu reorganizācijas.
 
+
 #### Universālais organizācijas princips
 
-Slēgti TE cikli primāri uzkrāj un stabilizē enerģiju.
+Slēgti TE cikli primāri nodrošina lokālu enerģijas uzkrāšanu un stabilizāciju.
 
-Atvērti TE cikli primāri pārnes un izplata enerģiju.
-
+Atvērti TE cikli primāri nodrošina kolektīvu enerģijas pārnesi un izplatīšanu.
 
 ---
 
-
-
 ### 6. Objektu ģenerēšanas princips
 
-TE plūsma spēj ģenerēt augstāka līmeņa organizācijas – objektus.
+Organizētas TE plūsmas spēj ģenerēt augstāka līmeņa organizācijas — objektus.
 
 Pastāv divi pamatobjektu tipi.
 
@@ -486,21 +484,22 @@ Pastāv divi pamatobjektu tipi.
 
 Objekts ar savu iekšējo Matricu un organizētām TE plūsmām.
 
-Piemērs: protons.
+**Piemērs:** protons.
 
 #### Plūsmas objekts
 
 Objekts, kas sastāv tikai no noslēgtas TE plūsmas un neveido patstāvīgu Matricu.
 
-Piemērs: elektrons.
+**Piemērs:** elektrons.
+
+---
 
 ### 7. TE plūsmas virziena maiņa
 
-TE plūsmas virziena maiņa ir jebkura stabila vai pārejoša novirze no L0 režīma TE plūsmu organizācijas. Tas ir L1 TE plūsmas režīms.
+TE plūsmas virziena maiņa ir jebkura stabila vai īslaicīga novirze no L0 režīma TE plūsmu organizācijas. Tas ir L1 TE plūsmas režīms.
 
 Virziena maiņa var izpausties kā TE plūsmu daudzuma, sadalījuma, virziena dominances vai pus-fāžu enerģētiskā balansa izmaiņas un neparedz Matricas ģeometrijas, punktu izvietojuma vai Absolūtās sinhronizācijas izmaiņas.
 
----
 
 # Qn hierarhija
 
