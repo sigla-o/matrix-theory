@@ -471,6 +471,8 @@ Atvērtie cikli dabiski realizē:
 Slēgti TE cikli primāri uzkrāj un stabilizē enerģiju.
 
 Atvērti TE cikli primāri pārnes un izplata enerģiju.
+
+
 ---
 
 
