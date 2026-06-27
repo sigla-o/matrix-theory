@@ -1189,77 +1189,114 @@ Electric charge and electricity are realized in different TE environments. Elect
 
 
 
-
 # Electricity, Magnetism and Electromagnetic Induction
 
 ## Electricity
 
-Electricity is an organized H-3 Transit Energy (TE) flow propagating through interconnected Strong Interaction zones of atoms and governed by TE Qn flow logic.
+Electricity is an organized flow of H-3 Transit Energy (TE), driven by an electric potential difference and propagating through interconnected Strong Force regions of atoms according to the organizational logic of Qn TE flows.
 
-Electricity is not an electron flow and is not fundamentally dependent on electron motion. Its basis is the organization of H-3 TE flows within collective atomic structures.
+Electricity is not a flow of electrons and is not fundamentally dependent on electron motion. Its underlying mechanism is the organization of H-3 TE flows within the collective structure of atoms.
 
-In systems containing many atoms, Strong Interaction zones may become interconnected and form continuous pathways for H-3 TE flows:
+Electrons may participate in the organization of H-3 flow, but they are not the carriers of electricity itself.
 
-Atomic chain
-→ interconnected Strong Interaction zones
+In systems composed of many atoms, Strong Force regions can become interconnected, forming continuous pathways for H-3 TE flow.
+
+Electric potential
+
 → H-3 TE flow
+
 → electricity
 
-In certain systems, such as semiconductors, electron organization may influence the configuration of H-3 flows, but the fundamental mechanism of electricity remains the organization of H-3 TE flows.
+Atomic chain
+
+→ interconnected Strong Force regions
+
+→ H-3 TE flow
+
+→ electricity
+
+In specific systems such as semiconductors, electron organization may influence the configuration of H-3 flow, while the fundamental mechanism of electricity remains the organization of H-3 TE flow.
 
 ---
 
 ## Magnetism
 
-Magnetism is a collective organizational regime of H-2 Transit Energy (TE) flows induced by stable H-3 electrical flows and manifested as spatially organized magnetic field lines.
+Magnetism is a collective organizational regime of H-2 Transit Energy (TE) flows induced by stable H-3 electrical flows and realized as spatially organized magnetic field lines.
 
 Magnetism is neither an independent form of energy nor a primary fundamental force.
 
 Electricity
+
 → excitation of H-2 flows
+
 → magnetic field lines
+
 → magnetism
+
+Magnetic field lines describe the organization of H-2 TE rather than independent energy flows.
 
 Magnetism may arise from:
 
-- externally maintained H-3 flows (for example, in electrical conductors);
-- internally self-sustained closed H-3 flows determined by atomic architecture (for example, in permanent magnets).
+- externally sustained H-3 flow (for example, in an electrical conductor);
+- internally self-sustaining closed H-3 flows determined by atomic architecture (for example, permanent magnets).
 
-In both cases, magnetism is a consequence of H-2 flow organization induced by H-3 TE flows.
+In both cases, magnetism is a consequence of H-2 flow organization induced by H-3 TE flow.
 
 ---
 
 ## Electromagnetic Induction
 
-Electromagnetic induction is a mutual organizational process of H-2 and H-3 TE flows in which changes in one flow configuration cause reorganization of the other.
+Electromagnetic induction is a mutual organizational process between H-2 and H-3 TE flows in which changes in one flow configuration cause the reorganization of the other.
 
-EM induction is realized through the ability of H-2 to displace H-3 into the energetically most accessible realization environment during reorganization.
+EM induction is realized through H-2 flows reorganizing H-3 flow into the most energetically accessible configuration.
 
-Changes in H-3 flows
-→ reorganization of H-2 flows
+Changes in H-3 flow
 
-Changes in H-2 flows
-→ reorganization of H-3 flows
+→ reorganization of H-2 flow
 
-Induction establishes the mutual coupling between electricity and magnetism and allows self-sustained electromagnetic systems to emerge.
+Changes in H-2 flow
+
+→ reorganization of H-3 flow
+
+Electromagnetic induction establishes the mutual connection between electricity and magnetism and enables the formation of self-sustaining electromagnetic systems.
 
 ---
 
-### Summary
+## Principle of Collective Organization
+
+Electricity, magnetism and electromagnetic induction are not three independent phenomena.
+
+They are interconnected manifestations of the same electromagnetic organizational regime of Transit Energy.
+
+Each describes a different aspect of H-2 and H-3 TE organization.
+
+---
+
+## Summary
 
 Electric charge
+
 → H-3 accumulation
 
-H-3 flow
+Electric potential
+
+→ H-3 TE flow
+
 → electricity
 
-H-2 flow organization
+Electricity
+
+→ H-2 flow organization
+
 → magnetism
 
-Mutual H-2 and H-3 reorganization
+H-2 ↔ H-3 flow reorganization
+
 → electromagnetic induction
 
-Together, electricity, magnetism, and electromagnetic induction form a unified electromagnetic (EM) TE organization system.
+All processes
+
+→ a unified electromagnetic (EM) organizational regime of Transit Energy.
 
 
 
