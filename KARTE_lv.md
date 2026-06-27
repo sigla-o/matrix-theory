@@ -349,9 +349,11 @@ Matricas punkta stabilitāti nodrošina simetriskās pus-fāzes un nemainīgais 
 
 ### Definīcija
 
-Tranzīta Enerģija (TE) ir Visuma (H+1) un TZ organizēta enerģijas plūsma, kura realizē Visuma (H0) dinamiku. TE nav statisks objekts un sastāv no VEV H-2 objektiem. Tā eksistē kā nepārtraukta, diskrēti organizēta plūsma starp Visuma (H0) Matricas punktiem. Tā ir viena no divām TE plūsmām, kuras veido EM lauku (magnētiskā komponente). Otra TE sastāv no VEV H-3 objektiem un pieder pašai Visuma (h0) matricai. Šī TE ir EM elektriskā komponente.
+Tranzīta Enerģija (TE) ir Visuma (H+1) organizēta enerģijas plūsma, kura caur TZ tiek transportēta un, nepieciešamības gadījumā, modificēta, lai realizētu Visuma (H0) dinamiku. TE nav statisks objekts un sastāv no VEV H-2 objektiem. Tā eksistē kā nepārtraukta, diskrēti organizēta plūsma starp Visuma (H0) Matricas punktiem.
 
-TE ir visu procesu, mijiedarbību un objektu ģenerējošais pamats.
+Šī ir viena no divām fundamentālajām TE komponentēm, kas kopā veido EM lauku (magnētisko komponenti). Otra TE sastāv no VEV H-3 objektiem un ir pašas Visuma (H0) Matricas organizācijas sastāvdaļa. Šī TE veido EM elektrisko komponenti.
+
+TE ir visu H0 fizikā realizēto procesu, mijiedarbību un objektu tiešais ģenerējošais pamats.
 
 ---
 
@@ -365,7 +367,7 @@ TE nepārvietojas nepārtrauktā telpā. Tās plūsma vienmēr realizējas caur 
 
 ### 2. Pus-fāžu princips
 
-TE plūsma sastāv no divām pilnvērtīgām un savstarpēji neatkarīgām pus-fāzēm:
+TE plūsma sastāv no divām pilnvērtīgām un savstarpēji neatkarīgām pus-fāzēm, kurām plūsmas virzieni ir pretēji katrā Qn ciklā (L0 plūsmas režīmā):
 
 - 0° pus-fāze;
 - 180° pus-fāze.
@@ -376,7 +378,7 @@ Abas pus-fāzes eksistē vienlaikus un ir nepieciešamas pilnas TE organizācija
 
 ### 3. Fāzes-Virziena (FV) princips
 
-TE plūsma realizējas nedalāmos fāzes-virziena stāvokļos.
+TE plūsma realizējas nedalāmos Fāzes-Virziena (FV) stāvokļos.
 
 Fāzi nevar definēt neatkarīgi no tās virziena, un virzienu nevar definēt neatkarīgi no tā fāzes.
 
@@ -390,8 +392,6 @@ FV organizācija nodrošina:
 - augstāka līmeņa kolektīvo efektu, tostarp gravitācijas, veidošanos.
 
 FV stāvokļu detalizēta struktūra un to minimālā Matricas realizācija ir turpmākas teorijas attīstības priekšmets.
-
----
 
 ### 4. Minimālās bāzes princips
 
