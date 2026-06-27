@@ -975,89 +975,106 @@ It is determined by channel blocking, recurring PD flow asymmetry, collective TE
 
 ## Definition
 
-Electromagnetism (EM) is a collective organizational effect of Transit Energy (TE) flows that operates through Qn-level flow logic and arises in the transition region between the object's fine TE dominance and the surrounding large-scale TE dominance.
+Electromagnetism (EM) is a collective organizational regime of Transit Energy (TE) flows that is realized through Qn-level flow logic and emerges within the transition region between the fine-scale TE dominance of an object and the surrounding large-scale TE dominance.
 
-EM is not an independent form of energy and is not a separate fundamental force. It is a consequence of the spatial and cyclic reorganization of TE flows.
+EM is neither an independent form of energy nor a separate fundamental force. It is a consequence of the spatial and cyclic reorganization of TE flows caused by the presence of objects.
 
 ---
 
 ## Fundamental Principles
 
-### 1. Fine TE Dominance Principle
+### 1. Principle of Fine-Scale TE Dominance
 
-In the immediate vicinity of an object, the object's fine TE organization dominates.
+In the immediate vicinity of an object, the object's fine-scale TE organization dominates.
 
-In this region:
+Within this region:
 
-- fine TE pressure gradients exceed large-scale TE gradients;
-- the flow organization is determined by the object itself;
-- large-scale TE becomes subordinated to fine TE organization.
+- fine-scale TE pressure gradients exceed large-scale TE gradients;
+- the organization of the flows is determined by the object itself;
+- large-scale TE adapts to the fine-scale TE organization.
 
-This region is realized as the Strong Interaction zone.
+This region is realized as the organizational regime of the Strong Force.
+
+Within this region, EM has not yet formed as an independent organizational regime.
 
 ---
 
-### 2. Cyclic Transition (Mix) Principle
+### 2. Principle of Cyclic Transition
 
 As the distance from the object increases:
 
-- the influence of fine TE decreases;
+- the influence of fine-scale TE decreases;
 - the influence of large-scale TE increases;
-- a cyclic transition region is formed.
+- a cyclic transition region develops.
 
-In this region:
+Within this region:
 
-- neither flow completely dominates;
-- dominance periodically redistributes through Qn flow cycles;
-- selective channels and stable circulations are formed.
+- neither flow becomes fully dominant;
+- dominance alternates periodically throughout the Qn flow cycles;
+- selective channels and stable circulations are established.
 
-This transition region is called the electromagnetic (EM) zone.
+This transition region realizes the **Mix organizational regime** and is referred to as the electromagnetic (EM) region.
 
 ---
 
-### 3. Large-Scale TE Dominance Principle
+### 3. Principle of Large-Scale TE Dominance
 
 At sufficiently large distances:
 
-- the influence of fine TE becomes negligible;
-- the spatial organization is determined by large-scale TE;
-- electromagnetic effects gradually disappear.
+- the influence of fine-scale TE becomes negligible;
+- the organization of space is determined by large-scale TE;
+- the EM organizational regime gradually disappears.
+
+Within this region, gravitational effects become dominant over electromagnetic organization.
 
 ---
 
-### 4. Qn Organization Principle
+### 4. Principle of Qn Organization
 
-EM operates through Qn-level TE flow organization.
+EM is realized through the organization of TE flows at the Qn level.
 
-EM is determined by:
+Its organization is determined by:
 
 - Qn geometry;
 - flow pathways;
 - resonance nodes;
-- cyclic feedback loops;
-- selective channel activation.
+- cyclic feedback;
+- selective channel activation;
+- H modulation selection.
 
 ---
 
-### 5. Distinction Principle
+### 5. Principle of Distinction
 
-Gravity and EM are parallel forms of collective TE organization.
+Gravity and electromagnetism are parallel forms of collective TE organization.
 
-Gravity:
+**Gravity:**
 
-- operates through repeating Phase-Direction (PD/FV) states;
-- arises from a persistent TE flow deficit.
+- is realized through recurring PD states;
+- arises from a persistent TE flow deficit;
+- manifests itself as a collective TE pressure effect.
 
-Electromagnetism:
+**Electromagnetism:**
 
-- operates through Qn flow organization;
-- arises from the cyclic interaction between fine and large-scale TE flows.
+- is realized through Qn flow organization;
+- arises from the cyclic interaction between fine-scale and large-scale TE flows;
+- manifests itself as stable TE circulations and resonance structures.
 
 ---
 
-### Summary
+### 6. Principle of Stability
 
-Electromagnetism is a Qn-level TE flow organization regime that arises in the radial transition region between an object's fine TE dominance and the surrounding large-scale TE dominance and manifests as stable TE circulations, selective channels, and resonance structures.
+The EM organizational regime exists only while a balance between fine-scale and large-scale TE organization is maintained.
+
+If either flow becomes completely dominant, the EM organizational regime disappears.
+
+---
+
+## Summary
+
+Electromagnetism is a Qn-level organizational regime of TE flows that emerges within the radial transition region between the fine-scale TE dominance of an object and the surrounding large-scale TE dominance.
+
+It is realized as stable TE circulations, selective channels, and resonance structures whose existence is determined by Qn organization and H modulation selection.
 
 
 # Electric Charge
