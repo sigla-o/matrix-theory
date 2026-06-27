@@ -755,13 +755,17 @@ Veidojas no daudzu matricveida objektu organizētas mijiedarbības.
 - galaktika
 - galaktiku kopa
 
-#### Hibrīds objekts
+#### H+4 plūsmas–matricas hibrīds
 
-Veidojas, apvienojoties plūsmas un matricveida organizācijas elementiem.
+Specifiska organizācijas forma, kurā plūsmas objekts īslaicīgi organizējas kopā ar H+4 VEV matricveida komponenti.
 
-#### Piemērs
+Šādas konfigurācijas neveidojas parastos Matricas organizācijas apstākļos. Tās rodas tikai ekstremālās enerģijas procesos, kuros tiek izjaukta esošo objektu organizācija un īslaicīgi kļūst iespējama alternatīvu TE organizācijas režīmu realizācija.
 
-- mions
+Šie objekti nav ilgstoši stabili un ātri reorganizējas stabilākos organizācijas režīmos.
+
+Piemērs:
+
+- mions (elektrona/fotona/VEV H+4 organizācija)
 
 ---
 
