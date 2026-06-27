@@ -323,26 +323,26 @@ Thus, each H0 Matrix point acts as a local coordination node for two opposing TE
 
 
 
-## Principle of the Matrix Point
+### Principle of the Matrix Point
 
-A Matrix point is the minimal functional unit of the Matrix and consists of two mutually organized Vertical Energy Units (VEUs).
+A Matrix Point is the smallest functional unit of the Matrix, consisting of two mutually organized Vertical Energy Units (VEUs).
 
-The formation principle of a Matrix point is universal for all VEUs and is based on:
+The formation of a Matrix Point is universal for all VEUs and is governed by:
 
 - TE pressure;
-- the influence of external cyclicity (modulation).
+- external cyclic modulation.
 
-The combined VEUs occupy an optimal position within a common sphere maintained by TE pressure balance.
+The paired VEUs occupy an optimal position within a common sphere maintained by TE pressure balance.
 
-A Matrix point forms a double object resembling a yin-yang configuration – two interconnected objects rotating around a common center.
+A Matrix Point forms a dual structure resembling a yin-yang configuration — two interconnected objects rotating about a common center.
 
-Closer to the common center of rotation, two images (pockets) are formed and filled with TE.
+Closer to the common center of rotation, two cavities (pockets) are formed and filled with TE.
 
-Each rotational side organizes its own TE flow, and the two flows are mutually opposite.
+Within the two pockets, mutually opposing TE flows are organized.
 
-The simultaneous existence of these opposite flows forms symmetrical half-phases.
+The simultaneous existence of these opposing flows forms symmetric half-phases.
 
-The stability of the Matrix point is ensured by the symmetrical half-phases and by the invariant spherical balance maintained by TE pressure.
+The stability of a Matrix Point is maintained by the symmetric half-phases together with the TE-pressure-maintained spherical equilibrium.
 
 
 # Transit Energy (TE)
