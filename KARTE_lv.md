@@ -403,7 +403,7 @@ Pašlaik ir atvērti divi minimālās plūsmas bāzes virzieni.
 
 - minimālais Matricas punktu skaits, kurā iespējama divu neatkarīgu pus-fāžu realizācija;
 - minimālais pus-fāžu nesējs;
-- pilna pašpietiekama cikla realizācija nav noteikta.
+- var realizēties gan kā lokāli slēgts cikls, gan kā B13 atvērtā cikla sastāvdaļa.
 
 #### 13 punktu bāze (B13)
 
@@ -411,6 +411,11 @@ Pašlaik ir atvērti divi minimālās plūsmas bāzes virzieni.
 - ir kandidāts pilnai Fāzes-Virziena organizācijai;
 - ir kandidāts minimālai pašpietiekamai TE plūsmas struktūrai;
 - norāda uz iespējamu 12 kanālu organizāciju FV režīmā.
+
+**Konceptuāli:**
+
+- **B7 ir lokāla TE organizācijas vienība.**
+- **B13 ir minimālā kolektīvā TE organizācijas vienība.**
 
 ---
 
@@ -425,7 +430,7 @@ TE plūsmu minimālās bāzes var realizēt divus fundamentāli atšķirīgus or
 
 7 punktu bāze (B7) ir minimāla slēgta tipa TE organizācija, kurā abas pus-fāzes realizē pilnu ciklu vienā un tajā pašā lokālajā 7 punktu telpā.
 
-Pilna enerģijas bilance tiek sasniegta bez nepieciešamības izmantot ārējos kanālus.
+Pilna TE plūsmas bilance tiek sasniegta bez nepieciešamības izmantot ārējos kanālus.
 
 B7
 → pilns cikls
@@ -441,15 +446,15 @@ Slēgtie cikli dabiski realizē:
 
 #### Atvērtā cikla princips
 
-13 punktu bāze (B13) ir minimāla atvērta tipa TE organizācija, kurā viena 7 punktu struktūra realizē tikai vienu pus-periodu.
+13 punktu bāze (B13) ir minimāla atvērta tipa TE organizācija, kurā viena 7 punktu struktūra realizē tikai vienu pus-fāzi.
 
-Pilna cikla realizācijai nepieciešami divi secīgi pus-periodi, kuri tiek realizēti vairākās savstarpēji saistītās organizācijas zonās.
+Pilna cikla realizācijai nepieciešamas divas secīgas pus-fāzes, kuras tiek realizētas vairākās savstarpēji saistītās organizācijas zonās.
 
 7 punkti
-→ pus-periods
+→ pus-fāze
 → pāreja
 → 7 punkti
-→ pus-periods
+→ pus-fāze
 → pilns cikls.
 
 Atvērtie cikli dabiski realizē:
