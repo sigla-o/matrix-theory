@@ -1073,11 +1073,13 @@ Tas realizējas kā stabilas TE cirkulācijas, selektīvi kanāli un rezonanses 
 
 # Elektriskais lādiņš
 
-### Definīcija
+## Definīcija
 
-Elektriskais lādiņš ir lokāls VEV H-3 (10^-75 m) līmeņa Tranzīta Enerģijas (TE) pastāvīgs uzkrājums H0 Matricā ap matēriju.
+Elektriskais lādiņš ir dinamiski uzturēts VEV H-3 (10⁻⁷⁵ m) līmeņa Tranzīta Enerģijas (TE) pastāvīgs uzkrājums H0 Matricā ap matēriju.
 
-Lādiņš nav patstāvīga enerģijas forma un nav elektromagnētisma cēlonis. Tas ir stabils lokāls Tumšās enerģijas organizācijas stāvoklis, kuru ģenerē protona pus-fāžu disbalanss.
+Šajā teorijā termins **Tumšā enerģija** apzīmē VEV H-3 līmeņa TE uzkrājumu.
+
+Elektriskais lādiņš nav patstāvīga enerģijas forma un nav elektromagnētisma cēlonis. Tas ir stabils lokāls Tumšās enerģijas organizācijas stāvoklis, kuru ģenerē protona pus-fāžu disbalanss.
 
 ---
 
@@ -1086,12 +1088,18 @@ Lādiņš nav patstāvīga enerģijas forma un nav elektromagnētisma cēlonis. 
 Elektriskais lādiņš rodas:
 
 Protona pus-fāžu disbalanss
+
 → VEV H-3 TE uzkrāšanās
-→ lokāla H0 TE plūsmas deformācija attiecībā pret L0 Qn sākotnējo stāvokli
+
+→ lokāla H0 Matricas deformācija attiecībā pret L0 Qn sākotnējo stāvokli
+
+→ lokāla TE potenciāla starpība
+
 → stabila Tumšās enerģijas koncentrācija
+
 → elektriskais lādiņš.
 
-Elektriskais lādiņš ir Matricā lokāli uzkrāts H-3 TE papildinājums, kura lielumu nosaka dinamiskais līdzsvars starp elektromagnētiskās darbības radīto H-3 TE pārpalikumu un Matricas tendenci atbrīvoties no tai nevajadzīgās enerģijas.
+Elektriskais lādiņš ir H0 Matricā lokāli uzkrāts H-3 TE papildinājums, kura lielumu nosaka dinamiskais līdzsvars starp elektromagnētiskās darbības radīto H-3 TE pārpalikumu un Matricas tendenci atbrīvoties no tai nevajadzīgās enerģijas.
 
 ---
 
@@ -1102,6 +1110,7 @@ Elektriskais lādiņš ir šodien tieši novērojamā Tumšās enerģijas lokāl
 Tas realizējas kā:
 
 - ilgstošs VEV H-3 TE uzkrājums;
+- dinamiski uzturēta H-3 TE konfigurācija;
 - lokāla H0 TE plūsmas deformācija attiecībā pret L0 Qn sākotnējo stāvokli;
 - lokāla TE blīvuma anomālija ap matēriju.
 
@@ -1119,37 +1128,60 @@ TZ nodrošina:
 - enerģijas apmaiņu starp H-3 uzkrājumu un apkārtējo TE vidi;
 - lādiņa un EM savstarpējo korekciju.
 
+TZ nepārtraukti kompensē H-3 uzkrājuma novirzes no līdzsvara.
+
+---
 
 ## Enerģētiskās bilances princips
 
 Objekta enerģētiskā bilance tiek saglabāta vienmēr neatkarīgi no tā, kur atrodas visas bilanci veidojošās enerģijas.
 
-Elektriskie stāvokļi raksturo nevis enerģijas esamību vai neesamību, bet gan pus-fāžu enerģijas telpisko organizāciju un dominances attiecības.
+Elektriskie stāvokļi raksturo nevis enerģijas daudzumu, bet gan pus-fāžu enerģijas telpisko organizāciju un dominances attiecības.
 
-Elektriskais potenciāls raksturo pus-fāžu enerģijas dominanci. Potenciāls, kas ir vienāds ar nulli, nenozīmē enerģijas neesamību, bet gan pus-fāžu enerģētisko līdzsvaru.
+Elektriskais potenciāls raksturo pus-fāžu enerģijas dominanci.
+
+Potenciāls, kas ir vienāds ar nulli, nenozīmē enerģijas neesamību, bet gan pus-fāžu enerģētisko līdzsvaru.
 
 ---
 
-
-## Attiecības ar EM
+## Attiecības ar elektromagnētismu
 
 Elektriskais lādiņš:
+
 - ir lokāls Tumšās enerģijas uzkrājums;
 - eksistē H0 Matricā;
-- tiek ģenerēts no pus-fāžu disbalansa.
+- tiek ģenerēts no protona pus-fāžu disbalansa.
 
 Elektromagnētisms:
+
 - ir Qn līmeņa TE plūsmu organizācijas režīms;
 - rodas kā dinamiska reakcija uz lādiņa radīto TE konfigurāciju;
-- piedalās lādiņa balansēšanā caur TZ.
+- piedalās lādiņa balansēšanā caur TZ;
+- pats neveido elektrisko lādiņu;
+- realizē lādiņa radītās potenciāla starpības dinamiku.
 
 ---
 
-### Kopsavilkums
+## Elektrības princips
 
-Elektriskais lādiņš ir protona pus-fāžu disbalansa radīts VEV H-3 līmeņa pastāvīgs TE uzkrājums H0 Matricā ap matēriju, kas realizējas kā lokāla Tumšās enerģijas koncentrācija un caur TZ atrodas nosacītā dinamiskā līdzsvarā ar elektromagnētisko organizāciju.
+Elektriskais lādiņš un elektrība nav viens un tas pats.
 
-Elektriskais lādiņš un elektrība realizējas dažādās TE vidēs. Elektriskais lādiņš ir H-3 TE papildinājums Matricā un veido potenciālu starpību, savukārt elektrība ir organizēta H-3 TE plūsma objekta TE struktūrā. Potenciāla starpība nosaka elektrības realizācijas iespēju un virzienu, bet pati H-3 plūsma notiek tikai caur objekta TE struktūru.
+Elektriskais lādiņš ir dinamiski uzturēts H-3 TE uzkrājums H0 Matricā.
+
+Elektrība ir organizēta H-3 TE plūsma objekta TE struktūrā.
+
+Elektriskais potenciāls nosaka elektrības realizācijas iespēju un virzienu, bet pati H-3 TE plūsma notiek tikai pa objekta TE organizācijas ceļiem.
+
+---
+
+## Kopsavilkums
+
+Elektriskais lādiņš ir protona pus-fāžu disbalansa radīts dinamiski uzturēts VEV H-3 līmeņa TE uzkrājums H0 Matricā ap matēriju, kas realizējas kā lokāla Tumšās enerģijas koncentrācija un caur TZ atrodas nosacītā dinamiskā līdzsvarā ar elektromagnētisko organizāciju.
+
+Elektriskais lādiņš un elektrība realizējas dažādās TE vidēs. Elektriskais lādiņš ir H-3 TE papildinājums Matricā un veido potenciāla starpību, savukārt elektrība ir organizēta H-3 TE plūsma objekta TE struktūrā.
+
+
+
 
 # Elektrība, magnētisms un elektromagnētiskā indukcija
 
