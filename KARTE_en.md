@@ -1302,35 +1302,68 @@ All processes
 
 # Electromagnetic Wave (EM Wave)
 
-### Definition
+## Definition
 
-An electromagnetic wave (EM wave) is a cyclic organizational mode of H-3 and H-2 Transitory Energy (TE) flows, in which both flows continuously reorganize with one another and realize energy transfer.
+An electromagnetic wave (EM wave) is a self-sustaining cyclic organizational regime of H-3 and H-2 Transit Energy (TE) flows in which both flows continuously reorganize one another while transferring energy.
 
-An EM wave is not an independent form of energy and is not a fundamental force. It is a dynamic H-3 ↔ H-2 flow process that can manifest in different TE environments.
+An EM wave is neither an independent form of energy nor a fundamental force. It is a dynamic H-3 ↔ H-2 process realized through electromagnetic induction and may exist in different TE environments.
 
-An EM wave is characterized by a very broad range of realizable frequencies. Therefore, it can exist in many energetic configurations and adapt to different organizational conditions.
+EM waves possess an exceptionally broad frequency range, allowing them to exist in many energetic configurations and adapt to different organizational environments.
 
-Depending on the environment in which it manifests, an EM wave may exist:
+Depending on the surrounding medium, an EM wave may exist:
 
-- as a collective organizational mode of Matrix channel flows;
-- as a local closed organization within the spherical space of an electron.
+- as a collective organizational regime of Matrix channel flows;
+- as a localized closed organization within the spherical space of an electron.
 
 ---
 
 ## Principle of Organization
 
-An EM wave is always formed by:
+Every EM wave consists of:
 
 - H-3 flows;
 - H-2 flows;
-- their cyclic mutual reorganization;
-- the realization of complete 0° and 180° half-phases.
+- their continuous cyclic reorganization;
+- complete realization of the 0° and 180° half-phases.
 
-An EM wave has no single mandatory geometric form. Its specific manifestation is determined by the environment in which the H-3 ↔ H-2 organization occurs.
+An EM wave has no mandatory geometric shape.
 
-Within the Matrix environment, an EM wave manifests as a reorganization of channel flows.
+Its specific organization is determined by the environment in which H-3 ↔ H-2 cyclic reorganization occurs.
 
-Within an electron, an EM wave manifests as a closed spherical circulation.
+---
+
+## Principle of Self-Sustainment
+
+An EM wave exists only while H-2 and H-3 flows continuously induce one another.
+
+If their mutual induction is interrupted, the EM wave organization collapses.
+
+---
+
+## Principle of Medium
+
+The organizational mechanism of an EM wave is universal, whereas its realization depends on the surrounding TE organization.
+
+Within the Matrix, an EM wave is realized as an organized reconfiguration of channel flows.
+
+Within an electron, it is realized as a closed spherical circulation of H-2 and H-3 flows.
+
+---
+
+## Principle of Collectivity
+
+An EM wave is not an independent H-2 or H-3 flow.
+
+It is a collective organizational regime in which the existence of each flow continuously depends on the other.
+
+---
+
+## Summary
+
+An electromagnetic wave is a self-sustaining cyclic organizational regime of H-2 and H-3 TE flows maintained through continuous electromagnetic induction.
+
+Depending on the surrounding environment, it may exist either as a collective organization of Matrix channel flows or as a closed spherical organization within the TE structure of an electron.
+
 
 
 
