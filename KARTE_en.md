@@ -506,11 +506,11 @@ A direction change may be expressed as changes in TE flow quantity, distribution
 
 # Qn Hierarchy
 
-### Definition
+## Definition
 
-Qn is a collective Transit Energy (TE) organizational cycle in which a specific logic of energy exchange is realized and particular organizational regularities become observable.
+Qn is a collective organization level of Transit Energy (TE) in which a specific energy exchange logic is realized and characteristic organizational regularities become observable.
 
-Qn is not a physical object, not a separate flow, and not a spatially closed boundary.
+Qn is neither a physical object, nor an individual flow, nor a spatially enclosed boundary.
 
 Qn is a logical space for describing collective TE processes.
 
@@ -522,7 +522,7 @@ Qn is a logical space for describing collective TE processes.
 
 Each Qn level realizes a specific collective energy exchange regime.
 
-Qn emerges from the interaction of a very large number of lower-level flows and cycles.
+A Qn level emerges from the interaction of a very large number of lower-level flows and cycles.
 
 ---
 
@@ -530,9 +530,9 @@ Qn emerges from the interaction of a very large number of lower-level flows and 
 
 Qn does not define spatial boundaries that energy must obey.
 
-Qn defines a logical space in which it is possible to identify:
+Instead, it defines a logical space in which it is possible to identify:
 
-- periodicities of energy exchange;
+- periodic energy exchange;
 - collective resonance regimes;
 - stable organizational regularities;
 - transitions between organizational regimes.
@@ -541,25 +541,33 @@ Qn defines a logical space in which it is possible to identify:
 
 ### 3. Principle of Hierarchy
 
-Each subsequent Qn level realizes a new collective organizational regime.
+Each successive Qn level realizes a new collective organization regime.
 
 Q(n+1) is not an isolated copy of Qn.
 
-Q(n+1) uses the organizational regularities of lower levels and realizes them in a new collective regime.
+Q(n+1) uses the organizational regularities of lower levels and realizes them within a new collective regime.
+
+Each Q(n+1) level is supported by the collective organization of the lower Qn levels.
+
+If the lower-level organization cannot sustain stable energy exchange, the higher Qn regime cannot persist over time.
 
 ---
 
 ### 4. Principle of Self-Similarity
 
-Similar energy exchange regularities can be realized across different Qn levels.
+Similar energy exchange regularities may occur at different Qn levels.
 
-What changes:
+The following change:
 
 - the scale of collective organization;
 - the intensity of energy exchange;
 - the observable manifestations.
 
-The fundamental organizational principles remain invariant.
+The fundamental organizational principles remain unchanged.
+
+Self-similarity does not imply identical structures.
+
+The organizational principles are repeated, while the specific physical manifestations are determined by the collective organization regime of the corresponding Qn level.
 
 ---
 
@@ -567,19 +575,32 @@ The fundamental organizational principles remain invariant.
 
 Qn levels are not directly observable objects.
 
-Their existence can be inferred indirectly from:
+Their existence can only be inferred indirectly from:
 
 - periodic structures;
 - resonance regimes;
 - stable energy configurations;
-- repetition of collective processes across different scales.
+- recurring collective processes across different scales.
+
+Qn levels serve as an organizational model for describing observable processes rather than directly measurable physical objects.
 
 ---
 
-### Summary
+### 6. Principle of Organizational Transition
 
-Qn is a logical space of collective TE organization in which a specific periodicity of energy exchange and stable organizational regularities become observable. Qn is neither a physical boundary nor a separate flow, but a collective energy exchange regime that forms hierarchically self-similar organizations across different scales.
+A new Qn level does not emerge automatically from an increase in energy.
 
+It appears only when collective energy exchange reaches a stable organizational regime with reproducible regularities.
+
+Therefore, Qn boundaries are determined by organizational stability rather than by an absolute amount of energy.
+
+---
+
+## Summary
+
+Qn is the logical space of collective TE organization in which a specific energy exchange periodicity is realized and stable organizational regularities become observable.
+
+Qn is not a physical boundary or an individual flow, but a collective organizational level that forms hierarchically self-similar energy exchange regimes across different scales.
 
 
 # H+1 Modulation Principle
