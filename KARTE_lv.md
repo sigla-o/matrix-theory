@@ -1187,15 +1187,26 @@ Elektriskais lādiņš un elektrība realizējas dažādās TE vidēs. Elektrisk
 
 ## Elektrība
 
-Elektrība ir organizēta H-3 Tranzīta Enerģijas (TE) plūsma, kas izplatās pa savstarpēji saistītu atomu Stiprā spēka zonām un pakļaujas TE Qn plūsmu organizācijas loģikai.
+Elektrība ir organizēta H-3 Tranzīta Enerģijas (TE) plūsma, kuru realizē elektriskā potenciāla starpība un kas izplatās pa savstarpēji saistītu atomu Stiprā spēka zonām, pakļaujoties TE Qn plūsmu organizācijas loģikai.
 
 Elektrība nav elektronu plūsma un nav fundamentāli atkarīga no elektronu kustības. Tās pamatā ir H-3 TE plūsmu organizācija atomu kolektīvajā struktūrā.
 
-Daudzu atomu sistēmās Stiprā spēka zonas var savstarpēji savienoties un veidot nepārtrauktus H-3 TE plūsmu ceļus:
+Elektroni var piedalīties H-3 plūsmas organizācijā, taču tie nav pašas elektrības nesēji.
+
+Daudzu atomu sistēmās Stiprā spēka zonas var savstarpēji savienoties un veidot nepārtrauktus H-3 TE plūsmu ceļus.
+
+Elektriskais potenciāls
+
+→ H-3 TE plūsma
+
+→ elektrība
 
 Atomu ķēde
+
 → savienotas Stiprā spēka zonas
+
 → H-3 TE plūsma
+
 → elektrība
 
 Dažās specifiskās sistēmās, piemēram, pusvadītājos, elektronu organizācija var ietekmēt H-3 plūsmu konfigurāciju, taču elektrības pamatmehānisms saglabājas H-3 TE plūsmas organizācija.
@@ -1209,9 +1220,14 @@ Magnētisms ir kolektīvs H-2 Tranzīta Enerģijas (TE) plūsmu organizācijas r
 Magnētisms nav neatkarīga enerģijas forma un nav primārs fundamentāls spēks.
 
 Elektrība
+
 → H-2 plūsmu ierosināšana
+
 → magnētiskās līnijas
+
 → magnētisms
+
+Magnētiskās līnijas raksturo H-2 TE organizāciju, nevis atsevišķu enerģijas plūsmu.
 
 Magnētisms var rasties:
 
@@ -1226,33 +1242,55 @@ Abos gadījumos magnētisms ir H-2 plūsmu organizācijas sekas, ko inducē H-3 
 
 Elektromagnētiskā indukcija ir savstarpējs H-2 un H-3 TE plūsmu organizācijas process, kurā vienas plūsmas konfigurācijas izmaiņas izraisa otras plūsmas reorganizāciju.
 
-EM indukcija realizējas, izmantojot H-2 spēju reorganizācijas laikā izspiest H-3 enerģētiski vispieejamākajā realizācijas vidē.
+EM indukcija realizējas, H-2 plūsmām reorganizējot H-3 plūsmu enerģētiski vispieejamākajā konfigurācijā.
 
-H-3 plūsmas izmaiņas
+H-3 plūsmu izmaiņas
+
 → H-2 plūsmu reorganizācija
 
 H-2 plūsmu izmaiņas
+
 → H-3 plūsmu reorganizācija
 
 Indukcija realizē savstarpēju saiti starp elektrību un magnētismu un ļauj veidoties pašuzturošām elektromagnētiskām sistēmām.
 
 ---
 
-### Kopsavilkums
+## Kolektīvās organizācijas princips
+
+Elektrība, magnētisms un elektromagnētiskā indukcija nav trīs neatkarīgas parādības.
+
+Tās ir viena un tā paša elektromagnētiskā Tranzīta Enerģijas organizācijas režīma savstarpēji saistītas izpausmes.
+
+Katra no tām apraksta atšķirīgu H-2 un H-3 TE organizācijas aspektu.
+
+---
+
+## Kopsavilkums
 
 Elektriskais lādiņš
+
 → H-3 uzkrājums
 
-H-3 plūsma
+Elektriskais potenciāls
+
+→ H-3 plūsma
+
 → elektrība
 
-H-2 plūsmu organizācija
+Elektrība
+
+→ H-2 plūsmu organizācija
+
 → magnētisms
 
-Savstarpēja H-2 un H-3 reorganizācija
+H-2 ↔ H-3 plūsmu reorganizācija
+
 → elektromagnētiskā indukcija
 
-Elektrība, magnētisms un elektromagnētiskā indukcija kopā veido vienotu elektromagnētisko (EM) TE organizācijas sistēmu.
+Visi procesi
+
+→ vienots elektromagnētiskais (EM) TE organizācijas režīms.
 
 
 
