@@ -173,30 +173,43 @@ H0 Horizontāles ietvaros teorija tieši aplūko līmeņus, sākot no **VEV H−
 Transformācijas zona vienlaikus nodrošina enerģijas akumulāciju un amortizāciju. Akumulācija notiek tikai smalkāku Vertikāles līmeņu virzienā, savukārt amortizācija stabilizē matērijas organizāciju un palielina tās noturību pret lokālām enerģētiskām svārstībām.
 
 
-4. ### Likumu invariance
-   - Vertikāles pamatlikumi ir vienādi visos tās līmeņos.
-   - Mainās tikai organizācijas mērogs un enerģijas formu izpausmes.
 
-### Saistība ar horizontālēm
+### 4. Likumu invariance
 
-**Horizontāle** ir konkrēta vertikāles vienību organizācijas un evolūcijas pakāpe.
+Vertikāles pamatlikumi ir invarianti visos tās līmeņos.
 
-- Horizontāles neeksistē neatkarīgi no vertikāles.
-- Tās rodas kā vertikāles stabilo enerģijas vienību organizācijas rezultāts.
+Mainās tikai enerģijas organizācijas mērogs, enerģētiskā koncentrācija un šo likumu izpausmes formas attiecīgajā Horizontālē.
+
+---
+
+### Saistība ar Horizontālēm
+
+**Horizontāle** ir konkrēta Vertikāles enerģijas vienību organizācijas un evolūcijas pakāpe.
+
+- Horizontāles neeksistē neatkarīgi no Vertikāles.
+- Tās rodas kā Vertikāles stabilo enerģijas vienību organizācijas rezultāts.
+- Katra Horizontāle darbojas pēc tiem pašiem pamatprincipiem, kuri ir spēkā visā Vertikālē.
+
+---
 
 ### Vertikāles hierarhijas likums
 
-> Horizontāle savā evolūcijā nevar apsteigt savu radītāju – nākamo augstāko (+1) horizontāli.
+> Horizontāle savā evolūcijā nevar apsteigt savu radītāju — nākamo augstāko (**H+1**) Horizontāli.
 
 Vertikāle nosaka:
+
 - iespējamās stabilās enerģijas formas;
 - iespējamos organizācijas līmeņus;
 - evolūcijas robežas;
-- mijiedarbības hierarhiju starp horizontālēm.
+- mijiedarbības hierarhiju starp Horizontālēm.
+
+---
 
 ### Kopsavilkums
 
-> Vertikāle ir Visuma enerģijas cikliskās pašlīdzības hierarhija, bet horizontāles ir šīs hierarhijas lokālās organizācijas un evolūcijas stāvokļi.
+> **Vertikāle ir cikliska enerģiju organizācijas hierarhija, bet Horizontāles ir šīs hierarhijas lokālās organizācijas un evolūcijas stāvokļi.**
+
+Vertikāle nosaka kopējos organizācijas principus, savukārt Horizontāles nodrošina šo principu konkrēto izpausmi attiecīgajā enerģētiskajā mērogā.
 
 
 # I. Horizontāle (Visums H0)
