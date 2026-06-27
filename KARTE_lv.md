@@ -600,65 +600,82 @@ Qn ir kolektīvās TE organizācijas loģiskā telpa, kurā realizējas noteikta
 Qn nav fiziska robeža vai atsevišķa plūsma, bet kolektīvs organizācijas līmenis, kas veido hierarhiski pašlīdzīgus enerģijas apmaiņas režīmus dažādos mērogos.
 
 
-# H+1 modulācijas princips
+# H(n+1) modulācijas princips
 
-### Definīcija
+## Definīcija
 
-H+1 modulācija ir H+1 matricas radīta Tranzīta Enerģijas (TE) organizācijas modulācija, kas darbojas kā organizāciju selekcijas mehānisms.
+H(n+1) modulācija ir H(n+1) matricas radīta Tranzīta Enerģijas (TE) organizācijas modulācija, kas darbojas kā organizācijas selekcijas mehānisms.
 
 Tā ietekmē TE plūsmu organizāciju, slāpē lielāko daļu teorētiski iespējamo konfigurāciju un ļauj ilgstoši saglabāties tikai ierobežotam skaitam stabilu organizācijas režīmu.
+
+H(n+1) modulācija nepārnes enerģiju pati par sevi, bet ietekmē kolektīvās TE organizācijas veidošanos.
 
 ---
 
 ## Pamatprincipi
 
-### 1. H+1 matricas princips
+### 1. H(n+1) matricas princips
 
-H+1 modulācijas avots ir H+1 matrica.
+H(n+1) modulācijas avots ir H(n+1) matrica.
 
-Modulācija nav patstāvīgs spēks un nav neatkarīga Matricas īpašība. Tā rodas H+1 matricas iedarbības rezultātā un realizējas caur TE procesiem.
+Modulācija nav patstāvīgs spēks un nav neatkarīga Matricas īpašība. Tā rodas H(n+1) matricas iedarbības rezultātā un realizējas caur TE procesiem.
 
 ---
 
 ### 2. Modulācijas princips
 
-H+1 modulācija maina TE organizācijas iespēju telpu.
+H(n+1) modulācija maina TE organizācijas iespēju telpu.
 
 Tā neaptur TE plūsmas un nenosaka stingras robežas enerģijas kustībai, bet ietekmē to, kuri organizācijas režīmi spēj sasniegt un ilgstoši uzturēt līdzsvaru.
 
+Modulācija nemaina pašus TE pamatlikumus, bet selektīvi ietekmē to kolektīvo organizāciju.
+
 ---
 
-### 3. Objektu zoo princips
+### 3. Organizācijas daudzveidības princips
 
 Matrica teorētiski pieļauj ļoti lielu iespējamo objektu un procesu daudzveidību.
 
-Bez H+1 modulācijas varētu eksistēt ievērojami lielāks skaits alternatīvu stabilu konfigurāciju.
+Bez H(n+1) modulācijas varētu eksistēt ievērojami lielāks skaits alternatīvu stabilu konfigurāciju.
 
 ---
 
 ### 4. Selekcijas princips
 
-H+1 modulācija darbojas kā selektīvas slāpēšanas filtrs.
+H(n+1) modulācija darbojas kā selektīvas slāpēšanas filtrs.
 
 Tā:
 
 - slāpē lielāko daļu iespējamo organizācijas režīmu;
 - samazina stabilo konfigurāciju daudzveidību;
-- ļauj ilgstoši saglabāties tikai noteiktiem līdzsvarotiem režīmiem.
+- ļauj ilgstoši saglabāties tikai noteiktiem līdzsvarotiem režīmiem;
+- neveido jaunas organizācijas likumsakarības, bet atlasa no teorētiski iespējamajiem organizācijas režīmiem.
 
 ---
 
 ### 5. Stabilitātes princips
 
-Novērojamie stabilie objekti un procesi ir H+1 modulācijas atlasīto organizācijas režīmu sekas.
+Novērojamie ilgstoši stabilie objekti un procesi ir H(n+1) modulācijas atlasīto organizācijas režīmu sekas.
 
-To ilgstoša pastāvēšana nav automātiskas Matricas iespējamības rezultāts, bet H+1 matricas radītās TE modulācijas sekas.
+To ilgstoša pastāvēšana nav automātiskas Matricas iespējamības rezultāts, bet H(n+1) matricas radītās TE modulācijas sekas.
 
 ---
 
-### Kopsavilkums
+### 6. Lokalitātes princips
 
-H+1 modulācija ir H+1 matricas radīta TE organizācijas modulācija, kas darbojas kā organizāciju selekcijas mehānisms. Tā neierobežo enerģijas kustību ar stingrām robežām, bet selektīvi slāpē lielāko daļu teorētiski iespējamo organizācijas režīmu un nodrošina tikai neliela skaita ilgstoši stabilu konfigurāciju pastāvēšanu.
+H(n+1) modulācija neuzspiež vienotu organizācijas režīmu visai Matricai.
+
+Tā darbojas caur konkrētās H horizontāles lokālo TE organizāciju, kur veidojas atbilstoši kolektīvās organizācijas apstākļi.
+
+Tādēļ vienlaikus dažādās Matricas daļās var pastāvēt atšķirīgi organizācijas režīmi.
+
+---
+
+## Kopsavilkums
+
+H(n+1) modulācija ir H(n+1) matricas radīta TE organizācijas modulācija, kas darbojas kā organizācijas selekcijas mehānisms.
+
+Tā neierobežo enerģijas kustību ar stingrām robežām un nemaina TE pamatlikumus, bet selektīvi ietekmē kolektīvo organizāciju, slāpējot lielāko daļu teorētiski iespējamo organizācijas režīmu un ļaujot ilgstoši pastāvēt tikai nelielam skaitam stabilu konfigurāciju.
 
 
 
