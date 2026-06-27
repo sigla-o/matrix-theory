@@ -262,37 +262,36 @@ The modulation of Hn Transit Energy flows is, in turn, determined by the influen
 
 
 
-
 ## Matrix
 
-**Definition:** A Matrix is the first level of organization above Vertical Energy Units (VEUs), consisting of mutually organized VEU pairs and realizing Absolute Synchronization as an organized space.
+**Definition:** A Matrix is the first level of organization above the level of Vertical Energy Units (VEUs), in which VEUs organize into interconnected pairs and realize Absolute Synchronization as organized space. Identification number — ID1.
 
-## Fundamental Principles
+### Fundamental Principles
 
 1. **Principle of First Organization**
-   - VEUs constitute Level 0 of the Vertical and exist as individual energy units.
+   - VEUs constitute Vertical ID0 and exist as individual energy units.
    - The Matrix is the first level of organization in which VEUs organize into pairs.
 
-2. **Principle of Pairs**
-   - The minimal stable organizational unit of the Matrix is a VEU pair.
-   - A pair is the first form of organization capable of simultaneously sustaining two opposite flows.
+2. **Principle of Pairing**
+   - The smallest stable organizational unit of the Matrix is a VEU pair.
+   - A pair is the first organizational form capable of simultaneously sustaining two opposing flows.
 
 3. **Principle of Half-Phases**
-   - The opposite flows are sustained within the two images (pockets) of the pair.
-   - The simultaneous existence of these flows forms half-phases.
+   - Opposing flows are maintained within the two compartments (pockets) of a pair.
+   - The simultaneous existence of these flows realizes half-phases.
    - All higher forms of flow organization are derived from the organization of half-phases.
 
 4. **Principle of Synchronization**
-   - The Matrix realizes the Absolute Synchronization of VEUs as an organized space.
-   - The stability of the Matrix is determined by its ability to maintain local and global synchronization.
+   - The Matrix realizes the Absolute Synchronization of VEUs as organized space.
+   - The stability of the Matrix is determined by its ability to maintain both local and global synchronization.
 
 5. **Principle of Rotation**
-   - Matrix rotation arises from the organization of half-phases.
-   - Matrix rotation organizes Transit Energy (TE) flows and energy distribution.
+   - Matrix rotation is a natural property of half-phase organization.
+   - Matrix rotation organizes Transit Energy (TE) flows and their energy distribution.
 
 6. **Principle of Compatibility**
-   - All local regions of the Matrix are compatible with the overall rotational synchronization of the Matrix.
-   - If local synchronization is lost, the space becomes incompatible with the surrounding Matrix and may become isolated from it.
+   - All local regions of the Matrix remain compatible with the global rotational synchronization of the Matrix.
+   - If local synchronization is lost, the region loses compatibility with the surrounding Matrix and may become isolated from it.
 
   
 ## Channel
