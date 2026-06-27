@@ -914,11 +914,15 @@ This negative balance decreases proportionally to 1/r².
 
 ### 6. Principle of the Gravitational Constant
 
-The TE flow difference cannot decrease below the energy exchange of a single channel.
+The gravitational constant G is a fundamental property of Transit Energy.
 
-The minimum permanent energy exchange between parallel half-phase channels is determined by the invariant gravitational constant G.
+It characterizes the invariant energy exchange between parallel half-phase channels and exists independently of the presence of objects.
 
-G defines the minimum collective TE pressure transfer between objects and forms the foundation of the classical law of gravity.
+G is present in both the L0 and L1 TE flow regimes.
+
+Objects neither generate nor modify the gravitational constant.
+
+The gravitational effect emerges when objects reorganize the existing TE flow whose energy exchange is governed by the constant G.
 
 ---
 
