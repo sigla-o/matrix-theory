@@ -1369,52 +1369,135 @@ Depending on the surrounding environment, it may exist either as a collective or
 
 # Electron
 
-### Definition
+## Definition
 
-An electron is a realization of a closed electromagnetic wave in which H-3 and H-2 Transitory Energy (TE) flows form a self-sustaining spherical circulation and realize complete synchronization of the 0° and 180° half-phases.
+An electron is a stable closed realization of an electromagnetic wave in which H-3 and H-2 Transit Energy (TE) flows form a self-sustaining spherical circulation while realizing complete 0° and 180° half-phase synchronization.
 
-Unlike a free electromagnetic wave, the electron's electromagnetic wave does not propagate through Matrix space. Instead, it continuously circulates along a closed spherical trajectory within the electron's internal space.
+Unlike a free electromagnetic wave, the electron's electromagnetic wave does not propagate through the Matrix. Instead, it continuously circulates along a closed spherical trajectory within the electron's internal space.
 
-The electron's closed electromagnetic wave is characterized by a very narrow range of stable frequencies. This limitation provides the electron with high stability and determines its ability to accumulate and release energy only within limited and mutually compatible states.
+The identity of an electron is determined not by its instantaneous energy state but by the preservation of its closed H-3 ↔ H-2 electromagnetic organization.
 
-The electron's electromagnetic wave continuously tends to maintain energetic compatibility with the organization of its surrounding environment. As energy accumulates, the frequency and internal energetic state of the closed EM wave change.
+---
 
-When a critical frequency and energetic load threshold is reached, the closed electromagnetic wave can no longer sustain additional energy within its stable frequency range.
+## Principle of Frequency Stability
 
-At this point, the excess energy of a complete Qn cycle is expelled from the electron's spherical space and manifests as a photon.
+The electron's closed electromagnetic wave exists only within a very narrow range of stable frequencies.
 
-After releasing the excess energy, the electron transitions into a new state of energetic equilibrium.
+This range provides the electron with its exceptional stability and limits its ability to accumulate and release energy to a finite set of mutually compatible states.
+
+---
+
+## Principle of Energy Accumulation
+
+The electron continuously attempts to maintain energetic compatibility with the organization of its surrounding environment.
+
+As energy accumulates, both the frequency of the closed electromagnetic wave and the electron's internal energetic state change.
+
+Energy accumulation
+
+→ increase of the closed EM wave frequency
+
+→ increase of internal energy
+
+→ critical frequency and energy threshold.
+
+---
+
+## Principle of Photon Emission
+
+When the critical frequency and energy threshold is reached, the closed electromagnetic wave can no longer maintain additional energy within its stable frequency range.
+
+At this point, the excess energy of one complete Qn cycle is expelled from the electron's spherical space and is realized as a photon.
+
+The electron does not lose its organizational identity.
+
+Only the excess energy corresponding to one complete Qn cycle is released.
+
+After releasing the excess energy, the electron reaches a new energetic equilibrium state.
+
+---
+
+## Summary
+
+An electron is a stable closed H-3 ↔ H-2 electromagnetic organization realized as a spherical circulation that preserves its identity as long as its closed organization remains intact.
+
+As the electron accumulates energy, the frequency of its electromagnetic organization increases. Once a critical threshold is reached, the excess energy of one complete Qn cycle is emitted as a photon while the electron itself remains structurally unchanged.
 
 
 
 # Photon
 
-### Definition
+## Definition
 
-A photon is an H-3 ↔ H-2 electromagnetic formation of free energy that arises when the closed electromagnetic wave of an electron reaches a critical energy and frequency threshold and the excess energy of a complete Qn cycle is expelled from the electron's spherical space.
+A photon is an open H-3 ↔ H-2 electromagnetic energy organization created when the closed electromagnetic wave of an electron reaches a critical energy and frequency threshold, causing the excess energy of one complete Qn cycle to be expelled from the electron's spherical space.
 
-A photon is not a closed electromagnetic object and is not an electron.
+A photon is neither a closed electromagnetic object nor an electron.
 
-A photon preserves the principle of H-3 ↔ H-2 electromagnetic organization, but it manifests as an open free-energy process.
+It preserves the same H-3 ↔ H-2 electromagnetic organizational principle as the electron but is realized as an open free-energy process.
 
 ---
 
-## Principle of Formation
+## Principle of Origin
 
-An electron accumulates energy within the organization of its closed electromagnetic wave.
+The electron accumulates energy within its closed electromagnetic-wave organization.
 
-energy accumulation
-→ frequency increase
+Energy accumulation
+
+→ increase of frequency
+
 → critical energy and frequency threshold
-→ expulsion of the excess energy of a complete Qn cycle
+
+→ expulsion of the excess energy of one complete Qn cycle
+
 → photon.
 
-The formation of a photon is a process of restoring the electron's energetic balance.
+The creation of a photon is the process through which the electron restores its energetic balance.
 
-A photon does not form an electron and does not automatically transform back into a closed electromagnetic wave.
+---
 
-However, under specific conditions of energetic and phase compatibility, a photon may be absorbed and induce a reorganization of the electron's closed electromagnetic wave, moving the electron into a new energetic state.
+## Principle of Cyclic Realization
 
+A photon does not propagate through Matrix channels as a passive H-3 ↔ H-2 flow.
+
+Instead, its electromagnetic organization cyclically repeats the electron's excess-energy release process at every Matrix channel transition.
+
+Each cycle consists of three successive stages:
+
+- loading the channel transition region with excess free energy;
+- energetic stabilization of the overlap region;
+- release of the excess energy, restoring local energetic equilibrium.
+
+This process is continuously repeated across many Matrix channels and through multiple Qn cycles, preserving the photon's electromagnetic organization throughout its propagation.
+
+The photon continuously maintains complete energetic balance with the Matrix.
+
+The only significant exception is the Qn phase-direction (FV) imbalance produced by gravity, which locally modifies the available energy balance.
+
+Since complete energetic balance is essential for the photon's organization, it is forced to change its propagation trajectory within FV imbalance regions in order to preserve the stability of its H-3 ↔ H-2 organization.
+
+---
+
+## Principle of Absorption
+
+A photon does not create an electron and does not automatically transform back into a closed electromagnetic wave.
+
+However, under specific energetic and phase-compatible conditions, a photon may be absorbed and trigger the reorganization of the electron's closed electromagnetic wave.
+
+A photon is not simply inserted into the electron.
+
+Instead, its electromagnetic organization becomes integrated into the electron's closed organization, and the photon's energy becomes part of the electron's new equilibrium state.
+
+---
+
+## Summary
+
+A photon is an open H-3 ↔ H-2 electromagnetic energy organization generated during the restoration of an electron's energetic balance.
+
+Throughout its propagation, it continuously repeats its organizational cycle at Matrix channel transitions, maintaining complete energetic balance with the surrounding Matrix.
+
+The Qn phase-direction imbalance produced by gravity disturbs this local energy balance and causes changes in the photon's trajectory.
+
+A photon preserves the electromagnetic organizational principle but does not form the closed spherical circulation characteristic of an electron.
 
 
 
