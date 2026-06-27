@@ -260,14 +260,16 @@ H(n−1) Matricas lielumu nosaka enerģētiskais balanss starp H(n−1) Matricu 
 
 Savukārt Hn TE plūsmu modulāciju nosaka H(n+1) Horizontāles ietekme.
 
+
+
 ## Matrica
 
-**Definīcija:** Matrica ir pirmais organizācijas līmenis virs Vertikālajām Enerģijas Vienībām (VEV), kas sastāv no savstarpēji organizētiem VEV divniekiem un realizē Absolūto sinhronizāciju kā organizētu telpu. Identidikācijas numurs - ID1.
+**Definīcija:** Matrica ir pirmais organizācijas līmenis virs Vertikālo Enerģijas Vienību (VEV) līmeņa, kurā VEV organizējas savstarpēji saistītos divniekos un realizē Absolūto sinhronizāciju organizētas telpas veidā. Identifikācijas numurs — ID1.
 
 ### Pamatprincipi
 
 1. **Pirmās organizācijas princips**
-   - VEV ir Vertikāles ID0. līmenis un eksistē kā enerģijas vieninieki.
+   - VEV ir Vertikāles ID0 līmenis un eksistē kā enerģijas vieninieki.
    - Matrica ir pirmais organizācijas līmenis, kurā VEV organizējas divniekos.
 
 2. **Divnieku princips**
@@ -276,7 +278,7 @@ Savukārt Hn TE plūsmu modulāciju nosaka H(n+1) Horizontāles ietekme.
 
 3. **Pus-fāžu princips**
    - Pretējās plūsmas tiek uzturētas divnieka divās tēlpās (kabatās).
-   - Šo plūsmu vienlaicīga eksistence veido pus-fāzes.
+   - Šo plūsmu vienlaicīga eksistence realizē pus-fāzes.
    - Visas augstākās plūsmu organizācijas formas ir atvasināmas no pus-fāžu organizācijas.
 
 4. **Sinhronizācijas princips**
@@ -284,12 +286,12 @@ Savukārt Hn TE plūsmu modulāciju nosaka H(n+1) Horizontāles ietekme.
    - Matricas stabilitāti nosaka tās spēja uzturēt lokālu un globālu sinhronizāciju.
 
 5. **Rotācijas princips**
-   - Matricas rotācija rodas no pus-fāžu organizācijas.
+   - Matricas rotācija ir pus-fāžu organizācijas dabiska īpašība.
    - Matricas rotācija nodrošina Tranzīta Enerģijas (TE) plūsmu organizāciju un enerģijas sadali.
 
 6. **Saderības princips**
    - Visas lokālās Matricas daļas ir saderīgas ar kopējo Matricas rotācijas sinhronizāciju.
-   - Lokāla sinhronizācijas zuduma gadījumā telpa kļūst nesaderīga ar apkārtējo Matricu un var tikt izolēta.
+   - Lokāla sinhronizācijas zuduma gadījumā telpa zaudē saderību ar apkārtējo Matricu un var tikt izolēta no tās.
 
 
 ## Kanāls
