@@ -212,19 +212,19 @@ Vertikāle nosaka:
 Vertikāle nosaka kopējos organizācijas principus, savukārt Horizontāles nodrošina šo principu konkrēto izpausmi attiecīgajā enerģētiskajā mērogā.
 
 
-# I. Horizontāle (Visums H0)
+# I. Horizontāle (Universe H0)
 
 ### Definīcija
-Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību organizēta matrica, kurā notiek diskrēta enerģijas vienību evolūcija pa secīgiem ID līmeņiem, kuru apraksts jau ir Ievadā.
+Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību matrica, kurā notiek diskrēta evolūcija pa secīgiem ID līmeņiem, kuru apraksts dots Ievadā.
 
 ## Pamatprincipi
 
 1. **Sekundaritāte**
    - Horizontāle neeksistē neatkarīgi no Vertikāles.
-   - Tā rodas no augstākas (+1) Horizontāles kritiskas enerģijas organizācijas.
+   - Tā rodas augstākas (+1) Horizontāles kritiskas enerģijas organizācijas rezultātā.
 
-2. **Viena tipa matrica**
-   - Visiem konkrētās Horizontāles evolūcijas līmeņiem ir viena un tā pati Hn matrica.
+2. **Vienota matrica**
+   - Visi konkrētās Horizontāles evolūcijas līmeņi izmanto vienu un to pašu Hn matricu.
    - Evolūcijas līmeņu maiņa nenozīmē matricas maiņu.
 
 3. **Diskrēta evolūcija**
@@ -236,7 +236,7 @@ Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību organizēta m
    - Vairāki stabili objekti var piederēt vienam un tam pašam evolūcijas līmenim.
 
 5. **Hierarhijas princips**
-   - Horizontāle savā evolūcijā nevar apsteigt savu radītāju – nākamo augstāko (+1) Horizontāli.
+   - Horizontāle pilnā evolūcijas ciklā nevar apsteigt savu radītāju — nākamo augstāko (+1) Horizontāli.
    - Jauna Horizontāle var rasties tikai smalkākajā virzienā:
      `Hn → H(n−1)`.
 
