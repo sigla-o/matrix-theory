@@ -2086,61 +2086,64 @@ A molecule is a stable collective TE organization of multiple atoms in which the
 
 A molecule is not a mechanical sum of atoms but a new level of collective TE organization with its own resonance modes, energetic configurations, and emergent properties.
 
-
 # Macromolecule
 
-### Definition
+## Definition
 
-A macromolecule is a stable, highly complex molecular organization of Transit Energy (TE), in which a large number of atoms and chemical bonds realize a long-term synchronized collective resonance capable of maintaining, storing, and transforming structured information.
+A macromolecule is a stable high-complexity molecular Transit Energy (TE) organization in which the entire system realizes multi-level synchronization of VEU H-2 and VEU H-3 flows, chemical bonds, molecular resonances, electron configurations, and half-phase balancing.
 
-A macromolecule is not merely a large molecule.
+A macromolecule is not simply a large molecule.
 
-It is a new level of collective TE organization in which long-term structural memory, adaptive reorganization, and the ability to realize multilevel resonance regimes emerge.
+It represents a new level of collective TE organization in which structural memory, adaptive self-organization, and long-term multi-level resonance regimes emerge.
 
 ---
 
-## Fundamental Principles
+# Fundamental Principles
 
-### 1. Complex Organization Principle
+## 1. Principle of Complex Organization
 
 A macromolecule exists only when:
 
 - molecular resonances are mutually compatible;
-- chemical bonds form a long-term stable structure;
-- H-2 and H-3 flows realize multilevel synchronization;
-- energetic imbalances are collectively balanced.
+- chemical bonds form a stable collective organization;
+- VEU H-2 and VEU H-3 flows realize multi-level synchronization;
+- direct and feedback VEU H-3 modulations are mutually compatible;
+- half-phase imbalances are collectively balanced.
 
 The stability of a macromolecule is determined by the collective organization of the entire system.
 
 ---
 
-### 2. Structural Memory Principle
+## 2. Principle of Structural Memory
 
 The spatial organization of a macromolecule preserves information about:
 
-- bond configurations;
+- chemical bond configurations;
 - resonance regimes;
 - energetic states;
 - previously realized organizational structures.
 
-Structure becomes a carrier of information.
+Its structure becomes the information carrier of the collective TE organization.
 
 ---
 
-### 3. Adaptive Reorganization Principle
+## 3. Principle of Adaptive Reorganization
 
-A macromolecule continuously:
+A macromolecule is not a static object.
+
+It continuously:
 
 - adapts its resonance regimes;
 - redistributes energetic loads;
 - reorganizes local structures;
-- preserves overall stability.
+- balances half-phase imbalances;
+- maintains collective synchronization.
 
 A macromolecule is a dynamically adaptive TE organization.
 
 ---
 
-### 4. Multilevel Resonance Principle
+## 4. Principle of Multi-Level Resonance
 
 Within a macromolecule, the following operate simultaneously:
 
@@ -2149,35 +2152,56 @@ Within a macromolecule, the following operate simultaneously:
 - molecular resonances;
 - collective structural resonances.
 
-Each level influences the others.
+All resonance levels are mutually coupled and continuously influence one another.
 
 ---
 
-### 5. Information Organization Principle
+## 5. Principle of Information Organization
 
-The organization of a macromolecule can:
+A macromolecular organization can:
 
 - store structured information;
-- realize selective reactions;
+- perform selective responses;
 - reproduce specific resonance regimes;
 - transfer organizational principles to other systems.
 
-Information becomes a property of collective TE organization.
+Information is an emergent property of collective TE organization.
 
 ---
 
-### 6. Hierarchy Principle
+## 6. Principle of Self-Organization
 
-A macromolecule creates a new organizational level above the molecule.
+The structure of a macromolecule is not predetermined.
+
+It continuously self-organizes in response to molecular resonance, chemical bond organization, electron localization, and modulation of the surrounding TE environment.
+
+A stable macromolecule is a dynamic equilibrium state of collective self-organization.
+
+---
+
+## 7. Principle of Hierarchy
+
+A macromolecule creates a new level of collective organization.
 
 Nucleons
 
-→ atom  
-→ chemical bond  
-→ molecule  
-→ macromolecule.
+↓
 
-Each successive level:
+atom
+
+↓
+
+chemical bond
+
+↓
+
+molecule
+
+↓
+
+macromolecule.
+
+Each successive organizational level:
 
 - preserves the organization of previous levels;
 - realizes new collective resonance regimes;
@@ -2185,10 +2209,11 @@ Each successive level:
 
 ---
 
-### Summary
+## Summary
 
-A macromolecule is a stable, highly complex TE organization in which a large number of atoms and chemical bonds realize a multilevel collective resonance capable of maintaining, storing, and transforming structured information, thereby forming the foundation for self-organizing and self-reproducing systems.
+A macromolecule is a stable high-complexity collective TE organization in which the entire system realizes multi-level synchronization of VEU H-2 and VEU H-3 flows, chemical bonds, molecular resonances, electron configurations, and half-phase balancing.
 
+A macromolecule is not merely a large molecule but a new level of collective TE organization characterized by structural memory, adaptive self-organization, and emergent information-processing properties that provide the foundation for self-organizing and self-reproducing systems.
 
 
 # Life
