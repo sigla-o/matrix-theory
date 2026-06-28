@@ -36,6 +36,15 @@ Pašreizējā izpratnē mūsu Visums savā **IDn** evolūcijas stāvoklī atroda
 
 Turpmākajās nodaļās tiek definēti un detalizēti aprakstīti procesi un jēdzieni, kas tieši vai netieši raksturo mūsu Horizontāli (H0) un tās vietu Vertikāles enerģiju hierarhijā.
 
+> [!NOTE]
+> ## Terminoloģija
+>
+> Šajā dokumentā izmantotajiem terminiem ir nozīme, kas definēta šīs teorijas ietvaros. Daži termini var pilnībā vai daļēji atšķirties no to vispārpieņemtās nozīmes fizikā vai citās zinātņu nozarēs.
+>
+> Lai nodrošinātu vienotu teorijas interpretāciju, pirms dokumenta lasīšanas ieteicams iepazīties ar **Pielikumu: Būtiskākās definīcijas**, kurā apkopoti teorijā izmantotie termini un to skaidrojumi.
+>
+> Šī dokumenta ietvaros par noteicošajām uzskatāmas teorijā sniegtās definīcijas.
+
 
 
 # MATRICAS TEORIJAS LOĢISKĀ KARTE
@@ -2367,44 +2376,73 @@ Dzīvība nav īpaša matērijas forma, bet jauns kolektīvās TE organizācijas
 
 
 
-### PIELIKUMS: Būtiskākās definīcijas
+# Pielikums: Būtiskākās definīcijas
 
-| Termins | Definīcija |
-|---|---|
-| Visuma matrica | Matrica ar 10⁻³⁵ m soli, kas veido mums zināmo telpu |
-| Protona iekšējā matrica | Matrica ar 10⁻⁵⁵ m soli, kas atrodas protona iekšienē |
-| Transformācijas zona (TZ) | Robežslānis starp abām matricām; bezmatricas zona, fāzes filtrs un enerģijas regulators |
-| TE plūsma (10⁻⁵⁵ m) | Vienīgā brīvā plūsma Visuma matricā |
-| Stiprā spēka plūsma (10⁻⁷⁵ m) | Protona iekšējās 10⁻⁷⁵ m plūsmas turpinājums Visuma matricā |
-| Protona lielā TE plūsma (10⁻⁷⁵ m) | Plūsma, kas iziet no protona matricas caur TZ un kļūst par Stipro spēku |
-| Protona mazā TE plūsma (10⁻⁹⁵ m) | Plūsma, kas primāri darbojas protona iekšienē; var iziet ārpus, bet ar niecīgu ietekmi |
-| L0 režīms | Matricas fona līmenis — statisku lauku tīkls, ko veido no plūsmām atbrīvoti objekti opozīcijā |
-| L1 režīms | Matērijas inducēts, polarizēts statiskais lauks ar elektrisko potenciālu |
-| Q1 | Viens pilns matricas punkta rotācijas periods |
-| Qn | Augstāks organizācijas līmenis, kas satur zemākos Qn |
-| FV parametrs | Fāzes-virziena parametrs, kas nosaka TE plūsmas spiediena sadalījumu un ciklisko bilanci |
-| Elektrība | Lādiņu (10⁻⁷⁵ m) plūsma, kuras bilanci uztur vertikāle caur L1 lauku, reaģējot uz potenciālu starpību |
-| Elektrons | Divu pus-fāžu noslēgta sfēra (10⁻⁷⁵ m × 10⁻⁵⁵ m); horizontāls kondensators |
-| Neitrīno | Elektrona analogs smalkākā izskatā (10⁻⁹⁵ m × 10⁻⁷⁵ m); praktiski neredzams |
-| Neitrons | Modificēts protona stāvoklis ar iekšēju 10⁻⁹⁵ m × 10⁻⁷⁵ m konfigurāciju; imitācijas līmeņa nesējs kodolā |
-| Monolītais objekts | Melnais caurums — vienots protona matricas reģions, absolūti necaurlaidīgs TE plūsmai |
-| Daudz-protonu objekts | Planēta, zvaigzne — matērijas kopa ar daļēji caurlaidīgu struktūru |
-| Notikumu horizonts | 180° Qn deformācijas robeža, pie kuras fotons nespēj pamest objektu |
-| Melnais caurums | Viens ļoti liels protons — vienots objekts, nevis matērijas kolekcija |
-| Gravitācija | TE plūsmas spiediena disbalanss, ko rada protons kā šķērslis |
-| G | Gravitācijas konstante — divu paralēlu vienvirziena kanālu integrālā asimetrija, kas nosaka spēka mērogu |
-| 1/r² likums | FV cikliskā atskaites bilance, kas izriet no ģeometriskās izkliedes un 10²⁰ kanālu optimālā ceļa |
-| Tumšā enerģija | Statiski enerģētiskie lauki (L0, L1... Ln), ko veido no plūsmām atbrīvoti objekti opozīcijā |
-| Tumšā matērija | L1 statiskā lauka koncentrēta izpausme ap matēriju — TZ burbulis |
-| Inerce | Plūsmu pretestība pret kustības stāvokļa izmaiņām; protonam — iekšējās matricas latence, elektronam — plūsmu pārmantojums |
-| Vājā mijiedarbība | Iekšējās modulācijas izpausme, kas noved pie enerģijas atbrīvošanas divās pus-fāzēs |
-| Absolūtais laiks | Vertikāles noteikts, nemainīgs Q1 ciklu ritējums |
-| Vertikāle | Eksponenciālo līmeņu hierarhija ar 10²⁰ soli; universālā sinhronizācijas ass; zināms tikai fragments |
-| Dvēsele | Vertikāls organizācijas līmeņa kontrolieris, kas pieder Dzīvības hierarhijai |
-| EM lauks | Atoma iekšējās plūsmu vides precīzs nospiedums uz Visuma TE plūsmu |
-| Orbitāles | Divu dominanču pārejas rezonanses mezgli — diskrētas Visuma TE plūsmas cirkulācijas ap protonu |
-| Fotons | Organizētā brīvā TE enerģija, kas papildina kanāla bilanci no L0 |
-| EM vilnis | Kanālu organizētās TE plūsmas rezonanse, kas patērē kanāla enerģiju savai izplatībai |
-| Sfēriskais izliekums | Matricas globālā topoloģija, kas rada 10²⁰ soļu fāžu nobīdi starp pus-fāzēm |
-| Antimatērijas zonas | Lokāli izliekuma variāciju apgabali, kuros antimatērija var pastāvēt kvazi-stabili |
-| Kodols | Nākamais protona pastāvēšanas līmenis — mūsu Visuma imitācija |
+## 1. Pamatjēdzieni
+
+| Termins | Īss skaidrojums | Līmenis / Atrašanās | Loma teorijā | Saistītie termini | Pilnā definīcija |
+|----------|-----------------|---------------------|---------------|-------------------|------------------|
+| Mūžības cikls | Universāls enerģijas organizācijas cikls. | Visa teorija | Kopējais teorijas ietvars. | Vertikāle, Horizontāle | Sk. "Mūžības cikls" |
+| Vertikāle | Enerģijas organizācijas hierarhija. | Hierarhija | Nosaka mērogu. | VEV, Horizontāle | Sk. "Vertikāle" |
+| Horizontāle | Vienas Vertikāles organizācijas līmenis. | Vertikāle | Organizē viena mēroga objektus. | Vertikāle, TZ | Sk. "Horizontāle" |
+| Pamat-Horizontāle | Horizontāle, no kuras iespējama nākamās Vertikāles veidošanās. | Vertikāle | Evolūcijas atbalsta līmenis. | Vertikāle, VEV | Sk. "Horizontāle" |
+| Transformācijas zona (TZ) | Robežzona starp Horizontālēm. | Starp Horizontālēm | Nodrošina pārejas. | Horizontāle | Sk. "Transformācijas zona" |
+| Evolūcija | Enerģijas organizācijas secīga attīstība. | Visa teorija | Veido ID hierarhiju. | ID, Vertikāle | Sk. "Evolūcija" |
+
+---
+
+## 2. Evolūcijas termini
+
+| Termins | Īss skaidrojums | Līmenis / Atrašanās | Loma teorijā | Saistītie termini | Pilnā definīcija |
+|----------|-----------------|---------------------|---------------|-------------------|------------------|
+| VEV | Minimālā Vertikāles enerģijas vienība. | ID0 | Pamats matricas veidošanai. | ID0, Matrica | Sk. "VEV" |
+| ID0 | Atsevišķu VEV līmenis. | Evolūcija | Pirms matricas organizācijas. | VEV, ID1 | Sk. "ID" |
+| ID1 | Pirmais matricas organizācijas līmenis. | Evolūcija | Matricas sākums. | ID0, Matrica | Sk. "ID" |
+| ID2...IDn | Turpmākie evolūcijas līmeņi. | Evolūcija | Organizācijas attīstība. | ID | Sk. "ID" |
+| Qn | Vertikāles organizācijas līmenis. | Vertikāle | Raksturo konkrētu mērogu. | VEV, Horizontāle | Sk. "Qn" |
+| Qn kanāls | Konkrētā Qn līmeņa enerģijas kanāls. | Matrica | Nodrošina TE plūsmu. | Qn, Kanāls | Sk. "Qn" |
+| VEV H-1 | Nākamās Horizontāles VEV. | Evolūcija | Pāreja uz nākamo Horizontāli. | VEV | Sk. "VEV" |
+
+---
+
+## 3. Matricas termini
+
+| Termins | Īss skaidrojums | Līmenis / Atrašanās | Loma teorijā | Saistītie termini | Pilnā definīcija |
+|----------|-----------------|---------------------|---------------|-------------------|------------------|
+| Matrica | Diskrēta enerģijas organizācijas struktūra. | ID1+ | Organizē TE kustību. | TE, Kanāls | Sk. "Matrica" |
+| Kanāls | Matricas savienojums TE kustībai. | Matrica | Veido plūsmas ceļu. | TE | Sk. "Kanāls" |
+| Tranzīta enerģija (TE) | Enerģija kustībā. | Matrica | Veido ciklus. | Kanāls, FV | Sk. "TE" |
+| Pus-fāze | Minimālā TE stāvokļa maiņa. | TE | Pilnas fāzes sastāvdaļa. | Pilna fāze | Sk. "Pus-fāze" |
+| Pilna fāze | Divu pus-fāžu kopums. | TE | Pilns cikla posms. | Pus-fāze | Sk. "Pilna fāze" |
+| Fāze–Virziens (FV) | TE fāzes un virziena apraksts. | TE | Raksturo TE stāvokli. | TE | Sk. "FV" |
+| Slēgts cikls | Cikls, kas atgriežas sākumpunktā. | Matrica | Nodrošina stabilitāti. | B7 | Sk. "Cikls" |
+| Atvērts cikls | Cikls bez pilnas noslēgšanās. | Matrica | Nodrošina pārejas procesus. | Slēgts cikls | Sk. "Cikls" |
+| B7 | Minimālais stabilais lokālais cikls. | Matrica | Pamata cikliskā struktūra. | B13 | Sk. "B7" |
+| B13 | Paplašināts stabilais cikls. | Matrica | Sarežģītāku objektu pamats. | B7 | Sk. "B13" |
+| Matricveida objekts | Objekts, kuru uztur slēgta matricas struktūra. | Matrica | Stabils objekts. | B7 | Sk. "Objekti" |
+| Plūsmas objekts | Objekts, kuru uztur nepārtraukta TE plūsma. | Matrica | Dinamisks objekts. | TE | Sk. "Objekti" |
+
+---
+
+## 4. Fizikālie termini
+
+| Termins | Īss skaidrojums | Līmenis / Atrašanās | Loma teorijā | Saistītie termini | Pilnā definīcija |
+|----------|-----------------|---------------------|---------------|-------------------|------------------|
+| Elektriskais lādiņš | TE cikla organizācijas īpašība. | Objekti | EM mijiedarbība. | Elektrons | Sk. "Elektriskais lādiņš" |
+| Fotons | Enerģijas pārneses forma. | Objekti | Pārnes enerģiju. | Elektrons | Sk. "Fotons" |
+| Elektrons | Stabila cikliska matricas struktūra. | Objekti | Enerģijas akumulācija. | Fotons, Orbitāle | Sk. "Elektrons" |
+| Orbitāle | Stabils elektrona organizācijas režīms. | Atoms | Elektrona stabilitāte. | Elektrons | Sk. "Orbitāle" |
+| Protons | Pozitīvi lādēta kodola struktūra. | Kodols | Veido atomu kodolus. | Neitrons | Sk. "Protons" |
+| Neitrons | Elektriski neitrāla kodola struktūra. | Kodols | Stabilizē kodolu. | Protons | Sk. "Neitrons" |
+| Atoms | Kodola un orbitāļu sistēma. | Viela | Ķīmiskā elementa pamatvienība. | Elektrons | Sk. "Atoms" |
+| Gravitācija | Liela mēroga enerģijas organizācijas ietekme. | Makrolīmenis | Objektu savstarpējā iedarbība. | Horizontāle | Sk. "Gravitācija" |
+
+---
+
+## 5. Sistēmiskie termini
+
+| Termins | Īss skaidrojums | Līmenis / Atrašanās | Loma teorijā | Saistītie termini | Pilnā definīcija |
+|----------|-----------------|---------------------|---------------|-------------------|------------------|
+| Novērojamības princips | Teorija balstās uz novērojamu procesu analīzi. | Metodoloģija | Ierobežo interpretāciju. | Modelis | Sk. "Novērojamības princips" |
+| Modelis | Teorijas strukturēts apraksts. | Visa teorija | Organizē zināšanas. | Matrica | Sk. "Modelis" |
+| Definīcija | Formāls termina apraksts teorijā. | Dokumentācija | Nodrošina vienotu terminoloģiju. | Pielikums | Sk. "Definīcija" |
