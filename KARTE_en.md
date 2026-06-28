@@ -1962,60 +1962,61 @@ It is not a mechanical force acting between atoms but the result of collective s
 
 # Molecule
 
-### Definition
+## Definition
 
-A molecule is a stable collective organization of multiple atoms in Transit Energy (TE), in which chemical bonds, H-2 and H-3 flows, orbital resonances, and electron configurations realize a common, long-term synchronized energetic regime.
+A molecule is a stable collective Transit Energy (TE) organization of multiple atoms in which the entire system realizes a common regime of VEU H-2 and VEU H-3 flows, chemical bonds, orbital resonance, electron configurations, and half-phase balancing.
 
 A molecule is not a mechanical sum of individual atoms.
 
-It is a new form of collective TE organization that possesses its own resonance states, energetic configurations, and emergent properties.
+It is a new collective TE organization possessing its own resonance modes, energetic configurations, and emergent properties.
 
 ---
 
-## Fundamental Principles
+# Fundamental Principles
 
-### 1. Collective Organization Principle
+## 1. Principle of Collective Organization
 
 A molecule exists only when:
 
 - atomic resonances are mutually compatible;
 - chemical bonds form a stable collective organization;
-- H-2 and H-3 flows realize common stable regimes;
+- VEU H-2 and VEU H-3 flows realize common stable regimes;
+- direct and feedback VEU H-3 modulations are mutually compatible;
 - electron configurations adapt to the collective resonance.
 
-The stability of a molecule is determined by the entire system as a whole.
+The stability of a molecule is determined by the entire system.
 
 ---
 
-### 2. Emergence Principle
+## 2. Principle of Emergence
 
 A molecule possesses properties that do not exist in its individual atoms.
 
-These new properties arise from:
+These emergent properties arise from:
 
 - collective resonance;
-- the common TE organization;
+- collective TE organization;
 - mutual adaptation of atoms;
 - collective half-phase balancing.
 
-A molecule is a new organizational level with its own properties.
+A molecule is a new level of collective TE organization with its own properties.
 
 ---
 
-### 3. Resonance Geometry Principle
+## 3. Principle of Resonance Geometry
 
 The spatial arrangement of atoms determines:
 
-- the geometry of H-2 and H-3 flows;
+- the overall geometry of VEU H-2 and VEU H-3 flows;
 - the stability of chemical bonds;
 - electron stabilization configurations;
-- the possible resonance regimes of the molecule.
+- the possible resonance modes of the molecule.
 
 The geometry of a molecule is the spatial realization of its collective resonance.
 
 ---
 
-### 4. Adaptive Reorganization Principle
+## 4. Principle of Adaptive Reorganization
 
 A molecule is not a static object.
 
@@ -2024,47 +2025,66 @@ Its components continuously:
 - adapt their resonance regimes;
 - redistribute energetic loads;
 - balance half-phase imbalances;
-- maintain overall synchronization.
+- maintain collective synchronization.
 
 A molecule is a dynamically stable TE organization.
 
 ---
 
-### 5. Collective Balancing Principle
+## 5. Principle of Collective Balancing
 
 Within a molecule:
 
-- local imbalances are distributed;
-- energetic tensions are minimized;
-- chemical bonds act as channels of collective balancing;
-- the entire system tends toward a more stable resonance state.
+- local half-phase imbalances decrease;
+- collective resonance tension decreases;
+- chemical bonds function as collective balancing channels;
+- the entire system evolves toward a more stable resonance state.
 
-A molecule is a shared collective balancing regime.
+A molecule is a collective half-phase balancing regime.
 
 ---
 
-### 6. Hierarchy Principle
+## 6. Principle of Self-Organization
 
-A molecule creates a new level of organization above the atom.
+The molecular structure is not predetermined.
+
+It continuously self-organizes in response to atomic resonance, chemical bond organization, electron localization, and modulation of the surrounding TE environment.
+
+A stable molecule is a dynamic equilibrium state of collective self-organization.
+
+---
+
+## 7. Principle of Hierarchy
+
+A molecule creates a new level of collective organization.
 
 Nucleons
 
-→ atom  
-→ chemical bond  
-→ molecule.
+↓
 
-Each successive level:
+atom
 
-- preserves the organization of previous levels;
-- realizes new collective resonance regimes;
+↓
+
+chemical bond
+
+↓
+
+molecule.
+
+Each successive organizational level:
+
+- preserves the organization of the previous levels;
+- realizes new collective resonance modes;
 - acquires new emergent properties.
 
 ---
 
-### Summary
+## Summary
 
-A molecule is a stable collective TE organization of multiple atoms in which chemical bonds, H-2 and H-3 flows, orbital resonances, and electron configurations realize a common long-term synchronized regime. A molecule is not a sum of atoms but a new collective resonance object with its own energetic configurations and emergent properties.
+A molecule is a stable collective TE organization of multiple atoms in which the entire system realizes a common regime of VEU H-2 and VEU H-3 flows, chemical bonds, orbital resonance, electron configurations, and half-phase balancing.
 
+A molecule is not a mechanical sum of atoms but a new level of collective TE organization with its own resonance modes, energetic configurations, and emergent properties.
 
 
 # Macromolecule
