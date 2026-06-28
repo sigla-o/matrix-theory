@@ -1494,32 +1494,33 @@ Fotons saglabā elektromagnētiskās organizācijas principu, taču neveido slē
 
 
 
+## Orbitāle
 
-# Orbitāle
+Orbitāle ir ap atoma kodolu izveidota stabila elektromagnētiskās (EM) rezonanses konfigurācija, kuras primāro diskrēto adresāciju nosaka protoni.
 
+Orbitāle realizējas modulētajā VEV H-3 ↔ VEV H-2 pārejas vidē, kur VEV H-2 modulāciju nosaka H0 Matrica, bet VEV H-3 nodrošina šīs modulācijas dinamisko atgriezenisko saiti un stabilizāciju.
 
-Orbitāle ir ap protonu izveidota stabila elektromagnētiskās (EM) rezonanses konfigurācija.
+Orbitāles veidojas pieaugošās pus-fāžu nobīdes rezultātā starp tiešo VEV H-2 ↔ VEV H-3 modulāciju un VEV H-3 atgriezeniskās saites modulāciju. Pieaugot diskrētajam Qn līmenim, šo modulāciju pus-fāžu nesaderība veido stabilas elektromagnētiskās rezonanses zonas, kas nosaka orbitāļu telpisko ģeometriju.
 
-Orbitāle realizējas modulētajā H-3 ↔ H-2 pārejas vidē, kur H-2 modulāciju nosaka H0 Matrica, bet H-3 darbojas kā H-2 modulācijas atgriezeniskā saite.
+Orbitāles nav elektrona trajektorijas un nav elektrona radīti veidojumi. Tās eksistē neatkarīgi no elektrona kā atoma elektromagnētiskās rezonanses struktūras.
 
-Orbitāles veidojas vietās, kur H-2 un H-3 modulāciju pus-fāžu starpības nesakrīt un izveido stabilas rezonanses zonas.
+Elektrons neveido orbitāli. Tas lokalizējas orbitāles stabilajos rezonanses punktos un seko to dinamiskajai ģeometrijai.
 
-Orbitāles nav elektrona trajektorijas un nav elektrona radīti veidojumi. Tās eksistē ap protonu neatkarīgi no elektrona.
+Orbitāļu telpisko ģeometriju nosaka nukleonu VEV H-2 un VEV H-3 plūsmu kopējā rezonanses organizācija.
 
-Elektrons neveido orbitāli un neizvēlas savu kustības trajektoriju. Tas lokalizējas orbitāles stabilajos rezonanses punktos un seko to telpiskajai dinamikai.
-
-Orbitāļu telpisko ģeometriju nosaka nukleonu H-2 un H-3 plūsmu kopējā organizācija.
-
-Orbitāle ir pilnībā sinhronizēta H-2 ↔ H-3 elektromagnētiskās rezonanses struktūra, kas rodas kā kopēja protonu, neitronu, elektronu un apkārtējās TE H-2 vides pašorganizācijas forma.
+Orbitāle ir stabilizēta VEV H-2 ↔ VEV H-3 elektromagnētiskās rezonanses struktūra, kas rodas kā kopēja protonu, neitronu, elektronu un apkārtējās TE VEV H-2 vides pašorganizācijas forma.
 
 Orbitāles nav iepriekš eksistējošas telpiskas čaulas. To ģeometrija un kapacitāte veidojas kā balanss starp:
-- atoma iekšējo H-3 plūsmu ģeometriju;
+
+- atoma iekšējo VEV H-3 plūsmu ģeometriju;
 - protonu un neitronu telpisko izvietojumu;
-- H-2 plūsmu fāžu sinhronizāciju;
-- apkārtējās TE H-2 vides saderības prasībām.
+- VEV H-2 plūsmu fāžu sinhronizāciju;
+- VEV H-3 atgriezeniskās saites modulāciju;
+- apkārtējās TE VEV H-2 vides saderības prasībām.
 
+### Orbitāļu matemātiskā kapacitāte
 
-Orbitāļu matemātiskā kapacitāte izriet no diskrētas Qn cikliskās adresācijas.
+Orbitāles kapacitāti nosaka nevis elektronu skaits, bet diskrēto Qn adresācijas ciklu skaits, kurus konkrētā rezonanses struktūra spēj uzturēt.
 
 Ja \(n\) ir diskrētais kopīgās H0 ↔ H-1 adresācijas rādiuss, tad orbitālē maksimāli pieejamo pilno EM ciklu (TE periodu) skaits ir:
 
@@ -1528,12 +1529,13 @@ P=n^2
 \]
 
 kur:
+
 - \(P\) — pilno EM ciklu (TE periodu) skaits;
 - \(n\) — diskrētais orbitāles rādiuss.
 
 Šī sakarība rodas tādēļ, ka pilna H0 ↔ H-1 sinhronizācija var realizēties tikai pilnībā aizpildītos diskrētos cikliskās adresācijas slāņos.
 
-Katrs nākamais adresācijas slānis pievieno:
+Katrs nākamais diskrētais Qn adresācijas slānis pievieno:
 
 \[
 \Delta P=2n-1
@@ -1561,18 +1563,22 @@ Tādējādi:
 
 utt.
 
-Katrs pilns EM cikls realizē vienu 0°/180° pus-fāžu pāri, tādēļ maksimālais elektrona sinhronizācijas punktu skaits orbitālē ir:
+Katrs pilns EM cikls satur vienu savstarpēji komplementāru 0°/180° pus-fāžu pāri, tādēļ maksimālais elektrona sinhronizācijas punktu skaits orbitālē ir:
 
 \[
 N=2n^2
 \]
 
 kur:
+
 - \(N\) — maksimālais elektrona sinhronizācijas punktu skaits.
 
-Šī matemātika nosaka orbitāles maksimālo kapacitāti. Reāli realizēto stabilizācijas punktu un orbitāļu ģeometriju nosaka H-2 un H-3 plūsmu enerģētiskā saderība, H+1 modulācija un pilna H0 ↔ H-1 matricas fāžu sinhronizācija.
+Šī matemātika nosaka orbitāles maksimālo kapacitāti. Reāli realizēto stabilizācijas punktu skaitu un orbitāļu ģeometriju nosaka VEV H-2 un VEV H-3 plūsmu enerģētiskā saderība, H+1 modulācija un pilna H0 ↔ H-1 matricas fāžu sinhronizācija.
 
-Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas realizē absolūtu sinhronizāciju. Orbitāles ir nākamie diskrētie atvērtie Qn līmeņi, kuri saglabā šo kopīgo adresācijas principu.
+Protons ir pirmā pilnībā slēgtā Qn struktūra, kurā H0 un H-1 matricas realizē pilnu savstarpēju sinhronizāciju. Orbitāles veido nākamos atvērtos Qn adresācijas līmeņus, kuros saglabājas tas pats diskrētās cikliskās adresācijas princips, bet rezonanses ģeometriju nosaka visa atoma elektromagnētiskā pašorganizācija.
+
+
+
 
 ---
 
