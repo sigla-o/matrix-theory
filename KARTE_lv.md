@@ -1700,9 +1700,9 @@ Tādējādi protons un neitrons nav atšķirīgas fundamentālas daļiņas, bet 
 
 # Atoms
 
-### Definīcija
+## Definīcija
 
-Atoms ir stabila nukleonu, orbitāļu un elektronu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā realizējas ilgstoša VEV H-2 un VEV H-3 plūsmu, Qn ciklu un pus-fāžu pilna sinhronizācija.
+Atoms ir stabila nukleonu, orbitāļu un elektronu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, Qn ciklu un pus-fāžu sinhronizāciju.
 
 Atoms nav atsevišķu daļiņu mehāniska summa.
 
@@ -1710,9 +1710,9 @@ Tas ir vienots kolektīvs TE organizācijas stāvoklis, kurā protoni, neitroni,
 
 ---
 
-## Pamatprincipi
+# Pamatprincipi
 
-### 1. Kolektīvās organizācijas princips
+## 1. Kolektīvās organizācijas princips
 
 Atoms eksistē tikai tad, ja:
 
@@ -1720,6 +1720,7 @@ Atoms eksistē tikai tad, ja:
 - orbitāļu rezonanse;
 - elektronu konfigurācija;
 - VEV H-2 un VEV H-3 plūsmu organizācija;
+- tiešās un atgriezeniskās VEV H-3 modulācijas savstarpējā saderība;
 - apkārtējās TE vides modulācija
 
 sasniedz kopīgu stabilu sinhronizāciju.
@@ -1728,9 +1729,9 @@ Atoma stabilitāti nosaka visa sistēma kopumā, nevis atsevišķi tās elementi
 
 ---
 
-### 2. Nukleonu organizācijas princips
+## 2. Nukleonu organizācijas princips
 
-Nukleoni veido atoma centrālo organizācijas kodolu.
+Nukleonu kolektīvs veido atoma centrālo TE organizācijas kodolu.
 
 Protonu un neitronu telpiskais izvietojums nosaka:
 
@@ -1741,7 +1742,7 @@ Protonu un neitronu telpiskais izvietojums nosaka:
 
 ---
 
-### 3. Orbitāļu primaritātes princips
+## 3. Orbitāļu primaritātes princips
 
 Orbitāles eksistē neatkarīgi no elektronu klātbūtnes.
 
@@ -1751,11 +1752,13 @@ Orbitāles:
 - nav elektronu trajektorijas;
 - ir stabilas VEV H-2 ↔ VEV H-3 rezonanses konfigurācijas ap nukleonu sistēmu.
 
+To ģeometrija nepārtraukti pielāgojas nukleonu kolektīvās organizācijas izmaiņām.
+
 Elektroni lokalizējas jau eksistējošajos stabilizācijas punktos un seko orbitāļu telpiskajai dinamikai.
 
 ---
 
-### 4. Elektronu adaptācijas princips
+## 4. Elektronu adaptācijas princips
 
 Elektroni nepārtraukti cenšas uzturēt enerģētisku saderību ar atoma kopējo rezonansi.
 
@@ -1766,11 +1769,11 @@ Elektrona stāvokli nosaka:
 - citu elektronu klātbūtne;
 - apkārtējās TE vides modulācija.
 
-Elektroni ir atoma kopējās rezonanses adaptīvi elementi.
+Elektroni ir adaptīvi atoma kopējās rezonanses stabilizācijas elementi.
 
 ---
 
-### 5. Pus-fāžu balansēšanas princips
+## 5. Pus-fāžu balansēšanas princips
 
 Atoma enerģētiskā stabilitāte tiek sasniegta, nepārtraukti balansējot pus-fāžu enerģētiskos disbalansus.
 
@@ -1778,17 +1781,18 @@ Protonu konfigurāciju disbalansus balansē orbitālēs lokalizētie elektroni.
 
 Neitronu konfigurāciju disbalansus balansē to iekšējās Qn struktūras.
 
-Atoms ir pilnībā sinhronizēta pus-fāžu balansēšanas sistēma.
+Atoms ir stabilizēta kolektīva pus-fāžu balansēšanas sistēma.
 
 ---
 
-### 6. Kolektīvās rezonanses princips
+## 6. Kolektīvās rezonanses princips
 
 Atoma stabilitāti nosaka:
 
 - VEV H-2 un VEV H-3 plūsmu sinhronizācija;
 - Qn ciklu saderība;
 - orbitāļu rezonanses organizācija;
+- orbitāļu un nukleonu savstarpējā atgriezeniskā modulācija;
 - elektronu un nukleonu savstarpējā adaptācija;
 - saderība ar apkārtējās TE vides organizāciju.
 
@@ -1796,7 +1800,17 @@ Atoms ir kolektīvs rezonanses stāvoklis, nevis izolētu objektu kopums.
 
 ---
 
-### 7. Evolūcijas princips
+## 7. Pašorganizācijas princips
+
+Atoma struktūra nav iepriekš noteikta.
+
+Tā nepārtraukti pašorganizējas, pielāgojoties nukleonu konfigurācijai, orbitāļu rezonansei, elektronu lokalizācijai un apkārtējās TE vides modulācijai.
+
+Stabils atoms ir dinamisks kolektīvās pašorganizācijas līdzsvara stāvoklis.
+
+---
+
+## 8. Evolūcijas princips
 
 Palielinoties nukleonu skaitam:
 
@@ -1805,14 +1819,15 @@ Palielinoties nukleonu skaitam:
 - pieaug elektronu stabilizācijas konfigurāciju daudzveidība;
 - pieaug kolektīvās TE organizācijas sarežģītība.
 
-Periodiskā sistēma ir diskrētu stabilu kolektīvās rezonanses stāvokļu karte.
+Periodiskā sistēma ir diskrētu kolektīvās TE rezonanses līdzsvara stāvokļu karte.
 
 ---
 
-### Kopsavilkums
+## Kopsavilkums
 
-Atoms ir stabila nukleonu, orbitāļu un elektronu kolektīva TE organizācija, kurā realizējas pilna VEV H-2 un VEV H-3 plūsmu, Qn ciklu un pus-fāžu sinhronizācija. Atoms nav atsevišķu daļiņu summa, bet vienota rezonanses sistēma, kurā visi elementi nepārtraukti savstarpēji pielāgo savus enerģētiskos režīmus un veido stabilu kolektīvu organizācijas stāvokli.
+Atoms ir stabila nukleonu, orbitāļu un elektronu kolektīva TE organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, Qn ciklu un pus-fāžu sinhronizāciju.
 
+Atoma stabilitāti nosaka nevis atsevišķu elementu īpašības, bet to nepārtrauktā kolektīvā rezonanse, savstarpējā adaptācija, pašorganizācija un saderība ar apkārtējās TE vides organizāciju.
 
 
 # Ķīmiskā saite
