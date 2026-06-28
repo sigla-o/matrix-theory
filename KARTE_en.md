@@ -36,6 +36,15 @@ According to the current model, our Universe has remained in its present **IDn**
 
 The following chapters define and describe in detail the concepts and processes that directly or indirectly characterize our Horizontal (H0) and its place within the Vertical hierarchy of energies.
 
+> [!NOTE]
+> ## Terminology
+>
+> The terms used in this document have the meanings defined within the framework of this theory. Some terms may differ partially or entirely from their generally accepted meanings in physics or other scientific disciplines.
+>
+> To ensure a consistent interpretation of the theory, readers are encouraged to consult the **Appendix: Key Definitions** before continuing. The appendix summarizes the terminology used throughout this document.
+>
+> Within the context of this document, the definitions provided by this theory are considered authoritative.
+
 
 
 # LOGICAL MAP OF THE MATRIX THEORY
@@ -2369,44 +2378,73 @@ Life is not a special form of matter but a new level of collective TE organizati
 
 
 
-### APPENDIX: Key Definitions
+# Appendix: Key Definitions
 
-| Term | Definition |
-|---|---|
-| Universe matrix | Matrix with 10⁻³⁵ m step, forming the space known to us |
-| Proton's internal matrix | Matrix with 10⁻⁵⁵ m step, located inside the proton |
-| Transformation Zone (TZ) | Boundary layer between the two matrices; matrix-free zone, phase filter, and energy regulator |
-| TE flow (10⁻⁵⁵ m) | The only free flow in the Universe matrix |
-| Strong force flow (10⁻⁷⁵ m) | Continuation of the proton's internal 10⁻⁷⁵ m flow in the Universe matrix |
-| Proton's large TE flow (10⁻⁷⁵ m) | Flow that exits the proton matrix through the TZ and becomes the Strong force |
-| Proton's small TE flow (10⁻⁹⁵ m) | Flow that primarily operates inside the proton; can exit but with negligible influence |
-| L0 regime | Matrix background level — network of static fields formed by objects released from flows, standing in opposition |
-| L1 regime | Matter-induced, polarized static field with electric potential |
-| Q1 | One complete rotation period of a matrix point |
-| Qn | Higher organizational level containing lower Qn |
-| FV parameter | Phase-direction parameter determining TE flow pressure distribution and cyclic balance |
-| Electricity | Flow of charges (10⁻⁷⁵ m), whose balance is maintained by the vertical via the L1 field |
-| Electron | Two-half-phase closed sphere (10⁻⁷⁵ m × 10⁻⁵⁵ m); horizontal capacitor |
-| Neutrino | Electron analogue in a finer form (10⁻⁹⁵ m × 10⁻⁷⁵ m); practically invisible |
-| Neutron | Modified proton state with an internal 10⁻⁹⁵ m × 10⁻⁷⁵ m configuration; carrier of the imitation level in the nucleus |
-| Monolithic object | Black hole — unified proton matrix region, absolutely impermeable to TE flow |
-| Multi-proton object | Planet, star — collection of matter with a partially permeable structure |
-| Event horizon | 180° Qn deformation limit at which a photon cannot leave the object |
-| Black hole | One very large proton — a unified object, not a collection of matter |
-| Gravity | TE flow pressure imbalance caused by a proton as an obstacle |
-| G | Gravitational constant — integral asymmetry of two parallel unidirectional channels determining the scale of the force |
-| 1/r² law | FV cyclic reference balance, arising from geometric dispersion and the optimal path of 10²⁰ channels |
-| Dark energy | Static energy fields (L0, L1... Ln) formed by objects released from flows, standing in opposition |
-| Dark matter | Concentrated manifestation of the L1 static field around matter — the TZ bubble |
-| Inertia | Resistance of flows to changes in the state of motion; for a proton — latency of the internal matrix, for an electron — inherited flow property |
-| Weak interaction | Manifestation of internal modulation leading to energy release in two half-phases |
-| Absolute time | Unchanging rhythm of Q1 cycles determined by the vertical |
-| Vertical | Hierarchy of exponential levels with 10²⁰ step; universal synchronization axis; only a fragment is known |
-| Soul | Vertical controller of the organization level, belonging to the Life hierarchy |
-| EM field | Precise imprint of an atom's internal flow environment onto the Universe TE flow |
-| Orbitals | Resonance nodes of the transition between two dominances — discrete circulations of Universe TE flow around a proton |
-| Photon | Organized free TE energy temporarily supplementing channel balance from L0 |
-| EM wave | Resonance of the channel's organized TE flow consuming channel energy for its propagation |
-| Spherical curvature | Global topology of the matrix, creating a 10²⁰ step phase shift between half-phases |
-| Antimatter zones | Local curvature variation regions where antimatter can exist quasi-stably |
-| Nucleus | The next level of proton existence — an imitation of our Universe |
+## 1. Fundamental Concepts
+
+| Term | Brief Explanation | Level / Location | Role in the Theory | Related Terms | Full Definition |
+|------|-------------------|------------------|--------------------|---------------|-----------------|
+| Eternity Cycle | Universal cycle of energy organization encompassing all Verticals and Horizontals. | Entire theory | Overall conceptual framework. | Vertical, Horizontal | See "Eternity Cycle" |
+| Vertical | Hierarchical organization of energy in which each level possesses its own VEU and Matrix. | Hierarchy | Defines organizational scale. | VEU, Horizontal | See "Vertical" |
+| Horizontal | Organizational level within a Vertical where objects of the same scale interact according to common laws. | Vertical | Defines the interaction environment. | Vertical, TZ | See "Horizontal" |
+| Primary Horizontal | Horizontal from which formation of the next Vertical becomes possible. | Vertical | Supports evolutionary transition. | Vertical, VEU | See "Horizontal" |
+| Transformation Zone (TZ) | Boundary region between Horizontals where the mode of energy organization changes. | Between Horizontals | Enables transitions. | Horizontal | See "Transformation Zone" |
+| Evolution | Continuous development of energy organization. | Entire theory | Produces the ID hierarchy. | ID, Vertical | See "Evolution" |
+
+---
+
+## 2. Evolution Terms
+
+| Term | Brief Explanation | Level / Location | Role in the Theory | Related Terms | Full Definition |
+|------|-------------------|------------------|--------------------|---------------|-----------------|
+| VEU (Vertical Energy Unit) | Minimum energy unit of a specific Vertical. All VEU belong to ID0. | ID0 | Foundation of Matrix formation. | ID0, Matrix | See "VEU" |
+| ID0 | Initial evolutionary level consisting of individual VEU. | Evolution | Exists before Matrix organization. | VEU, ID1 | See "ID" |
+| ID1 | First level of Matrix organization formed by VEU organization. | Evolution | Beginning of Matrix evolution. | ID0, Matrix | See "ID" |
+| ID2...IDn | Subsequent evolutionary levels of Matrix organization. | Evolution | Increasing organizational complexity. | ID | See "ID" |
+| Qn | Organizational level of a Vertical. | Vertical | Describes a specific scale. | VEU, Horizontal | See "Qn" |
+| Qn Channel | Energy channel belonging to a specific Qn level. | Matrix | Carries Transit Energy. | Qn, Channel | See "Qn" |
+| VEU H-1 | VEU of the next Horizontal level. | Evolution | Transition toward the next Horizontal. | VEU | See "VEU" |
+
+---
+
+## 3. Matrix Terms
+
+| Term | Brief Explanation | Level / Location | Role in the Theory | Related Terms | Full Definition |
+|------|-------------------|------------------|--------------------|---------------|-----------------|
+| Matrix | Discrete structure organizing energy movement. | ID1+ | Organizes Transit Energy. | TE, Channel | See "Matrix" |
+| Channel | Matrix connection through which Transit Energy moves. | Matrix | Defines energy pathways. | Matrix, TE | See "Channel" |
+| Transit Energy (TE) | Energy in motion traveling through Matrix channels. | Matrix | Forms cycles and structures. | Channel, FV | See "Transit Energy" |
+| Half-Phase | Minimum change of TE state within the Matrix. | TE | Component of a Full Phase. | Full Phase | See "Half-Phase" |
+| Full Phase | Combination of two opposite Half-Phases. | TE | Completes one phase cycle. | Half-Phase | See "Full Phase" |
+| Phase-Direction (FV) | Combined description of TE phase and direction of motion. | TE | Defines the TE state. | TE | See "Phase-Direction" |
+| Closed Cycle | Cycle returning to its starting point. | Matrix | Provides structural stability. | B7 | See "Cycle" |
+| Open Cycle | Cycle that does not return to its starting point. | Matrix | Supports transition processes. | Closed Cycle | See "Cycle" |
+| B7 | Minimum stable local cycle. | Matrix | Fundamental cyclic structure. | B13 | See "B7" |
+| B13 | Extended stable cycle containing B7. | Matrix | Basis for more complex structures. | B7 | See "B13" |
+| Matrix Object | Object maintained by a closed Matrix structure. | Matrix | Stable object type. | B7 | See "Objects" |
+| Flow Object | Object maintained by continuous Transit Energy flow. | Matrix | Dynamic object type. | TE | See "Objects" |
+
+---
+
+## 4. Physical Terms
+
+| Term | Brief Explanation | Level / Location | Role in the Theory | Related Terms | Full Definition |
+|------|-------------------|------------------|--------------------|---------------|-----------------|
+| Electric Charge | Property of TE cycle organization determined by phase and direction. | Objects | Defines electromagnetic interaction. | Electron | See "Electric Charge" |
+| Photon | Form of energy transfer produced by Matrix reorganization. | Objects | Transfers energy. | Electron | See "Photon" |
+| Electron | Stable cyclic Matrix structure capable of storing and releasing energy. | Objects | Fundamental EM structure. | Photon, Orbital | See "Electron" |
+| Orbital | Stable organizational state of an electron around the nucleus. | Atom | Defines stable electron states. | Electron | See "Orbital" |
+| Proton | Positively charged nuclear structure. | Nucleus | Forms atomic nuclei. | Neutron | See "Proton" |
+| Neutron | Electrically neutral nuclear structure. | Nucleus | Stabilizes atomic nuclei. | Proton | See "Neutron" |
+| Atom | Organized system consisting of a nucleus and orbitals. | Matter | Fundamental unit of chemical elements. | Electron | See "Atom" |
+| Gravitation | Large-scale effect of organized energy between objects. | Macro scale | Governs interaction of massive structures. | Horizontal | See "Gravitation" |
+
+---
+
+## 5. System Terms
+
+| Term | Brief Explanation | Level / Location | Role in the Theory | Related Terms | Full Definition |
+|------|-------------------|------------------|--------------------|---------------|-----------------|
+| Principle of Observability | The theory is based on analysis of observable processes. | Methodology | Limits interpretation. | Model | See "Principle of Observability" |
+| Model | Structured representation of the theory. | Entire theory | Organizes knowledge. | Matrix | See "Model" |
+| Definition | Formal description of a theoretical term. | Documentation | Ensures consistent terminology. | Appendix | See "Definition" |
