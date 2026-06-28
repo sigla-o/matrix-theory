@@ -1832,47 +1832,46 @@ Atoma stabilitāti nosaka nevis atsevišķu elementu īpašības, bet to nepārt
 
 # Ķīmiskā saite
 
-### Definīcija
+## Definīcija
 
-Ķīmiskā saite ir stabila vairāku atomu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā VEV H-2 un VEV H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu enerģētiski izdevīgāku sinhronizācijas režīmu.
+Ķīmiskā saite ir stabila vairāku atomu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, orbitāļu rezonanses, elektronu konfigurāciju un pus-fāžu balansēšanas režīmu.
 
 Ķīmiskā saite nav spēks, kas savelk atomus.
 
-Tā ir kolektīvas TE pašorganizācijas sekas, kurā vairāki atomi veido kopīgu rezonanses sistēmu ar zemāku enerģētisko spriegumu un augstāku pus-fāžu saderību.
+Tā ir kolektīvas TE pašorganizācijas sekas, kurā vairāki atomi veido kopīgu rezonanses sistēmu ar zemāku enerģētisko spriegumu, mazāku pus-fāžu disbalansu un augstāku kopējās organizācijas saderību.
 
 ---
 
-## Pamatprincipi
+# Pamatprincipi
 
-### 1. Kolektīvās rezonanses princips
+## 1. Kolektīvās rezonanses princips
 
 Atomi var veidot kopīgu organizāciju tikai tad, ja:
 
 - orbitāļu rezonanses ir savstarpēji saderīgas;
 - VEV H-2 un VEV H-3 plūsmas spēj realizēt kopīgus stabilus režīmus;
+- tiešās un atgriezeniskās VEV H-3 modulācijas kļūst savstarpēji saderīgas;
 - elektronu konfigurācijas var pielāgoties kopējai organizācijai.
 
 Ķīmiskā saite ir kolektīvs rezonanses stāvoklis.
 
 ---
 
-### 2. Enerģētiskās izdevīguma princips
+## 2. Enerģētiskā izdevīguma princips
 
 Ķīmiskā saite realizējas tad, ja:
 
-kopējais sistēmas enerģētiskais spriegums
-
-↓
-
-samazinās.
+- samazinās kopējais sistēmas pus-fāžu enerģētiskais disbalanss;
+- pieaug kopējā VEV H-2 un VEV H-3 plūsmu sinhronizācija;
+- veidojas stabilāka kolektīvā TE organizācija.
 
 Saistītais stāvoklis ir stabilāks nekā izolētu atomu stāvoklis.
 
 ---
 
-### 3. Orbitāļu pārklāšanās princips
+## 3. Orbitāļu rezonanses pārklāšanās princips
 
-Orbitāles nav cietas robežas.
+Orbitāles nav cietas telpiskas robežas.
 
 To rezonanses zonas var:
 
@@ -1884,7 +1883,7 @@ To rezonanses zonas var:
 
 ---
 
-### 4. Elektronu adaptācijas princips
+## 4. Elektronu adaptācijas princips
 
 Elektroni neveido ķīmisko saiti.
 
@@ -1894,31 +1893,44 @@ Elektroni pielāgojas:
 - VEV H-2 un VEV H-3 plūsmu organizācijai;
 - kolektīvajai pus-fāžu balansēšanai.
 
-Elektronu konfigurācija ir ķīmiskās saites sekas, nevis tās primārais cēlonis.
+Elektronu konfigurācija ir kolektīvās rezonanses adaptācijas rezultāts, nevis ķīmiskās saites primārais cēlonis.
 
 ---
 
-### 5. Pus-fāžu balansēšanas princips
+## 5. Pus-fāžu balansēšanas princips
 
 Veidojoties saitei:
 
 - samazinās lokālie pus-fāžu disbalansi;
+- samazinās orbitāļu rezonanses spriegums;
 - pieaug kolektīvā sinhronizācija;
 - veidojas stabilāka TE organizācija.
 
-Saite ir kopīgs pus-fāžu balansēšanas režīms.
+Ķīmiskā saite ir kopīgs pus-fāžu balansēšanas režīms.
 
 ---
 
-### 6. Hierarhijas princips
+## 6. Hierarhijas princips
 
 Ķīmiskā saite rada jaunu kolektīvās organizācijas līmeni.
 
-Atomi:
+Atomi
 
-→ kopīga rezonanse  
-→ kopīga TE organizācija  
-→ molekulāra struktūra.
+↓
+
+kopīga rezonanse
+
+↓
+
+kopīga TE organizācija
+
+↓
+
+ķīmiskā saite
+
+↓
+
+molekulārā organizācija.
 
 Molekula nav atomu summa.
 
@@ -1926,9 +1938,21 @@ Tā ir jauna kolektīva TE organizācijas forma.
 
 ---
 
-### Kopsavilkums
+## 7. Pašorganizācijas princips
 
-Ķīmiskā saite ir stabila vairāku atomu kolektīva TE organizācija, kurā VEV H-2 un VEV H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu enerģētiski izdevīgāku pus-fāžu sinhronizācijas režīmu un veido jaunu molekulārās organizācijas līmeni.
+Ķīmiskā saite nav iepriekš noteikta struktūra.
+
+Tā nepārtraukti pašorganizējas, pielāgojoties atomu rezonansei, orbitāļu ģeometrijai, elektronu lokalizācijai un apkārtējās TE vides modulācijai.
+
+Stabila ķīmiskā saite ir dinamisks kolektīvās pašorganizācijas līdzsvara stāvoklis.
+
+---
+
+## Kopsavilkums
+
+Ķīmiskā saite ir stabila vairāku atomu kolektīva TE organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, orbitāļu rezonanses, elektronu konfigurāciju un pus-fāžu balansēšanas režīmu.
+
+Tā nav mehānisks spēks starp atomiem, bet kolektīvas pašorganizācijas rezultāts, kas rada jaunu molekulārās TE organizācijas līmeni.
 
 
 
