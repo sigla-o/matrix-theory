@@ -1703,27 +1703,28 @@ Therefore, the proton and neutron are not fundamentally different particles but 
 
 # Atom
 
-### Definition
+## Definition
 
-An atom is a stable collective organization of nucleons, orbitals, and electrons in Transit Energy (TE), in which long-term synchronization of VEU H-2 and VEU H-3 flows, Qn cycles, and half-phases is realized.
+An atom is a stable collective Transit Energy (TE) organization of nucleons, orbitals, and electrons in which the entire system realizes common synchronization of VEU H-2 and VEU H-3 flows, Qn cycles, and half-phases.
 
 An atom is not a mechanical sum of individual particles.
 
-It is a unified collective TE organizational state in which protons, neutrons, orbitals, and electrons continuously adapt their energetic regimes to one another, forming a common stable resonance system.
+It is a unified collective TE organizational state in which protons, neutrons, orbitals, and electrons continuously adapt their energetic states to one another, forming a common stable resonance system.
 
 ---
 
-## Fundamental Principles
+# Fundamental Principles
 
-### 1. Collective Organization Principle
+## 1. Principle of Collective Organization
 
 An atom exists only when:
 
 - nucleon organization;
 - orbital resonance;
 - electron configuration;
-- VEU H-2 and VEU H-3 flow organization;
-- modulation by the surrounding TE environment
+- organization of VEU H-2 and VEU H-3 flows;
+- compatibility between direct and feedback VEU H-3 modulation;
+- modulation of the surrounding TE environment
 
 reach a common stable synchronization.
 
@@ -1731,9 +1732,9 @@ The stability of an atom is determined by the entire system rather than by its i
 
 ---
 
-### 2. Nucleon Organization Principle
+## 2. Principle of Nucleon Organization
 
-Nucleons form the central organizational core of the atom.
+The nucleon collective forms the central TE organizational core of the atom.
 
 The spatial arrangement of protons and neutrons determines:
 
@@ -1744,7 +1745,7 @@ The spatial arrangement of protons and neutrons determines:
 
 ---
 
-### 3. Orbital Primacy Principle
+## 3. Principle of Orbital Primacy
 
 Orbitals exist independently of the presence of electrons.
 
@@ -1754,11 +1755,13 @@ Orbitals:
 - are not electron trajectories;
 - are stable VEU H-2 ↔ VEU H-3 resonance configurations surrounding the nucleon system.
 
-Electrons localize within pre-existing stabilization points and follow the spatial dynamics of the orbitals.
+Their geometry continuously adapts to changes in the collective organization of nucleons.
+
+Electrons localize at the existing stabilization points and follow the spatial dynamics of the orbitals.
 
 ---
 
-### 4. Electron Adaptation Principle
+## 4. Principle of Electron Adaptation
 
 Electrons continuously seek energetic compatibility with the overall resonance of the atom.
 
@@ -1767,54 +1770,69 @@ The state of an electron is determined by:
 - orbital geometry;
 - nucleon organization;
 - the presence of other electrons;
-- modulation by the surrounding TE environment.
+- modulation of the surrounding TE environment.
 
-Electrons are adaptive elements of the atom's collective resonance.
-
----
-
-### 5. Half-Phase Balancing Principle
-
-The energetic stability of an atom is achieved through continuous balancing of half-phase energy imbalances.
-
-Imbalances of proton configurations are balanced by electrons localized in orbitals.
-
-Imbalances of neutron configurations are balanced by their internal Qn structures.
-
-An atom is a fully synchronized half-phase balancing system.
+Electrons are adaptive stabilizing elements of the atom's collective resonance.
 
 ---
 
-### 6. Collective Resonance Principle
+## 5. Principle of Half-Phase Balancing
 
-The stability of an atom is determined by:
+Energetic stability of the atom is achieved through continuous balancing of half-phase energy imbalances.
+
+The imbalance of proton configurations is balanced by electrons localized within orbitals.
+
+The imbalance of neutron configurations is balanced by their internal Qn structures.
+
+The atom is a stabilized collective half-phase balancing system.
+
+---
+
+## 6. Principle of Collective Resonance
+
+Atomic stability is determined by:
 
 - synchronization of VEU H-2 and VEU H-3 flows;
 - compatibility of Qn cycles;
-- organization of orbital resonances;
+- organization of orbital resonance;
+- reciprocal modulation between orbitals and nucleons;
 - mutual adaptation of electrons and nucleons;
-- compatibility with the surrounding TE environment.
+- compatibility with the surrounding TE organization.
 
 An atom is a collective resonance state rather than a collection of isolated objects.
 
 ---
 
-### 7. Evolution Principle
+## 7. Principle of Self-Organization
 
-As the number of nucleons increases:
+The structure of an atom is not predetermined.
 
-- the geometric complexity of orbitals increases;
-- the number of possible resonance regimes increases;
-- the diversity of electron stabilization configurations increases;
-- the complexity of the collective TE organization increases.
+It continuously self-organizes in response to nucleon configuration, orbital resonance, electron localization, and modulation of the surrounding TE environment.
 
-The periodic table is a map of discrete stable collective resonance states.
+A stable atom is a dynamic equilibrium state of collective self-organization.
 
 ---
 
-### Summary
+## 8. Principle of Evolution
 
-An atom is a stable collective TE organization of nucleons, orbitals, and electrons in which complete synchronization of VEU H-2 and VEU H-3 flows, Qn cycles, and half-phases is realized. An atom is not a sum of individual particles but a unified resonance system in which all elements continuously adapt their energetic regimes to one another and form a stable collective organizational state.
+As the number of nucleons increases:
+
+- orbital geometry becomes more complex;
+- the number of possible resonance modes increases;
+- electron stabilization configurations become more diverse;
+- the complexity of the collective TE organization increases.
+
+The periodic table is a map of discrete equilibrium states of collective TE resonance.
+
+---
+
+## Summary
+
+An atom is a stable collective TE organization of nucleons, orbitals, and electrons in which the entire system realizes common synchronization of VEU H-2 and VEU H-3 flows, Qn cycles, and half-phases.
+
+The stability of an atom is determined not by the properties of its individual components but by their continuous collective resonance, mutual adaptation, self-organization, and compatibility with the surrounding TE organization.
+
+
 
 # Chemical Bond
 
