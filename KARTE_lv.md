@@ -1959,32 +1959,33 @@ Tā nav mehānisks spēks starp atomiem, bet kolektīvas pašorganizācijas rezu
 
 # Molekula
 
-### Definīcija
+## Definīcija
 
-Molekula ir stabila vairāku atomu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā ķīmiskās saites, VEV H-2 un VEV H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu, ilgstoši sinhronizētu enerģētisko režīmu.
+Molekula ir stabila vairāku atomu kolektīva Tranzīta Enerģijas (TE) organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, ķīmisko saišu, orbitāļu rezonanses, elektronu konfigurāciju un pus-fāžu balansēšanas režīmu.
 
 Molekula nav atsevišķu atomu mehāniska summa.
 
-Tā ir jauna kolektīva TE organizācijas forma, kurai piemīt pašai savi rezonanses stāvokļi, enerģētiskās konfigurācijas un emergentās īpašības.
+Tā ir jauna kolektīva TE organizācijas forma, kurai piemīt pašai savi rezonanses režīmi, enerģētiskās konfigurācijas un emergentās īpašības.
 
 ---
 
-## Pamatprincipi
+# Pamatprincipi
 
-### 1. Kolektīvās organizācijas princips
+## 1. Kolektīvās organizācijas princips
 
 Molekula eksistē tikai tad, ja:
 
 - atomu rezonanses ir savstarpēji saderīgas;
 - ķīmiskās saites veido stabilu kopīgu organizāciju;
 - VEV H-2 un VEV H-3 plūsmas realizē kopīgus stabilus režīmus;
+- tiešās un atgriezeniskās VEV H-3 modulācijas ir savstarpēji saderīgas;
 - elektronu konfigurācijas pielāgojas kopējai rezonansei.
 
 Molekulas stabilitāti nosaka visa sistēma kopumā.
 
 ---
 
-### 2. Emerģences princips
+## 2. Emerģences princips
 
 Molekulai piemīt īpašības, kuras nepiemīt atsevišķiem tās atomiem.
 
@@ -1993,17 +1994,17 @@ Jaunās īpašības rodas no:
 - kolektīvās rezonanses;
 - kopīgās TE organizācijas;
 - atomu savstarpējās adaptācijas;
-- pus-fāžu kolektīvās balansēšanas.
+- kolektīvās pus-fāžu balansēšanas.
 
-Molekula ir jauns organizācijas līmenis ar savām īpašībām.
+Molekula ir jauns kolektīvās TE organizācijas līmenis ar savām īpašībām.
 
 ---
 
-### 3. Rezonanses ģeometrijas princips
+## 3. Rezonanses ģeometrijas princips
 
 Atomu telpiskais izvietojums nosaka:
 
-- VEV H-2 un VEV H-3 plūsmu ģeometriju;
+- VEV H-2 un VEV H-3 plūsmu kopējo ģeometriju;
 - ķīmisko saišu stabilitāti;
 - elektronu stabilizācijas konfigurācijas;
 - molekulas iespējamos rezonanses režīmus.
@@ -2012,7 +2013,7 @@ Molekulas ģeometrija ir tās kolektīvās rezonanses telpiska realizācija.
 
 ---
 
-### 4. Adaptīvās reorganizācijas princips
+## 4. Adaptīvās reorganizācijas princips
 
 Molekula nav statisks objekts.
 
@@ -2027,30 +2028,48 @@ Molekula ir dinamiski stabila TE organizācija.
 
 ---
 
-### 5. Kolektīvās balansēšanas princips
+## 5. Kolektīvās balansēšanas princips
 
 Molekulā:
 
-- lokālie disbalansi tiek sadalīti;
-- enerģētiskie spriegumi tiek minimizēti;
+- samazinās lokālie pus-fāžu disbalansi;
+- samazinās kolektīvais rezonanses spriegums;
 - ķīmiskās saites darbojas kā kolektīvās balansēšanas kanāli;
 - visa sistēma tiecas uz stabilāku rezonanses stāvokli.
 
-Molekula ir kopīgs kolektīvās balansēšanas režīms.
+Molekula ir kopīgs kolektīvās pus-fāžu balansēšanas režīms.
 
 ---
 
-### 6. Hierarhijas princips
+## 6. Pašorganizācijas princips
 
-Molekula rada jaunu organizācijas līmeni virs atoma.
+Molekulas struktūra nav iepriekš noteikta.
+
+Tā nepārtraukti pašorganizējas, pielāgojoties atomu rezonansei, ķīmisko saišu organizācijai, elektronu lokalizācijai un apkārtējās TE vides modulācijai.
+
+Stabila molekula ir dinamisks kolektīvās pašorganizācijas līdzsvara stāvoklis.
+
+---
+
+## 7. Hierarhijas princips
+
+Molekula rada jaunu kolektīvās organizācijas līmeni.
 
 Nukleoni
 
-→ atoms  
-→ ķīmiskā saite  
-→ molekula.
+↓
 
-Katrs nākamais līmenis:
+atoms
+
+↓
+
+ķīmiskā saite
+
+↓
+
+molekula.
+
+Katrs nākamais organizācijas līmenis:
 
 - saglabā iepriekšējo līmeņu organizāciju;
 - realizē jaunus kolektīvās rezonanses režīmus;
@@ -2058,10 +2077,11 @@ Katrs nākamais līmenis:
 
 ---
 
-### Kopsavilkums
+## Kopsavilkums
 
-Molekula ir stabila vairāku atomu kolektīva TE organizācija, kurā ķīmiskās saites, VEV H-2 un VEV H-3 plūsmas, orbitāļu rezonanses un elektronu konfigurācijas realizē kopīgu ilgstoši sinhronizētu režīmu. Molekula nav atomu summa, bet jauns kolektīvs rezonanses objekts ar savām enerģētiskajām konfigurācijām un emergentajām īpašībām.
+Molekula ir stabila vairāku atomu kolektīva TE organizācija, kurā visa sistēma realizē kopīgu VEV H-2 un VEV H-3 plūsmu, ķīmisko saišu, orbitāļu rezonanses, elektronu konfigurāciju un pus-fāžu balansēšanas režīmu.
 
+Molekula nav atomu mehāniska summa, bet jauns kolektīvās TE organizācijas līmenis ar saviem rezonanses režīmiem, enerģētiskajām konfigurācijām un emergentajām īpašībām.
 
 
 # Makromolekula
