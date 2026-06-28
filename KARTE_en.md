@@ -1836,104 +1836,127 @@ The stability of an atom is determined not by the properties of its individual c
 
 # Chemical Bond
 
-### Definition
+## Definition
 
-A chemical bond is a stable collective organization of multiple atoms in Transit Energy (TE), in which H-2 and H-3 flows, orbital resonances, and electron configurations realize a common energetically more favorable synchronization regime.
+A chemical bond is a stable collective Transit Energy (TE) organization of multiple atoms in which the entire system realizes a common regime of VEU H-2 and VEU H-3 flows, orbital resonance, electron configuration, and half-phase balancing.
 
 A chemical bond is not a force that pulls atoms together.
 
-It is a consequence of collective TE self-organization, in which multiple atoms form a common resonance system with lower energetic tension and higher half-phase compatibility.
+It is the result of collective TE self-organization in which multiple atoms form a common resonance system with lower energetic tension, reduced half-phase imbalance, and higher overall organizational compatibility.
 
 ---
 
-## Fundamental Principles
+# Fundamental Principles
 
-### 1. Collective Resonance Principle
+## 1. Principle of Collective Resonance
 
-Atoms can form a common organization only when:
+Atoms can form a common organization only if:
 
 - orbital resonances are mutually compatible;
-- H-2 and H-3 flows can realize common stable regimes;
+- VEU H-2 and VEU H-3 flows can realize common stable regimes;
+- direct and feedback VEU H-3 modulations become mutually compatible;
 - electron configurations can adapt to the collective organization.
 
 A chemical bond is a collective resonance state.
 
 ---
 
-### 2. Energetic Favorability Principle
+## 2. Principle of Energetic Favorability
 
 A chemical bond forms when:
 
-the total energetic tension of the system
+- the overall half-phase energetic imbalance of the system decreases;
+- synchronization of the VEU H-2 and VEU H-3 flows increases;
+- a more stable collective TE organization is established.
 
-↓
-
-decreases.
-
-The bonded state is more stable than the state of isolated atoms.
+The bonded state is more stable than the isolated atomic state.
 
 ---
 
-### 3. Orbital Overlap Principle
+## 3. Principle of Orbital Resonance Overlap
 
-Orbitals are not rigid boundaries.
+Orbitals are not rigid spatial boundaries.
 
-Their resonance zones can:
+Their resonance regions can:
 
 - overlap;
 - reorganize;
-- form common stabilization points.
+- create common stabilization points.
 
-Within these regions, electrons localize in a common resonance system.
+Within these regions, electrons localize as part of a shared resonance system.
 
 ---
 
-### 4. Electron Adaptation Principle
+## 4. Principle of Electron Adaptation
 
 Electrons do not create the chemical bond.
 
-Electrons adapt to:
+They adapt to:
 
 - the collective orbital resonance;
-- the organization of H-2 and H-3 flows;
-- the collective half-phase balancing.
+- the organization of VEU H-2 and VEU H-3 flows;
+- collective half-phase balancing.
 
-The electron configuration is a consequence of the chemical bond rather than its primary cause.
+Electron configuration is the result of collective resonance adaptation rather than the primary cause of chemical bonding.
 
 ---
 
-### 5. Half-Phase Balancing Principle
+## 5. Principle of Half-Phase Balancing
 
 During bond formation:
 
 - local half-phase imbalances decrease;
+- orbital resonance tension decreases;
 - collective synchronization increases;
-- a more stable TE organization emerges.
+- a more stable TE organization is formed.
 
-A chemical bond is a shared half-phase balancing regime.
+A chemical bond is a collective half-phase balancing regime.
 
 ---
 
-### 6. Hierarchy Principle
+## 6. Principle of Hierarchy
 
 A chemical bond creates a new level of collective organization.
 
 Atoms
 
-→ common resonance  
-→ common TE organization  
-→ molecular structure.
+↓
 
-A molecule is not a sum of atoms.
+collective resonance
+
+↓
+
+collective TE organization
+
+↓
+
+chemical bond
+
+↓
+
+molecular organization.
+
+A molecule is not the sum of atoms.
 
 It is a new form of collective TE organization.
 
 ---
 
-### Summary
+## 7. Principle of Self-Organization
 
-A chemical bond is a stable collective TE organization of multiple atoms in which H-2 and H-3 flows, orbital resonances, and electron configurations realize a common energetically more favorable half-phase synchronization regime and create a new level of molecular organization.
+A chemical bond is not a predetermined structure.
 
+It continuously self-organizes in response to atomic resonance, orbital geometry, electron localization, and modulation of the surrounding TE environment.
+
+A stable chemical bond is a dynamic equilibrium state of collective self-organization.
+
+---
+
+## Summary
+
+A chemical bond is a stable collective TE organization of multiple atoms in which the entire system realizes a common regime of VEU H-2 and VEU H-3 flows, orbital resonance, electron configuration, and half-phase balancing.
+
+It is not a mechanical force acting between atoms but the result of collective self-organization that creates a new level of molecular TE organization.
 
 
 
