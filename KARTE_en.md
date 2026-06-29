@@ -275,6 +275,12 @@ The modulation of Hn Transit Energy flows is, in turn, determined by the influen
 
 **Definition:** A Matrix is the first level of organization above the level of Vertical Energy Units (VEUs), in which VEUs organize into interconnected pairs and realize Absolute Synchronization as organized space. Identification number — ID1.
 
+#### Time as a Fundamental Property of the Matrix
+
+In Matrix Theory, space and time are inseparable properties of the absolute foundation. The minimum unit of space is the Matrix point, while the minimum unit of time is the rotation cycle of that point. The entire Matrix is absolutely synchronized, and this synchronization is maintained by the Vertical.
+
+Therefore, time does not depend on energy flows or on the state of physical objects. Only energy objects and their complex cyclic energy rhythms may change. Clocks register changes in these process rhythms rather than changes in time itself.
+
 ### Fundamental Principles
 
 1. **Principle of First Organization**
