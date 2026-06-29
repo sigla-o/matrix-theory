@@ -226,6 +226,12 @@ Vertikāle nosaka kopējos organizācijas principus, savukārt Horizontāles nod
 ### Definīcija
 Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību matrica, kurā notiek diskrēta evolūcija pa secīgiem ID līmeņiem, kuru apraksts dots Ievadā.
 
+#### Laiks kā Matricas fundamenta īpašība
+
+Matricas teorijā telpa un laiks ir absolūtā fundamenta neatņemamas īpašības. Telpas minimālā vienība ir Matricas punkts, bet laika minimālā vienība ir šī punkta rotācijas cikls. Visa Matrica ir absolūti sinhronizēta, un tās cikliskumu nodrošina Vertikāle.
+
+Tādēļ laiks nav atkarīgs no enerģijas plūsmām vai fizikālo objektu stāvokļa. Mainīties var tikai paši enerģijas objekti un to kompleksie cikliskie enerģētiskie ritmi. Pulksteņi reģistrē šo procesu ritmu izmaiņas, nevis paša laika izmaiņas.
+
 ## Pamatprincipi
 
 1. **Sekundaritāte**
