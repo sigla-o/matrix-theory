@@ -49,15 +49,37 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 
 ## 2. Mionu dzīves ilgums un laika dilatācija
 
-**Standarta modeļa skatījums:** Ātri kustošu mionu dzīves ilgums pagarinās atbilstoši Lorenca faktoram. Tas ir tiešs pierādījums laika relativitātei — laiks kustībā rit lēnāk.
+### Standarta modeļa skatījums
 
-**Matricas teorijas skatījums:** Laiks ir absolūts (17.1), Q1 cikli ir fundamentālā laika vienība. "Laika dilatācija" ir objekta ģeometriskas izstiepšanās sekas, ko veic Transformācijas zona (TZ), lai kompensētu plūsmu nesaderību.
+Ātri kustošu mionu dzīves ilgums pagarinās atbilstoši Lorenca faktoram. Tas tiek interpretēts kā tiešs pierādījums relativitātes teorijai — kustībā laiks rit lēnāk nekā miera sistēmā.
 
-**Matricas teorijas atbilde:**
->Mions kā TE plūsmas pārejas diapazona marķieris starp cikliskiem kanāliem un fotonu
+### Matricas teorijas skatījums
 
-* **TE loģika un SP arhitektūra:** Mions nav autonoma "smagā daļiņa" ar relativistiski elastīgu laika dimensiju, bet gan tiešs fāžu pārejas diapazona pārstāvis telpas diskrētajā aparatūrā (L0). Tas atrodas uz sliekšņa, kur noslēgti, stabili cikliskie EM kanāli (elektrona līmenis) pārtop pilnībā atvērtā, taisnvirziena brīvās energiijas plūsmā (fotona līmenis). Mions miera stāvoklī ir kritiski pārslogota 7 punktu kubu (Q1) sistēma, kuras iekšējā TE plūsmas rotācija katrā ciklā uzkrā j fāžu asimetriju. Sasniedzot fiksētu iekšējo rotāciju skaitu (N), fāžu kabatas vairs nespēj noslēgties, struktūra zaudē cikliskumu un sabrūk, sadaloties atpakaļ stabilā noslēgtā ciklā (elektronā) un brīvās plūsmās (neitrīno).
-* **Kustības un fāžu pārejas mehānika:** Kad mions pārvietojas ar ātrumu v -> c, tā Transformācijas zona (TZ) kustības asī ģeometriski izstiepj 7 punktu kubu struktūru, lai salāgotu fāzes kārtību ar fona režģi. Šīs deformācijas dēļ iekšējai TE plūsmai ir jāveic fiziski garāks, spirālveida ceļš caur matricas mezgliem, lai noslēgtu vienu pilnu rotācijas apli (iekšējo ciklu). Tā kā fona matricas pusfāžu taktis (absolūtais laiks) rit konstanti, katrs miona cikls patērē vairāk fona taktu, tīri mehāniski attālinot sabrukšanas sliekšņa (N) sasniegšanu un radot laika dilatācijas ilūziju. Sasniedzot pilnu gaismas ātrumu (1 solis pusfāzes taktī), iekšējā rotācija apstājas pilnībā, noslēgtais kubs "atrotas" vaļā un mions pārtop par fotonu — vaļēju plūsmu bez iekšējiem cikliem, kuras stabilitāte ir absolūta. Vēsturiski apstiprināts spoguļattēls šim procesam ir pāru produkcija (Breita-Vīlera process): kad fotons tiek mākslīgi nobremzēts sadursmē vai spēcīgā laukā (v -> 0), atvērtā plūsma nespējot virzīties uz priekšu momentāni noslēdzas lokālos 7 punktu kubos, pārtopot materiālās daļiņās ar miera masu (elektronā un pozitronā).
+Matricas teorijā laiks ir absolūts (17.1). Tā minimālā vienība ir Matricas punkta rotācijas cikls (Q1), kas nav atkarīgs no enerģijas plūsmām vai fizikālo objektu stāvokļa. Tādēļ laika ritējums nevar mainīties. Mainīties var tikai enerģijas objektu organizācija un to enerģētiskais balanss ar apkārtējo Matricas vidi.
+
+### Matricas teorijas atbilde
+
+#### Mions kā TE plūsmas pārejas diapazona marķieris starp cikliskiem kanāliem un fotonu
+
+Mions nav autonoma "smagā daļiņa" ar relativistiski elastīgu laika dimensiju, bet gan pārejas diapazona enerģijas objekts Matricas diskrētajā telpiskajā aparatūrā (L0). Tas atrodas uz robežas starp noslēgtiem, stabiliem elektromagnētiskajiem cikliem (elektrona līmeni) un pilnībā atvērtu, taisnvirziena brīvās enerģijas plūsmu (fotona līmeni).
+
+Mions ir slēgta tipa enerģijas objekts, kura eksistenci nosaka konkrēts enerģētiskā balansa stāvoklis starp tā iekšējo TE plūsmu un apkārtējo Matricas vidi. Šis balanss ir vienīgā iespējamā miona pastāvēšanas forma. Kamēr tas tiek uzturēts, mions saglabā savu ciklisko organizāciju. Tiklīdz balanss vairs nevar tikt uzturēts, noslēgtā struktūra kļūst nestabila un pāriet citā, enerģētiski saderīgā konfigurācijā.
+
+#### Kustības un fāžu pārejas mehānika
+
+Palielinoties miona kustības ātrumam un tuvojoties gaismas ātrumam, tā Transformācijas zona (TZ) kustības virzienā ģeometriski izstiepj 7 punktu kuba struktūru, lai saglabātu fāžu saderību ar Matricas režģi. Šīs deformācijas rezultātā iekšējai TE plūsmai jāveic garāks spirālveida ceļš caur Matricas mezgliem, lai noslēgtu vienu pilnu iekšējo ciklu.
+
+Tā kā Matricas pusfāžu takts jeb absolūtais laiks rit nemainīgā tempā, katrs miona iekšējais cikls aizņem lielāku skaitu fundamentālo Matricas taktu. Vienlaikus kustības ātrums nosaka arī miona enerģētiskā balansa konfigurāciju ar apkārtējo vidi. Kamēr šis balanss saglabājas, mions turpina eksistēt. Tiklīdz nepieciešamo balansu vairs nav iespējams uzturēt, noslēgtā cikliskā struktūra zaudē stabilitāti un pāriet citā enerģētiski saderīgā stāvoklī.
+
+Tādēļ novērotais miona pastāvēšanas ilgums Matricas teorijā netiek interpretēts kā laika plūsmas izmaiņa. Tas raksturo konkrētās enerģētiskā balansa konfigurācijas stabilitātes ilgumu absolūtā Matricas laikā.
+
+Sasniedzot pilnu gaismas ātrumu (viens Matricas solis vienā pusfāzes taktī), noslēgtā cikliskā struktūra vairs nevar pastāvēt un pāriet pilnībā atvērtā enerģijas plūsmas režīmā — fotonā.
+
+Šī procesa eksperimentāli novērojamais pretējais virziens ir Breita–Vīlera pāru produkcija, kur augstas enerģijas fotons, mijiedarbojoties ar piemērotu vidi, pāriet noslēgtā cikliskā konfigurācijā, veidojot elektrona–pozitrona pāri.
+
+### Secinājums
+
+Relativitātes teorija miona pastāvēšanas ilguma pieaugumu interpretē kā laika dilatāciju. Matricas teorija to skaidro ar kustības izraisītām izmaiņām objekta ģeometrijā, enerģētiskajā balansā un iekšējo ciklu realizācijā nemainīgā Matricas laikā. Mainās nevis laiks, bet pats enerģijas objekts.
 
 ---
 
