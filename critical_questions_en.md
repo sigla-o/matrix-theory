@@ -50,15 +50,37 @@ This document supplements `FAQ_en.md`, which provides concise answers to frequen
 
 ## 2. Muon Lifetime and Time Dilation
 
-**Standard Model view:** Fast-moving muons have an extended lifetime according to the Lorentz factor. This is direct evidence for the relativity of time — time runs slower in motion.
+### Standard Model Perspective
 
-**Matrix Theory view:** Time is absolute (17.1); Q1 cycles are the fundamental time unit. "Time dilation" is the consequence of geometric stretching of the object, performed by the Transformation Zone (TZ) to compensate for flow incompatibility.
+The lifetime of fast-moving muons increases according to the Lorentz factor. This is interpreted as direct evidence for relativity: time flows more slowly in a moving reference frame than in a stationary one.
 
-**Matrix Theory answer:**
-> The Muon as a TE Flux Transition Range Marker Between Cyclic Channels and Photons
+### Matrix Theory Perspective
 
-* **TE Logic and SP Architecture:** The muon is not an autonomous "heavy particle" possessing a relativistically elastic time dimension, but rather a direct representative of the phase transition range within the discrete hardware of space (L0). It exists on the threshold where closed, stable cyclic EM channels (the electron level) transform into fully open, rectilinear free energy flux (the photon level). At rest, a muon is a critically overloaded system of 7-point cubes (Q1), where internal TE flux rotation accumulates phase asymmetry with each cycle. Upon reaching a fixed number of internal rotations (N), the phase pockets can no longer close, the structure loses cyclicity, and it decays, splitting back into a stable closed cycle (an electron) and free fluxes (neutrinos).
-* **Mechanics of Motion and Phase Transition:** When the muon moves at velocities v -> c, its Transformation Zone (TZ) geometrically elongates the 7-point cube structure along the axis of travel to align phase alignment with the background grid. Due to this deformation, the internal TE flux must traverse a physically longer, helical path through the matrix nodes to complete a single full rotation loop (internal cycle). Since the background matrix half-phase ticks (absolute time) flow constantly, each muon cycle consumes more background ticks, purely mechanically delaying the attainment of the decay threshold (N) and creating the illusion of time dilation. Upon reaching the full speed of light (1 step per half-phase tick), internal rotation stops entirely, the closed cube "unrolls," and the muon transforms into a photon — an open flux devoid of internal cycles, making its stability absolute. Historically verified as pair production (the Breit-Wheeler process), the exact mirror image occurs when a photon is artificially decelerated in a collision or strong field (v -> 0): unable to propagate forward, the open flux instantly closes into localized 7-point cubes, transforming into material particles with rest mass (an electron and a positron).
+In Matrix Theory, time is absolute (17.1). Its fundamental unit is the rotation cycle of a Matrix point (Q1), independent of energy flows or the state of physical objects. Therefore, the flow of time cannot change. Only the organization of energy objects and their energy balance with the surrounding Matrix environment may change.
+
+### Matrix Theory Explanation
+
+#### The Muon as a TE Flow Transition Range Between Cyclic Channels and the Photon
+
+A muon is not an autonomous "heavy particle" possessing a relativistically elastic time dimension. Instead, it is a transitional energy object within the Matrix's discrete spatial architecture (L0). It occupies the boundary between stable closed electromagnetic cycles (the electron level) and completely open, straight-line free-energy flow (the photon level).
+
+The muon is a closed energy object whose existence is determined by a specific energy-balance configuration between its internal TE flow and the surrounding Matrix environment. This balance is the only possible form of the muon's existence. As long as it is maintained, the muon preserves its cyclic organization. Once the balance can no longer be sustained, the closed structure becomes unstable and transforms into another energetically compatible configuration.
+
+#### Motion and Phase-Transition Mechanics
+
+As the muon's velocity increases toward the speed of light, its Transformation Zone (TZ) geometrically stretches the seven-point cube along the direction of motion in order to maintain phase compatibility with the Matrix lattice. As a result, the internal TE flow must follow a longer spiral path through the Matrix nodes to complete one full internal cycle.
+
+Since the Matrix half-phase clock—that is, absolute time—advances at a constant rate, each internal muon cycle requires a greater number of fundamental Matrix ticks. At the same time, the velocity determines the muon's energy-balance configuration with the surrounding environment. As long as this balance is maintained, the muon continues to exist. Once the required balance can no longer be sustained, the closed cyclic structure loses stability and transforms into another energetically compatible state.
+
+Therefore, the observed muon lifetime is not interpreted in Matrix Theory as a change in the flow of time. It represents the duration for which a particular energy-balance configuration remains stable within absolute Matrix time.
+
+Upon reaching the speed of light (one Matrix step per half-phase tick), the closed cyclic structure can no longer exist and transitions into a completely open energy-flow state—the photon.
+
+The experimentally observed reverse process is Breit–Wheeler pair production, in which a sufficiently energetic photon interacting with an appropriate environment transforms into a closed cyclic configuration, producing an electron–positron pair.
+
+### Conclusion
+
+Relativity interprets the increased lifetime of fast-moving muons as time dilation. Matrix Theory interprets the same observation as a consequence of motion-induced changes in the object's geometry, energy balance, and realization of its internal cycles while absolute Matrix time remains unchanged. It is not time that changes, but the energy object itself.
 
 ---
 
