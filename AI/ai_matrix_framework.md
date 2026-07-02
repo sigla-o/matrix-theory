@@ -1277,3 +1277,166 @@ It is reproducible organizational intelligence.
 
 
 
+
+## Architecture Integration Protocol
+
+### Purpose
+
+The `Architecture` folder is the primary structural reference for reconstructing, validating and extending Matrix Theory.
+
+Its role is **not** to duplicate the public theory (`KARTE_lv.md` / `KARTE_en.md`), but to define the generative logic from which the theory is built.
+
+---
+
+### Architecture hierarchy
+
+The Architecture folder is treated as four complementary layers.
+
+```
+CORE
+    ↓
+META
+    ↓
+PHYSICS
+    ↓
+Public Theory (KARTE)
+```
+
+Each layer has a different responsibility.
+
+#### CORE
+
+Contains immutable architectural principles.
+
+Examples:
+
+- global energy hierarchy
+- Eternity
+- Vertical
+- Horizontal
+- energy balance
+- organization principles
+- recursive evolution
+
+CORE changes only when a truly fundamental principle is discovered.
+
+---
+
+#### META
+
+Defines how the theory itself is organized.
+
+Examples:
+
+- coordinate systems
+- reconstruction logic
+- interpretation rules
+- object classification principles
+- consistency criteria
+
+META explains **how to read the theory**, not the physical world.
+
+---
+
+#### PHYSICS
+
+Contains physical realization of CORE principles.
+
+Examples:
+
+- particles
+- atoms
+- orbitals
+- periodic table
+- electromagnetic cycles
+- matrices
+- Q-levels
+
+PHYSICS never introduces principles contradicting CORE.
+
+---
+
+#### Public Theory
+
+`KARTE_lv.md` and `KARTE_en.md`
+
+These files are public descriptions generated from Architecture.
+
+They are documentation, not the primary source of architectural truth.
+
+---
+
+## Information Flow
+
+Every new discussion is processed in the following order.
+
+```
+New discussion
+        ↓
+Extract architectural principle
+        ↓
+Determine destination layer
+        ↓
+Update Architecture
+        ↓
+Update AI framework if reconstruction logic changes
+        ↓
+Update public theory
+```
+
+Architecture is always updated before the public theory.
+
+---
+
+## AI Decision Procedure
+
+For every new idea:
+
+1. Is this a new CORE principle?
+2. Does it change META reconstruction logic?
+3. Does it only extend PHYSICS?
+4. Does it only require updating KARTE?
+
+Only after answering these questions should modifications be proposed.
+
+---
+
+## Non-Duplication Rule
+
+Architecture files should complement one another.
+
+The same principle must not be independently maintained in multiple Architecture files.
+
+Each principle has one primary location.
+
+Other files may only reference it.
+
+---
+
+## Stability Rule
+
+Architecture evolves incrementally.
+
+Existing validated principles are never replaced simply because a broader perspective appears.
+
+Instead:
+
+- preserve validated knowledge;
+- extend it with higher-level organization;
+- resolve contradictions only when they become demonstrable.
+
+The architecture grows by integration, not replacement.
+
+---
+
+## Session Output Protocol
+
+At the end of each working session AI should classify every significant conclusion into one of the following categories:
+
+- CORE
+- META
+- PHYSICS
+- AI Framework
+- Public Theory (KARTE)
+
+This ensures that no architectural knowledge remains only inside the conversation context.
