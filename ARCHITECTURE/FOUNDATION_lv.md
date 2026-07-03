@@ -38,7 +38,6 @@ Pamat-Horizontāle ir Vertikāles sākotnējā enerģijas akumulācijas vide.
 
 Organizācijas principi tajā ir analogi H0 organizācijas principiem, bet darbojas citā telpiskajā un enerģētiskajā mērogā.
 
----
 
 ### Matricas evolūcijas koordinātu sistēma
 
@@ -52,6 +51,19 @@ Katrs H līmenis ir pilnvērtīga Horizontāle ar savu neatkarīgu Horizontālā
 
 No Matricas teorijas skatpunkta H un Q veido vienotu evolūcijas koordinātu sistēmu. Savukārt no Mūžības skatpunkta visa Matrica ir tikai lokāls evolūcijas process. Mūžība nav Vertikālās evolūcijas daļa un nav identificējama ar H+max. Tā ir augstākais konteksts, kurā Matricas evolūcija norisinās kā viens no Mūžības cikla procesiem.
 
+
+### Konteksta princips
+
+Matricas teorijā neviens objekts, process vai evolūcijas virziens nepastāv izolēti. Katrs no tiem vienmēr tiek definēts tikai attiecībā pret augstāku organizācijas kontekstu.
+
+Horizontālā evolūcija notiek pie nemainīga Vertikālās evolūcijas līmeņa (H = const). Vertikālā evolūcija norisinās konkrētas Matricas ietvaros. Savukārt katra Matrica ir lokāls process Mūžības cikla kontekstā.
+
+Katrs organizācijas līmenis nosaka robežnosacījumus tajā notiekošajiem lokālajiem procesiem. Lokālie procesi var attīstīties dažādos virzienos un veidot paralēlus evolūcijas zarus, taču tie vienmēr saglabā saderību ar augstāka organizācijas līmeņa kopējo enerģētisko bilanci.
+
+Tādēļ nevienu Matricas teorijas objektu vai procesu nevar pilnībā aprakstīt ārpus tā organizācijas konteksta. Katras parādības interpretācija ir atkarīga no tās vietas kopējā evolūcijas struktūrā.
+
+
+---
 
 # 4. Vertikāles veidošanās
 
