@@ -38,6 +38,18 @@ The Fundamental Horizontal is the initial environment for energy accumulation.
 
 Its organizational principles are analogous to those of H0, while operating at different energetic and spatial scales.
 
+### Coordinate System of Matrix Evolution
+
+In Matrix Theory, evolution is described by two mutually orthogonal coordinate axes: Vertical (H) and Horizontal (Q). Each axis represents a distinct evolutionary process and cannot be reduced to the other.
+
+**Vertical Evolution (H)** describes the sequential transition between Horizontals. Its direction extends from H+max toward H-min, where H0 corresponds to the observable Universe. Vertical Evolution is always directed toward increasingly finer energy organization, since finer organization provides greater stability and a higher probability of long-term energy-object existence.
+
+Each H level is a complete Horizontal containing its own independent Horizontal evolutionary process. Transition to the next Vertical level is possible only after complete energy balance has been achieved within the corresponding Horizontal.
+
+**Horizontal Evolution (Q)** occurs at a constant H level (H = const) and describes local organizational development from Q1 to Qmax. It determines the structural complexity of objects within a given Horizontal but does not directly alter the identity of the Vertical Evolution Unit (VEU).
+
+From the perspective of Matrix Theory, H and Q together form a unified coordinate system of evolution. From the perspective of Eternity, however, the entire Matrix is only a local evolutionary process. Eternity is not a part of Vertical Evolution and cannot be identified with H+max. Instead, it is the higher-order context within which Matrix evolution unfolds as one process of the Eternity Cycle.
+
 ---
 
 # 4. Formation of a Vertical
