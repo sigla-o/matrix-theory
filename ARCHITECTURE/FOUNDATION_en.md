@@ -50,6 +50,17 @@ Each H level is a complete Horizontal containing its own independent Horizontal 
 
 From the perspective of Matrix Theory, H and Q together form a unified coordinate system of evolution. From the perspective of Eternity, however, the entire Matrix is only a local evolutionary process. Eternity is not a part of Vertical Evolution and cannot be identified with H+max. Instead, it is the higher-order context within which Matrix evolution unfolds as one process of the Eternity Cycle.
 
+### Principle of Context
+
+In Matrix Theory, no object, process, or evolutionary direction exists in isolation. Each is defined only in relation to a higher organizational context.
+
+Horizontal Evolution occurs at a constant Vertical Evolution level (H = const). Vertical Evolution unfolds within a specific Matrix. Each Matrix, in turn, is a local process within the Eternity Cycle.
+
+Every organizational level establishes the boundary conditions for the local processes occurring within it. Local processes may develop along different paths and form parallel evolutionary branches, yet they must always remain compatible with the overall energy balance of the higher organizational level.
+
+Therefore, no object or process in Matrix Theory can be fully understood outside its organizational context. The interpretation of every phenomenon depends on its position within the overall evolutionary structure.
+
+
 ---
 
 # 4. Formation of a Vertical
