@@ -30,6 +30,23 @@ Visi organizācijas procesi notiek pēc ligzdotās struktūras (objekts-objektā
 
 Atsevišķi vienādi evolūcijas procesi veido paralēlus evolūcijas zarus. Šie zari var attīstīties neatkarīgi, savstarpēji mijiedarboties vai apvienoties, izveidojot jaunu kopīgu organizācijas līmeni, ja tiek sasniegta pilnīga enerģētiskā bilance. Tādējādi Matricas evolūcija ir vienlaikus hierarhiska, paralēla un rekursīva.
 
+### Trīs-virzienu enerģētiskais balanss
+
+Matricas teorijā evolūcijas virzienus nenosaka nejaušība vai iepriekš fiksēta determinēta secība. Tos nosaka trīs-virzienu enerģētiskais balanss (H-H-V), kas definē konkrētās organizācijas iespēju telpu.
+
+Enerģētiskais balanss vienlaikus nosaka:
+
+* sistēmas stabilitātes robežas;
+* pieļaujamos evolūcijas virzienus;
+* optimālās organizācijas trajektorijas.
+
+Brīvība Matricas teorijā nav absolūta. Tā ir iespēju kopums, kuru pieļauj konkrētais H-H-V enerģētiskais balanss. Vienā un tajā pašā organizācijas līmenī var eksistēt vairāki paralēli evolūcijas zari, ja tie visi saglabā kopējo enerģētisko saderību.
+
+Ja dažādi evolūcijas zari sasniedz savstarpēji saderīgu enerģētisko bilanci, tie var apvienoties vienotā augstāka organizācijas līmenī. Ja šāda bilance netiek sasniegta, zari turpina attīstīties neatkarīgi.
+
+Tādējādi H-H-V enerģētiskais balanss neierobežo evolūciju līdz vienam obligātam ceļam, bet nosaka optimālo evolūcijas iespēju telpu, kurā sistēma var attīstīties, saglabājot kopējo enerģētisko stabilitāti.
+
+
 
 ---
 
