@@ -28,6 +28,18 @@ An increase in energy balance enables the emergence of the next organizational l
 
 Without an increase in energy balance, evolution cannot occur.
 
+
+### Energy Balance Principle
+
+Each new level of organization can emerge only after the previous level has achieved complete energy balance.
+
+Energy balance is the boundary condition governing the transition between evolutionary levels. Until this balance is reached, the system continues to reorganize within its current level of organization. All changes during this stage represent reconfigurations of the existing level rather than the formation of a new organizational level.
+
+No higher level of organization can compensate for an energy imbalance remaining at a lower level. Every level must first complete its own energy balance before becoming a stable foundation for the next evolutionary level.
+
+This principle is universal and applies to every organizational level described by Matrix Theory, from electromagnetic cycles to complex hierarchical structures. Evolution is therefore not a continuous ascent but a sequential formation of stable energy organizations, where each successive level is built upon the complete stabilization of the previous one.
+
+
 ---
 
 # 3. Organizational Continuity
