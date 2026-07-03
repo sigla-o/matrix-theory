@@ -46,6 +46,19 @@ Ja dažādi evolūcijas zari sasniedz savstarpēji saderīgu enerģētisko bilan
 
 Tādējādi H-H-V enerģētiskais balanss neierobežo evolūciju līdz vienam obligātam ceļam, bet nosaka optimālo evolūcijas iespēju telpu, kurā sistēma var attīstīties, saglabājot kopējo enerģētisko stabilitāti.
 
+### Enerģētiskās atlases princips
+
+Matricas teorijā pāreju starp Vertikālās evolūcijas līmeņiem nenosaka nejaušība vai ārēja atlase. To nosaka enerģētiskā saderība.
+
+Horizontālās evolūcijas laikā objekti attīstās no Q1 līdz Qmax, nepārtraukti pilnveidojot savu enerģijas organizāciju. Tomēr ne katrs sasniegtais organizācijas stāvoklis var kļūt par pamatu nākamajam Vertikālās evolūcijas līmenim.
+
+Uz nākamo Horizontāli tiek pārnestas tikai tās enerģijas organizācijas formas, kuras ir sasniegušas pilnīgu enerģētisko bilanci un ir pilnībā saderīgas ar nākamā Vertikālās evolūcijas līmeņa prasībām.
+
+Enerģētiskā atlase nav konkurences process. Tā ir dabisks enerģētiskās saderības rezultāts starp secīgiem Vertikālās evolūcijas līmeņiem.
+
+Tādējādi Horizontālā evolūcija rada iespējamos organizācijas risinājumus, savukārt Vertikālā evolūcija turpina tikai tās organizācijas formas, kuras pilnībā atbilst nākamās Horizontāles enerģētiskajai struktūrai.
+
+Šis princips nodrošina nepārtrauktu evolūcijas virzību uz arvien smalkāku, stabilāku un enerģētiski efektīvāku organizāciju, vienlaikus saglabājot kopējo Matricas enerģētisko bilanci.
 
 
 ---
