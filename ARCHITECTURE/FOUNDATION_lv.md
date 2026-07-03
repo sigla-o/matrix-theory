@@ -40,6 +40,19 @@ Organizācijas principi tajā ir analogi H0 organizācijas principiem, bet darbo
 
 ---
 
+### Matricas evolūcijas koordinātu sistēma
+
+Matricas teorijā evolūcija tiek aprakstīta divās savstarpēji ortogonālās koordinātu asīs — Vertikālajā (H) un Horizontālajā (Q). Katra ass apraksta atšķirīgu evolūcijas procesu un nav reducējama uz otru.
+
+**Vertikālā evolūcija (H)** raksturo secīgu pāreju starp Horizontālēm. Tās virziens ir no H+max uz H-min, kur H0 atbilst novērojamajam Visumam. Vertikālās evolūcijas virziens vienmēr ir orientēts uz arvien smalkāku enerģijas organizāciju, jo smalkāka organizācija nodrošina augstāku stabilitāti un lielāku enerģētiskā objekta pastāvēšanas iespēju.
+
+Katrs H līmenis ir pilnvērtīga Horizontāle ar savu neatkarīgu Horizontālās evolūcijas procesu. Pāreja uz nākamo Vertikālās evolūcijas līmeni ir iespējama tikai pēc pilnīgas enerģētiskās bilances sasniegšanas attiecīgajā Horizontālē.
+
+**Horizontālā evolūcija (Q)** notiek pie nemainīga H līmeņa (H = const) un apraksta lokālo organizācijas attīstību no Q1 līdz Qmax. Tā nosaka objektu organizācijas sarežģītību konkrētajā Horizontālē, bet tieši nemaina Vertikālās evolūcijas vienības (VEU) identitāti.
+
+No Matricas teorijas skatpunkta H un Q veido vienotu evolūcijas koordinātu sistēmu. Savukārt no Mūžības skatpunkta visa Matrica ir tikai lokāls evolūcijas process. Mūžība nav Vertikālās evolūcijas daļa un nav identificējama ar H+max. Tā ir augstākais konteksts, kurā Matricas evolūcija norisinās kā viens no Mūžības cikla procesiem.
+
+
 # 4. Vertikāles veidošanās
 
 Enerģijas akumulācija Pamat-Horizontālē izraisa Vertikāles veidošanos.
