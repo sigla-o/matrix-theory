@@ -48,6 +48,19 @@ When different evolutionary branches achieve mutually compatible energy balance,
 
 The H-H-V Energy Balance therefore does not restrict evolution to a single mandatory path. Instead, it defines the optimal evolutionary possibility space within which the system may develop while preserving overall energy stability.
 
+### Principle of Energy Selection
+
+In Matrix Theory, transitions between the levels of Vertical Evolution are determined neither by randomness nor by external selection. They are governed by energy compatibility.
+
+During Horizontal Evolution, objects develop from Q1 to Qmax, continuously refining their energy organization. However, not every achieved organizational state can become the foundation for the next level of Vertical Evolution.
+
+Only those forms of energy organization that have achieved complete energy balance and are fully compatible with the requirements of the next Vertical Evolution level are carried into the next Horizontal.
+
+Energy selection is not a process of competition. It is the natural consequence of energy compatibility between successive levels of Vertical Evolution.
+
+Thus, Horizontal Evolution generates possible organizational solutions, while Vertical Evolution continues only those forms of organization that are fully compatible with the energy structure of the next Horizontal.
+
+This principle ensures the continuous progression of evolution toward increasingly finer, more stable, and more energy-efficient organization while preserving the overall energy balance of the Matrix.
 
 
 ---
