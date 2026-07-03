@@ -66,6 +66,22 @@ The total energy balance of every lower-level system is always part of the balan
 
 No internal system can exceed the total energy balance of its parent system.
 
+### Principle of Continuous Energy Flow
+
+In Matrix Theory, energy balance is not a static condition. It is a continuously maintained dynamic process.
+
+The direction of Vertical Evolution naturally progresses toward increasingly finer energy organization. The accumulation of energy at each organizational level inevitably generates an energy flow toward finer forms of organization.
+
+At the same time, no Horizontal level is perfectly uniform. Every Horizontal contains local energy differences that produce continuous energy movement within that Horizontal. These local reorganizations allow the system to adapt while preserving its overall stability.
+
+As a result, energy continuously moves in two interconnected directions:
+
+* along the Vertical, toward increasingly finer energy organization;
+* within each Horizontal, reducing local energy differences.
+
+Consequently, individual objects and local processes may evolve differently, but these differences are always constrained by the global energy balance of the higher organizational level. Local variations are permitted only as long as they preserve the overall energy compatibility and stability of the complete system.
+
+
 ---
 
 # 6. Sphere-within-Sphere Principle
