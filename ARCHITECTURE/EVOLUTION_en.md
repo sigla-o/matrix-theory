@@ -32,6 +32,23 @@ All organizational processes follow a nested object-within-object ("Matryoshka")
 
 Equivalent evolutionary processes form parallel evolutionary branches. These branches may evolve independently, interact with one another, or merge into a new common organizational level once complete energy balance has been achieved. Matrix evolution is therefore simultaneously hierarchical, parallel, and recursive.
 
+### Three-Directional Energy Balance
+
+In Matrix Theory, evolutionary paths are determined neither by randomness nor by a predetermined deterministic sequence. They are governed by the Three-Directional Energy Balance (H-H-V), which defines the possibility space of a given organization.
+
+The energy balance simultaneously determines:
+
+* the stability boundaries of the system;
+* the permissible directions of evolution;
+* the optimal organizational trajectories.
+
+Freedom in Matrix Theory is not absolute. It is the set of possibilities permitted by the current H-H-V energy balance. Multiple parallel evolutionary branches may exist within the same organizational level, provided they all preserve overall energy compatibility.
+
+When different evolutionary branches achieve mutually compatible energy balance, they may merge into a common higher organizational level. If such balance is not achieved, the branches continue to evolve independently.
+
+The H-H-V Energy Balance therefore does not restrict evolution to a single mandatory path. Instead, it defines the optimal evolutionary possibility space within which the system may develop while preserving overall energy stability.
+
+
 
 ---
 
