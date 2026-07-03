@@ -1706,3 +1706,49 @@ For every new concept AI must determine:
 5. Whether it affects the AI reconstruction framework.
 
 The final goal is to maintain a synchronized, self-consistent and incrementally evolving Matrix Theory architecture.
+
+
+
+
+
+## Energy Balance Validation Rule
+
+### Purpose
+
+Establish a universal validation criterion for determining whether a new organizational level is permitted to emerge within Matrix Theory.
+
+### Core Rule
+
+A higher organizational level may be considered valid only if the previous organizational level has reached complete energy balance.
+
+Incomplete energy balance indicates that the observed processes remain internal reorganizations of the current level rather than the emergence of a new stable structure.
+
+### AI Validation Procedure
+
+For every proposed object, process, hierarchy, or evolutionary transition, the AI should evaluate:
+
+1. What is the immediately preceding organizational level?
+2. Has that level achieved complete energy balance according to Matrix Theory?
+3. If the answer is **No**, classify the proposal as:
+
+   * Internal reconfiguration
+   * Transitional process
+   * Incomplete evolution
+4. Do not recognize a new stable organizational level until complete energy balance has been demonstrated.
+
+### Architectural Consequences
+
+Energy imbalance is never transferred upward through the hierarchy.
+
+Each organizational level must resolve its own energy state before serving as the structural foundation for the next level.
+
+This rule applies universally across all Matrix Theory domains, including electromagnetic cycles, orbitals, atoms, molecules, B-cycles, H-horizons, VEU structures, and any future extensions.
+
+### Reconstruction Priority
+
+During theory reconstruction, this rule has higher priority than local structural similarities.
+
+Whenever a proposed interpretation conflicts with the Energy Balance Validation Rule, the interpretation should be considered architecturally incompatible until additional theoretical justification is provided.
+
+**Classification:** Universal AI Validation Rule
+
