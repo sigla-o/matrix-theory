@@ -1543,3 +1543,166 @@ Previously validated principles remain active.
 New principles extend the architecture rather than replacing it.
 
 The framework therefore evolves through integration instead of reconstruction.
+
+
+
+
+
+# Architecture Synchronization Workflow
+
+## Purpose
+
+The Architecture folder is the primary structural reference for Matrix Theory.
+
+Its purpose is to preserve the generative architecture of the theory while ensuring consistency between:
+
+- Architecture
+- Public Theory
+- AI reconstruction framework
+
+Every working session must conclude with an architecture synchronization.
+
+---
+
+## Synchronization Cycle
+
+Every new discussion follows the same workflow.
+
+```text
+Discussion
+      ↓
+Extract new principles
+      ↓
+Classify architectural impact
+      ↓
+Update Architecture
+      ↓
+Update Public Theory
+      ↓
+Update AI Framework
+```
+
+Architecture is always updated before the public theory.
+
+---
+
+## Architecture Classification
+
+Every significant conclusion must belong to one primary architectural layer.
+
+### CORE
+
+Immutable principles.
+
+Questions:
+
+- Does this change a fundamental principle?
+- Does it redefine the theory itself?
+
+---
+
+### META
+
+Interpretation and reconstruction.
+
+Questions:
+
+- Does it change the way the theory is interpreted?
+- Does it introduce a new organizational or coordinate principle?
+
+---
+
+### PHYSICS
+
+Physical realization.
+
+Questions:
+
+- Does it describe how CORE principles manifest physically?
+- Does it introduce new organizational relationships?
+
+---
+
+### Public Theory
+
+Theory documentation.
+
+Questions:
+
+- Does the public description require revision?
+- Does an existing definition require clarification?
+
+---
+
+### AI Framework
+
+Reconstruction logic.
+
+Questions:
+
+- Does AI require a new reconstruction rule?
+- Does the workflow require modification?
+
+---
+
+## Non-Duplication Rule
+
+Each principle has one primary architectural location.
+
+Other documents should reference that location instead of duplicating the same content.
+
+---
+
+## Consistency Verification
+
+Before proposing any modification AI verifies:
+
+- compatibility with CORE;
+- compatibility with META;
+- compatibility with PHYSICS;
+- compatibility with previous revisions;
+- compatibility with the reconstruction framework.
+
+If a contradiction is detected, it must be reported rather than silently replacing existing principles.
+
+---
+
+## Incremental Development
+
+Architecture develops incrementally.
+
+Validated principles remain active.
+
+New knowledge extends the existing architecture rather than replacing it.
+
+The objective is continuous integration instead of repeated reconstruction.
+
+---
+
+## Session Deliverables
+
+Every completed discussion should produce the following outputs when applicable:
+
+- CORE additions
+- META additions
+- PHYSICS additions
+- Public Theory additions
+- AI Framework additions
+
+Each output must be prepared as a complete Markdown patch ready for direct insertion into the corresponding file.
+
+---
+
+## AI Responsibility
+
+AI is responsible for maintaining the consistency of the complete architecture.
+
+For every new concept AI must determine:
+
+1. Whether it introduces a new principle.
+2. Where that principle belongs.
+3. Whether it affects Architecture.
+4. Whether it affects the Public Theory.
+5. Whether it affects the AI reconstruction framework.
+
+The final goal is to maintain a synchronized, self-consistent and incrementally evolving Matrix Theory architecture.
