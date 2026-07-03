@@ -66,6 +66,22 @@ Katras zemākas sistēmas kopējā enerģētiskā bilance vienmēr ir daļa no a
 
 Neviena iekšējā sistēma nevar pārsniegt ārējās sistēmas kopējo enerģētisko bilanci.
 
+### Nepārtrauktās enerģijas plūsmas princips
+
+Matricas teorijā enerģētiskā bilance nav statisks stāvoklis. Tā ir nepārtraukti uzturēts dinamisks process.
+
+Vertikālās evolūcijas virziens dabiski tiecas uz arvien smalkāku enerģijas organizāciju. Enerģijas uzkrājums katrā organizācijas līmenī neizbēgami rada enerģijas plūsmu uz smalkākām organizācijas formām.
+
+Vienlaikus neviena Horizontāle nav ideāli viendabīga. Katrā Horizontālē pastāv lokālas enerģētiskās atšķirības, kas izraisa nepārtrauktu enerģijas kustību šīs Horizontāles robežās. Šīs lokālās reorganizācijas nodrošina sistēmas pielāgošanos, neizjaucot tās kopējo stabilitāti.
+
+Rezultātā enerģija nepārtraukti pārvietojas divos savstarpēji saistītos virzienos:
+
+* pa Vertikāli — uz arvien smalkāku enerģijas organizāciju;
+* Horizontāles robežās — izlīdzinot lokālās enerģētiskās atšķirības.
+
+Tāpēc atsevišķu objektu vai lokālu procesu attīstība var atšķirties, taču šīs atšķirības vienmēr ir ierobežotas ar augstāka organizācijas līmeņa globālo enerģētisko bilanci. Lokālās novirzes ir pieļaujamas tikai tiktāl, kamēr tās saglabā visas sistēmas kopējo enerģētisko saderību un stabilitāti.
+
+
 ---
 
 # 6. Sfēra–sfērā princips
