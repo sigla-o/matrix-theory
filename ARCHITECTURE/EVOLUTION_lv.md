@@ -26,6 +26,17 @@ Enerģētiskās bilances pieaugums ļauj veidoties nākamajai organizācijas pak
 
 Bez bilances pieauguma evolūcija nav iespējama.
 
+### Enerģētiskās bilances princips
+
+Katrs jauns organizācijas līmenis var izveidoties tikai pēc tam, kad iepriekšējais līmenis ir sasniedzis pilnīgu enerģētisko bilanci.
+
+Enerģētiskā bilance ir robežnosacījums, kas nosaka pāreju starp evolūcijas līmeņiem. Kamēr šī bilance nav sasniegta, sistēma turpina reorganizēties esošajā organizācijas līmenī. Visas izmaiņas šajā periodā ir iepriekšējā līmeņa konfigurācijas pārkārtojumi, nevis jauna organizācijas līmeņa veidošanās.
+
+Neviens augstāks organizācijas līmenis nevar kompensēt zemāka līmeņa enerģētisko nelīdzsvarotību. Katram līmenim vispirms jānoslēdz sava pilnā enerģētiskā bilance, un tikai pēc tam tas var kļūt par stabilu pamatu nākamajam evolūcijas līmenim.
+
+Šis princips ir universāls un attiecas uz visiem Matricas teorijas organizācijas līmeņiem — no elektromagnētiskajiem cikliem līdz sarežģītām hierarhiskām struktūrām. Tādējādi evolūcija nav nepārtraukts process, bet secīga stabilu enerģētisku organizāciju veidošanās, kur katrs nākamais līmenis balstās uz pilnībā stabilizētu iepriekšējo līmeni.
+
+
 ---
 
 # 3. Organizācijas nepārtrauktība
