@@ -18,6 +18,21 @@ Each new organizational level is built upon previously achieved organization.
 
 No organizational level develops in isolation.
 
+### Bidirectional Evolution and Nested Organization
+
+In Matrix Theory, evolution proceeds simultaneously in two interconnected directions.
+
+**Vertical evolution** advances toward increasingly finer energy organization. Its purpose is to achieve complete energy balance at each organizational level. Only after complete energy balance has been established can a new organizational level emerge.
+
+**Horizontal evolution** advances toward increasingly larger object organization. It expands the scale of the system while preserving the energy stability and overall balance of each organizational level.
+
+These two directions are inseparable. Vertical evolution determines the quality of energy organization, while horizontal evolution determines its scale. Stable Matrix evolution is possible only through the simultaneous operation of both processes.
+
+All organizational processes follow a nested object-within-object ("Matryoshka") structure. Every higher H+n object contains lower H+n−1, H0, and Qn organizational levels, which continue their own evolution within the energy balance constraints established by the higher object. Higher-level objects do not replace lower-level structures; they define the boundary conditions under which they may continue to evolve.
+
+Equivalent evolutionary processes form parallel evolutionary branches. These branches may evolve independently, interact with one another, or merge into a new common organizational level once complete energy balance has been achieved. Matrix evolution is therefore simultaneously hierarchical, parallel, and recursive.
+
+
 ---
 
 # 2. Energy Balance
@@ -85,6 +100,17 @@ Within Matrix Theory, evolution is realized through Vertical Evolution Units (VE
 Each VEU represents a specific organizational level.
 
 The sequence of VEUs forms a continuous evolutionary chain.
+
+### VEU Identity Preservation Principle
+
+Horizontal evolution may increase the organizational scale of an object, but it cannot change the object's Vertical Evolution Unit (VEU) identity.
+
+As an object develops horizontally, it retains its VEU affiliation regardless of its size, complexity, or internal organization. Horizontal development expands organizational scale but does not create a new Vertical Evolution identity.
+
+A change in VEU identity is possible only through vertical evolution, after complete energy balance has been achieved and a new level of energy organization has emerged.
+
+Thus, horizontal evolution determines the growth of an object, whereas vertical evolution determines its evolutionary identity.
+
 
 ---
 
