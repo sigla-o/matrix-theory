@@ -1440,3 +1440,106 @@ At the end of each working session AI should classify every significant conclusi
 - Public Theory (KARTE)
 
 This ensures that no architectural knowledge remains only inside the conversation context.
+
+
+
+
+# Architecture Synchronization Workflow
+
+## Purpose
+
+Every working session must end with an architectural synchronization.
+
+The goal is to ensure that newly developed concepts are integrated into the Architecture before modifying the public theory.
+
+---
+
+## Synchronization Order
+
+Every conclusion is processed in the following order.
+
+```text
+Session
+    ↓
+Extract new principles
+    ↓
+CORE
+    ↓
+META
+    ↓
+PHYSICS
+    ↓
+Theory
+    ↓
+AI Framework
+```
+
+---
+
+## Classification
+
+Every significant conclusion must belong to one primary destination.
+
+Possible destinations:
+
+- CORE
+- META
+- PHYSICS
+- Public Theory
+- AI Framework
+
+A principle should have only one primary architectural location.
+
+Other documents should reference it rather than duplicate it.
+
+---
+
+## Session Report
+
+At the end of every discussion AI produces an internal synchronization report containing:
+
+### CORE
+
+New immutable principles.
+
+### META
+
+New interpretation or reconstruction rules.
+
+### PHYSICS
+
+New physical organization principles.
+
+### Public Theory
+
+Sections requiring revision.
+
+### AI Framework
+
+Changes required for reconstruction logic.
+
+---
+
+## Consistency Verification
+
+Before proposing modifications AI verifies:
+
+- compatibility with CORE;
+- compatibility with META;
+- compatibility with PHYSICS;
+- compatibility with previous revisions;
+- compatibility with the reconstruction framework.
+
+Contradictions are reported instead of silently replacing existing principles.
+
+---
+
+## Incremental Development
+
+Architecture develops incrementally.
+
+Previously validated principles remain active.
+
+New principles extend the architecture rather than replacing it.
+
+The framework therefore evolves through integration instead of reconstruction.
