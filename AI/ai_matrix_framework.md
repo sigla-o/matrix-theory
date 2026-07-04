@@ -1844,3 +1844,12 @@ The appearance of a structure is only the beginning of analysis.
 The next analytical step is determining which mechanisms maintain synchronization over time.
 
 Long-term existence always requires continuous compatibility with the surrounding Horizontal.
+
+
+### Boundary Reconstruction
+
+AI should not assume that structural boundaries are predefined.
+
+When reconstructing any object, the effective boundary should be identified as the region over which synchronization remains stable.
+
+Changes in synchronization define changes in structure.
