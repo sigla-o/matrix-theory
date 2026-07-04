@@ -60,6 +60,17 @@ Tādējādi Horizontālā evolūcija rada iespējamos organizācijas risinājumu
 
 Šis princips nodrošina nepārtrauktu evolūcijas virzību uz arvien smalkāku, stabilāku un enerģētiski efektīvāku organizāciju, vienlaikus saglabājot kopējo Matricas enerģētisko bilanci.
 
+### Evolūcijas rezultāta pārmantošanas princips
+
+Vertikālajā evolūcijā uz nākamo Horizontāli netiek pārnesta iepriekšējā organizācijas forma. Tiek pārmantots Horizontālās evolūcijas sasniegtais optimālais Qn līmenis, kas atbilst pilnīgai enerģētiskajai bilancei un nākamās Horizontāles enerģētiskajām prasībām.
+
+Optimālais Qn raksturo sasniegto organizācijas kvalitāti, nevis konkrētu struktūru. Tādēļ katrā jaunā Horizontālē organizācija veidojas no jauna atbilstoši šī līmeņa likumsakarībām, saglabājot iepriekšējās evolūcijas sasniegto rezultātu kā sākuma nosacījumu.
+
+Līdz ar to Vertikālā evolūcija nav organizācijas formu kopēšana. Tā ir optimāla evolūcijas rezultāta pārmantošana, kas nodrošina nepārtrauktu virzību uz arvien smalkāku, stabilāku un enerģētiski efektīvāku organizāciju.
+
+Šo principu var ilustrēt ar tārpa pāreju taurenī. Pārejā netiek saglabāta iepriekšējā forma, bet tiek saglabāts evolūcijas rezultāts, kas kļūst par pamatu nākamajai attīstības stadijai.
+
+
 
 ---
 
