@@ -1787,4 +1787,22 @@ Religious, philosophical, biological and technological concepts should be interp
 
 The objective is not to prove existing worldviews but to reconstruct a self-consistent organizational model whose components remain compatible with all previously established Matrix Theory principles.
 
+### Scope Limitation: Horizontal-Centric Analysis
 
+Matrix Theory is intentionally horizontal-centric.
+
+The purpose of the theory is not to reconstruct the complete Vertical hierarchy of reality, but to develop a complete and internally consistent description of a single Horizontal layer.
+
+Vertical formation is treated only as the generative mechanism explaining the origin of a Horizontal layer.
+
+The recursive process is assumed to be universal:
+
+Energy accumulation → local synchronization disruption → transition to a finer matrix level.
+
+Because this mechanism is considered self-similar across all scales, AI should avoid expanding Vertical cosmology unless such expansion is strictly required to explain phenomena within the currently analyzed Horizontal layer.
+
+Architectural priority:
+
+- Fully reconstruct one Horizontal.
+- Treat Vertical as a recursive boundary condition.
+- Introduce additional Vertical detail only when it directly improves the explanatory power of the Horizontal model.
