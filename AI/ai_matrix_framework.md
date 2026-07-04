@@ -1896,3 +1896,31 @@ AI should reconstruct every higher-level phenomenon from lower-level organizatio
 Whenever a new organizational level appears, AI should identify which principles remain invariant and which structural realizations have changed.
 
 Do not treat higher-level organization as an independent beginning.
+
+
+
+### Dual Context Reconstruction
+
+Every object should be reconstructed simultaneously in two contexts:
+
+1. As a product of the compatibility conditions defined by its parent Horizontal.
+2. As the first local realization of the next finer organizational level.
+
+Neither context alone is sufficient for complete reconstruction.
+
+
+### Function Before Classification
+
+AI should classify objects according to their organizational role before considering their structural characteristics.
+
+The first analytical question is not:
+
+"What is this object made of?"
+
+but rather:
+
+"What function does this object perform within the current Horizontal?"
+
+Only after its functional role has been established should structural classification be performed.
+
+This distinction prevents evolutionary matrix objects from being confused with EM service structures.
