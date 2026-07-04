@@ -105,6 +105,16 @@ Kad sinhronizāciju vairs nav iespējams uzturēt, struktūra zaudē saderību u
 
 Tādēļ struktūras pastāvēšanu nosaka nevis tās izveidošanās fakts, bet spēja saglabāt sinhronizācijas stabilitāti.
 
+## Sinhronizācijas robežu princips
+
+Jebkuras struktūras robežas nosaka nevis ģeometrija vai materiālais sastāvs, bet sinhronizācija.
+
+Struktūra aizņem to apgabalu, kurā tās iekšējie procesi saglabā savstarpēju sinhronizāciju un saderību ar apkārtējo Horizontāli.
+
+Ja sinhronizāciju vairs nav iespējams uzturēt visā šajā apgabalā, mainās arī struktūras faktiskās robežas. Tā var sadalīties, reorganizēties, saplūst ar citām struktūrām vai pārstāt pastāvēt kā patstāvīgs objekts.
+
+Tādēļ struktūras robežas ir dinamiskas sinhronizācijas robežas, nevis fiksētas fizikālas virsmas.
+
 ---
 
 # 4. Horizontāles
