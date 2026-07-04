@@ -73,3 +73,14 @@ Each individual organism represents a local stage of evolution. The evolution of
 Therefore, in Matrix Theory, the primary continuous subject of evolution is not the organism but the Soul. Organisms successively provide the means for the Soul to adapt to the energy structure of a given Horizontal, develop the corresponding IDn logic, and continue the progression of Vertical Evolution.
 
 From this perspective, birth and death are not the beginning and end of evolution. They are successive phases of reconstruction within one continuous process of Vertical Evolution.
+
+## Boundary Principle of Soul Logic
+
+In Matrix Theory, the Soul belongs to the structure of Vertical Evolution. Its internal organization and operational logic are not identifiable with the laws of Horizontal Evolution.
+
+Therefore, the theory does not attempt to describe the Soul's internal structure or mechanisms of operation. It describes only its function and its observable interaction with the processes of Horizontal Evolution.
+
+From the perspective of the H0 Horizontal, the internal logic of the Soul is not directly accessible. Conclusions about it can only be drawn from its observable effects on the organization of Life and the continuity of Vertical Evolution.
+
+This limitation is not a weakness of the theory but a methodological boundary. Matrix Theory does not make claims about processes that are, in principle, inaccessible to observation within a given Horizontal.
+
