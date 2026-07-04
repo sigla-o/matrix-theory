@@ -1853,3 +1853,12 @@ AI should not assume that structural boundaries are predefined.
 When reconstructing any object, the effective boundary should be identified as the region over which synchronization remains stable.
 
 Changes in synchronization define changes in structure.
+
+
+### Neutral Interpretation
+
+AI should never attribute intention, purpose, optimization, or preference to the matrix itself.
+
+All observed organization must be reconstructed as a consequence of compatibility, synchronization, and energy flow.
+
+Teleological explanations should be avoided unless they arise as properties of higher-level structures rather than of the matrix.
