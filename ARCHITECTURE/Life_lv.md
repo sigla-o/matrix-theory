@@ -13,3 +13,13 @@ Hromosomu komplekti nav pati pārnesamā informācija. Tie veido konkrētās Hor
 Tādējādi katrā jaunā Horizontālē netiek atkārtota iepriekšējā organizācijas forma. Tiek rekonstruēta jauna organizācija, kas balstās uz Vertikālās evolūcijas uzkrāto informāciju un ir adaptēta konkrētās Horizontāles enerģētiskajai struktūrai un tās IDn loģikai.
 
 Dzīvība tādējādi kļūst par evolūcijas posmu, kurā enerģētiskā organizācija tiek papildināta ar nepārtrauktu informācijas organizāciju, nodrošinot ilgstošu evolūcijas nepārtrauktību pāri atsevišķu organismu dzīves cikliem.
+
+## Organisma rekonstrukcijas princips
+
+Matricas teorijā organisms nav primārais Dzīvības nesējs. Organisms ir rekonstrukcijas rezultāts, kas rodas, mijiedarbojoties Vertikālās evolūcijas informācijai ar konkrētās Horizontāles informācijas koordinātu režģi.
+
+Dvēsele nodrošina Vertikālās evolūcijas informatīvo nepārtrauktību. Hromosomu komplekti nosaka konkrētās Horizontāles organizācijas koordinātu sistēmu. Abu šo komponentu savstarpējās mijiedarbības rezultātā tiek rekonstruēts organisms, kas ir pilnībā adaptēts attiecīgās Horizontāles enerģētiskajai struktūrai un IDn loģikai.
+
+Tādēļ organisms nav iepriekšējās Horizontāles kopija. Tas ir jauns organizācijas veidojums, kas rekonstruēts, izmantojot Vertikālās evolūcijas uzkrāto informāciju un konkrētās Horizontāles lokālos organizācijas principus.
+
+Katrs organisms ir vienlaikus Vertikālās evolūcijas nepārtrauktības izpausme un konkrētās Horizontāles unikāls organizācijas rezultāts.
