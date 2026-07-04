@@ -63,6 +63,19 @@ Katrs organizācijas līmenis nosaka robežnosacījumus tajā notiekošajiem lok
 Tādēļ nevienu Matricas teorijas objektu vai procesu nevar pilnībā aprakstīt ārpus tā organizācijas konteksta. Katras parādības interpretācija ir atkarīga no tās vietas kopējā evolūcijas struktūrā.
 
 
+## Horizontāles tvēruma princips
+
+Matricas teorija apraksta vienu Horizontāli kā universālu modeli.
+
+Vertikālās hierarhijas eksistence tiek secināta no universālā enerģijas akumulācijas mehānisma.
+
+Lokāla enerģijas akumulācija rada matricas sinhronizācijas traucējumus. Kad sinhronizāciju vairs nav iespējams uzturēt, notiek pāreja uz smalkāku matricas līmeni, izveidojot jaunu Horizontāli.
+
+Šis rekursīvais mehānisms tiek pieņemts kā vienāds visos organizācijas līmeņos.
+
+Tāpēc teorija necenšas aprakstīt visu Vertikālo hierarhiju. Tā koncentrējas uz vienas Horizontāles pilnīgu aprakstu, pieņemot, ka tie paši principi ir spēkā visām pārējām Horizontālēm, kuras rodas šī rekursīvā procesa rezultātā.
+
+
 ---
 
 # 4. Vertikāles veidošanās
