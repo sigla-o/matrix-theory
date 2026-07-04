@@ -153,6 +153,30 @@ Every object must therefore be interpreted as a local manifestation of its surro
 
 The environment is primary; the object is a consequence.
 
+## Principle of Structural Continuity
+
+Matrix Theory assumes that no structure emerges from absolute discontinuity.
+
+Every new organization is a reconstruction of an existing energy flow rather than the creation of an entirely independent process.
+
+Structural transitions preserve continuity while changing organizational form.
+
+Thus, every new matrix level inherits the fundamental organizational principles of the previous level, although they may appear in a different structural realization.
+
+## Principle of Local Matrix Refinement
+
+Within Matrix Theory, evolutionary (IDn) objects are realized through local matrix refinement.
+
+A matrix-type object represents a locally refined matrix organization that is one structural level finer than the surrounding Horizontal. Such objects constitute the evolutionary carriers of the corresponding IDn level and provide the basis for further structural development.
+
+Not every stable object belongs to the evolutionary hierarchy.
+
+Electromagnetic (EM) closed structures belong to the same Horizontal in which they exist. They do not represent a finer matrix level and therefore are not IDn evolutionary objects. Instead, they perform service functions by stabilizing and organizing the energy flows required for the formation and persistence of matrix-type (ID₂,n) structures.
+
+Thus, Matrix Theory distinguishes between:
+- matrix-type objects that carry evolutionary progression through local matrix refinement;
+- EM closed structures that maintain the energetic conditions necessary for that progression.
+
 ---
 
 
