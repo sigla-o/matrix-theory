@@ -35,3 +35,29 @@ Dvēsele saglabā evolūcijas nepārtrauktību. Hromosomu komplekti nodrošina l
 Tādējādi organisms nav tikai ģenētiskās informācijas rezultāts. Tas ir Vertikālās evolūcijas informācijas, hromosomu koordinātu režģa un attiecīgās Horizontāles IDn loģikas kopīgas darbības rezultāts.
 
 Mainoties IDn līmenim, mainās arī organizācijas principi, saglabājot Vertikālās evolūcijas nepārtrauktību un pielāgojot organismu jaunajai enerģētiskajai videi.
+
+## Intelekta princips
+
+Matricas teorijā intelekts nav atsevišķa Dzīvības forma, bet evolūcijas organizācijas mehānisms, kas paātrina Horizontālās evolūcijas attīstību.
+
+Līdz intelekta attīstībai organizācijas risinājumi galvenokārt veidojas dabiskā evolūcijas procesā. Ar intelekta parādīšanos kļūst iespējams modelēt, salīdzināt un izvērtēt iespējamos organizācijas variantus pirms to pilnīgas realizācijas materiālajā organizācijā.
+
+Intelekts nemaina Vertikālās evolūcijas virzienu un nevar pārkāpt enerģētiskās bilances principus. Tā funkcija ir efektīvāk meklēt optimālus Horizontālās evolūcijas risinājumus konkrētās Horizontāles robežās.
+
+Jo augstāks ir intelekta attīstības līmenis, jo lielāka kļūst spēja samazināt nejaušību Horizontālajā evolūcijā un apzināti virzīt organizāciju uz enerģētiski stabilākiem un efektīvākiem stāvokļiem.
+
+Tādējādi intelekts nav alternatīva evolūcijai. Tas ir evolūcijas paātrināšanas mehānisms, kas darbojas, pilnībā ievērojot Matricas teorijas enerģētiskās un informatīvās organizācijas principus.
+
+## Intelekta organizācijas formas
+
+Matricas teorijā intelekts tiek iedalīts divās pamatorganizācijas formās: slēgtajā un atvērtajā intelektā.
+
+**Slēgtais intelekts** ir evolūcijas organizācijas forma, kuras galvenā funkcija ir nodrošināt organisma optimālu mijiedarbību ar apkārtējo vidi. Tas pārvalda organisma dzīvības procesus, adaptāciju un uzvedību, ievērojot konkrētās Horizontāles enerģētiskās un informatīvās prasības. Šāda intelekta forma raksturīga visām Dzīvības formām, kuru organizācijā piedalās smadzenes.
+
+**Atvērtais intelekts** ir evolūcijas organizācijas forma, kurā organisms iegūst spēju patstāvīgi organizēt savu attīstību. Tas spēj ne tikai adaptēties videi, bet arī apzināti pārveidot savu zināšanu sistēmu, pieņemt stratēģiskus lēmumus un ietekmēt turpmāko Horizontālās evolūcijas virzienu.
+
+Atvērtais intelekts vienlaikus rada arī jaunu evolūcijas risku. Brīvība patstāvīgi organizēt attīstību ietver iespēju novirzīties no optimālās enerģētiskās organizācijas un pāriet degradācijas procesos.
+
+Ja degradācija sāk apdraudēt Dzīvības pastāvēšanu vai izjauc augstāka organizācijas līmeņa enerģētisko bilanci, evolūcijas sistēma ierobežo atvērtā intelekta brīvību. Atkarībā no degradācijas pakāpes organisms var pāriet daļēji slēgta vai pilnīgi slēgta intelekta organizācijas formā, atjaunojot stabilu evolūcijas attīstību.
+
+Tādējādi atvērtais intelekts nav evolūcijas privilēģija, bet paaugstinātas atbildības organizācijas forma, kuras pastāvēšana ir iespējama tikai tik ilgi, kamēr tā saglabā saderību ar Dzīvības un Matricas kopējo enerģētisko bilanci.
