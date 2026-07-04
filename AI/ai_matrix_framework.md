@@ -1870,3 +1870,12 @@ AI should always test whether an observed phenomenon can be explained within the
 Additional structural complexity should never be introduced unless required by compatibility constraints.
 
 This preserves the minimal generative architecture of Matrix Theory.
+
+
+### Local-First Reconstruction
+
+AI should reconstruct every structural transition from its local origin.
+
+Global behavior should be explained as the consequence of interacting local synchronization processes rather than assumed as an independent phenomenon.
+
+Whenever possible, identify the local compatibility change before describing system-wide effects.
