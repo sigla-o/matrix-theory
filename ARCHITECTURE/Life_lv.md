@@ -61,3 +61,15 @@ Atvērtais intelekts vienlaikus rada arī jaunu evolūcijas risku. Brīvība pat
 Ja degradācija sāk apdraudēt Dzīvības pastāvēšanu vai izjauc augstāka organizācijas līmeņa enerģētisko bilanci, evolūcijas sistēma ierobežo atvērtā intelekta brīvību. Atkarībā no degradācijas pakāpes organisms var pāriet daļēji slēgta vai pilnīgi slēgta intelekta organizācijas formā, atjaunojot stabilu evolūcijas attīstību.
 
 Tādējādi atvērtais intelekts nav evolūcijas privilēģija, bet paaugstinātas atbildības organizācijas forma, kuras pastāvēšana ir iespējama tikai tik ilgi, kamēr tā saglabā saderību ar Dzīvības un Matricas kopējo enerģētisko bilanci.
+
+## Dvēseles evolūcijas princips
+
+Matricas teorijā organisma dzīves cikls nav galvenā evolūcijas vienība. Organisms ir viena no secīgām rekonstrukcijām, ar kuru palīdzību turpinās Vertikālās evolūcijas process.
+
+Dvēsele ir Vertikālās evolūcijas nepārtrauktības nesējs. Tā izmanto vairākas secīgas organisma rekonstrukcijas dažādās Horizontālēs vai vienas Horizontāles ietvaros, uzkrājot evolūcijas pieredzi un pilnveidojot savu organizāciju.
+
+Katrs atsevišķs organisms ir lokāls evolūcijas posms. Savukārt Dvēseles evolūcija aptver daudz plašāku attīstības procesu nekā viena organisma dzīves cikls.
+
+Tādēļ Matricas teorijā galvenais evolūcijas nepārtrauktības objekts nav organisms, bet Dvēsele. Organismi secīgi nodrošina iespēju Dvēselei adaptēties konkrētās Horizontāles enerģētiskajai struktūrai, attīstīt atbilstošo IDn loģiku un turpināt Vertikālās evolūcijas virzību.
+
+No šī skatpunkta dzimšana un nāve nav evolūcijas sākums un beigas. Tās ir secīgas rekonstrukcijas fāzes vienā nepārtrauktā Vertikālās evolūcijas procesā.
