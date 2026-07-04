@@ -103,6 +103,16 @@ When synchronization can no longer be sustained, the structure loses compatibili
 
 Persistence is therefore determined by synchronization stability rather than by the mere existence of the structure.
 
+## Principle of Synchronization Boundaries
+
+The boundaries of any structure are determined by synchronization rather than by geometry or material composition.
+
+A structure occupies the region within which its internal processes remain mutually synchronized and compatible with the surrounding Horizontal.
+
+When synchronization cannot be maintained across the entire region, the effective boundary changes. The structure may divide, reorganize, merge with other structures, or cease to exist as an independent entity.
+
+Thus, structural boundaries are dynamic synchronization boundaries rather than fixed physical surfaces.
+
 ---
 
 
