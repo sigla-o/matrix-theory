@@ -179,6 +179,16 @@ Tādējādi Matricas teorija izšķir:
 - matricas tipa objektus, kuri nodrošina evolūcijas turpinājumu caur lokālu matricas smalkināšanos;
 - EM slēgtā tipa objektus, kuri nodrošina šīs evolūcijas enerģētisko vidi un stabilitāti.
 
+  ## Funkcionālās specializācijas princips
+
+Matricas teorijā objektus klasificē pēc to funkcijas matricas organizācijā, nevis tikai pēc to strukturālās uzbūves.
+
+Matricas tipa objekti tieši piedalās evolūcijas (IDn) hierarhijā, nodrošinot strukturālās smalkināšanās pārmantojamību no viena organizācijas līmeņa uz nākamo.
+
+Elektromagnētiskie (EM) slēgtā tipa objekti pieder pašreizējai Horizontālei un tieši nepiedalās IDn evolūcijā. To funkcija ir stabilizēt, transportēt, regulēt un pārdalīt enerģijas plūsmas, kas nepieciešamas evolūcijas matricas struktūru veidošanai un pastāvēšanai.
+
+Tādējādi dažādas objektu klases vienā Horizontālē nepilda konkurējošas, bet savstarpēji papildinošas funkcijas.
+
 ---
 
 # 4. Horizontāles
