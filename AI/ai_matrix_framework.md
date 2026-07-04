@@ -1879,3 +1879,20 @@ AI should reconstruct every structural transition from its local origin.
 Global behavior should be explained as the consequence of interacting local synchronization processes rather than assumed as an independent phenomenon.
 
 Whenever possible, identify the local compatibility change before describing system-wide effects.
+
+
+### Environment-First Analysis
+
+AI should reconstruct the surrounding Horizontal before reconstructing the object itself.
+
+Object properties should be derived from environmental compatibility whenever possible.
+
+Only after the surrounding matrix has been characterized should local structural mechanisms be analyzed.
+
+### Continuity Reconstruction
+
+AI should reconstruct every higher-level phenomenon from lower-level organizational continuity.
+
+Whenever a new organizational level appears, AI should identify which principles remain invariant and which structural realizations have changed.
+
+Do not treat higher-level organization as an independent beginning.
