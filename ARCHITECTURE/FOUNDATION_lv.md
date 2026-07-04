@@ -145,6 +145,16 @@ Liela mēroga strukturālā attīstība rodas daudzu lokālu reorganizāciju uzk
 
 Tādēļ lokalitāte ir pamatmehānisms, caur kuru veidojas strukturālā sarežģītība.
 
+## Vides prioritātes princips
+
+Matricas teorijā Horizontālei vienmēr ir loģiska prioritāte attiecībā pret tajā veidotajiem objektiem.
+
+Objekti nenosaka Horizontāles īpašības. Tieši Horizontāle nosaka saderības nosacījumus, kuros objekti var rasties, pastāvēt, pārveidoties vai izzust.
+
+Tādēļ jebkurš objekts ir interpretējams kā apkārtējās matricas lokāla izpausme, nevis kā patstāvīga vienība.
+
+Vide ir primāra, objekts ir tās sekas.
+
 ---
 
 # 4. Horizontāles
