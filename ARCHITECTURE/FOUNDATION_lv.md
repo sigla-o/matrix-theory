@@ -75,20 +75,21 @@ Lokāla enerģijas akumulācija rada matricas sinhronizācijas traucējumus. Kad
 
 Tāpēc teorija necenšas aprakstīt visu Vertikālo hierarhiju. Tā koncentrējas uz vienas Horizontāles pilnīgu aprakstu, pieņemot, ka tie paši principi ir spēkā visām pārējām Horizontālēm, kuras rodas šī rekursīvā procesa rezultātā.
 
+## Matricas saderības robežas princips
+
+Katrai matricai ir ierobežota sinhronizācijas spēja.
+
+Kamēr uzkrātā enerģija ir saderīga ar esošās matricas sinhronizācijas iespējām, struktūra saglabājas tajā pašā Horizontālē.
+
+Kad lokālā enerģijas akumulācija pārsniedz šo saderības robežu, sinhronizāciju vairs nav iespējams uzturēt. Sistēma šo nesaderību atrisina, izveidojot smalkāku matricas organizāciju.
+
+Tādējādi jaunas matricas rašanās nav patstāvīgs evolūcijas notikums, bet esošās matricas saderības robežas sasniegšanas strukturālas sekas.
 
 ---
 
-# 4. Vertikāles veidošanās
 
-Enerģijas akumulācija Pamat-Horizontālē izraisa Vertikāles veidošanos.
 
-Veidojoties Vertikālei, pakāpeniski rodas Horizontāles, kurās katru nākamo organizācijas līmeni nosaka pieejamā enerģētiskā bilance.
-
-Teorija neapraksta procesu pirms Pamat-Horizontāles.
-
----
-
-# 5. Horizontāles
+# 4. Horizontāles
 
 Horizontāles veido Vertikāles organizācijas struktūru.
 
@@ -100,7 +101,7 @@ Tā nav Vertikāles centrs vai sākums.
 
 ---
 
-# 6. Dzīvība
+# 5. Dzīvība
 
 Matricas teorijā Dzīvība netiek uzskatīta par tiešu objektu evolūcijas posmu.
 
@@ -110,7 +111,7 @@ Dzīvības detalizēts apraksts tiek veikts atsevišķās teorijas sadaļās.
 
 ---
 
-# 7. Rekonstrukcijas sākumpunkts
+# 6. Rekonstrukcijas sākumpunkts
 
 Visa turpmākā teorijas rekonstrukcija sākas no šādiem enkuriem:
 
