@@ -165,6 +165,20 @@ Strukturālās pārejas saglabā procesa nepārtrauktību, vienlaikus mainot org
 
 Tādēļ katrs jauns matricas līmenis pārmanto iepriekšējā līmeņa pamatorganizācijas principus, lai gan tie izpaužas citā strukturālā realizācijā.
 
+## Lokālās matricas smalkināšanās princips
+
+Matricas teorijā evolūcijas (IDn) objekti veidojas lokālas matricas smalkināšanās rezultātā.
+
+Matricas tipa objekts ir lokāli smalkāka matricas organizācija, kas atrodas vienu strukturālo soli augstāk par apkārtējo Horizontāli. Šādi objekti ir attiecīgā IDn līmeņa evolūcijas nesēji un veido pamatu turpmākai strukturālajai attīstībai.
+
+Tomēr ne visi stabilie objekti pieder evolūcijas hierarhijai.
+
+Elektromagnētiskie (EM) slēgtā tipa objekti pieder tai pašai Horizontālei, kurā tie eksistē. Tie neveido nākamo matricas līmeni un tādēļ nav IDn evolūcijas objekti. To uzdevums ir pildīt servisa funkcijas, stabilizējot un organizējot enerģijas plūsmas, kas nepieciešamas matricas tipa (ID₂,n) struktūru veidošanai un pastāvēšanai.
+
+Tādējādi Matricas teorija izšķir:
+- matricas tipa objektus, kuri nodrošina evolūcijas turpinājumu caur lokālu matricas smalkināšanos;
+- EM slēgtā tipa objektus, kuri nodrošina šīs evolūcijas enerģētisko vidi un stabilitāti.
+
 ---
 
 # 4. Horizontāles
