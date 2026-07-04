@@ -125,6 +125,15 @@ Struktūru rašanās, pastāvēšana, pārveidošanās un izzušana ir šo sader
 
 Tādēļ matrica ir neitrāla organizācijas vide, kurā norisinās visi strukturālie procesi.
 
+## Minimālo strukturālo izmaiņu princips
+
+Matrica nepārveido savu organizāciju, kamēr esošā struktūra spēj uzturēt saderību ar notiekošo enerģijas plūsmu.
+
+Strukturālas pārejas notiek tikai tad, kad pašreizējā organizācijā vairs nav iespējams uzturēt sinhronizāciju.
+
+Tādēļ katrs jauns strukturālais līmenis ir minimālā nepieciešamā reorganizācija, kas atjauno saderību.
+
+Ja saderība saglabājas, matrica saglabā arī esošo organizāciju.
 
 ---
 
