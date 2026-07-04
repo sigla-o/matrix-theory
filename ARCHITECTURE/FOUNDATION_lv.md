@@ -85,9 +85,17 @@ Kad lokālā enerģijas akumulācija pārsniedz šo saderības robežu, sinhroni
 
 Tādējādi jaunas matricas rašanās nav patstāvīgs evolūcijas notikums, bet esošās matricas saderības robežas sasniegšanas strukturālas sekas.
 
+## Strukturālās nepieciešamības princips
+
+Matricas teorija pieņem, ka neviena jauna struktūra nerodas bez nepieciešamības.
+
+Jebkuras strukturālas pārmaiņas ir neizbēgamas sekas tam, ka esošā matricas organizācija vairs nespēj uzturēt saderību pie konkrētajiem enerģijas apstākļiem.
+
+Jauns matricas līmenis nerodas nejaušības, optimizācijas vai iepriekš noteikta mērķa dēļ. Tas rodas tikai tad, kad iepriekšējais organizācijas stāvoklis ir sasniedzis robežu, kurā sinhronizāciju vairs nav iespējams uzturēt.
+
+Tādēļ jaunas struktūras rašanās ir saderības robežas sasniegšanas nepieciešamas sekas, nevis patstāvīgs process.
+
 ---
-
-
 
 # 4. Horizontāles
 
