@@ -73,3 +73,13 @@ Katrs atsevišķs organisms ir lokāls evolūcijas posms. Savukārt Dvēseles ev
 Tādēļ Matricas teorijā galvenais evolūcijas nepārtrauktības objekts nav organisms, bet Dvēsele. Organismi secīgi nodrošina iespēju Dvēselei adaptēties konkrētās Horizontāles enerģētiskajai struktūrai, attīstīt atbilstošo IDn loģiku un turpināt Vertikālās evolūcijas virzību.
 
 No šī skatpunkta dzimšana un nāve nav evolūcijas sākums un beigas. Tās ir secīgas rekonstrukcijas fāzes vienā nepārtrauktā Vertikālās evolūcijas procesā.
+
+## Dvēseles loģikas robežprincips
+
+Matricas teorijā Dvēsele pieder Vertikālās evolūcijas struktūrai. Tās iekšējā organizācija un darbības loģika nav identificējama ar Horizontālās evolūcijas likumsakarībām.
+
+Tādēļ teorija necenšas aprakstīt Dvēseles iekšējo uzbūvi vai tās darbības mehānismus. Tā apraksta tikai tās funkciju un novērojamo mijiedarbību ar Horizontālās evolūcijas procesiem.
+
+No H0 Horizontāles skatpunkta Dvēseles iekšējā loģika nav tieši pieejama. Par to var izdarīt secinājumus tikai pēc tās radītajām sekām Dzīvības organizācijā un Vertikālās evolūcijas nepārtrauktībā.
+
+Šis ierobežojums nav teorijas trūkums, bet tās metodoloģiska robeža. Matricas teorija neizvirza apgalvojumus par procesiem, kuri principā nav pieejami attiecīgās Horizontāles novērošanas iespējām.
