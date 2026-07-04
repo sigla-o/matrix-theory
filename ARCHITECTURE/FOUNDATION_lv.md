@@ -155,6 +155,16 @@ Tādēļ jebkurš objekts ir interpretējams kā apkārtējās matricas lokāla 
 
 Vide ir primāra, objekts ir tās sekas.
 
+## Strukturālās nepārtrauktības princips
+
+Matricas teorija pieņem, ka neviena struktūra nerodas no absolūtas nepārtrauktības pārtraukuma.
+
+Jebkura jauna organizācija ir jau esošās enerģijas plūsmas pārorganizācija, nevis pilnīgi neatkarīga procesa radīšana.
+
+Strukturālās pārejas saglabā procesa nepārtrauktību, vienlaikus mainot organizācijas formu.
+
+Tādēļ katrs jauns matricas līmenis pārmanto iepriekšējā līmeņa pamatorganizācijas principus, lai gan tie izpaužas citā strukturālā realizācijā.
+
 ---
 
 # 4. Horizontāles
