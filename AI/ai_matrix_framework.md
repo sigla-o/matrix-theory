@@ -1924,3 +1924,10 @@ but rather:
 Only after its functional role has been established should structural classification be performed.
 
 This distinction prevents evolutionary matrix objects from being confused with EM service structures.
+
+
+### Functional Reconstruction
+
+When reconstructing a Horizontal, AI should identify not only the structures present, but also the functional division established between them.
+
+A complete reconstruction requires determining how specialized structures cooperate to maintain the stability and evolutionary capability of the Horizontal.
