@@ -13,3 +13,13 @@ Chromosome sets are not the information being transferred. They form the informa
 Consequently, each new Horizontal does not reproduce the previous organizational form. Instead, it reconstructs a new organization based on the accumulated information of Vertical Evolution while adapting it to the energy structure and IDn logic of the current Horizontal.
 
 Life therefore represents the stage of evolution in which energy organization is complemented by continuous information organization, ensuring long-term evolutionary continuity beyond the life cycles of individual organisms.
+
+## Principle of Organism Reconstruction
+
+In Matrix Theory, the organism is not the primary carrier of Life. An organism is the result of reconstruction arising from the interaction between the informational continuity of Vertical Evolution and the information coordinate framework of a specific Horizontal.
+
+The Soul preserves the informational continuity of Vertical Evolution. Chromosome sets define the organizational coordinate system of the current Horizontal. Through the interaction of these two components, an organism is reconstructed that is fully adapted to the energy structure and IDn logic of that Horizontal.
+
+Therefore, an organism is not a copy of the previous Horizontal. It is a new organizational realization reconstructed from the accumulated information of Vertical Evolution together with the local organizational principles of the current Horizontal.
+
+Every organism is simultaneously an expression of the continuity of Vertical Evolution and a unique organizational realization within its own Horizontal.
