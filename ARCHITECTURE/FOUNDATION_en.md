@@ -133,6 +133,16 @@ Therefore, every new structural level represents the minimum necessary reorganiz
 
 The matrix preserves existing organization whenever compatibility permits.
 
+## Principle of Local Structural Change
+
+Structural transitions always begin locally.
+
+Energy accumulation, synchronization disruption, and matrix reorganization occur within limited regions of a Horizontal rather than simultaneously across the entire system.
+
+Large-scale structural evolution emerges from the accumulation, interaction, and stabilization of many local reorganizations.
+
+Thus, locality is the fundamental mechanism through which structural complexity develops.
+
 ---
 
 
