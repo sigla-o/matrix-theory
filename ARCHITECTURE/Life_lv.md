@@ -23,3 +23,15 @@ Dvēsele nodrošina Vertikālās evolūcijas informatīvo nepārtrauktību. Hrom
 Tādēļ organisms nav iepriekšējās Horizontāles kopija. Tas ir jauns organizācijas veidojums, kas rekonstruēts, izmantojot Vertikālās evolūcijas uzkrāto informāciju un konkrētās Horizontāles lokālos organizācijas principus.
 
 Katrs organisms ir vienlaikus Vertikālās evolūcijas nepārtrauktības izpausme un konkrētās Horizontāles unikāls organizācijas rezultāts.
+
+## IDn rekonstrukcijas princips
+
+Matricas teorijā organisma rekonstrukciju nenosaka tikai Vertikālās evolūcijas informācija un hromosomu koordinātu režģis. Rekonstrukcijas rezultātu nosaka arī attiecīgās Horizontāles IDn loģika.
+
+IDn definē organizācijas interpretācijas principus konkrētajā Horizontālē. Tā nosaka, kā Vertikālās evolūcijas uzkrātā informācija tiek realizēta jaunā organizācijas formā.
+
+Dvēsele saglabā evolūcijas nepārtrauktību. Hromosomu komplekti nodrošina lokālās organizācijas koordinātas. Savukārt IDn nosaka rekonstrukcijas loģiku, saskaņā ar kuru veidojas konkrētās Horizontāles organisms.
+
+Tādējādi organisms nav tikai ģenētiskās informācijas rezultāts. Tas ir Vertikālās evolūcijas informācijas, hromosomu koordinātu režģa un attiecīgās Horizontāles IDn loģikas kopīgas darbības rezultāts.
+
+Mainoties IDn līmenim, mainās arī organizācijas principi, saglabājot Vertikālās evolūcijas nepārtrauktību un pielāgojot organismu jaunajai enerģētiskajai videi.
