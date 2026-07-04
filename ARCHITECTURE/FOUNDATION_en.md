@@ -177,6 +177,16 @@ Thus, Matrix Theory distinguishes between:
 - matrix-type objects that carry evolutionary progression through local matrix refinement;
 - EM closed structures that maintain the energetic conditions necessary for that progression.
 
+## Principle of Functional Specialization
+
+Objects within Matrix Theory are classified by their organizational function rather than solely by their structural form.
+
+Matrix-type objects participate directly in the evolutionary (IDn) hierarchy by carrying structural refinement from one organizational level to the next.
+
+Electromagnetic (EM) closed structures belong to the current Horizontal and do not participate directly in IDn evolution. Their function is to stabilize, transport, regulate, and redistribute energy flows required for the emergence and persistence of evolutionary matrix structures.
+
+Different structural classes therefore perform complementary rather than competing functions within the same Horizontal.
+
 ---
 
 
