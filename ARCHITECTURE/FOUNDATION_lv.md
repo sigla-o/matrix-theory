@@ -189,6 +189,16 @@ Elektromagnētiskie (EM) slēgtā tipa objekti pieder pašreizējai Horizontāle
 
 Tādējādi dažādas objektu klases vienā Horizontālē nepilda konkurējošas, bet savstarpēji papildinošas funkcijas.
 
+## Funkcionālās diferenciācijas princips
+
+Strukturālo evolūciju pavada funkcionālā diferenciācija.
+
+Pieaugot organizācijas sarežģītībai, dažādas struktūras vienas Horizontāles ietvaros iegūst specializētas funkcijas.
+
+Evolūcijas matricas struktūras nodrošina IDn hierarhijas attīstību, savukārt EM slēgtā tipa struktūras nodrošina enerģētiskās servisa funkcijas, kas nepieciešamas to stabilai darbībai.
+
+Tādēļ sarežģītība rodas ne tikai jaunu struktūru veidošanās rezultātā, bet arī savstarpēji papildinošu organizācijas funkciju attīstības rezultātā.
+
 ---
 
 # 4. Horizontāles
