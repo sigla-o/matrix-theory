@@ -95,6 +95,16 @@ Jauns matricas līmenis nerodas nejaušības, optimizācijas vai iepriekš notei
 
 Tādēļ jaunas struktūras rašanās ir saderības robežas sasniegšanas nepieciešamas sekas, nevis patstāvīgs process.
 
+## Strukturālās stabilitātes princips
+
+Struktūras izveidošanās pati par sevi negarantē tās pastāvēšanu.
+
+Struktūra saglabājas tikai tik ilgi, kamēr tā spēj uzturēt dinamisku sinhronizāciju ar apkārtējo Horizontāli.
+
+Kad sinhronizāciju vairs nav iespējams uzturēt, struktūra zaudē saderību un tiek reorganizēta vai izkliedēta turpmākajās enerģijas plūsmās.
+
+Tādēļ struktūras pastāvēšanu nosaka nevis tās izveidošanās fakts, bet spēja saglabāt sinhronizācijas stabilitāti.
+
 ---
 
 # 4. Horizontāles
