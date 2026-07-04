@@ -143,6 +143,16 @@ Large-scale structural evolution emerges from the accumulation, interaction, and
 
 Thus, locality is the fundamental mechanism through which structural complexity develops.
 
+## Principle of Environmental Primacy
+
+Within Matrix Theory, the Horizontal always has logical priority over the objects formed within it.
+
+Objects do not establish the properties of the Horizontal. Instead, the Horizontal defines the compatibility conditions under which objects may emerge, persist, transform, or disappear.
+
+Every object must therefore be interpreted as a local manifestation of its surrounding matrix rather than as an independent entity.
+
+The environment is primary; the object is a consequence.
+
 ---
 
 
