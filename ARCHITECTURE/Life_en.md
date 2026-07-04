@@ -23,3 +23,15 @@ The Soul preserves the informational continuity of Vertical Evolution. Chromosom
 Therefore, an organism is not a copy of the previous Horizontal. It is a new organizational realization reconstructed from the accumulated information of Vertical Evolution together with the local organizational principles of the current Horizontal.
 
 Every organism is simultaneously an expression of the continuity of Vertical Evolution and a unique organizational realization within its own Horizontal.
+
+## Principle of IDn Reconstruction
+
+In Matrix Theory, the reconstruction of an organism is determined not only by the informational continuity of Vertical Evolution and the chromosome coordinate framework. The outcome of reconstruction is also governed by the IDn logic of the corresponding Horizontal.
+
+IDn defines the principles by which organization is interpreted within a given Horizontal. It determines how the accumulated information of Vertical Evolution is realized in a new organizational form.
+
+The Soul preserves evolutionary continuity. Chromosome sets provide the local organizational coordinates. IDn, in turn, defines the logic of reconstruction according to which the organism of the current Horizontal is formed.
+
+Therefore, an organism is not merely the result of genetic information. It is the result of the combined action of Vertical Evolution information, the chromosome coordinate framework, and the IDn logic of the corresponding Horizontal.
+
+As the IDn level changes, the principles of organization also change while preserving the continuity of Vertical Evolution and adapting the organism to its new energetic environment.
