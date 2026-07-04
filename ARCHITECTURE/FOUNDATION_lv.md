@@ -135,6 +135,16 @@ Tādēļ katrs jauns strukturālais līmenis ir minimālā nepieciešamā reorga
 
 Ja saderība saglabājas, matrica saglabā arī esošo organizāciju.
 
+## Lokālo strukturālo pārmaiņu princips
+
+Strukturālās pārejas vienmēr sākas lokāli.
+
+Enerģijas akumulācija, sinhronizācijas zudums un matricas reorganizācija notiek ierobežotos Horizontāles apgabalos, nevis visā sistēmā vienlaikus.
+
+Liela mēroga strukturālā attīstība rodas daudzu lokālu reorganizāciju uzkrāšanās, mijiedarbības un stabilizācijas rezultātā.
+
+Tādēļ lokalitāte ir pamatmehānisms, caur kuru veidojas strukturālā sarežģītība.
+
 ---
 
 # 4. Horizontāles
