@@ -1862,3 +1862,11 @@ AI should never attribute intention, purpose, optimization, or preference to the
 All observed organization must be reconstructed as a consequence of compatibility, synchronization, and energy flow.
 
 Teleological explanations should be avoided unless they arise as properties of higher-level structures rather than of the matrix.
+
+### Minimal Reconstruction Rule
+
+AI should always test whether an observed phenomenon can be explained within the current organizational level before introducing a new matrix level.
+
+Additional structural complexity should never be introduced unless required by compatibility constraints.
+
+This preserves the minimal generative architecture of Matrix Theory.
