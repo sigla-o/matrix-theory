@@ -113,6 +113,16 @@ When synchronization cannot be maintained across the entire region, the effectiv
 
 Thus, structural boundaries are dynamic synchronization boundaries rather than fixed physical surfaces.
 
+## Principle of Matrix Neutrality
+
+The matrix possesses no intrinsic purpose, preference, or objective.
+
+Its role is to define the compatibility conditions under which energy flows organize into stable or unstable structures.
+
+The emergence, persistence, transformation, or disappearance of structures are consequences of these compatibility conditions rather than expressions of intention or optimization.
+
+The matrix is therefore a neutral organizational framework within which all structural processes occur.
+
 ---
 
 
