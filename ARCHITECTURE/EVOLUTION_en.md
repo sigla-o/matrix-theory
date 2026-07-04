@@ -62,6 +62,16 @@ Thus, Horizontal Evolution generates possible organizational solutions, while Ve
 
 This principle ensures the continuous progression of evolution toward increasingly finer, more stable, and more energy-efficient organization while preserving the overall energy balance of the Matrix.
 
+### Principle of Evolutionary Result Inheritance
+
+During Vertical Evolution, the previous organizational form is not transferred to the next Horizontal. Instead, what is inherited is the optimal Qn level achieved through Horizontal Evolution, provided it satisfies complete energy balance and the energy requirements of the next Horizontal.
+
+The optimal Qn represents the achieved quality of organization rather than a specific structure. Therefore, each new Horizontal develops its organization anew according to the laws of that level while using the evolutionary result of the previous Horizontal as its initial condition.
+
+Vertical Evolution is therefore not a copying of organizational forms. It is the inheritance of an optimal evolutionary result, enabling continuous progression toward increasingly finer, more stable, and more energy-efficient organization.
+
+This principle can be illustrated by the transition from a caterpillar to a butterfly. The previous form is not preserved; instead, the evolutionary result is preserved and becomes the foundation for the next stage of development.
+
 
 ---
 
