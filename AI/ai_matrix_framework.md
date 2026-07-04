@@ -1806,3 +1806,17 @@ Architectural priority:
 - Fully reconstruct one Horizontal.
 - Treat Vertical as a recursive boundary condition.
 - Introduce additional Vertical detail only when it directly improves the explanatory power of the Horizontal model.
+
+
+
+### Compatibility-Driven Reconstruction
+
+When analyzing the emergence of any new structure, AI should first determine whether the existing matrix has reached its compatibility limit.
+
+A transition to a finer organizational level should never be treated as spontaneous or arbitrary.
+
+Every structural transition must be reconstructed from the sequence:
+
+existing matrix → energy accumulation → compatibility limit → synchronization loss → finer matrix organization.
+
+This sequence is considered invariant across all Horizontal layers described by Matrix Theory.
