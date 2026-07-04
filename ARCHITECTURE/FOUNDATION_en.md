@@ -187,6 +187,16 @@ Electromagnetic (EM) closed structures belong to the current Horizontal and do n
 
 Different structural classes therefore perform complementary rather than competing functions within the same Horizontal.
 
+## Principle of Functional Differentiation
+
+Structural evolution is accompanied by functional differentiation.
+
+As organizational complexity increases, different structures acquire specialized roles within the same Horizontal.
+
+Evolutionary matrix structures carry the progression of the IDn hierarchy, while EM closed structures provide the energetic services required for their stable operation.
+
+Increasing complexity therefore arises not only from new structures, but also from the emergence of complementary organizational functions.
+
 ---
 
 
