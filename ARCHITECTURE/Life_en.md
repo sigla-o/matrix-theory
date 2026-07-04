@@ -61,3 +61,15 @@ At the same time, open intelligence introduces a new evolutionary risk. The free
 If such degradation begins to threaten the existence of Life or disrupt the energy balance of a higher organizational level, the evolutionary system limits the freedom of open intelligence. Depending on the degree of degradation, the organism may transition into a partially closed or fully closed form of intelligence, thereby restoring stable evolutionary development.
 
 Thus, open intelligence is not an evolutionary privilege but a higher-responsibility organizational form whose continued existence depends on maintaining compatibility with the overall energetic balance of Life and the Matrix.
+
+## Principle of Soul Evolution
+
+In Matrix Theory, the life cycle of an organism is not the primary unit of evolution. An organism is one of a sequence of reconstructions through which the process of Vertical Evolution continues.
+
+The Soul is the carrier of continuity in Vertical Evolution. It undergoes multiple successive organism reconstructions, whether within the same Horizontal or across different Horizontals, accumulating evolutionary experience and refining its organization.
+
+Each individual organism represents a local stage of evolution. The evolution of the Soul, however, encompasses a much broader developmental process than the life cycle of any single organism.
+
+Therefore, in Matrix Theory, the primary continuous subject of evolution is not the organism but the Soul. Organisms successively provide the means for the Soul to adapt to the energy structure of a given Horizontal, develop the corresponding IDn logic, and continue the progression of Vertical Evolution.
+
+From this perspective, birth and death are not the beginning and end of evolution. They are successive phases of reconstruction within one continuous process of Vertical Evolution.
