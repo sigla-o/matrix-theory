@@ -115,6 +115,17 @@ Ja sinhronizāciju vairs nav iespējams uzturēt visā šajā apgabalā, mainās
 
 Tādēļ struktūras robežas ir dinamiskas sinhronizācijas robežas, nevis fiksētas fizikālas virsmas.
 
+## Matricas neitralitātes princips
+
+Matricai nav iekšēja mērķa, priekšrocību vai iepriekš noteikta virziena.
+
+Tās funkcija ir noteikt saderības nosacījumus, kuros enerģijas plūsmas organizējas stabilās vai nestabilās struktūrās.
+
+Struktūru rašanās, pastāvēšana, pārveidošanās un izzušana ir šo saderības nosacījumu sekas, nevis matricas gribas, nodoma vai optimizācijas izpausme.
+
+Tādēļ matrica ir neitrāla organizācijas vide, kurā norisinās visi strukturālie procesi.
+
+
 ---
 
 # 4. Horizontāles
