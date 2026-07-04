@@ -84,3 +84,26 @@ From the perspective of the H0 Horizontal, the internal logic of the Soul is not
 
 This limitation is not a weakness of the theory but a methodological boundary. Matrix Theory does not make claims about processes that are, in principle, inaccessible to observation within a given Horizontal.
 
+## Principle of Organizational Compatibility
+
+In Matrix Theory, an error is not defined as any deviation from a previous organizational form. Evolution continuously generates new organizational possibilities, expanding the space of potential development.
+
+An organizational form becomes degradation only when it loses compatibility with the energy balance of the higher organizational level and can no longer support stable evolutionary continuation.
+
+Therefore, the value of an organization is determined not by its similarity to previous forms but by its ability to preserve energetic, informational, and evolutionary compatibility with the overall organization of the Matrix.
+
+This principle applies equally to biological organization, the development of intelligence, and every other process of Life's evolution.
+
+## Principle of Compatibility Between the Soul and Chemical Organization
+
+In the evolution of Life, the Soul ensures the informational continuity of Vertical Evolution, while the organism's chemical organization operates within that informational domain.
+
+As long as the organism's chemical code remains compatible with the Soul's informational organization, the reconstruction of Life proceeds in accordance with the requirements of Vertical Evolution.
+
+If the chemical organization moves beyond this informational domain, organizational incompatibility arises. Such incompatibility may manifest as local organizational disorders or diseases, including uncontrolled cellular organization.
+
+Matrix Theory holds that any artificially created chemical organization should be evaluated according to its compatibility with the Soul's informational organization rather than solely by its local functional effects.
+
+Matrix Theory makes no claims regarding the direct replacement or takeover of the Soul's mechanisms, since such processes are not directly accessible from the H0 Horizontal.
+
+If human activity remains fully compatible with the Soul's informational organization, it does not affect the process of Vertical Evolution. If this compatibility is systematically lost and the stability of Life's evolution is affected, the consequences may appear as a gradual restriction of open intelligence across successive generations.
