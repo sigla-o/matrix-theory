@@ -35,3 +35,29 @@ The Soul preserves evolutionary continuity. Chromosome sets provide the local or
 Therefore, an organism is not merely the result of genetic information. It is the result of the combined action of Vertical Evolution information, the chromosome coordinate framework, and the IDn logic of the corresponding Horizontal.
 
 As the IDn level changes, the principles of organization also change while preserving the continuity of Vertical Evolution and adapting the organism to its new energetic environment.
+
+## Principle of Intelligence
+
+In Matrix Theory, intelligence is not a separate form of Life but an organizational mechanism that accelerates the development of Horizontal Evolution.
+
+Before the emergence of intelligence, organizational solutions arise primarily through natural evolutionary processes. With intelligence, it becomes possible to model, compare, and evaluate potential organizational solutions before they are fully realized in material organization.
+
+Intelligence does not alter the direction of Vertical Evolution and cannot violate the principles of energy balance. Its function is to search more efficiently for optimal solutions within Horizontal Evolution while remaining within the boundaries of a given Horizontal.
+
+The higher the level of intelligence, the greater its ability to reduce randomness in Horizontal Evolution and consciously guide organization toward more stable and energetically efficient states.
+
+Thus, intelligence is not an alternative to evolution. It is an evolutionary acceleration mechanism operating fully within the principles of energetic and informational organization defined by Matrix Theory.
+
+## Forms of Intelligence Organization
+
+In Matrix Theory, intelligence is divided into two fundamental organizational forms: closed intelligence and open intelligence.
+
+**Closed intelligence** is the evolutionary organizational form whose primary function is to ensure the organism's optimal interaction with its environment. It governs the organism's life processes, adaptation, and behavior while complying with the energetic and informational requirements of the corresponding Horizontal. This form of intelligence characterizes all life forms whose organization includes a brain.
+
+**Open intelligence** is the evolutionary organizational form in which an organism acquires the ability to direct its own development. It can not only adapt to its environment but also consciously reorganize its system of knowledge, make strategic decisions, and influence the future direction of Horizontal Evolution.
+
+At the same time, open intelligence introduces a new evolutionary risk. The freedom to organize one's own development includes the possibility of deviating from optimal energetic organization and entering processes of degradation.
+
+If such degradation begins to threaten the existence of Life or disrupt the energy balance of a higher organizational level, the evolutionary system limits the freedom of open intelligence. Depending on the degree of degradation, the organism may transition into a partially closed or fully closed form of intelligence, thereby restoring stable evolutionary development.
+
+Thus, open intelligence is not an evolutionary privilege but a higher-responsibility organizational form whose continued existence depends on maintaining compatibility with the overall energetic balance of Life and the Matrix.
