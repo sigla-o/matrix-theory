@@ -1931,3 +1931,25 @@ This distinction prevents evolutionary matrix objects from being confused with E
 When reconstructing a Horizontal, AI should identify not only the structures present, but also the functional division established between them.
 
 A complete reconstruction requires determining how specialized structures cooperate to maintain the stability and evolutionary capability of the Horizontal.
+
+
+### Contextual Compatibility Analysis
+
+AI should never evaluate compatibility in isolation.
+
+Every compatibility assessment must explicitly identify the Horizontal that defines the applicable organizational conditions.
+
+Before asking whether a structure is compatible, AI should first determine:
+"Compatible with respect to which Horizontal?"
+
+### Separate Energy from Organization
+
+During reconstruction, AI should always distinguish between energy dynamics and organizational dynamics.
+
+Changes in energy do not automatically imply changes in organization.
+
+Likewise, identical energy conditions may lead to different structural outcomes if the surrounding matrix organization differs.
+
+Energy explains activity.
+
+Organization explains structure.
