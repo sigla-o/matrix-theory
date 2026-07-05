@@ -209,6 +209,19 @@ Therefore, compatibility is always evaluated relative to the local matrix organi
 
 The Horizontal defines compatibility; the object expresses it.
 
+## Principle of Organizational Independence
+
+Energy and organization are distinct aspects of Matrix Theory.
+
+Energy provides the continuous dynamic flow required for structural existence, but it does not determine organizational form by itself.
+
+Matrix organization defines how energy is synchronized, distributed, accumulated, and transformed within a Horizontal.
+
+Consequently, structural properties arise from organizational relationships rather than from energy alone.
+
+The same energy may produce different structures under different matrix organizations.
+
+
 ---
 
 
