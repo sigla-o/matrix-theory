@@ -197,6 +197,18 @@ Evolutionary matrix structures carry the progression of the IDn hierarchy, while
 
 Increasing complexity therefore arises not only from new structures, but also from the emergence of complementary organizational functions.
 
+## Principle of Contextual Compatibility
+
+Compatibility is not an absolute property of a structure.
+
+Every compatibility relation is defined with respect to the specific Horizontal in which the structure exists.
+
+A structure may be fully compatible within one Horizontal while being incompatible within another organizational context.
+
+Therefore, compatibility is always evaluated relative to the local matrix organization rather than as an intrinsic property of the object itself.
+
+The Horizontal defines compatibility; the object expresses it.
+
 ---
 
 
