@@ -222,6 +222,22 @@ Consequently, structural properties arise from organizational relationships rath
 The same energy may produce different structures under different matrix organizations.
 
 
+## Principle of Organizational Inheritance
+
+Matrix Theory assumes that evolution inherits organizational solutions rather than individual structures.
+
+Individual objects may emerge, transform, or disappear, while compatible organizational principles are preserved and become available for subsequent structural realizations.
+
+Organizational inheritance proceeds through successive matrix modulations. Each new Horizontal modulation establishes a new class of evolutionary organization without breaking continuity with previous levels.
+
+The H0 matrix supports the initial evolutionary organization. Higher modulations (H+1, H+2, ...) successively enable new evolutionary classes with greater organizational capacity while preserving compatibility with the parent Horizontal.
+
+Different evolutionary modes may arise within this framework. Monolithic-object evolution and multi-object evolution represent different realizations of the same principle of organizational inheritance.
+
+Objects are temporary realizations.
+
+Organization is the inherited continuity.
+
 ---
 
 
