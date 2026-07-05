@@ -211,6 +211,34 @@ Tādēļ saderība vienmēr tiek vērtēta attiecībā pret lokālo matricas org
 
 Horizontāle nosaka saderību, objekts to realizē.
 
+## Organizācijas neatkarības princips
+
+Enerģija un organizācija Matricas teorijā ir divi atšķirīgi aspekti.
+
+Enerģija nodrošina nepārtrauktu dinamisku plūsmu, kas nepieciešama struktūru pastāvēšanai, taču tā pati par sevi nenosaka organizācijas formu.
+
+Matricas organizācija nosaka, kā enerģija tiek sinhronizēta, sadalīta, uzkrāta un pārveidota konkrētajā Horizontālē.
+
+Tādēļ struktūru īpašības izriet no organizācijas attiecībām, nevis tikai no pašas enerģijas.
+
+Viena un tā pati enerģija dažādās matricas organizācijās var realizēties atšķirīgās struktūrās.
+
+## Organizācijas pārmantošanas princips
+
+Matricas teorija pieņem, ka evolūcija nepārmanto atsevišķus objektus, bet gan organizācijas risinājumus.
+
+Atsevišķi objekti var rasties, pārveidoties vai izzust, kamēr saderīgi organizācijas principi tiek saglabāti un kļūst pieejami turpmākajām strukturālajām realizācijām.
+
+Organizācijas pārmantošana notiek secīgu matricas modulāciju ceļā. Katra jauna Horizontāles modulācija izveido jaunu evolūcijas organizācijas klasi, nepārtraucot saikni ar iepriekšējiem līmeņiem.
+
+H0 matrica nodrošina sākotnējo evolūcijas organizāciju. Augstākās modulācijas (H+1, H+2, ...) secīgi paver iespēju jaunām evolūcijas klasēm ar lielāku organizācijas kapacitāti, vienlaikus saglabājot saderību ar vecāko Horizontāli.
+
+Šajā ietvarā var pastāvēt dažādi evolūcijas režīmi. Monolītu objektu evolūcija un daudzobjektu evolūcija ir viena un tā paša organizācijas pārmantošanas principa atšķirīgas realizācijas.
+
+Objekti ir pagaidu realizācijas.
+
+Organizācija ir pārmantojamā nepārtrauktība.
+
 ---
 
 # 4. Horizontāles
