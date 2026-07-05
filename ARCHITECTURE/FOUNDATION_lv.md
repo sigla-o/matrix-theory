@@ -199,6 +199,18 @@ Evolūcijas matricas struktūras nodrošina IDn hierarhijas attīstību, savukā
 
 Tādēļ sarežģītība rodas ne tikai jaunu struktūru veidošanās rezultātā, bet arī savstarpēji papildinošu organizācijas funkciju attīstības rezultātā.
 
+## Kontekstuālās saderības princips
+
+Saderība nav absolūta struktūras īpašība.
+
+Jebkura saderības attiecība tiek noteikta attiecībā pret konkrēto Horizontāli, kurā struktūra eksistē.
+
+Struktūra var būt pilnībā saderīga vienā Horizontālē un vienlaikus nesaderīga citā organizācijas kontekstā.
+
+Tādēļ saderība vienmēr tiek vērtēta attiecībā pret lokālo matricas organizāciju, nevis kā paša objekta neatņemama īpašība.
+
+Horizontāle nosaka saderību, objekts to realizē.
+
 ---
 
 # 4. Horizontāles
