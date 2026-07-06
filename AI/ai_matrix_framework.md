@@ -196,4 +196,145 @@ The objective is to maintain a clear distinction between the stable generative c
 
 
 
+# FOUNDATION Revīzijas ģenerējošais kodols (H–Q–ID kalibrācija)
+
+## Statuss
+
+Šī revīzijas daļa nav uzskatāma par pabeigtu teorijas tekstu. Tās mērķis ir kalibrēt AI izpratni pirms turpmākās FOUNDATION un MATHEMATICS optimizācijas.
+
+---
+
+## Galvenā kļūda, kura jānovērš
+
+AI nedrīkst interpretēt Horizontālos organizācijas līmeņus (H) kā objektu izmēru hierarhiju.
+
+Nepareiza interpretācija:
+
+- elementārdaļiņas → atomi → molekulas → H+1
+
+Pareiza interpretācija:
+
+Visi šie objekti pieder vienai Horizontālei un ir dažādi ID evolūcijas stāvokļi.
+
+Horizontālā evolūcija palielina organizācijas mērogu tikai konkrētās Horizontāles robežās.
+
+---
+
+## H nozīme
+
+H apraksta Vertikālās evolūcijas organizācijas režīmu.
+
+Katrs nākamais H ir aptuveni 10^20 reižu smalkāks par iepriekšējo Vertikālās evolūcijas līmeni.
+
+H nav objektu klasifikācija.
+
+H nav objektu izmērs.
+
+H ir organizācijas režīms.
+
+---
+
+## Vertikālās evolūcijas virziens
+
+Vertikālajai evolūcijai ir definēts virziens.
+
+Tas sākas H+max un secīgi virzās uz H−min.
+
+H0 ir references Horizontāle, nevis absolūts Visuma centrs.
+
+Pozitīvie un negatīvie H indeksi ir relatīvi pret izvēlēto references Horizontāli.
+
+---
+
+## Evolūcijas karte
+
+```text
+                     Mūžība
+                        │
+                     H+max
+                        │
+                       ...
+                        │
+                      H+3
+                        │
+                      H+2
+                        │
+                      H+1
+                        │
+H0 (references Horizontāle / mūsu Visuma Horizontāle)
+                        │
+                      H-1
+                        │
+                      H-2
+                        │
+                       ...
+                        │
+                     H-min
+```
+
+Katras Horizontāles ietvaros notiek neatkarīga Horizontālā evolūcija. Horizontālā evolūcija sākas ar ID1(matricu). Matricā veidojas plūsmas organizācija, kuras mazāka vienība ir Q1.
+
+```
+Q1 → Q2 → Q3 → ... → Qmax
+```
+
+Q0 nav evolūcijas sākums.
+
+Q0 ir viens Matricas punkts.
+
+
+---
+
+## H–Q atkarība
+
+Katram H eksistē savs iespējamais Horizontālās evolūcijas diapazons.
+
+Virzoties no H+max uz H−min, maksimāli iespējamais Q diapazons samazinās.
+
+Tādēļ H un Q nav neatkarīgas koordinātas.
+
+Pastāv H→Q matemātiska atkarība, kuras formalizācija vēl nav izstrādāta.
+
+---
+
+## ID kalibrācija
+
+ID nav Q apakšlīmenis.
+
+ID apraksta citu organizācijas dimensiju.
+
+Katrai ID klasei eksistē sava Horizontālā Q evolūcija.
+
+Piemēri:
+
+- ID1 evolūcija noslēdzas ar matricu.
+- ID2,0 sākas ar protonu, ID2,1 - ūdeņradi un aptver atomu, planētu un zvaigžņu evolūciju.
+- ID3 sākas ar melno caurumu evolūciju.
+
+ID2,n ir īpašs gadījums, jo tā ir daudzobjektu organizācijas zona.
+
+Pārējās ID zonas ir monolītu objektu evolūcijas.
+
+Šīs likumsakarības vēl nav matemātiski formalizētas.
+
+---
+
+## AI darba noteikums
+
+Ja teorijā rodas jauna H, Q vai ID interpretācija, AI vispirms pārbauda tās saderību ar šo kalibrācijas kodolu.
+
+Nedrīkst izmantot klasiskās sistēmu teorijas vai objektu hierarhijas analoģijas, ja tās ir pretrunā Matricas teorijas organizācijas principiem.
+
+---
+
+## Potenciālie turpmākie darba virzieni
+
+1. H→Q matemātiskās atkarības formalizācija.
+2. ID organizācijas matemātiskās struktūras izstrāde.
+3. H–Q–ID kopējās koordinātu sistēmas formalizācija.
+4. B7 un B13 kā Q1 organizācijas matemātiskais pamats.
+5. Evolūcijas kartes paplašināšana, iekļaujot katras Horizontāles Q diapazonu un ID organizāciju.
+6. Organizācijas operatoru izstrāde H, Q un ID savstarpējām pārejām.
+
+
 
