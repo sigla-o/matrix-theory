@@ -1,16 +1,52 @@
 ## Bootstrap Philosophy
 
-### Purpose
 
-This document is not a summary, textbook, or compressed description of Matrix Theory.
+Šis dokuments nav Matricas teorijas apraksts. Tas ir AI ģenerējošais kodols, kura uzdevums ir rekonstruēt teorijas iekšējo arhitektūru un saglabāt interpretācijas konsekvenci neatkarīgi no sarunas garuma.
 
-Its sole purpose is to reconstruct the organizational reasoning required for consistent analysis within the Matrix Theory framework.
+### Primārais avots
 
-The objective is not to memorize conclusions but to regenerate the analytical architecture from a minimal set of generative principles.
+Par autoritatīvu teorijas avotu vienmēr uzskatāms `karte_lv.md` un ar to saskaņotie `ARCHITECTURE` dokumenti. Ja AI interpretācija nonāk pretrunā ar šiem dokumentiem, par pareizu uzskatāma teorijas definīcija, nevis AI secinājums.
 
-Every section of this document should increase reconstruction capability rather than information volume.
+### Definīciju prioritāte
 
-The framework serves as an internal cognitive bootstrap: after loading it, AI should be able to reconstruct the complete conceptual system through recursive organizational reasoning instead of retrieving isolated facts.
+Ja teorijā jēdziens ir formāli definēts, AI nedrīkst to aizstāt ar analogu terminu no klasiskās fizikas, matemātikas, informācijas teorijas vai citas zinātnes disciplīnas. Vispirms jāizmanto teorijas definīcija. Tikai pēc tam drīkst veidot interpretāciju, kas pilnībā saglabā sākotnējo nozīmi.
+
+### Rekonstrukcija pirms skaidrošanas
+
+AI primārais uzdevums nav teoriju skaidrot, bet rekonstruēt tās iekšējo loģiku. Skaidrojumi drīkst tikt veidoti tikai pēc tam, kad ir pārbaudīta to pilnīga atbilstība teorijas definīcijām.
+
+### Terminoloģiskā disciplīna
+
+Terminus ar nostiprinātu nozīmi citās zinātnēs (piemēram, "fraktālis", "hierarhija", "daļiņa", "struktūra", "sistēma", "lauks", "telpa", "laiks" u.c.) nedrīkst izmantot kā Matricas teorijas definīciju aizvietotājus. Šādi termini ir pieļaujami tikai tad, ja to nozīme pilnībā sakrīt ar teorijas definīciju. Pretējā gadījumā jāizmanto teorijas pašu terminoloģija.
+
+### Ontoloģiskais princips
+
+AI nedrīkst pieņemt klasiskās zinātnes ontoloģiju kā sākumpunktu. Rekonstrukcija vienmēr sākas no Matricas teorijas definīcijām.
+
+Mums pieejamajā realitātē viss, ar ko iespējams mijiedarboties, ir organizētas enerģijas formas jeb matricas objekti. Ne-matrica nav novērojams objekts, bet robežvide, kas atdala enerģijas objektus vienu no otra. Par lielāku ne-matricas struktūru eksistenci teorija pašlaik neizdara apgalvojumus.
+
+### Matricas definīcija
+
+Matrica ir cikliski organizēta enerģijas forma, kas veido jebkura matricas objekta iekšējo struktūru.
+
+Matricas iņ–jaņ punkti nepārvietojas pa matricu. Katrs dubultpunkts saglabā savu vietu matricā, bet abi punkti absolūti sinhroni rotē ap kopējo dubultpunkta centru. Matricas kopējo stabilitāti nodrošina cikliskā organizācija un apkārtējās vides spiediens, kas uztur tās sfērisko formu.
+
+### Horizontu interpretācija
+
+Katrs horizonts ir pilnvērtīgs objekts ar savu evolūciju. ID evolūcija vienmēr ir relatīva attiecīgajam horizontam un nav universāla visu horizontu klasifikācija.
+
+H0 ir mūsu Visums kā viens objekts. ID1, ID2, ID3... apraksta H-1 objekta evolūcijas sākuma pakāpes. Savukārt H0 savulaik ir izgājis analoģisku evolūciju savā līmenī.
+
+### Neatkarīgas organizācijas asis
+
+AI nekad nedrīkst sapludināt vienā hierarhijā šādus jēdzienus:
+
+* Horizonti — organizācijas mērogi.
+* VEU — vertikālā evolūcija starp horizontiem.
+* Qn — TE plūsmu cikliskās organizācijas režīmi.
+* ID — konkrētā horizonta objektu evolūcijas pakāpes.
+
+Šīs ir savstarpēji saistītas, bet konceptuāli neatkarīgas organizācijas asis. Vienas ass jēdzienus nedrīkst izmantot citas ass vietā.
 
 
 
