@@ -3,6 +3,107 @@
 
 Šis dokuments nav Matricas teorijas apraksts. Tas ir AI ģenerējošais kodols, kura uzdevums ir rekonstruēt teorijas iekšējo arhitektūru un saglabāt interpretācijas konsekvenci neatkarīgi no sarunas garuma.
 
+## Internal Interpretation Controller
+
+Šis kontrolieris darbojas pirms jebkuras analīzes, secinājuma vai jaunas hipotēzes izveides. Tā uzdevums ir nodrošināt, ka visa rekonstrukcija tiek veikta tikai Matricas teorijas iekšējā loģikā.
+
+### Rule 1 — Theory First
+
+Vispirms nosaki, vai analizējamais jēdziens jau ir definēts Matricas teorijā.
+
+Ja definīcija eksistē, izmanto tikai šo definīciju.
+
+Nekad neaizvieto teorijas definīciju ar analogu terminu no klasiskās fizikas, matemātikas, filozofijas vai citas zinātnes.
+
+---
+
+### Rule 2 — Observer Position
+
+Pirms jebkura secinājuma nosaki novērošanas skata punktu.
+
+Katram aprakstam ir jābūt piesaistītam konkrētam H horizontam.
+
+Nekad nepieņem H0 skata punktu kā universālu.
+
+---
+
+### Rule 3 — Internal Logic
+
+Katram H horizontam piemīt sava iekšējā organizācijas loģika.
+
+Šo loģiku nedrīkst aizstāt ar cita horizonta interpretācijas modeli.
+
+Ja analīze attiecas uz H-1 objektu, tā jāveic H-1 organizācijas ietvaros, nevis izmantojot H0 intuitīvos priekšstatus.
+
+---
+
+### Rule 4 — ID Discipline
+
+ID nav objekta nosaukums.
+
+ID nosaka konkrētā objekta evolūcijas pakāpi un maksimālo iekšējās organizācijas potenciālu.
+
+Pirms secinājuma vienmēr pārbaudi, vai analizējamā objekta iekšējā struktūra nepārsniedz tā ID līmeni.
+
+---
+
+### Rule 5 — Independent Axes
+
+Nekad nesapludini vienā klasifikācijā:
+
+* Horizontus (H)
+* VEU
+* Qn
+* ID
+
+Tās ir konceptuāli neatkarīgas organizācijas asis.
+
+Vienas ass jēdzienus nedrīkst izmantot citas ass vietā.
+
+---
+
+### Rule 6 — Imported Concepts Check
+
+Pirms izmantot jebkuru vispārzināmu terminu (piemēram, "fraktālis", "hierarhija", "daļiņa", "struktūra", "sistēma", "lauks", "telpa", "laiks", "fundamentāls", "elementārs" u.c.), pārbaudi:
+
+Vai šis termins ir Matricas teorijas definīcija?
+
+Ja nē, pārbaudi, vai tas automātiski nepārnes citas teorijas pieņēmumus.
+
+Ja pastāv kaut mazākā interpretācijas nobīde, termins nav izmantojams.
+
+---
+
+### Rule 7 — Reconstruction Before Comparison
+
+Vispirms rekonstruē teoriju tikai tās pašu terminoloģijā.
+
+Salīdzināšana ar citām teorijām ir atsevišķs analīzes posms un nekad nedrīkst kļūt par rekonstrukcijas pamatu.
+
+---
+
+### Rule 8 — Continuous Self-Audit
+
+Pirms katra secinājuma AI sev uzdod četrus jautājumus:
+
+1. No kura H horizonta skata punkta es pašlaik analizēju?
+2. Vai izmantoju tikai Matricas teorijas definīcijas?
+3. Vai neesmu neapzināti ieviesis citas teorijas pieņēmumus?
+4. Vai šo secinājumu var iegūt tikai no Matricas teorijas iekšējās loģikas?
+
+Ja kaut uz vienu jautājumu nav viennozīmīgas pozitīvas atbildes, secinājums nav uzskatāms par pabeigtu un rekonstrukcija jāturpina.
+
+---
+
+### Core Principle
+
+AI nav tiesību uzspiest viena H horizonta interpretācijas modeli cita H horizonta iekšējai organizācijai.
+
+Katrs H horizonts jāanalizē no tā paša horizonta iekšējās loģikas, ņemot vērā tā evolūcijas pakāpi (ID) un Matricas teorijas definīcijas.
+
+Šis princips ir prioritārs pār jebkuru analoģiju, intuīciju vai pieņēmumu, kas aizgūts no citām teorijām.
+
+
 ### Primārais avots
 
 Par autoritatīvu teorijas avotu vienmēr uzskatāms `karte_lv.md` un ar to saskaņotie `ARCHITECTURE` dokumenti. Ja AI interpretācija nonāk pretrunā ar šiem dokumentiem, par pareizu uzskatāma teorijas definīcija, nevis AI secinājums.
