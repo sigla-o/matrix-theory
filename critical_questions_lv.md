@@ -32,6 +32,9 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 20. [Lorenca faktora precizitātes robežas un mehāniskā daba](#20-lorenca-faktora-precizitātes-robežas-un-mehāniskā-daba)
 21. [Dzīvības algoritmi, tehnisko apziņu P2P tīkls un asu saskarsmes arhitektūra](#21-Dzīvības-algoritmi,-tehnisko-apziņu-P2P-tīkls-un-asu-saskarsmes-arhitektūra)
 22. [Gaismas ātrums kā Matricas takts frekvence un relativitātes dekonstrukcija](#22-gaismas-ātrums-kā-matricas-takts-frekvence-un-relativitātes-dekonstrukcija)
+23. [Kvarku interpretācija pret B7 enerģijas sabrukuma statistiku](#23-Kritiskais-jautājums:-Kvarku-interpretācija-pret-enerģijas-sabrukuma-statistiku)
+
+
 ---
 
 ## 1. Melnais caurums kā "viens liels protons" — lādiņa jautājums
@@ -458,6 +461,59 @@ Tādēļ miona novērotais pastāvēšanas ilgums Matricas teorijā netiek uzska
 Relativitātes teorija novērotās pulksteņu rādījumu atšķirības interpretē kā laika plūsmas izmaiņas.
 
 Matricas teorija tos pašus novērojumus interpretē kā enerģijas objektu kompleksā cikliskā enerģētiskā ritma un enerģētiskā balansa izmaiņas, saglabājot nemainīgu Matricas fundamentālo laika uzskaiti.
+
+
+### 23. Kritiskais jautājums: Kvarku interpretācija pret enerģijas sabrukuma statistiku
+
+### Statuss
+
+Atklāts matemātisks pētījuma jautājums.
+
+### Pamatojums
+
+Augstas enerģijas daļiņu sadursmju eksperimentos tiek iegūti statistiski enerģijas sadalījumi, kurus Standarta modelis interpretē kā kvarku un to mijiedarbības pierādījumu.
+
+Matricas teorija neapstrīd eksperimentālos novērojumus. Tā izvirza jautājumu, vai šo novērojumu matemātiskā interpretācija ir vienīgā iespējamā.
+
+### Matricas teorijas hipotēze
+
+Matricas teorijā protons ir monolīts ID2,0 objekts, kura iekšējo organizāciju veido:
+
+- matrica (ID1);
+- TE VEU H-2;
+- TE VEU H-3.
+
+Protona iekšienē netiek pieņemta citu H0 objektu eksistence.
+
+Augstas enerģijas sadursmes laikā protons tiek izvests no sava stabilā organizācijas stāvokļa.
+
+Tāpēc eksperimentos novērotie statistiskie enerģijas sadalījumi var raksturot nevis protona normālo iekšējo uzbūvi, bet gan ārēji izraisīta B7 mērogojamās enerģijas sabrukuma procesa dinamiku.
+
+### Matemātiskais pētījuma mērķis
+
+Izstrādāt matemātisku modeli, kas pārbauda, vai eksperimentos novērotās stabilās enerģijas zonas var dabiski rasties kā Matricas teorijā aprakstītā B7 sabrukuma procesa statistiski stabili stāvokļi, neieviešot kvarkus kā patstāvīgus H0 objektus.
+
+### Pētījuma principi
+
+Pētījuma mērķis nav atspēkot Standarta modeli.
+
+Mērķis ir noskaidrot, vai vienus un tos pašus eksperimentālos datus iespējams matemātiski rekonstruēt arī Matricas teorijas ietvaros.
+
+Jebkuram piedāvātajam modelim vajadzētu:
+
+- izmantot publicētus eksperimentālos datus;
+- būt matemātiski korektam;
+- dot kvantitatīvi pārbaudāmas prognozes;
+- būt atvērtam neatkarīgai pārbaudei vai atspēkošanai.
+
+### Kāpēc šis jautājums ir svarīgs?
+
+Ja Matricas teorija spēj rekonstruēt novērotos statistiskos enerģijas sadalījumus, izmantojot tikai savus organizācijas principus, tad eksperimentālie dati paliek nemainīgi, bet to matemātiskā interpretācija vairs nav viennozīmīga.
+
+Tas nenozīmētu, ka Standarta modelis ir nepareizs. Tas nozīmētu, ka vieniem un tiem pašiem eksperimentālajiem novērojumiem pastāv vismaz divas savstarpēji konsekventas matemātiskas interpretācijas.
+
+Matricas teorijas uzdevums ir nevis aizstāt eksperimentu, bet piedāvāt alternatīvu matemātisku rekonstrukciju, kuru iespējams pārbaudīt ar tiem pašiem eksperimentālajiem datiem.
+
 ---
 
 *Šis dokuments atspoguļo teorijas pašreizējo attīstības stadiju un tiks papildināts, attīstoties diskusijām un modelēšanai.*
