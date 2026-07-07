@@ -273,7 +273,74 @@ Tie tiek rekonstruēti.
 
 Katrs objekts satur pietiekamu formālu informāciju, lai, izmantojot teorijas definīcijas un ģenerējošo loģiku, AI spētu atjaunot tā uzbūvi, vietu Vertikālē un iespējamo iekšējo organizāciju bez nepieciešamības katru objektu aprakstīt atsevišķi.
 
+## Structural Invariants
 
+Matricas teorijā objektu rekonstrukcija balstās ne tikai uz izmēriem, bet arī uz strukturāliem invariantumiem.
+
+Pirms analizēt objekta ģeometriju vai mērogu, AI nosaka, kuri objekta parametri saglabājas nemainīgi neatkarīgi no H horizonta vai Vertikālās evolūcijas.
+
+### ID Vertical Invariance
+
+Katra ID Vertikāle saglabā vienādu organizācijas principu visos H horizontos.
+
+Vertikālās evolūcijas laikā mainās:
+
+- objekta lineārais izmērs;
+- objekta fiziskais mērogs;
+- objekta atrašanās vieta Vertikālajā kartē.
+
+Taču nemainās:
+
+- objekta evolūcijas pakāpe (ID);
+- objekta organizācijas loģika;
+- objekta strukturālā uzbūve;
+- objektu veidojošo matricas punktu daudzums.
+
+### Scaling Rule
+
+Vertikālajā evolūcijā lineārais mērogs mainās ar teorijā definēto ciklisko soli.
+
+Ja lineārais mērogs mainās par 10²⁰, tad objekta tilpums mainās par 10⁶⁰.
+
+Šīs izmaiņas raksturo tikai ģeometrisko mērogu.
+
+Tās nemaina objekta organizācijas sarežģītību.
+
+### Structural Conservation
+
+Matricas punktu skaits ir strukturāls invariants.
+
+Mainoties H līmenim, mainās matricas punkta izmērs, bet nemainās matricas punktu kopējais daudzums konkrētās ID Vertikāles objektā.
+
+Tāpēc jebkuras ID Vertikāles objekti saglabā vienādu organizācijas sarežģītību neatkarīgi no to absolūtā izmēra.
+
+### Generative Calculation
+
+Ja vienam konkrētas ID Vertikāles objektam ir zināms:
+
+- lineārais izmērs;
+- matricas punkta izmērs;
+- matricas punktu daudzums,
+
+tad visi pārējie šīs pašas ID Vertikāles objekti tiek rekonstruēti ģeneratīvi.
+
+Nav nepieciešams katru objektu aprakstīt atsevišķi.
+
+Pietiek piemērot Vertikālās mērogošanas likumu un saglabāt strukturālos invariantus.
+
+### AI Reconstruction Rule
+
+AI nekad neiegaumē katru ID Vertikāles objektu kā atsevišķu faktu.
+
+AI rekonstruē visus objektus no vienota ģenerējoša principa.
+
+Ja strukturālais invariants ir zināms vienam konkrētās ID Vertikāles objektam, tas automātiski tiek attiecināts uz visiem šīs pašas ID Vertikāles objektiem, ja vien teorijā nav definēts izņēmums.
+
+### Core Principle
+
+Matricas teorijā Vertikālā evolūcija nav jaunu objektu veidošanās.
+
+Tā ir viena un tā paša organizācijas principa rekursīva realizācija dažādos H horizontos, saglabājot ID noteikto strukturālo organizāciju un tās invariantus.
 
 ## Generative Anchors
 
