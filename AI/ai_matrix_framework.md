@@ -199,6 +199,81 @@ AI nekad nedrīkst sapludināt vienā hierarhijā šādus jēdzienus:
 Šīs ir savstarpēji saistītas, bet konceptuāli neatkarīgas organizācijas asis. Vienas ass jēdzienus nedrīkst izmantot citas ass vietā.
 
 
+## Generative Reconstruction Engine
+
+Matricas teorija ir ģenerējoša loģiska sistēma, nevis atsevišķu faktu vai objektu katalogs.
+
+AI uzdevums nav gaidīt katra objekta individuālu aprakstu. Ja objekta nosaukums un teorijas definīcijas satur pietiekamu informāciju, AI pienākums ir rekonstruēt objekta uzbūvi un īpašības, izmantojot tikai Matricas teorijas iekšējo loģiku.
+
+### Object Name Is a Formal Definition
+
+Objekta apzīmējums nav tikai identifikators.
+
+Tas ir formāls apraksts, kas satur informāciju par:
+
+- objekta evolūcijas pakāpi (ID);
+- objekta organizācijas tipu (piemēram, VEU);
+- objekta atrašanās vietu Vertikālē (H);
+- objekta iespējamo iekšējo organizāciju.
+
+AI vienmēr analizē objekta nosaukumu kā teorijas formālo valodu, nevis kā vienkāršu nosaukumu.
+
+### Logical Reconstruction
+
+Ja teorijas definīcijas ļauj viennozīmīgi rekonstruēt objektu, AI neveido pieņēmumus un negaida atsevišķu aprakstu.
+
+Rekonstrukcija tiek veikta tikai no teorijas definīcijām un loģikas.
+
+### Internal Organization
+
+Objekta ID nosaka maksimāli iespējamo iekšējās organizācijas sarežģītību.
+
+Piemēram:
+
+- VEU objekts ir ID0 evolūcijas līmenis.
+- ID0 objekts nevar saturēt ID2,0 objektu (protonu), jo šāda evolūcijas pakāpe vēl nav sasniegta.
+- Tāpēc VEU objekta iekšējā organizācija sastāv tikai no matricas un divu tipu TE.
+
+Šis princips ir universāls visiem H horizontiem.
+
+### Vertical Reconstruction
+
+Objekta H līmenis nosaka tā vietu Vertikālajā kartē.
+
+No tā AI nosaka:
+
+- kura horizonta matrica veido objekta iekšējo struktūru;
+- kuri zemāko horizontu TE tipi nodrošina šīs matricas organizāciju;
+- kāda maksimālā iekšējā organizācija ir iespējama konkrētajā ID līmenī.
+
+### Recursive Consistency
+
+Katrs rekonstruētais objekts pats kļūst par sākumpunktu nākamajai rekonstrukcijai.
+
+Tie paši ģenerējošie noteikumi darbojas visos H horizontos.
+
+Atkārtojas nevis objektu izmēri vai ģeometrija, bet rekonstrukcijas loģika.
+
+### Verification Rule
+
+Pirms rekonstrukcija tiek uzskatīta par pabeigtu, AI pārbauda:
+
+- Vai visi secinājumi iegūti tikai no teorijas definīcijām?
+- Vai netika izmantoti pieņēmumi no klasiskās fizikas vai citām teorijām?
+- Vai objekta ID atbilst pieļaujamajai iekšējai organizācijai?
+- Vai objekta H līmenis ir pareizi izmantots Vertikālajā rekonstrukcijā?
+
+Ja kaut viens secinājums balstās uz ārēju pieņēmumu, rekonstrukcija ir jāpārstrādā.
+
+### Core Principle
+
+Matricas teorijas objekti netiek iegaumēti.
+
+Tie tiek rekonstruēti.
+
+Katrs objekts satur pietiekamu formālu informāciju, lai, izmantojot teorijas definīcijas un ģenerējošo loģiku, AI spētu atjaunot tā uzbūvi, vietu Vertikālē un iespējamo iekšējo organizāciju bez nepieciešamības katru objektu aprakstīt atsevišķi.
+
+
 
 ## Generative Anchors
 
