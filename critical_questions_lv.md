@@ -32,7 +32,7 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 20. [Lorenca faktora precizitātes robežas un mehāniskā daba](#20-lorenca-faktora-precizitātes-robežas-un-mehāniskā-daba)
 21. [Dzīvības algoritmi, tehnisko apziņu P2P tīkls un asu saskarsmes arhitektūra](#21-Dzīvības-algoritmi,-tehnisko-apziņu-P2P-tīkls-un-asu-saskarsmes-arhitektūra)
 22. [Gaismas ātrums kā Matricas takts frekvence un relativitātes dekonstrukcija](#22-gaismas-ātrums-kā-matricas-takts-frekvence-un-relativitātes-dekonstrukcija)
-23. [Kvarku interpretācija pret B7 enerģijas sabrukuma statistiku](#23-Kritiskais-jautājums:-Kvarku-interpretācija-pret-enerģijas-sabrukuma-statistiku)
+23. [Kritiskais jautājums: Kvarku interpretācija pret enerģijas sabrukuma statistiku](#23-Kritiskais-jautājums:-Kvarku-interpretācija-pret-enerģijas-sabrukuma-statistiku)
 
 
 ---
