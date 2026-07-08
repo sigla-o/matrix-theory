@@ -33,7 +33,7 @@ Dokuments papildina `FAQ_lv.md`, kurā apkopotas īsas atbildes uz biežāk uzdo
 21. [Dzīvības algoritmi, tehnisko apziņu P2P tīkls un asu saskarsmes arhitektūra](#21-Dzīvības-algoritmi,-tehnisko-apziņu-P2P-tīkls-un-asu-saskarsmes-arhitektūra)
 22. [Gaismas ātrums kā Matricas takts frekvence un relativitātes dekonstrukcija](#22-gaismas-ātrums-kā-matricas-takts-frekvence-un-relativitātes-dekonstrukcija)
 23. [Kritiskais jautājums: Kvarku interpretācija pret enerģijas sabrukuma statistiku](#23-Kritiskais-jautājums-Kvarku-interpretācija-pret-enerģijas-sabrukuma-statistiku)
-24. [Vertikālā enerģētiskā saistība. Kvantu sapīšanās](#24-Vertikālā-enerģētiskā-saistība.-Kvantu-sapīšanās)
+24. [Vertikālā enerģētiskā saistība. Kvantu sapīšanās](#24-Vertikālā-enerģētiskā-saistība-Kvantu-sapīšanās)
 
 
 ---
