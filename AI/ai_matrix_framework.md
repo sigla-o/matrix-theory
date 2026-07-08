@@ -771,6 +771,36 @@ Objects belonging to different ID levels should not be compared directly using t
 
 Each ID establishes its own dominant energetic scale while remaining part of the unified TE flow governed simultaneously by Qn and all active H modulations.
 
+## Qn Structural Invariance
+
+### Principle
+
+Qn is the cyclic organizational architecture of the TE flow.
+
+Its structure is invariant.
+
+Objects do not deform, modify, or reconstruct the Qn architecture.
+
+### AI Interpretation Rules
+
+When an ID object forms:
+
+- it occupies a specific energy coordinate within the Qn architecture;
+- it displaces part of the local TE flow;
+- the displaced TE flow is redistributed through the existing Qn channel structure;
+- only the flow magnitude and direction change;
+- the Qn architecture itself remains unchanged.
+
+The resulting redistribution defines the local L1 flow regime surrounding the object.
+
+### Consequence
+
+AI must never interpret object formation as a deformation of Qn.
+
+Only the TE flow regime changes.
+
+The organizational architecture of Qn remains invariant.
+
 ---
 
 ## AI darba noteikums
