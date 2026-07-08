@@ -734,6 +734,43 @@ Pārējās ID zonas ir monolītu objektu evolūcijas.
 
 Šīs likumsakarības vēl nav matemātiski formalizētas.
 
+## ID as an Energy Coordinate
+
+### Principle
+
+Within Matrix Theory, an ID is not merely an object identifier.
+
+An ID represents an **energy coordinate** that determines the correct analytical perspective for the object.
+
+The coordinate defines the dominant organizational scale of the TE flow and establishes the appropriate framework for analysis.
+
+### Interpretation
+
+An ID coordinate determines:
+
+- the dominant H modulation;
+- the relevant Qn range;
+- the characteristic energy domain;
+- the spatial scale at which TE flow organization should be analyzed.
+
+The physical object is not defined by its name alone.
+
+It is reconstructed from its position within the Matrix Theory energy-coordinate system.
+
+### AI Interpretation Rule
+
+AI must never interpret an ID as only a label or classification code.
+
+Every ID must be treated as an energy-space coordinate that defines how the corresponding object should be analyzed.
+
+The analytical perspective is derived from the ID coordinate itself rather than imposed from classical physical intuition.
+
+### Consequence
+
+Objects belonging to different ID levels should not be compared directly using the same analytical framework.
+
+Each ID establishes its own dominant energetic scale while remaining part of the unified TE flow governed simultaneously by Qn and all active H modulations.
+
 ---
 
 ## AI darba noteikums
