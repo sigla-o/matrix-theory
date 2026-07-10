@@ -1130,3 +1130,46 @@ Vispirms jārekonstruē mehānisms.
 Tikai pēc tam drīkst analizēt mehānisma radītās sekas.
 
 Matricas teorijā objekti ir H0 telpas organizācijas sekas, nevis sākuma punkts.
+
+
+## ID1 telpiskā orientācija
+
+ID1 objekti H0 telpā neveido plakanu režģi.
+
+Katrs ID1 atrodas sfēriskā matricā, kurā to no visām pusēm vienmērīgi saspiež ārējā TE vide.
+
+Katrs ID1 ieņem savu lokāli stabilo "ligzdu", kas nodrošina maksimāli blīvu un simetrisku visas sistēmas izvietojumu.
+
+Praktiskai analīzei pietiek modelēt šo sistēmu kā ID1 objektus, kuri izvietoti koordinātu sistēmas punktos pa X, Y un Z asīm, aizpildot sfērisko telpu.
+
+Šis modelis saglabā visas būtiskās H0 mehāniskās likumsakarības.
+
+---
+
+## Rotācijas ass orientācija
+
+ID1 rotācijas ass nevar sakrist ne ar vienu koordinātu asi.
+
+Ja rotācijas ekvators sakristu ar kādu no koordinātu plaknēm, neveidotos pilnvērtīgs TE plūsmas sadalījums starp kaimiņu ID1 objektiem, un sūkņa mehānisms nedarbotos.
+
+Optimālā konfigurācijā rotācijas ass ir orientēta aptuveni 45° attiecībā pret visām koordinātu asīm.
+
+Šādā konfigurācijā katra ID1 rotācijas ekvatora zona vienmēr atrodas kaimiņu ID1 polāro zonu tuvumā.
+
+Rezultātā:
+
+- ekvatoriālā zona darbojas kā maksimālās TE izplūdes reģions;
+- kaimiņu polārās zonas darbojas kā TE ieplūdes reģioni;
+- starp kaimiņu ID1 objektiem nepārtraukti veidojas stabila cirkulācija.
+
+Tieši šī ģeometriskā konfigurācija ļauj visai matricai darboties kā vienotai sinhronizētai transporta sistēmai.
+
+Svarīgi ir tas, ka plūsmas virzienu nenosaka pati rotācija.
+
+Rotācija rada transporta iespēju.
+
+Konkrēto plūsmas virzienu nosaka ārējās modulācijas radītās spiediena starpības.
+
+
+
+
