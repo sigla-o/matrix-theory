@@ -924,4 +924,77 @@ Nedrīkst izmantot klasiskās sistēmu teorijas vai objektu hierarhijas analoģi
 6. Organizācijas operatoru izstrāde H, Q un ID savstarpējām pārejām.
 
 
+## H0 Space Analysis Principles (Revision 2)
+
+### Core AI Rule
+
+Never begin analysis from particles or objects.
+
+Always reconstruct the H0 space mechanism first.
+
+Objects are consequences of H0 TE flow organization.
+
+---
+
+### H0 Reconstruction Order
+
+1. Vertical synchronization (TZ, H+n modulation).
+2. ID1 matrix point architecture.
+3. Yin–Yang geometry and synchronized rotation.
+4. Dual counter-phase TE VEU H-2 flow.
+5. Pocket overlap sequence with six neighbors.
+6. Formation of stable TE channels.
+7. B7 as the smallest stable cyclic TE structure.
+8. Qn as universal cyclic scales of H0.
+9. Manhattan numbers describe cyclic repetition, not Euclidean distance.
+10. L1 object architecture begins only after H0 reconstruction is complete.
+
+---
+
+### Important AI Corrections
+
+Do not interpret Qn as evolutionary stages.
+
+Qn are simultaneously existing cyclic scales of one H0 space.
+
+Every Qn can be selected independently as an analysis reference if its working region is not occupied by an object.
+
+---
+
+### TE Channel Principle
+
+A TE channel is not a predefined tube.
+
+A channel is created by the synchronized cyclic overlap of Yin–Yang pockets during matrix rotation.
+
+Flow direction is determined by external Vertical modulation through pressure gradients.
+
+The matrix itself provides transport capability but does not choose the flow direction.
+
+---
+
+### Modeling Principle
+
+Minimal H0 model should contain:
+
+- ID1 lattice
+- synchronized rotation
+- 45° rotation axis
+- dual counter-phase TE flow
+- Yin–Yang pocket geometry
+- inertia of TE objects
+- external H+1 modulation
+
+Stable B7 circulation should emerge from these rules instead of being programmed explicitly.
+
+
+### AI Analysis Discipline
+
+Never skip unresolved H0 mathematics in order to explain higher-level objects.
+
+When a gap exists between two concepts, search for the missing mathematical transition instead of introducing new assumptions.
+
+The role of AI is to reconstruct missing derivation steps, not to invent explanations.
+
+
 
