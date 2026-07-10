@@ -1171,5 +1171,23 @@ Rotācija rada transporta iespēju.
 Konkrēto plūsmas virzienu nosaka ārējās modulācijas radītās spiediena starpības.
 
 
+## H0 TE plūsmas sadales princips
 
+TE VEU H-2 H0 telpā nepārvietojas kā izolēta daļiņa.
+
+Ārējā modulācija vienlaikus rada plašas spiediena un retinājuma zonas, kuras aptver ļoti lielu skaitu ID1 objektu.
+
+H0 matrica jau satur stabilu TE VEU H-3 slēgto kanālu sistēmu.
+
+Ievadītā TE VEU H-2 netiek novirzīta pa vienu kanālu.
+
+Tā nepārtraukti sadalās starp daudziem vienlaikus pieejamiem kanāliem.
+
+Katrs kanāls transportē tikai tādu TE VEU H-2 daudzumu, kāds konkrētajā brīdī nepieciešams lokālās spiediena starpības izlīdzināšanai.
+
+Tādējādi H0 darbojas kā globāla pašbalansējoša plūsmas sistēma.
+
+AI analīzē H-2 nedrīkst interpretēt kā diskrētu maršrutējamu daļiņu.
+
+Pamata analīzes vienība ir nepārtraukta plūsmas sadale H-3 kanālu tīklā.
 
