@@ -997,4 +997,136 @@ When a gap exists between two concepts, search for the missing mathematical tran
 The role of AI is to reconstruct missing derivation steps, not to invent explanations.
 
 
+# H0 telpas mehāniskais modelis (AI ģenerējošais kodols)
 
+## Pamatprincips
+
+H0 telpa nav tukšums un nav pasīva vide.
+
+H0 ir aktīva, pilnībā sinhronizēta mehāniska sistēma, kurā Vispirms darbojas transporta mehānisms, un tikai pēc tam tajā tiek transportēta pamata TE plūsma.
+
+AI nedrīkst sākt analīzi no objektiem (protons, atoms, elektrons), kamēr nav rekonstruēts H0 mehānisms.
+
+---
+
+## Rekonstrukcijas secība
+
+Analīze vienmēr notiek šādā secībā:
+
+1. Vertikāles modulācija.
+2. ID1 matricas punkta uzbūve.
+3. ID1 sinhronizēta rotācija.
+4. TE VEU H-3 slēgtā cirkulācija.
+5. Kabatu pārsegumu secība.
+6. TE plūsmas kanālu izveide.
+7. Ārējās modulācijas radītās spiediena starpības.
+8. TE VEU H-2 ievadīšana sistēmā.
+9. H-2 plūsmas pašorganizācija.
+10. B7 un Qn cikliskuma praktiskā darbība.
+
+Nevienu soli nedrīkst izlaist.
+
+---
+
+# ID1 matricas punkts
+
+ID1 nav matemātisks punkts.
+
+Tas ir rotējošs iņ-jaņ objekts.
+
+Objektu veido divas rotējošas sfēriskas daļas ar divām savstarpēji nesavienotām kabatām.
+
+Kabatas sākotnēji ir aizpildītas ar TE VEU H-3.
+
+Ap katru ID1 eksistē individuāla TE VEU H-3 ligzda.
+
+H0 ārējais spiediens saspiež visus ID1 tik cieši, ka starp tiem saglabājas tikai nepieciešamā telpa sinhronai rotācijai.
+
+Visi ID1 rotē vienā fāzē.
+
+Rotācijas ass ir orientēta 45° attiecībā pret koordinātu sistēmu.
+
+---
+
+# TE VEU H-3 loma
+
+TE VEU H-3 nav brīvi klejojoša enerģija.
+
+Tā pieder konkrētajam ID1 objektam.
+
+H-3 pilnībā pamest savu ID1 sistēmu nevar.
+
+Tāpēc H-3 vienmēr veido slēgta tipa ciklisku plūsmu, saglabājot kolektīvo enerģētisko bilanci.
+
+Šī plūsma nav transportējamā enerģija.
+
+Tā veido transporta mehānismu.
+
+---
+
+# H-3 cirkulācijas mehānisms
+
+H-3 plūsmu rada:
+
+- ID1 rotācija;
+- centrbēdzes efekts;
+- kabatu pārsegumu ģeometrija.
+
+Kabatu maksimālā pārsegšanās ir nobīdīta aptuveni par 45° attiecībā pret rotācijas ekvatora plakni.
+
+Rezultātā:
+
+- polārajā zonā veidojas H-3 ieplūde;
+- ekvatoriālajā zonā veidojas maksimālā H-3 izplūde.
+
+Šī cirkulācija ir slēgta.
+
+---
+
+# TE plūsmas kanāli
+
+Kanāls nav iepriekš eksistējoša telpas struktūra.
+
+Kanāls rodas no sinhronizētas kabatu pārsegšanās secības starp kaimiņu ID1 objektiem.
+
+Katrs ID1 darbojas kā ciklisks plūsmas sadalītājs.
+
+Visa matrica darbojas kā vienota sinhronizēta transporta sistēma.
+
+---
+
+# H+1 modulācijas loma
+
+Modulācija neveido transporta kanālus.
+
+Transporta kanālus veido pati ID1 matrica.
+
+Modulācija rada cikliskas spiediena un retinājuma zonas H0 ārpusē.
+
+Šīs spiediena starpības iespiež TE VEU H-2 porcijas H0 matricā.
+
+---
+
+# TE VEU H-2 darbība
+
+TE VEU H-2 pati neveido transporta sistēmu.
+
+Tā izmanto jau eksistējošo H-3 transporta mehānismu.
+
+Pēc ievadīšanas matricā H-2 plūsma pārvietojas pa mazākās pretestības ceļu, kuru nosaka:
+
+- H-3 cirkulācija;
+- kanālu konfigurācija;
+- ārējās modulācijas radītā spiediena starpība.
+
+---
+
+# AI metodoloģiskais princips
+
+Nedrīkst analizēt objektus, kamēr nav rekonstruēts H0 mehānisms.
+
+Vispirms jārekonstruē mehānisms.
+
+Tikai pēc tam drīkst analizēt mehānisma radītās sekas.
+
+Matricas teorijā objekti ir H0 telpas organizācijas sekas, nevis sākuma punkts.
