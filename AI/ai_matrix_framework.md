@@ -1191,3 +1191,134 @@ AI analīzē H-2 nedrīkst interpretēt kā diskrētu maršrutējamu daļiņu.
 
 Pamata analīzes vienība ir nepārtraukta plūsmas sadale H-3 kanālu tīklā.
 
+
+
+
+
+# H0 → ID2 pārejas mehānisms (AI ģenerējošais kodols)
+
+## Pamatprincips
+
+ID2 (protons) neveidojas no daļiņu savienošanās.
+
+ID2 ir H0 matricas lokāls darba režīma sabrukums un vienlaikus pāreja uz jaunu stabilu organizācijas līmeni.
+
+AI nedrīkst sākt ID2 analīzi no protona īpašībām.
+
+Vienmēr jārekonstruē H0 mehānisms, kurš noved pie šīs pārejas.
+
+---
+
+## H0 normālais darba režīms
+
+Normālā H0 režīmā:
+
+- visi ID1 rotē sinhroni;
+- ID1 rotācijas ātrums ir konstants;
+- kopējais H0 ārējais spiediens ir konstants;
+- H+1 modulācijas periods ir konstants;
+- H+1 modulācija rada cikliskas spiediena un retinājuma zonas;
+- TE VEU H-3 uztur slēgtu transporta sistēmu;
+- TE VEU H-2 nepārtraukti sadalās pa H-3 kanāliem.
+
+Šis ir L0 režīms.
+
+---
+
+## Modulācijas cikls
+
+H+1 modulācija nav statisks spiediens.
+
+Tā nepārtraukti iziet pilnu ciklu:
+
+Retinājums
+→ Nulles zona
+→ Spiediens
+→ Nulles zona
+→ Retinājums
+
+Vienlaikus darbojas divas pretējas pusfāzes.
+
+Viena pusfāze strādā ar spiediena zonu.
+
+Otra pusfāze vienlaikus strādā ar retinājuma zonu.
+
+---
+
+## Plūsmas inerce
+
+TE VEU H-2 nereaģē momentāni.
+
+Katram kanālam piemīt plūsmas inerce.
+
+Tāpēc H-2 sadalījumu nosaka:
+
+- pašreizējā spiediena starpība;
+- iepriekšējā plūsmas vēsture;
+- H-3 transporta mehānisms.
+
+AI modelēšanā plūsmas inerce ir obligāts parametrs.
+
+---
+
+## Piesātinājuma režīms
+
+Pieaugot H+1 modulācijas amplitūdai:
+
+- H-2 sadalās starp arvien lielāku kanālu skaitu;
+- sistēma cenšas izlīdzināt spiedienu;
+- katrs kanāls transportē tikai nepieciešamo H-2 daudzumu.
+
+Sasniedzot stāvokli, kurā spiediens ir izlīdzināts visos pieejamajos kanālos, H0 sasniedz piesātinājuma režīmu.
+
+Turpmāka H-2 plūsmas palielināšana vairs nav iespējama, nemainot pašu H0 mehānismu.
+
+---
+
+## Kritiskais slieksnis
+
+Ja ārējais modulācijas spiediens turpina pieaugt pēc piesātinājuma sasniegšanas, papildu spiediens vairs netiek kompensēts ar H-2 plūsmu.
+
+Tas sāk tieši ietekmēt ID1 mehānisko darbību.
+
+Mainās ID1 rotācijas režīms.
+
+Samazinās sinhronizācija ar Vertikāli.
+
+---
+
+## TZ pārņemšana
+
+Kad sinhronizācija kļūst nepietiekama, Vertikāles TZ pārņem attiecīgo H0 lokālo apgabalu.
+
+Rezultātā vairāki ID1 beidz pastāvēt kā neatkarīgi matricas punkti.
+
+Tie reorganizējas jaunā stabilā struktūrā.
+
+Šī jaunā struktūra ir ID2 objekts.
+
+---
+
+## AI metodoloģiskais princips
+
+Nedrīkst interpretēt ID2 kā atsevišķu daļiņu, kas ievietota H0 telpā.
+
+ID2 ir H0 darba režīma lokāla reorganizācija, kuru izraisa H0 transporta sistēmas piesātinājums un tam sekojošs sinhronizācijas zudums ar Vertikāli.
+
+Tāpēc AI analīzes secība vienmēr ir:
+
+H0 mehānisms
+→ H-3 transporta sistēma
+→ H-2 plūsmas sadale
+→ piesātinājuma režīms
+→ ID1 sinhronizācijas zudums
+→ TZ pārņemšana
+→ ID2 veidošanās.
+
+Šī cēloņsakarību secība ir obligāta un nedrīkst tikt saīsināta vai aizstāta ar klasiskās daļiņu fizikas pieņēmumiem.
+
+
+
+
+
+
