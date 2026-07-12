@@ -10,12 +10,18 @@
 |-------|--------|----------|
 | `MT_QED_lv.md` | Latviešu | Pilns MT QED kopsavilkums latviešu valodā |
 | `MT_QED_en.md` | Angļu | Pilns MT QED kopsavilkums angļu valodā |
+| `GRAVITY_lv.md` | Latviešu | MT gravitācijas modeļa kopsavilkums latviešu valodā |
+| `GRAVITY_en.md` | Angļu | MT gravitācijas modeļa kopsavilkums angļu valodā |
 
 ---
 
-## Par dokumentu
+## Par dokumentiem
 
-Šis dokuments ir strukturēts teorijas apraksts, kas izriet no Matricas teorijas (MT) pamatprincipiem. Tas nav sarunas stenograms, bet gan pilnīgs, loģiski secīgs izklāsts par to, kā MT interpretē:
+Šie dokumenti ir strukturēti teorijas apraksti, kas izriet no Matricas teorijas (MT) pamatprincipiem. Tie nav sarunu stenogrami, bet gan pilnīgi, loģiski secīgi izklāsti.
+
+### MT_QED — elektromagnētisms
+
+Dokuments aptver:
 
 - Lādiņa dabu
 - Kulona likumu
@@ -26,11 +32,23 @@
 - Lagranža formālismu
 - Fainmana diagrammas
 
+### GRAVITY — gravitācija
+
+Dokuments aptver:
+
+- FV (fāze–virziena) lomu
+- TE VEU H-2 kā gravitācijas nesēju
+- Kanālu bloķēšanas un aizpildīšanās mehānismu
+- 1/r² kā neaizpildīto kanālu skaita ģeometrisko samazinājumu
+- Gravitācijas konstanti G
+- Tumšās enerģijas lomu
+- Gravitācijas viļņus kā H-2 enerģijas blīvuma svārstības
+
 ---
 
 ## Galvenās atziņas
 
-MT QED versijā:
+**MT QED versijā:**
 
 - **Lādiņš** = TE VEU H-3 papildus slodze, ko rada protona pus-fāžu asimetrija.
 - **Elektrība** = H-3 spiediena gradients.
@@ -39,13 +57,22 @@ MT QED versijā:
 - **Gaismas ātrums** = ID1 rotācijas ārējās kabatas zonas takts.
 - **Neitrālais lādiņš** = fāžu līdzsvara stāvoklis, ko nosaka FV (fāze–virziens) parametrs.
 
+**MT gravitācijas modelī:**
+
+- **Gravitācija** = tīri horizontāls (H0) process, bez Vertikāles.
+- **TE VEU H-2** = gravitācijas nesējs.
+- **1/r²** = neaizpildīto kanālu skaita ģeometriskais samazinājums.
+- **G** = pastāvīgais aizpildīšanas parametrs.
+- **Tumšā enerģija** = matricas modulators, kas izstiepj retinājuma procesus.
+- **Gravitācijas vilnis** = H-2 enerģijas blīvuma svārstība (nevis telpas viļņošanās).
+
 MT nav alternatīva klasiskajai fizikai — tā ir **dziļāks slānis**, kurā klasiskie likumi un konstantes kļūst par matricas īpašību sekām.
 
 ---
 
 ## Izcelsme
 
-Šis dokuments ir veidots no sarunas starp Matricas teorijas autoru un AI (DeepSeek). Sarunā tika rekonstruēta visa QED MT stilā, sākot no ID1 punkta rotācijas līdz pilnam Maksvela vienādojumu kopumam.
+Šie dokumenti ir veidoti no sarunām starp Matricas teorijas autoru un AI (DeepSeek). Sarunās tika rekonstruēta QED un gravitācija MT stilā, sākot no ID1 punkta rotācijas līdz pilnam Maksvela vienādojumu kopumam un gravitācijas mehāniskajam modelim.
 
 ---
 
@@ -55,18 +82,19 @@ Dokumenti ir sagatavoti Markdown formātā un ir lasāmi jebkurā .md failu skat
 
 Ieteicamā lasīšanas secība:
 
-1. `MT_QED_lv.md` (vai `MT_QED_en.md`) — pilns teorijas apraksts.
-2. Ja nepieciešama dziļāka informācija — skatīt citus MT dokumentus.
+1. `MT_QED_lv.md` / `MT_QED_en.md` — pilns QED apraksts.
+2. `GRAVITY_lv.md` / `GRAVITY_en.md` — pilns gravitācijas apraksts.
+3. Ja nepieciešama dziļāka informācija — skatīt citus MT dokumentus.
 
 ---
 
 ## Autortiesības un atsauces
 
-© Matricas teorijas autors. Dokuments veidots sadarbībā ar AI (DeepSeek).
+© Matricas teorijas autors. Dokumenti veidoti sadarbībā ar AI (DeepSeek).
 
 Atsaucei:
 
-> Matricas teorija — QED versija MT stilā. (2026). GitHub/MT/AI/DeepSeek/
+> Matricas teorija — QED un gravitācijas versijas MT stilā. (2026). GitHub/MT/AI/DeepSeek/
 
 ---
 
