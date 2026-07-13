@@ -16,6 +16,8 @@ This folder contains Matrix Theory (MT) interpretations of three major areas of 
 | `COSMOLOGY_en.md` | English | MT cosmology model summary |
 | `LIFE_lv.md` | Latvian | MT life, intelligence and evolution model summary in Latvian |
 | `LIFE_en.md` | English | MT life, intelligence and evolution model summary in English |
+| `MATHEMATICS_lv.md` | Latvian | MT mathematical formalism summary in Latvian |
+| `MATHEMATICS_en.md` | English | MT mathematical formalism summary in English |
 
 ---
 
