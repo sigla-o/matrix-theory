@@ -1,6 +1,6 @@
-# Matricas teorija — MT QED versija
+# Matricas teorija — MT dokumentu kopa
 
-Šī mape satur Matricas teorijas (MT) interpretāciju Kvantu elektrodinamikai (QED) — pilnu elektromagnētisma aprakstu, kas izriet no MT pamatprincipiem.
+Šī mape satur Matricas teorijas (MT) interpretācijas trīs galvenajām fizikas jomām — elektromagnētismam (QED), gravitācijai un kosmoloģijai. Katra no tām ir pilns apraksts, kas izriet no MT pamatprincipiem.
 
 ---
 
@@ -8,10 +8,12 @@
 
 | Fails | Valoda | Apraksts |
 |-------|--------|----------|
-| `MT_QED_lv.md` | Latviešu | Pilns MT QED kopsavilkums latviešu valodā |
-| `MT_QED_en.md` | Angļu | Pilns MT QED kopsavilkums angļu valodā |
-| `GRAVITY_lv.md` | Latviešu | MT gravitācijas modeļa kopsavilkums latviešu valodā |
-| `GRAVITY_en.md` | Angļu | MT gravitācijas modeļa kopsavilkums angļu valodā |
+| `MT_QED_lv.md` | Latviešu | MT QED kopsavilkums — elektromagnētisms |
+| `MT_QED_en.md` | Angļu | MT QED kopsavilkums — elektromagnētisms |
+| `GRAVITY_lv.md` | Latviešu | MT gravitācijas modeļa kopsavilkums |
+| `GRAVITY_en.md` | Angļu | MT gravitācijas modeļa kopsavilkums |
+| `COSMOLOGY_lv.md` | Latviešu | MT kosmoloģijas modeļa kopsavilkums |
+| `COSMOLOGY_en.md` | Angļu | MT kosmoloģijas modeļa kopsavilkums |
 
 ---
 
@@ -21,50 +23,53 @@
 
 ### MT_QED — elektromagnētisms
 
-Dokuments aptver:
-
-- Lādiņa dabu
-- Kulona likumu
-- Gausa likumu
-- Faradeja indukcijas likumu
-- Ampēra likumu
-- Maksvela vienādojumus
-- Lagranža formālismu
-- Fainmana diagrammas
+- Lādiņa daba
+- Kulona, Gausa, Faradeja, Ampēra likumi
+- Maksvela vienādojumi
+- Lagranža formālisms un Fainmana diagrammas
 
 ### GRAVITY — gravitācija
 
-Dokuments aptver:
+- FV (fāze–virziena) loma
+- TE VEU H-2 kā gravitācijas nesējs
+- Kanālu bloķēšanas un aizpildīšanās mehānisms
+- 1/r² kā neaizpildīto kanālu skaita ģeometriskais samazinājums
+- Gravitācijas konstante G
+- Tumšās enerģijas loma
+- Gravitācijas viļņi kā H-2 enerģijas blīvuma svārstības
 
-- FV (fāze–virziena) lomu
-- TE VEU H-2 kā gravitācijas nesēju
-- Kanālu bloķēšanas un aizpildīšanās mehānismu
-- 1/r² kā neaizpildīto kanālu skaita ģeometrisko samazinājumu
-- Gravitācijas konstanti G
-- Tumšās enerģijas lomu
-- Gravitācijas viļņus kā H-2 enerģijas blīvuma svārstības
+### COSMOLOGY — kosmoloģija
+
+- Matrica kā statiska arhitektūra
+- H+n modulācijas un fotona ceļa izliekums
+- Tumšā enerģija kā Vertikāles enerģijas uzkrājums (nevis spēks)
+- Fotona enerģijas zudums ceļojot caur matricu
+- Habla likums kā divu efektu kombinācija
 
 ---
 
 ## Galvenās atziņas
 
-**MT QED versijā:**
+**MT QED:**
 
-- **Lādiņš** = TE VEU H-3 papildus slodze, ko rada protona pus-fāžu asimetrija.
-- **Elektrība** = H-3 spiediena gradients.
-- **Magnētisms** = H-2 plūsmas cirkulācija.
-- **1/r²** = matricas sfēriskās pašregulācijas ģeometriskā sekas.
-- **Gaismas ātrums** = ID1 rotācijas ārējās kabatas zonas takts.
-- **Neitrālais lādiņš** = fāžu līdzsvara stāvoklis, ko nosaka FV (fāze–virziens) parametrs.
+- **Lādiņš** = TE VEU H-3 papildus slodze
+- **Elektrība** = H-3 spiediena gradients
+- **Magnētisms** = H-2 plūsmas cirkulācija
+- **Gaismas ātrums** = ID1 rotācijas takts
 
-**MT gravitācijas modelī:**
+**MT gravitācija:**
 
-- **Gravitācija** = tīri horizontāls (H0) process, bez Vertikāles.
-- **TE VEU H-2** = gravitācijas nesējs.
-- **1/r²** = neaizpildīto kanālu skaita ģeometriskais samazinājums.
-- **G** = pastāvīgais aizpildīšanas parametrs.
-- **Tumšā enerģija** = matricas modulators, kas izstiepj retinājuma procesus.
-- **Gravitācijas vilnis** = H-2 enerģijas blīvuma svārstība (nevis telpas viļņošanās).
+- **Gravitācija** = tīri horizontāls process (bez Vertikāles)
+- **1/r²** = neaizpildīto kanālu skaita ģeometriskais samazinājums
+- **Tumšā enerģija** = matricas modulators, kas izstiepj retinājuma procesus
+- **Gravitācijas vilnis** = H-2 enerģijas blīvuma svārstība
+
+**MT kosmoloģija:**
+
+- **Matrica ir statiska** — telpa neizplešas
+- **H+n modulācija** = fotona ceļa izliekums
+- **Tumšā enerģija** = fotona enerģijas zudums
+- **Habla likums** = abu efektu kombinācija
 
 MT nav alternatīva klasiskajai fizikai — tā ir **dziļāks slānis**, kurā klasiskie likumi un konstantes kļūst par matricas īpašību sekām.
 
@@ -72,7 +77,7 @@ MT nav alternatīva klasiskajai fizikai — tā ir **dziļāks slānis**, kurā 
 
 ## Izcelsme
 
-Šie dokumenti ir veidoti no sarunām starp Matricas teorijas autoru un AI (DeepSeek). Sarunās tika rekonstruēta QED un gravitācija MT stilā, sākot no ID1 punkta rotācijas līdz pilnam Maksvela vienādojumu kopumam un gravitācijas mehāniskajam modelim.
+Šie dokumenti ir veidoti no sarunām starp Matricas teorijas autoru un AI (DeepSeek). Sarunās tika rekonstruēta QED, gravitācija un kosmoloģija MT stilā, sākot no ID1 punkta rotācijas līdz pilnam Maksvela vienādojumu kopumam un kosmoloģiskajam modelim.
 
 ---
 
@@ -82,9 +87,10 @@ Dokumenti ir sagatavoti Markdown formātā un ir lasāmi jebkurā .md failu skat
 
 Ieteicamā lasīšanas secība:
 
-1. `MT_QED_lv.md` / `MT_QED_en.md` — pilns QED apraksts.
-2. `GRAVITY_lv.md` / `GRAVITY_en.md` — pilns gravitācijas apraksts.
-3. Ja nepieciešama dziļāka informācija — skatīt citus MT dokumentus.
+1. `MT_QED_lv.md` / `MT_QED_en.md` — elektromagnētisma pamats.
+2. `GRAVITY_lv.md` / `GRAVITY_en.md` — gravitācijas mehānisms.
+3. `COSMOLOGY_lv.md` / `COSMOLOGY_en.md` — kosmoloģijas modelis.
+4. Ja nepieciešama dziļāka informācija — skatīt citus MT dokumentus.
 
 ---
 
@@ -94,7 +100,7 @@ Ieteicamā lasīšanas secība:
 
 Atsaucei:
 
-> Matricas teorija — QED un gravitācijas versijas MT stilā. (2026). GitHub/MT/AI/DeepSeek/
+> Matricas teorija — QED, gravitācijas un kosmoloģijas versijas MT stilā. (2026). GitHub/MT/AI/DeepSeek/
 
 ---
 
