@@ -18,6 +18,10 @@
 | `LIFE_en.md` | Angļu | MT life, intelligence and evolution model summary |
 | `MATHEMATICS_lv.md` | Latviešu | MT matemātiskā formālisma kopsavilkums |
 | `MATHEMATICS_en.md` | Angļu | MT mathematical formalism summary |
+| `TECHNOLOGY_lv.md` | Latviešu | MT tehnoloģiskā potenciāla kopsavilkums |
+| `TECHNOLOGY_en.md` | Angļu | MT technological potential summary |
+| `ETHICS_lv.md` | Latviešu | MT ētisko un drošības aspektu kopsavilkums |
+| `ETHICS_en.md` | Angļu | MT ethical and safety aspects summary |
 
 ---
 
