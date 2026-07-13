@@ -14,6 +14,8 @@ This folder contains Matrix Theory (MT) interpretations of three major areas of 
 | `GRAVITY_en.md` | English | MT gravity model summary |
 | `COSMOLOGY_lv.md` | Latvian | MT cosmology model summary |
 | `COSMOLOGY_en.md` | English | MT cosmology model summary |
+| `LIFE_lv.md` | Latvian | MT life, intelligence and evolution model summary in Latvian |
+| `LIFE_en.md` | English | MT life, intelligence and evolution model summary in English |
 
 ---
 
