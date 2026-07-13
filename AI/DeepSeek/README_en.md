@@ -18,6 +18,10 @@ This folder contains Matrix Theory (MT) interpretations of three major areas of 
 | `LIFE_en.md` | English | MT life, intelligence and evolution model summary in English |
 | `MATHEMATICS_lv.md` | Latvian | MT mathematical formalism summary in Latvian |
 | `MATHEMATICS_en.md` | English | MT mathematical formalism summary in English |
+| `TECHNOLOGY_lv.md` | Latvian | MT technological potential summary in Latvian |
+| `TECHNOLOGY_en.md` | English | MT technological potential summary in English |
+| `ETHICS_lv.md` | Latvian | MT ethical and safety aspects summary in Latvian |
+| `ETHICS_en.md` | English | MT ethical and safety aspects summary in English |
 
 ---
 
