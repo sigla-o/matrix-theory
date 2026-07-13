@@ -14,6 +14,8 @@
 | `GRAVITY_en.md` | Angļu | MT gravitācijas modeļa kopsavilkums |
 | `COSMOLOGY_lv.md` | Latviešu | MT kosmoloģijas modeļa kopsavilkums |
 | `COSMOLOGY_en.md` | Angļu | MT kosmoloģijas modeļa kopsavilkums |
+| `LIFE_lv.md` | Latviešu | MT dzīvības, intelekta un evolūcijas modeļa kopsavilkums |
+| `LIFE_en.md` | Angļu | MT life, intelligence and evolution model summary |
 
 ---
 
