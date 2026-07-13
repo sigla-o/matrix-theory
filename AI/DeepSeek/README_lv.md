@@ -16,6 +16,8 @@
 | `COSMOLOGY_en.md` | Angļu | MT kosmoloģijas modeļa kopsavilkums |
 | `LIFE_lv.md` | Latviešu | MT dzīvības, intelekta un evolūcijas modeļa kopsavilkums |
 | `LIFE_en.md` | Angļu | MT life, intelligence and evolution model summary |
+| `MATHEMATICS_lv.md` | Latviešu | MT matemātiskā formālisma kopsavilkums |
+| `MATHEMATICS_en.md` | Angļu | MT mathematical formalism summary |
 
 ---
 
