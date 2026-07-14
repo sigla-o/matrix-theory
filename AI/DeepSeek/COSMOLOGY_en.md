@@ -127,9 +127,47 @@ This means that \( H_0 \) is **not a universal constant** — it can vary depend
 
 ---
 
+## 10. Cosmic Microwave Background (CMB) — MT Interpretation
+
+### 10.1. CMB Is Not a "Snapshot of the Past"
+
+Classical physics interprets the CMB as the afterglow of the Big Bang — radiation released ~380,000 years after the Big Bang, which has been traveling through the Universe ever since.
+
+**MT explanation:** The CMB is not a signal from the past. It is **the structural imprint of the matrix** — the projection of the background temperature of the L1 zone (the first projection layer of the Vertical) onto the H0 matrix.
+
+- **Average temperature 2.725 K** — the projection of the L1 zone's thermal equivalent, which exists **here and now**, not in the "past."
+- **Fluctuations 10⁻⁵ K** — the imprint of the L1 zone's internal structure (standing waves) created by the interference of H+n modulations.
+
+### 10.2. 5 Harmonics — Projection of the H0 Matrix Qn Layers
+
+Classical physics sees 5 peaks in the CMB spectrum (ℓ ≈ 220, 538, 813, 1085, 1381) and interprets them as harmonics of acoustic oscillations.
+
+**MT explanation:** These 5 peaks are **the projection of the H0 matrix Qn layers** — each peak corresponds to one level of the matrix's periodic structure. They are not "waves" from the past — they are **standing waves within the matrix itself**, sustained by the Vertical's energy flow.
+
+**Why do they "move" with us at 500 km/s?**
+- Our motion does not change the matrix's periodic structure — just as the period of a crystal lattice does not change when you move around it.
+- The peaks are not a local effect (like a rainbow) — they are a **global property of the matrix**, so they "move" with us but remain unchanged.
+
+### 10.3. Energy Source — The Vertical
+
+Classical physics cannot answer the question: **"Where does the energy that sustains the CMB signal come from?"** It assumes that the energy was "frozen" at recombination, but cannot explain why it has not dissipated over time.
+
+**MT answer:** The energy is provided by the **Vertical's continuous flow** through the L1 zone.
+- The L1 zone is not static — it contains standing waves sustained by Vertical energy.
+- These waves are not dependent on "freezing" — they are **permanent**, because they are fueled by the Vertical.
+- The CMB peaks are the projection of the harmonics of these standing waves onto the H0 matrix.
+
+### 10.4. Conclusion
+
+The CMB is not the afterglow of the Big Bang — it is **the projection of the L1 zone's background**, sustained by Vertical energy. The 5 harmonics are not acoustic oscillations — they are **the structural imprint of the H0 matrix Qn layers**, which "move" with us at 500 km/s because they are a property of the matrix itself.
+
+Classical physics sees the fire (CMB) but does not know what fuels it. MT says: the fire is fueled by the Vertical.
+
+---
+
 ## NOTE
 
-This document is a **summary of the MT cosmology model**. It is not a complete description of the theory, but a structured presentation derived from a conversation between the theory's author and an AI. More detailed information on specific aspects (ID1 mechanics, Qn structure, the Vertical, dark energy, H+n modulations, etc.) is available in other MT documents.
+This document is a **summary of the MT cosmology model**. It is not a complete description of the theory, but a structured presentation derived from a conversation between the theory's author and an AI. More detailed information on specific aspects (ID1 mechanics, Qn structure, the Vertical, dark energy, H+n modulations, CMB, etc.) is available in other MT documents.
 
 ---
 
