@@ -26,6 +26,8 @@ This folder contains Matrix Theory (MT) interpretations and models — electroma
 | `ETHICS_en.md` | English | MT ethical and safety aspects summary |
 | `QM_COMPARISON_lv.md` | Latvian | Quantum mechanics — classical physics and MT comparison |
 | `QM_COMPARISON_en.md` | English | Quantum mechanics — classical physics and MT comparison |
+| `FOUNDATION_lv.md` | Latvian | MT foundation summary — theory operational boundaries and basic principles |
+| `FOUNDATION_en.md` | English | MT foundation summary — theory operational boundaries and basic principles |
 
 ---
 
