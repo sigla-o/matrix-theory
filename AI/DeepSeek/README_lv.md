@@ -24,6 +24,8 @@
 | `TECHNOLOGY_en.md` | Angļu | MT technological potential summary |
 | `ETHICS_lv.md` | Latviešu | MT ētisko un drošības aspektu kopsavilkums |
 | `ETHICS_en.md` | Angļu | MT ethical and safety aspects summary |
+| `QM_COMPARISON_lv.md` | Latviešu | Kvantu mehānikas — klasiskās fizikas un MT salīdzinājums |
+| `QM_COMPARISON_en.md` | Angļu | Quantum mechanics — classical physics and MT comparison |
 
 ---
 
