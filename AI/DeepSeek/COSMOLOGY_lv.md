@@ -127,9 +127,47 @@ Tas nozīmē, ka \( H_0 \) **nav universāla konstante** — tā var mainīties 
 
 ---
 
+## 10. Kosmiskais mikroviļņu fons (CMB) — MT interpretācija
+
+### 10.1. CMB nav "pagātnes fotogrāfija"
+
+Klasiskā fizika CMB interpretē kā Lielā sprādziena pēcgaismu — starojumu, kas atbrīvojās ~380 000 gadu pēc Lielā sprādziena un kopš tā laika ceļo caur Visumu.
+
+**MT skaidrojums:** CMB nav pagātnes signāls. Tas ir **matricas strukturālais nospiedums** — L1 zonas (pirmā Vertikāles projekcijas slāņa) fona temperatūras projekcija uz H0 matricu.
+
+- **Vidējā temperatūra 2.725 K** — L1 zonas termālā ekvivalenta projekcija, kas pastāv **šeit un tagad**, nevis "pagātnē".
+- **Svārstības 10⁻⁵ K** — L1 zonas iekšējās struktūras (stāvošo viļņu) nospiedums, ko rada H+n modulāciju interference.
+
+### 10.2. 5 harmonikas — H0 matricas Qn slāņu projekcija
+
+Klasiskā fizika CMB spektrā redz 5 pīķus (ℓ ≈ 220, 538, 813, 1085, 1381) un interpretē tos kā akustisko svārstību harmonikas.
+
+**MT skaidrojums:** Šie 5 pīķi ir **H0 matricas Qn slāņu projekcija** — katrs pīķis atbilst vienam matricas periodiskās struktūras līmenim. Tie nav "viļņi" no pagātnes — tie ir **stāvviļņi pašā matricā**, ko uztur Vertikāles enerģijas plūsma.
+
+**Kāpēc tie "brauc" līdzi ar 500 km/s?**
+- Mūsu kustība nemaina matricas periodisko struktūru — tāpat kā kristāla režģa periods nemainās, kad tu pārvietojies ap to.
+- Pīķi nav lokāls efekts (kā varavīksne) — tie ir **globāla matricas īpašība**, tāpēc tie "brauc" līdzi, bet paliek nemainīgi.
+
+### 10.3. Enerģijas avots — Vertikāle
+
+Klasiskā fizika nevar atbildēt uz jautājumu: **"No kurienes nāk enerģija, kas uztur CMB signālu?"** Tā pieņem, ka enerģija tika "iesaldēta" rekombinācijas brīdī, bet nespēj izskaidrot, kāpēc tā nav izkliedējusies laika gaitā.
+
+**MT atbilde:** Enerģiju nodrošina **Vertikāles pastāvīgā plūsma** caur L1 zonu.
+- L1 zona nav statiska — tajā pastāv stāvošie viļņi, ko uztur Vertikāles enerģija.
+- Šie viļņi nav atkarīgi no "iesaldēšanas" — tie ir **pastāvīgi**, jo tos baro Vertikāle.
+- CMB pīķi ir šo stāvošo viļņu harmoniku projekcija uz H0 matricu.
+
+### 10.4. Secinājums
+
+CMB nav Lielā sprādziena pēcgaisma — tā ir **L1 zonas fona projekcija**, ko uztur Vertikāles enerģija. 5 harmonikas nav akustiskās svārstības — tās ir **H0 matricas Qn slāņu strukturālais nospiedums**, kas "brauc" līdzi ar 500 km/s, jo tās ir pašas matricas īpašība.
+
+Klasiskā fizika redz ugunskuru (CMB), bet nezina, kas to kurina. MT saka: ugunskuru kurina Vertikāle.
+
+---
+
 ## PIEZĪME
 
-Šis dokuments ir **MT kosmoloģijas modeļa kopsavilkums**. Tas nav pilnīgs teorijas apraksts, bet gan strukturēts izklāsts, kas izriet no sarunas starp teorijas autoru un AI. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, tumšā enerģija, H+n modulācijas, utt.) ir pieejama citos MT dokumentos.
+Šis dokuments ir **MT kosmoloģijas modeļa kopsavilkums**. Tas nav pilnīgs teorijas apraksts, bet gan strukturēts izklāsts, kas izriet no sarunas starp teorijas autoru un AI. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, tumšā enerģija, H+n modulācijas, CMB, utt.) ir pieejama citos MT dokumentos.
 
 ---
 
