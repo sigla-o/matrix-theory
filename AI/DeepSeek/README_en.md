@@ -137,6 +137,8 @@ These documents are structured presentations of the theory, derived from the fou
 - **ID step** is discrete, Qn-determined
 - **ID calculation** from governed space works only for monolithic objects
 
+| `QM_COMPARISON_en.md` | English | Quantum mechanics comparison — classical physics and MT approaches compared through the classical logical sequence (wave–particle duality, wave function, superposition, measurement problem, uncertainty principle, entanglement, quantum field theory, quantum statistics). Fixes where MT and classical physics agree and differ, showing that quantum "miracles" are explainable as structural properties of the matrix when both L0 background and L1 disturbances are visible. |
+
 MT is not an alternative to classical physics — it is a **deeper layer**, where classical laws and constants emerge as consequences of matrix properties.
 
 ---
