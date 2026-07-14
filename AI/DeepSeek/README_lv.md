@@ -137,6 +137,8 @@
 - **ID solis** ir diskrēts, Qn noteikts
 - **ID aprēķins** no pārvaldāmās telpas darbojas tikai monolītiem objektiem
 
+| `QM_COMPARISON_lv.md` | Latviešu | Kvantu mehānikas salīdzinājums — klasiskās fizikas un MT pieeju salīdzinājums, izejot cauri klasiskajai loģiskajai secībai (viļņu–daļiņu duālisms, viļņu funkcija, superpozīcija, mērījuma problēma, nenoteiktības princips, sapīšanās, kvantu lauka teorija, kvantu statistika). Nofiksē, kur MT un klasiskā fizika sakrīt un kur atšķiras, un parāda, ka kvantu "brīnumi" ir izskaidrojami kā matricas strukturālas īpašības, ja redz gan L0 fonu, gan L1 traucējumus. |
+
 MT nav alternatīva klasiskajai fizikai — tā ir **dziļāks slānis**, kurā klasiskie likumi un konstantes kļūst par matricas īpašību sekām.
 
 ---
