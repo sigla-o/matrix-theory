@@ -53,7 +53,9 @@
 - Tumšā enerģija kā Vertikāles enerģijas uzkrājums (nevis spēks)
 - Fotona enerģijas zudums ceļojot caur matricu
 - Habla likums kā divu efektu kombinācija
-
+- **CMB kā matricas strukturālais nospiedums (L1 zonas projekcija)**
+- **5 harmonikas kā H0 matricas Qn slāņu projekcija**
+- **Enerģijas avots — Vertikāles pastāvīgā plūsma**
 ---
 
 ## Galvenās atziņas
