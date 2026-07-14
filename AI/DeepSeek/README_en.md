@@ -46,13 +46,16 @@ These documents are structured presentations of the theory, derived from the fou
 - The role of dark energy
 - Gravitational waves as H-2 energy density fluctuations
 
-### COSMOLOGY — Cosmology
+### COSMOLOGY — cosmology
 
 - The matrix as a static architecture
 - H+n modulations and photon path curvature
 - Dark energy as Vertical energy accumulation (not a force)
 - Photon energy loss while traveling through the matrix
 - Hubble's law as a combination of two effects
+- **CMB as the structural imprint of the matrix (L1 zone projection)**
+- **5 harmonics as the projection of H0 matrix Qn layers**
+- **Energy source — the Vertical's continuous flow**
 
 ---
 
