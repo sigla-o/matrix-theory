@@ -26,6 +26,8 @@
 | `ETHICS_en.md` | Angļu | MT ethical and safety aspects summary |
 | `QM_COMPARISON_lv.md` | Latviešu | Kvantu mehānikas — klasiskās fizikas un MT salīdzinājums |
 | `QM_COMPARISON_en.md` | Angļu | Quantum mechanics — classical physics and MT comparison |
+| `FOUNDATION_lv.md` | Latviešu | MT pamata kopsavilkums — teorijas darbības robežas un pamatprincipi |
+| `FOUNDATION_en.md` | English | MT foundation summary — theory operational boundaries and basic principles |
 
 ---
 
