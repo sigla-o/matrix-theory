@@ -101,7 +101,7 @@ Kolektīvie objekti ir daudzu monolītu objektu organizācija (zvaigznes, galakt
 \text{ID2,n} = 2.0 + \log_{2.5} \left( \frac{N_{\text{šūnas}}}{N_{\text{protona}}} \right)
 \]
 
-kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits (piemēram, atomu skaits molekulā, zvaigžņu skaits galaktikā).
+kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits.
 
 ### 3.2. ID2,n klasifikācija
 
@@ -124,8 +124,8 @@ ID pāreja no viena līmeņa uz nākamo notiek, ja ir izpildīti šādi nosacīj
    \[
    N_{\mathcal{V}} > N_{\text{krit}}
    \]
-2. Qn struktūra atļauj pāreju — nākamais slānis \( n+1 \) ir pieejams (atbilstoši modulāciju secībai).
-3. Modulācijas aktivizē pāreju (H+2, H+3, ... signāli).
+2. Qn struktūra atļauj pāreju — nākamais slānis \( n+1 \) ir pieejams.
+3. Modulācijas aktivizē pāreju.
 
 Pārejas laiks:
 \[
@@ -147,10 +147,10 @@ t_{\text{pāreja}} \propto \frac{1}{N_{\mathcal{V}} - N_{\text{krit}}}
 
 | Prognoze | Vienādojums | Pārbaudes metode |
 |----------|------------|------------------|
-| ID atkarība no \( N_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}} \) | Melno caurumu masu salīdzinājums galaktiku centros un starpgalaktiku telpā |
-| ID pārejas laiks | \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \) | Aktīvo galaktisko kodolu (AGN) aktivitātes periodiskums |
-| ID2,n un galaktiku tips | \( \text{ID2,n} = 2.0 + \log_{2.5}(N_{\text{zvaigznes}}/N_{\text{protona}}) \) | Galaktiku morfoloģijas korelācija ar rotācijas līknēm |
-| Maksimālais ID3,n | \( n_{\text{max}} \propto N_{\mathcal{V}}^{(0)}/N_{\text{H0}} \) | Maksimālā melnā cauruma masa galaktikas centrā |
+| ID atkarība no \( N_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}} \) | Melno caurumu masu salīdzinājums |
+| ID pārejas laiks | \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \) | AGN aktivitātes periodiskums |
+| ID2,n un galaktiku tips | \( \text{ID2,n} = 2.0 + \log_{2.5}(N_{\text{zvaigznes}}/N_{\text{protona}}) \) | Galaktiku morfoloģija |
+| Maksimālais ID3,n | \( n_{\text{max}} \propto N_{\mathcal{V}}^{(0)}/N_{\text{H0}} \) | Maksimālā melnā cauruma masa |
 
 ---
 
@@ -165,21 +165,15 @@ t_{\text{pāreja}} \propto \frac{1}{N_{\mathcal{V}} - N_{\text{krit}}}
 | Galaktika | ID2,4 | Augstākā kolektīvā organizācija |
 | Melnais caurums | ID3,0+ | Monolīts, smalkāks par protonu |
 
-Klasiskā fizika objektus klasificē pēc masas vai izmēra; MT tos klasificē pēc TE organizācijas līmeņa, ko nosaka Qn indekss un Vertikāles enerģijas vienību skaits objekta apkārtnē.
-
 ---
 
 ## 7. SECINĀJUMI
 
-1. ID ir diskrēts strukturāls indekss, ko nosaka Qn slāņa numurs \( n \) un Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \):
+1. ID ir diskrēts strukturāls indekss:  
    \[
-   \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \frac{N_{\mathcal{V}}}{N_{\text{H0}}}
+   \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}}
    \]
-
-2. ID solis ir diskrēts, jo to nosaka Qn slāņu secība ar soli \( S \approx 2.5 \).
-
-3. Augstāks \( N_{\mathcal{V}} \) paātrina ID pāreju, jo samazina pārejas laiku \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \).
-
-4. Kolektīvie objekti (zvaigznes, galaktikas) pieder ID2,n klasei, kuru nosaka organizācijas līmenis, nevis lineārais mērogs.
-
-5. ID pārejas ir noteiktas pārejas, kuras aktivizē Vertikāles enerģijas pārplūde; tās ir kvantitatīvi prognozējamas.
+2. ID soli nosaka Qn slāņu secība ar soli \( S \approx 2.5 \).
+3. Augstāks \( N_{\mathcal{V}} \) paātrina ID pārejas.
+4. Kolektīvie objekti pieder ID2,n klasei.
+5. ID pārejas ir kvantitatīvi prognozējamas.
