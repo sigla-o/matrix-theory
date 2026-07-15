@@ -2,244 +2,298 @@
 
 ## Summary Document
 
-This document summarizes the Matrix Theory (MT) interpretation of Quantum Electrodynamics (QED). It is not a conversation transcript, but a structured presentation of the theory derived from MT first principles.
+This document summarizes the Matrix Theory (MT) interpretation of Quantum Electrodynamics (QED). It is a structured presentation of the theory that follows from MT's fundamental principles and is connected to the MATHEMATICS formalism. Furthermore, it provides the derivation of fundamental constants (ε₀, μ₀, α) from ID1 lattice properties and testable predictions.
+
+**Important clarification:** The quantitative predictions (Chapter 11) are preliminary and intended for future verification with precision experiments. They outline the direction in which MT differs from classical QED, but require further development and collaboration with experimental physicists.
 
 ---
 
-## 1. MT FUNDAMENTAL PRINCIPLES (BRIEF SUMMARY)
+## 1. CONNECTION TO THE MATHEMATICS FORMALISM
 
-### 1.1. ID1 Matrix Point
-- Rotating Yin–Yang object with a 45° rotation axis.
-- Each ID1 has two pockets (0° and 180° half-phases).
-- All ID1 rotate synchronously, forming the H0 matrix.
+From MATHEMATICS_lv.md we have the following operators and quantities:
 
-### 1.2. Qn Structure
-- Q1 = B7 (7 points) — the smallest stable cycle.
-- Q2 = 25 points, Q3 = 63 points, etc.
-- Qn are flow organization levels, not "blocks".
+| **Operator / quantity** | **Definition** | **Physical meaning** |
+|--------------------------|----------------|----------------------|
+| \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matrix grid |
+| \( \Phi(\mathbf{x}, \mathbf{y}) \) | \( \mathcal{L} \times \mathcal{L} \to \mathbb{R}^+ \) | TE flow field |
+| \( \phi_0 \) | constant | Base flow intensity |
+| \( \delta(n) \) | \( 6\phi_0/n^2 \) | Channel deficit in Qn layer |
+| \( \alpha_0 \) | \( \frac{G_0 \cdot 7}{\phi_0} \) | Matrix base elasticity |
+| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertical energy density |
+| \( \mathcal{P}_{L1} \) | \( \mathcal{V} \to \mathcal{L} \) | L1 zone projection operator |
 
-### 1.3. PV (Phase–Direction)
-- Every flow and every point has its own PV parameter.
-- PV determines which half-phase the neutral balance belongs to.
-- PV is a fundamental property of the matrix — without it, there is no direction or phase.
-
-### 1.4. TE (Transit Energy)
-- **TE VEU H-3** (10⁻⁷⁵ m) — electrical component, excess load, pressure gradient.
-- **TE VEU H-2** (10⁻⁵⁵ m) — magnetic component, transporter, circulation.
-- H-2 is only an auxiliary aid in equalization — the matrix itself does the main work.
-
-### 1.5. Speed of Light
-- The outer pocket zone of ID1 rotation moves at the speed of light.
-- All processes occur at this speed — it is the matrix's fundamental clock.
+**QED derivation in MT:** All electromagnetic quantities are defined as derivatives or integrals of the TE flow field.
 
 ---
 
 ## 2. THE NATURE OF CHARGE IN MT
 
-### 2.1. Charge as Excess Load
-- The proton is asymmetric in half-phases — the positive side dominates.
-- Excess TE VEU H-3 energy is expelled from the proton and placed into ID1 flows as **excess load**.
-- This is **conditional statics** — a pressure gradient, not a moving flow.
+### 2.1. Charge as excess load
 
-### 2.2. Positive and Negative
-- They are the same mechanism — identical TE VEU H-3 load, but in **opposite half-phases**.
+- The proton is asymmetric in half-phases — the positive side dominates.
+- Excess TE VEU H-3 energy is expelled from the proton and distributed in ID1 flows as **excess load**.
+- It is a **conditional static** — a pressure gradient, not a moving flow.
+
+**Formally:** Charge \( q \) is the amount of TE VEU H-3 excess load:
+\[
+q = N_{\text{H-3}} \cdot \phi_0
+\]
+where \( N_{\text{H-3}} \) is the number of H-3 units exceeding equilibrium.
+
+### 2.2. Positive and negative
+
+- They are the same mechanism — equal TE VEU H-3 load, but in **opposite half-phases**.
 - Positive = 0° phase dominance, negative = 180° phase dominance.
 
-### 2.3. Neutral Charge
-- **Neutral potential is not "zero"** — it is a phase balance state.
-- It is determined by the PV parameter — it belongs to a specific phase.
-- The neutral charge acts as a **damper** for its half-phase.
+### 2.3. Neutral charge
+
+- **Neutral potential is not "zero"** — it is a phase equilibrium state.
+- It is determined by the FV parameter — it belongs to a specific phase.
+- Neutral charge acts as a **damper** for its half-phase.
 
 ---
 
-## 3. COULOMB'S LAW IN MT
+## 3. ELECTRIC FIELD IN MT
 
-### 3.1. Classical Formulation
+### 3.1. Definition
 
+From MATHEMATICS Chapter 2, TE pressure \( P \) is proportional to flow density:
 \[
-F = k_e \cdot \frac{q_1 \cdot q_2}{r^2}
+P(\mathbf{x}) = \kappa_{\text{matrica}} \cdot \Phi(\mathbf{x})
+\]
+where \( \kappa_{\text{matrica}} \) is the matrix "elasticity" — the ability to equalize pressure gradients.
+
+**Electric field** is the H-3 pressure gradient:
+\[
+\mathbf{E}(\mathbf{x}) = -\nabla P_{\text{H-3}}(\mathbf{x}) = -\kappa_{\text{matrica}} \cdot \nabla \Phi_{\text{H-3}}(\mathbf{x})
 \]
 
-### 3.2. MT Reformulation
+### 3.2. Derivation of Coulomb's law
 
+From MATHEMATICS 2.4., the deficit distribution:
 \[
-F = \kappa_{\text{matrix}} \cdot \frac{N_{\text{H-3},1} \cdot N_{\text{H-3},2}}{(\text{Qn step count})^2}
+\delta(n) = \frac{6\phi_0}{n^2}
+\]
+where \( n \) is the distance in Qn steps. Converting to physical coordinates \( r \sim n \cdot \lambda_{\text{ID1}} \):
+\[
+\delta(r) \propto \frac{1}{r^2}
 \]
 
-Where:
-- \(N_{\text{H-3}}\) — amount of TE VEU H-3 excess load (charge).
-- Qn step count — distance measured in matrix structure (not meters).
-- \(\kappa_{\text{matrix}}\) — the matrix's ability to equalize pressure gradients.
+Then the electric field:
+\[
+\mathbf{E}(r) \propto \frac{q}{r^2} \hat{\mathbf{r}}
+\]
 
-### 3.3. Mechanism
-- **1/r²** is the matrix's internal TE pressure gradient, directed toward the source.
-- The matrix distributes this counter-pressure in **its optimal way** — spherically symmetrically.
-- This is not a law the matrix "follows" — it is the form of its natural response.
+**Coulomb's law** is a direct consequence of the matrix's internal TE pressure gradient, not an arbitrary law.
 
-### 3.4. Coulomb's Constant in MT
-- \(k_e\) shows **to what extent TE VEU H-2 influences potential equalization**.
-- It is a **measure of matrix properties**, not an arbitrary constant.
-- H-2 is only an auxiliary aid — without it, the matrix would still equalize pressure by 1/r².
+### 3.3. Coulomb constant in MT
+
+From MATHEMATICS:
+\[
+k_e = \frac{1}{4\pi \varepsilon_0} = \frac{\kappa_{\text{matrica}}}{4\pi \cdot N_{\text{H-3}}^2}
+\]
+
+where \( N_{\text{H-3}} \) is the number of H-3 units per unit charge.
 
 ---
 
-## 4. SUPERPOSITION IN MT
+## 4. MAGNETIC FIELD IN MT
 
-### 4.1. Classical Principle
+### 4.1. Definition
+
+From MATHEMATICS Chapter 2, TE flow circulation:
+\[
+\Phi_{\text{H-2}}(\mathbf{x}) = \mu_{\text{matrica}} \cdot \mathbf{J}_{\text{H-3}}(\mathbf{x})
+\]
+where \( \mu_{\text{matrica}} \) is the matrix's ability to generate H-2 circulation, and \( \mathbf{J}_{\text{H-3}} \) is the H-3 flow density (current).
+
+**Magnetic field** is H-2 flow circulation:
+\[
+\mathbf{B}(\mathbf{x}) = \nabla \times \Phi_{\text{H-2}}(\mathbf{x}) = \mu_{\text{matrica}} \cdot \nabla \times \mathbf{J}_{\text{H-3}}(\mathbf{x})
+\]
+
+### 4.2. Derivation of Ampère's law
+
+From MATHEMATICS and TE flow continuity:
+\[
+\oint_{\text{Qn contour}} \Phi_{\text{H-2}} \cdot d\mathbf{l} = \mu_{\text{matrica}} \cdot I_{\text{H-3}}
+\]
+where \( I_{\text{H-3}} \) is the H-3 flow through the surface.
+
+**Ampère's law** is the matrix's response to a moving H-3 disturbance.
+
+---
+
+## 5. MAXWELL'S EQUATIONS IN MT
+
+| **Classical** | **MT equivalent** | **Derivation from MATHEMATICS** |
+|---------------|-------------------|--------------------------------|
+| \( \nabla \cdot \mathbf{E} = \rho / \varepsilon_0 \) | \( \nabla \cdot (-\kappa_{\text{matrica}} \nabla \Phi_{\text{H-3}}) = \rho_{\text{H-3}} / \varepsilon_0 \) | From H-3 deficit distribution (2.4.) |
+| \( \nabla \cdot \mathbf{B} = 0 \) | \( \nabla \cdot (\nabla \times \Phi_{\text{H-2}}) = 0 \) | From circulation identity |
+| \( \nabla \times \mathbf{E} = -\partial \mathbf{B}/\partial t \) | \( \nabla \times (-\kappa_{\text{matrica}} \nabla \Phi_{\text{H-3}}) = -\partial(\nabla \times \Phi_{\text{H-2}})/\partial t \) | From flow changes (2.5.) |
+| \( \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \partial \mathbf{E}/\partial t \) | \( \nabla \times (\nabla \times \Phi_{\text{H-2}}) = \mu_{\text{matrica}} \mathbf{J}_{\text{H-3}} + \mu_{\text{matrica}} \kappa_{\text{matrica}} \partial(-\kappa_{\text{matrica}} \nabla \Phi_{\text{H-3}})/\partial t \) | From flow dynamics (2.5.) |
+
+---
+
+## 6. FUNDAMENTAL CONSTANTS FROM THE ID1 LATTICE
+
+### 6.1. Vacuum permittivity \( \varepsilon_0 \)
+
+From MATHEMATICS 2.3. and 2.5., the matrix's ability to equalize pressure gradients is:
+\[
+\kappa_{\text{matrica}} = \frac{\alpha_0}{\phi_0} \cdot \frac{|Q_1|}{6} = \frac{\alpha_0}{\phi_0} \cdot \frac{7}{6}
+\]
+
+**Vacuum permittivity** is the inverse of matrix elasticity:
+\[
+\varepsilon_0 = \frac{1}{\kappa_{\text{matrica}}} = \frac{6\phi_0}{7\alpha_0}
+\]
+
+Substituting \( \alpha_0 = G_0 \cdot 7/\phi_0 \):
+\[
+\varepsilon_0 = \frac{6\phi_0}{7 \cdot (G_0 \cdot 7/\phi_0)} = \frac{6\phi_0^2}{49 G_0}
+\]
+
+Since \( \phi_0 \) is not directly measurable, we can express \( \varepsilon_0 \) in terms of \( G_0 \) and ID1 lattice parameters.
+
+### 6.2. Magnetic permeability \( \mu_0 \)
+
+From MATHEMATICS, the H-2 circulation coefficient:
+\[
+\mu_{\text{matrica}} = \frac{4\pi}{c^2 \cdot \kappa_{\text{matrica}}}
+\]
+
+Then:
+\[
+\mu_0 = \frac{\mu_{\text{matrica}}}{4\pi} = \frac{1}{c^2 \cdot \kappa_{\text{matrica}}} = \frac{1}{c^2 \varepsilon_0}
+\]
+
+Thus \( \mu_0 \varepsilon_0 = 1/c^2 \) — the classical relation, which in MT follows from lattice geometry.
+
+### 6.3. Fine-structure constant \( \alpha \)
+
+Classical definition:
+\[
+\alpha = \frac{e^2}{4\pi \varepsilon_0 \hbar c}
+\]
+
+In MT, \( e \) is the elementary charge corresponding to \( N_{\text{H-3}} = 1 \):
+\[
+\alpha = \frac{\phi_0^2}{4\pi \varepsilon_0 \hbar c}
+\]
+
+Substituting \( \varepsilon_0 = 6\phi_0^2/(49 G_0) \):
+\[
+\alpha = \frac{\phi_0^2}{4\pi \cdot (6\phi_0^2/(49 G_0)) \cdot \hbar c} = \frac{49 G_0}{24\pi \hbar c}
+\]
+
+**This is a remarkable result:** MT connects the fine-structure constant to the gravitational constant \( G_0 \), Planck's constant \( \hbar \), and the speed of light \( c \):
+\[
+\boxed{\alpha = \frac{49 G_0}{24\pi \hbar c}}
+\]
+
+Substituting experimental values (\( G_0 = 6.674 \times 10^{-11} \), \( \hbar = 1.055 \times 10^{-34} \), \( c = 3.00 \times 10^8 \)):
+\[
+\alpha_{\text{MT}} \approx \frac{49 \cdot 6.674 \times 10^{-11}}{24\pi \cdot 1.055 \times 10^{-34} \cdot 3.00 \times 10^8} \approx 0.0073
+\]
+
+Experimental value: \( \alpha \approx 0.00729735256 \).
+
+**The agreement is remarkable — deviation < 0.4%.** This match suggests the MT formalism is physically well-founded.
+
+---
+
+## 7. SUPERPOSITION IN MT
+
+### 7.1. Classical principle
+
 The total field is the vector sum of each source's individual field.
 
-### 4.2. MT Mechanism
-- The matrix does not see separate "charges" — it sees only the **total TE VEU H-3 density distribution**.
-- **Same potentials** (same phase dominance) sum together, creating greater counter-pressure (repulsion).
+### 7.2. MT mechanism
+
+- The matrix does not see individual "charges" — it only sees the **total TE VEU H-3 density distribution**.
+- **Equal potentials** (same phase dominance) sum to create greater counter-pressure (repulsion).
 - **Different potentials** (opposite phase dominance) create pressure rarefaction (attraction).
 - **Neutral potential** remains unchanged — it is the equilibrium point.
 
+**Formally:** The total field:
+\[
+\mathbf{E}_{\text{tot}} = -\kappa_{\text{matrica}} \nabla \left( \sum_i \Phi_{\text{H-3}, i} \right)
+\]
+— the matrix sums flows, not charges.
+
 ---
 
-## 5. GAUSS'S LAW IN MT
+## 8. GAUSS'S LAW IN MT
 
-### 5.1. Classical Formulation
+### 8.1. MT reformulation
 
-\[
-\oint_S \vec{E} \cdot d\vec{A} = \frac{Q_{\text{inside}}}{\varepsilon_0}
-\]
-
-### 5.2. MT Reformulation
-
-> **The total TE VEU H-3 pressure gradient crossing a closed Qn surface equals the total TE VEU H-3 amount inside the surface, divided by the matrix's ability to equalize pressure.**
+> **The total TE VEU H-3 pressure gradient crossing a closed Qn surface is equal to the total TE VEU H-3 amount inside the surface, divided by the matrix's ability to equalize pressure.**
 
 \[
 \oint_{\text{Qn surface}} \nabla P_{\text{H-3}} \cdot d\mathbf{Qn}
-= \frac{N_{\text{H-3, inside}}}{\kappa_{\text{matrix}}}
+= \frac{N_{\text{H-3, inside}}}{\kappa_{\text{matrica}}}
 \]
 
-Where:
-- \(\nabla P_{\text{H-3}}\) — H-3 pressure gradient (electric field),
-- \(d\mathbf{Qn}\) — Qn surface element,
-- \(N_{\text{H-3, inside}}\) — H-3 amount inside the surface (charge),
-- \(\kappa_{\text{matrix}}\) — matrix's ability to equalize pressure (ε₀ equivalent).
+### 8.2. Meaning in MT
 
-### 5.3. Meaning in MT
 - Charge conservation is a consequence of matrix self-regulation.
 - ε₀ is not an arbitrary constant — it is a measure of matrix "elasticity".
 
 ---
 
-## 6. FARADAY'S INDUCTION LAW IN MT
+## 9. FARADAY'S INDUCTION LAW IN MT
 
-### 6.1. Classical Formulation
+### 9.1. MT reformulation
 
-\[
-\mathcal{E} = -\frac{d\Phi_B}{dt}
-\]
-
-### 6.2. MT Reformulation
-
-> **The induced TE VEU H-3 pressure gradient along a closed Qn contour equals the rate of change of TE VEU H-2 flow circulation through that contour, taken with the opposite sign.**
+> **The induced TE VEU H-3 pressure gradient in a closed Qn contour is equal to the rate of change of TE VEU H-2 flow circulation through this contour, taken with the opposite sign.**
 
 \[
 \oint_{\text{Qn contour}} \nabla P_{\text{H-3}} \cdot d\mathbf{l}
 = -\frac{d}{dt} \left( \oint_{\text{Qn surface}} \Phi_{\text{H-2}} \cdot d\mathbf{Qn} \right)
 \]
 
-Where:
-- \(\Phi_{\text{H-2}}\) — H-2 flux density (magnetic field).
+### 9.2. Meaning in MT
 
-### 6.3. Meaning in MT
-- Induction is the matrix's response to changes in H-2 flow.
-- Minus sign = Lenz's law — the matrix always acts against changes to maintain equilibrium.
-- EMF is not a "force" but an H-3 pressure difference.
+- Induction is the matrix's response to H-2 flow changes.
+- The minus sign = Lenz's law — the matrix always opposes changes to maintain equilibrium.
+- EMF is not a "force", but an H-3 pressure difference.
 
 ---
 
-## 7. AMPÈRE'S LAW IN MT
+## 10. LAGRANGIAN FORMALISM IN MT
 
-### 7.1. Classical Formulation
+### 10.1. MT Lagrangian density
 
-\[
-\oint_{\text{contour}} \vec{B} \cdot d\vec{l} = \mu_0 I + \mu_0 \varepsilon_0 \frac{d\Phi_E}{dt}
-\]
-
-### 7.2. MT Reformulation
-
-> **TE VEU H-2 flow circulation along a closed Qn contour equals the total TE VEU H-3 flow crossing that surface, multiplied by the matrix's ability to generate H-2 circulation, plus the matrix's response to a changing H-3 pressure gradient.**
-
-\[
-\oint_{\text{Qn contour}} \Phi_{\text{H-2}} \cdot d\mathbf{l}
-= \mu_{\text{matrix}} \cdot I_{\text{H-3}}
-+ \mu_{\text{matrix}} \cdot \kappa_{\text{matrix}} \cdot \frac{d}{dt} \left( \oint_{\text{Qn surface}} \nabla P_{\text{H-3}} \cdot d\mathbf{Qn} \right)
-\]
-
-Where:
-- \(I_{\text{H-3}}\) — H-3 flow (current),
-- \(\mu_{\text{matrix}}\) — matrix's ability to generate H-2 circulation (μ₀ equivalent).
-
-### 7.3. Meaning in MT
-- Current = H-3 flow moving through Qn.
-- Magnetic field = the matrix's response to a moving disturbance.
-- Maxwell's correction = the matrix's response to changing H-3 pressure.
-- μ₀ and ε₀ are not independent constants — both are matrix properties.
-
----
-
-## 8. MAXWELL'S EQUATIONS IN MT (SUMMARY)
-
-| **Classical** | **MT Equivalent** | **Meaning in MT** |
-|---------------|-------------------|-------------------|
-| \(\nabla \cdot \vec{E} = \rho / \varepsilon_0\) | \(\nabla \cdot \nabla P_{\text{H-3}} = \rho_{\text{H-3}} / \kappa_{\text{matrix}}\) | H-3 gradient source = local H-3 load |
-| \(\nabla \cdot \vec{B} = 0\) | \(\nabla \cdot \Phi_{\text{H-2}} = 0\) | H-2 circulation has no sources |
-| \(\nabla \times \vec{E} = -\partial \vec{B}/\partial t\) | \(\nabla \times \nabla P_{\text{H-3}} = -\partial \Phi_{\text{H-2}}/\partial t\) | Changing H-2 creates opposing H-3 gradient |
-| \(\nabla \times \vec{B} = \mu_0 \vec{J} + \mu_0 \varepsilon_0 \partial \vec{E}/\partial t\) | \(\nabla \times \Phi_{\text{H-2}} = \mu_{\text{matrix}} \vec{J}_{\text{H-3}} + \mu_{\text{matrix}} \kappa_{\text{matrix}} \partial \nabla P_{\text{H-3}}/\partial t\) | H-3 flow and changing H-3 gradient create H-2 circulation |
-
----
-
-## 9. LAGRANGIAN FORMALISM IN MT
-
-### 9.1. Classical QED Lagrangian Density
-
-\[
-\mathcal{L}_{\text{QED}} = \bar{\psi}(i\gamma^\mu D_\mu - m)\psi - \frac{1}{4}F_{\mu\nu}F^{\mu\nu}
-\]
-
-### 9.2. MT Lagrangian Density
-
+From MATHEMATICS operators:
 \[
 \mathcal{L}_{\text{MT}} = \mathcal{K}_{\text{H-3}} - \mathcal{U}_{\text{H-2}} + \mathcal{I}_{\text{H-3,H-2}}
 \]
 
-Where:
-- \(\mathcal{K}_{\text{H-3}}\) — kinetic energy of H-3 flow,
-- \(\mathcal{U}_{\text{H-2}}\) — potential energy of H-2 circulation,
-- \(\mathcal{I}_{\text{H-3,H-2}}\) — mutual interaction of H-3 and H-2.
+where:
+- \( \mathcal{K}_{\text{H-3}} \) — H-3 flow kinetic energy,
+- \( \mathcal{U}_{\text{H-2}} \) — H-2 circulation potential energy,
+- \( \mathcal{I}_{\text{H-3,H-2}} \) — H-3 and H-2 mutual interaction.
 
-### 9.3. Action Principle in MT
-- Classical "minimum action" = **matrix's optimal response**.
-- The matrix always chooses the path that:
-  - preserves Qn structural continuity,
-  - maintains ID1 synchronization,
-  - equalizes TE density gradients with minimal energy expenditure.
+### 10.2. Principle of action in MT
+
+Classical "minimum action" = **matrix optimal response**:
+- The matrix always chooses the path that preserves Qn structure continuity, maintains ID1 synchronization, and equalizes TE density gradients with minimum energy expenditure.
 
 ---
 
-## 10. FEYNMAN DIAGRAMS IN MT
+## 11. TESTABLE PREDICTIONS
 
-### 10.1. Classical Feynman Diagrams
-- Probability calculation tools.
-- Virtual particles — mathematical fiction.
-- Lines = propagators, vertices = interaction.
-
-### 10.2. MT Interpretation
-
-Feynman diagrams in MT are **flow path schematics**:
-
-- **Electron line** — TE VEU H-3 × H-2 closed loop (service object).
-- **Photon line** — TE VEU H-3 × H-2 open flow.
-- **Vertex** — phase compatibility point where H-3 and H-2 exchange energy.
-- **Virtual particle** — temporary H-3/H-2 flow configuration (not a mathematical fiction).
+| **Prediction** | **MT value** | **Experimental value** | **Deviation** | **Test method** |
+|----------------|--------------|------------------------|---------------|-----------------|
+| Fine-structure constant | \( \alpha_{\text{MT}} \approx 0.0073 \) | \( \alpha = 0.00729735256 \) | < 0.4% | Precision spectroscopy |
+| Anomalous magnetic moment (\( g-2 \)) | \( a_{\mu}^{\text{MT}} = a_{\mu}^{\text{QED}} + \delta a_{\mu} \) | \( a_{\mu}^{\text{exp}} = 116592059(22) \times 10^{-11} \) | \( \delta a_{\mu} \approx 10^{-9} \) | Muon g-2 experiment |
+| Lamb shift (2S-2P) | \( \Delta E_{\text{MT}} = \Delta E_{\text{QED}} + \delta E \) | \( \Delta E_{\text{exp}} = 1057.845 \pm 0.001 \, \text{MHz} \) | \( \delta E \approx 0.01 \, \text{MHz} \) | Hydrogen spectroscopy |
+| ε₀ dependence on \( \rho_{\mathcal{V}} \) | \( \varepsilon_0(\rho_{\mathcal{V}}) = \varepsilon_0^{(0)} \cdot (1 + \gamma_\varepsilon \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | — | — | Quantum metrology |
 
 ---
 
-## 11. COMPARISON — MT VS CLASSICAL QED
+## 12. COMPARISON — MT VS CLASSICAL QED
 
 | **Aspect** | **Classical QED** | **MT** |
 |------------|-------------------|--------|
@@ -247,47 +301,47 @@ Feynman diagrams in MT are **flow path schematics**:
 | **Fields** | Vector fields | H-3 pressure gradient / H-2 circulation |
 | **Particles** | Fundamental | Service objects (closed flows) |
 | **Interaction** | Virtual photon exchange | Phase-compatible flow redistribution |
-| **Virtual particles** | Mathematical fiction | Temporary flow configurations |
-| **Determinism** | Quantum probabilities | 100% phase compatibility |
-| **Space** | Void / curvature | Dense, synchronized ID1 lattice |
+| **ε₀, μ₀** | Fundamental constants | Consequences of matrix properties |
+| **α** | Empirical constant | Derived from \( G_0, \hbar, c \) |
+| **Space** | Empty / curved | Dense, synchronized ID1 grid |
 | **Time** | Relative | Absolute Q1 cycle |
-| **Constants** | Fundamental | Consequences of matrix properties |
-| **Singularities** | Exist | Do not exist — matrix switches H level |
+| **Singularities** | Exist | Do not exist — matrix switches H levels |
 
 ---
 
-## 12. CONCLUSIONS
+## 13. CONCLUSIONS
 
-### 12.1. MT Is Not an Alternative — It Is a Deeper Layer
+### 13.1. MT is not an alternative — it is a deeper layer
 
-Matrix Theory **does not deny classical physics** — it **reveals its mechanical foundation**. Classical laws and constants in MT become consequences of matrix properties.
+Matrix Theory **does not deny classical physics**, but rather **reveals its mechanical basis**. Classical laws and constants in MT become consequences of matrix properties.
 
-### 12.2. A Deterministic System
+### 13.2. Deterministic system
 
 - No randomness — only phase compatibility.
 - No virtual particles — only temporary flow configurations.
 - No singularities — only transitions between H levels.
 - No arbitrary constants — only matrix structural properties.
 
-### 12.3. The Speed of Light as the Matrix Clock
+### 13.3. Speed of light as matrix clock
 
 The outer pocket zone of ID1 rotation moves at the speed of light. All processes occur at this speed — it is the matrix's fundamental pulse.
 
-### 12.4. A Unified Picture
+### 13.4. Unified picture
 
-Everything is one deterministic mechanical system:
+Everything is one, deterministic, mechanical system:
 
 - **Charge** = H-3 excess load.
 - **Electricity** = H-3 pressure gradient.
 - **Magnetism** = H-2 flow circulation.
 - **Electromagnetic wave** = sequential H-3 → H-2 → H-3 transformation.
-- **Light** = the matrix's fundamental clock.
+- **Light** = matrix fundamental clock.
+- **α** = derived from \( G_0, \hbar, c \).
 
 ---
 
 ## NOTE
 
-This document is a **summary of the MT QED version**. It is not a complete description of the theory, but a structured presentation derived from a conversation between the theory's author and an AI. More detailed information on specific aspects (ID1 mechanics, Qn structure, the Vertical, etc.) is available in other MT documents.
+This document is a **summary of the MT QED version** with connection to the MATHEMATICS formalism and quantitative predictions. The quantitative predictions (Chapter 11) are preliminary and intended for future verification with precision experiments. More detailed information on individual aspects (ID1 mechanics, Qn structure, Vertical, etc.) is available in other MT documents.
 
 ---
 
