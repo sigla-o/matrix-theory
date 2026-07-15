@@ -1,7 +1,7 @@
 # ID GRADĀCIJA — MATRICAS TEORIJAS FORMĀLAIS MODELIS (MT)
 ## Stingrā akadēmiskā versija
 
-Šis dokuments definē ID (integrācijas dziļuma) skalāro lauku, tā atkarību no Qn struktūras un Vertikāles enerģijas blīvuma, kā arī pāreju nosacījumus starp ID līmeņiem.
+Šis dokuments definē ID (integrācijas dziļuma) diskrēto strukturālo indeksu, tā atkarību no Qn struktūras un Vertikāles enerģijas vienību skaita, kā arī pāreju nosacījumus starp ID līmeņiem.
 
 ---
 
@@ -14,19 +14,16 @@ No MATHEMATICS_lv.md tiek izmantoti šādi operatori un lielumi:
 | \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matricas kubiskais režģis |
 | \( Q_n \) | \( \{\mathbf{x} \in \mathbb{Z}^3 : \|\mathbf{x}\|_\infty \leq n\} \) | Apvalku struktūra |
 | \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Punktu skaits Qn slānī |
-| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertikāles enerģijas blīvums |
+| \( N_{\mathcal{V}}(\Omega) \) | VEU vienību skaits reģionā \( \Omega \) | Vertikāles enerģijas daudzums |
 | \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformācijas operators |
 | \( \mathcal{P}_{L1} \) | \( \mathcal{V} \to \mathcal{L} \) | L1 projekcijas operators |
 
-**ID definīcija MT:** ID ir skalārais lauks:
-\[
-\text{ID} = f(n, \rho_{\mathcal{V}}, \mathbf{M}, \mathbf{V}_{\text{lok}})
-\]
-kur:
-- \( n \) — Qn slāņa indekss,
-- \( \rho_{\mathcal{V}} \) — Vertikāles enerģijas blīvums,
-- \( \mathbf{M} \) — modulāciju vektors (H+2, H+3, ...),
-- \( \mathbf{V}_{\text{lok}} \) — lokālā matricas stāvokļa parametri (vides ietekme).
+**ID definīcija MT:** ID ir diskrēts strukturāls indekss, ko nosaka:
+- objekta Qn slāņa numurs \( n \) (punktu skaits \( N(n) \)),
+- Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni caur \( \mathcal{P}_{L1} \),
+- modulāciju klātbūtne (H+2, H+3, ...), kas nosaka, kuri Qn slāņi ir sasniedzami.
+
+ID nav nepārtraukts lauks; tas ir objekta organizācijas līmeņa marķieris, kas atbilst diskrētai Qn slāņu secībai.
 
 ---
 
@@ -41,7 +38,7 @@ ID solis ir diskrēts un atbilst Qn indeksa pieaugumam:
 \]
 
 kur:
-- \( R \) — struktūras raksturīgais lineārais mērogs (Qn rādiuss),
+- \( R \) — objekta Qn rādiuss (mērāms ID1 soļos),
 - \( R_{\text{protona}} \approx 10^{-10} \, \text{m} \) — protona orbitāles rādiuss (ID2,0 atskaites punkts),
 - \( S \) — solis, ko nosaka Qn slāņu secība.
 
@@ -78,17 +75,19 @@ Monolīti objekti ir vienota, slēgta TE plūsmas struktūra bez iekšējas daud
 | Supermasīvs melnais caurums | ~10⁴ | \( 2.0 + \log_{2.5}(10^4) \approx 2.0 + 10.0 \) | ID3,5 |
 | Galaktikas centra melnais caurums | ~10⁶ | \( 2.0 + \log_{2.5}(10^6) \approx 2.0 + 15.0 \) | ID3,9 |
 
-*Piezīme:* ID3,9 ir aptuvens — precīzā vērtība atkarīga no lokālā \( \rho_{\mathcal{V}} \).
+*Piezīme:* ID3,9 ir aptuvens — precīzā vērtība atkarīga no Vertikāles enerģijas vienību skaita \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni.
 
-### 2.3. Vertikāles enerģijas ietekme uz ID
+### 2.3. Vertikāles enerģijas vienību skaita ietekme uz ID
 
-Vertikāles enerģijas blīvums \( \rho_{\mathcal{V}} \) modificē ID vērtību:
+Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \) (atbilst \( \rho_{\mathcal{V}} \)) modificē ID vērtību, jo lielāks \( N_{\mathcal{V}} \) paātrina Qn slāņu pārejas:
 
 \[
-\text{ID}(n, \rho_{\mathcal{V}}) = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
+\text{ID}(n, N_{\mathcal{V}}) = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{N_{\mathcal{V}}}{N_{\text{H0}}}
 \]
 
-kur \( \gamma_{\text{ID}} \approx 0.05 \) (no MATHEMATICS un COSMOLOGY). Augstāks \( \rho_{\mathcal{V}} \) palielina ID, t.i., paātrina strukturālo evolūciju reģionos ar augstu Vertikāles enerģijas blīvumu.
+kur \( \gamma_{\text{ID}} \approx 0.05 \) (no MATHEMATICS un COSMOLOGY). \( N_{\mathcal{V}}/N_{\text{H0}} \) ir Vertikāles un H0 enerģijas vienību skaita attiecība objekta apkārtnē.
+
+Augstāks \( N_{\mathcal{V}} \) (t.i., blīvāka Vertikāles enerģija) palielina ID, t.i., paātrina strukturālo evolūciju reģionos ar augstu Vertikāles enerģijas vienību blīvumu.
 
 ---
 
@@ -102,7 +101,7 @@ Kolektīvie objekti ir daudzu monolītu objektu organizācija (zvaigznes, galakt
 \text{ID2,n} = 2.0 + \log_{2.5} \left( \frac{N_{\text{šūnas}}}{N_{\text{protona}}} \right)
 \]
 
-kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits.
+kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits (piemēram, atomu skaits molekulā, zvaigžņu skaits galaktikā).
 
 ### 3.2. ID2,n klasifikācija
 
@@ -121,13 +120,16 @@ kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits
 
 ID pāreja no viena līmeņa uz nākamo notiek, ja ir izpildīti šādi nosacījumi:
 
-1. \( \rho_{\mathcal{V}} > \rho_{\text{krit}} \) (kritiskais Vertikāles enerģijas blīvums sasniegts),
-2. Qn struktūra atļauj pāreju (nākamais slānis ir pieejams),
-3. Modulācijas aktivizē pāreju.
+1. Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \) objekta apkārtnē pārsniedz kritisko slieksni \( N_{\text{krit}} \):
+   \[
+   N_{\mathcal{V}} > N_{\text{krit}}
+   \]
+2. Qn struktūra atļauj pāreju — nākamais slānis \( n+1 \) ir pieejams (atbilstoši modulāciju secībai).
+3. Modulācijas aktivizē pāreju (H+2, H+3, ... signāli).
 
 Pārejas laiks:
 \[
-t_{\text{pāreja}} \propto \frac{1}{\rho_{\mathcal{V}} - \rho_{\text{krit}}}
+t_{\text{pāreja}} \propto \frac{1}{N_{\mathcal{V}} - N_{\text{krit}}}
 \]
 
 ### 4.1. Pāreju piemēri
@@ -145,10 +147,10 @@ t_{\text{pāreja}} \propto \frac{1}{\rho_{\mathcal{V}} - \rho_{\text{krit}}}
 
 | Prognoze | Vienādojums | Pārbaudes metode |
 |----------|------------|------------------|
-| ID atkarība no \( \rho_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) | Melno caurumu masu salīdzinājums galaktiku centros un starpgalaktiku telpā |
-| ID pārejas laiks | \( t_{\text{pāreja}} \propto 1/(\rho_{\mathcal{V}} - \rho_{\text{krit}}) \) | Aktīvo galaktisko kodolu (AGN) aktivitātes periodiskums |
+| ID atkarība no \( N_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}} \) | Melno caurumu masu salīdzinājums galaktiku centros un starpgalaktiku telpā |
+| ID pārejas laiks | \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \) | Aktīvo galaktisko kodolu (AGN) aktivitātes periodiskums |
 | ID2,n un galaktiku tips | \( \text{ID2,n} = 2.0 + \log_{2.5}(N_{\text{zvaigznes}}/N_{\text{protona}}) \) | Galaktiku morfoloģijas korelācija ar rotācijas līknēm |
-| Maksimālais ID3,n | \( n_{\text{max}} \propto \rho_{\mathcal{V}}^{(0)}/\rho_{\text{H0}} \) | Maksimālā melnā cauruma masa galaktikas centrā |
+| Maksimālais ID3,n | \( n_{\text{max}} \propto N_{\mathcal{V}}^{(0)}/N_{\text{H0}} \) | Maksimālā melnā cauruma masa galaktikas centrā |
 
 ---
 
@@ -163,20 +165,20 @@ t_{\text{pāreja}} \propto \frac{1}{\rho_{\mathcal{V}} - \rho_{\text{krit}}}
 | Galaktika | ID2,4 | Augstākā kolektīvā organizācija |
 | Melnais caurums | ID3,0+ | Monolīts, smalkāks par protonu |
 
-Klasiskā fizika objektus klasificē pēc masas vai izmēra; MT tos klasificē pēc TE organizācijas līmeņa, ko nosaka Qn indekss un Vertikāles enerģijas blīvums.
+Klasiskā fizika objektus klasificē pēc masas vai izmēra; MT tos klasificē pēc TE organizācijas līmeņa, ko nosaka Qn indekss un Vertikāles enerģijas vienību skaits objekta apkārtnē.
 
 ---
 
 ## 7. SECINĀJUMI
 
-1. ID ir skalārais lauks, ko nosaka Qn indekss \( n \) un Vertikāles enerģijas blīvums \( \rho_{\mathcal{V}} \):
+1. ID ir diskrēts strukturāls indekss, ko nosaka Qn slāņa numurs \( n \) un Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \):
    \[
-   \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}}
+   \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \frac{N_{\mathcal{V}}}{N_{\text{H0}}}
    \]
 
 2. ID solis ir diskrēts, jo to nosaka Qn slāņu secība ar soli \( S \approx 2.5 \).
 
-3. Augstāks \( \rho_{\mathcal{V}} \) paātrina ID pāreju, jo samazina pārejas laiku \( t_{\text{pāreja}} \propto 1/(\rho_{\mathcal{V}} - \rho_{\text{krit}}) \).
+3. Augstāks \( N_{\mathcal{V}} \) paātrina ID pāreju, jo samazina pārejas laiku \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \).
 
 4. Kolektīvie objekti (zvaigznes, galaktikas) pieder ID2,n klasei, kuru nosaka organizācijas līmenis, nevis lineārais mērogs.
 
