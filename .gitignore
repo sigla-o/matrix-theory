@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.old
+
+# Personal notes (optional — if you have any)
+# notes.md
+# draft_*.md
+
+# GitHub Desktop (if it creates extra files)
+*.sublime-*
