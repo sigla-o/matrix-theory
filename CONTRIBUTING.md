@@ -8,28 +8,27 @@ Thank you for your interest in contributing to the Matrix Theory project! This d
 
 Before contributing, please familiarize yourself with the current structure:
 matrix-theory/
-├── README.md # Main entry point
-├── LICENSE # License file
+<pre>
+mt-theory/
+├── README.md
+├── LICENSE
 ├── .gitignore
-├── CONTRIBUTING.md # This file
+├── CONTRIBUTING.md
 │
-├── docs/ # Core theory documents
-│ ├── foundation/ # Theory foundation and principles
-│ ├── physics/ # QED, gravity, cosmology
-│ ├── life/ # Life, intelligence, evolution
-│ ├── mathematics/ # Formalism and ID gradation
-│ ├── technology/ # Technological potential
-│ ├── ethics/ # Ethical and safety aspects
-│ └── comparison/ # Comparison with quantum mechanics
-│
-├── supplementary/ # Supplementary materials
-│ ├── FAQ_.md
-│ ├── SUMMARY_.md
-│ ├── MATH_TASKS_.md
-│ ├── ai_evaluations_.md
-│ └── critical_questions_*.md
-│
-└── archive/ # Outdated / archived files
+├── docs/
+│   ├── foundation/
+│   │   ├── FOUNDATION_lv.md
+│   │   └── FOUNDATION_en.md
+│   │
+│   ├── physics/
+│   │   ├── MT_QED_lv.md
+│   │   ├── MT_QED_en.md
+│   │   ├── GRAVITY_lv.md
+│   │   ├── GRAVITY_en.md
+│   │   ├── COSMOLOGY_lv.md
+│   │   └── COSMOLOGY_en.md
+...
+</pre>
 
 
 ---
