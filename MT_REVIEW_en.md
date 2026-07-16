@@ -192,6 +192,31 @@ Life is TE flow self-organization characterized by (according to ROADMAP — int
   \frac{d}{dt}\mathcal{S}_{\text{cell}} = -\mathcal{T}^{-1}(\text{Archive}_{\mathcal{V}}) \cdot \log(\mathcal{T}^{-1}(\text{Archive}_{\mathcal{V}}))
   \]
 
+  ### 4.6. Neutrino — Mass and Oscillations (ID1.1 / ID-1)
+
+MT offers **two independent ways** to calculate neutrino mass:
+
+1. **Indirect (H-3 quantization):**
+   $$
+   m_i = M_P \cdot \alpha^{n_i}, \quad n_1 \approx 4.82, n_2 \approx 5.18, n_3 \approx 5.54
+   $$
+
+2. **Direct (loop energy):**
+   $$
+   m_\nu = M_P \cdot \frac{N_{\text{shell}}}{|Q_n|} \cdot \alpha^{n_\nu}, \quad n_\nu \approx 14
+   $$
+
+**Key predictions:**
+- Normal hierarchy: \( m_1 < m_2 < m_3 \)
+- Mass ratio: \( m_2/m_1 = m_3/m_2 \approx 5.87 \)
+- Squared mass difference ratio: \( \Delta m_{32}^2 / \Delta m_{21}^2 \approx 34.5 \pm 2 \)
+- Total mass: \( \sum m_i \approx 0.060 \, \text{eV} \)
+
+**Majorana hypothesis (B7 cyclicity):**
+- Neutrino: 0.5-step cyclicity (open loop, weak TZ coupling)
+- Majorana: 1.5-step cyclicity (closed loop, full synchronization)
+- Mass scale: \( m_{\text{Majorana}} \approx 0.2 - 7 \, \text{eV} \)
+
 ---
 
 ## 5. SUMMARY OF TESTABLE PREDICTIONS
