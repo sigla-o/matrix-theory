@@ -24,6 +24,9 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | — [`GRAVITY_en.md`](docs/physics/GRAVITY_en.md) | Gravity (angliski) |
 | — [`COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md) | Kosmoloģija (latviski) |
 | — [`COSMOLOGY_en.md`](docs/physics/COSMOLOGY_en.md) | Cosmology (angliski) |
+| **`docs/physics/research/`** | Pētnieciskie materiāli (provizoriskie modeļi, attīstības stadijā) |
+| — [`NEUTRINO_lv.md`](docs/physics/research/NEUTRINO_lv.md) | Neitrīno fizika (latviski) |
+| — [`NEUTRINO_en.md`](docs/physics/research/NEUTRINO_en.md) | Neutrino physics (angliski) |
 | **`docs/life/`** | Dzīvība, intelekts un evolūcija |
 | — [`LIFE_lv.md`](docs/life/LIFE_lv.md) | Dzīvība (latviski) |
 | — [`LIFE_en.md`](docs/life/LIFE_en.md) | Life (angliski) |
@@ -44,6 +47,12 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | **`docs/roadmap/`** | Strukturālā shēma un ceļu nošķīrums |
 | — [`MT_ROADMAP_lv.md`](docs/roadmap/MT_ROADMAP_lv.md) | Ceļu karte (latviski) |
 | — [`MT_ROADMAP_en.md`](docs/roadmap/MT_ROADMAP_en.md) | Roadmap (angliski) |
+| **`docs/hypotheses/`** | Hipotēzes un provizoriskie pētnieciskie virzieni |
+| — [`NEUTRINO_MAJORANA_lv.md`](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | Majorana daļiņu hipotēze (latviski) |
+| — [`NEUTRINO_MAJORANA_en.md`](docs/hypotheses/NEUTRINO_MAJORANA_en.md) | Majorana particle hypothesis (angliski) |
+
+---
+
 ### Papildmateriāli — `supplementary/`
 
 | Mape | Saturs |
@@ -54,6 +63,8 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | — [`MATH_TASKS_lv.md`](supplementary/MATH_TASKS_lv.md) / [`MATH_TASKS_en.md`](supplementary/MATH_TASKS_en.md) | Matemātiskie uzdevumi |
 | — [`ai_evaluations_lv.md`](supplementary/ai_evaluations_lv.md) / [`ai_evaluations_en.md`](supplementary/ai_evaluations_en.md) | AI vērtējumi |
 | — [`critical_questions_lv.md`](supplementary/critical_questions_lv.md) / [`critical_questions_en.md`](supplementary/critical_questions_en.md) | Kritiskie jautājumi |
+
+---
 
 ### Arhīvs — `archive/`
 
@@ -75,6 +86,8 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | 6. CMB pīķis | \( \ell_6 \approx 1660 \) | Pārbaudāms ar CMB-S4, Simons Observatory | ID0.47 |
 | 7. CMB pīķis | \( \ell_7 \approx 1943 \) | Pārbaudāms ar CMB-S4, Simons Observatory | ID0.55 |
 | NGC 6503 rotācijas līkne | Atbilst < 3% novirzi | Nav nepieciešama tumšā matērija | ID2 / ID-1 |
+| Neitrīno masas | \( m_1 \approx 0.0015, m_2 \approx 0.0087, m_3 \approx 0.050 \, \text{eV} \) | Pārbaudāms ar DUNE, Hyper-K, KATRIN | ID1.1 / ID-1 |
+| Majorana daļiņu masas skala | \( m_{\text{Majorana}} \approx 0.2 - 7 \, \text{eV} \) | Pārbaudāms ar 0νββ eksperimentiem | ID0 / ID-1 |
 
 Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_lv.md)
 
@@ -89,7 +102,7 @@ Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_
    Strukturālā shēma, H0 un L1 ceļu nošķīrums, L1 duālā daba.
 
 3. **Matemātika** — [`docs/mathematics/MATHEMATICS_lv.md`](docs/mathematics/MATHEMATICS_lv.md)  
-   Formālais kodols: operatori, Qn struktūra, TE plūsmas dinamika.
+   Formālais kodols: operatori, Qn struktūra, TE pārneses dinamika.
 
 4. **ID gradācija** — [`docs/mathematics/ID_GRADIENT_lv.md`](docs/mathematics/ID_GRADIENT_lv.md)  
    ID kā procesa marķieris, kvantitatīvais modelis un pārbaudāmās prognozes.
@@ -103,17 +116,50 @@ Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_
 7. **Kosmoloģija** — [`docs/physics/COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md)  
    Kosmoloģiskā sarkanā nobīde, Habla likums un kvantitatīvais CMB modelis.
 
-8. **Dzīvība** — [`docs/life/LIFE_lv.md`](docs/life/LIFE_lv.md)  
-   Dzīvība kā TE plūsmu pašorganizācija, apziņa, vēzis un novecošanās.
+8. **Neitrīno** — [`docs/physics/research/NEUTRINO_lv.md`](docs/physics/research/NEUTRINO_lv.md)  
+   Neitrīno fizika — masas, svārstības, anihilācija.
 
-9. **QM salīdzinājums** — [`docs/comparison/QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md)  
-   Salīdzinājums ar klasisko kvantu mehāniku un pārbaudāmās atšķirības.
+9. **Dzīvība** — [`docs/life/LIFE_lv.md`](docs/life/LIFE_lv.md)  
+   Dzīvība kā TE pārneses pašorganizācija, apziņa, vēzis un novecošanās.
 
-10. **Tehnoloģija** — [`docs/technology/TECHNOLOGY_lv.md`](docs/technology/TECHNOLOGY_lv.md)  
+10. **QM salīdzinājums** — [`docs/comparison/QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md)  
+    Salīdzinājums ar klasisko kvantu mehāniku un pārbaudāmās atšķirības.
+
+11. **Tehnoloģija** — [`docs/technology/TECHNOLOGY_lv.md`](docs/technology/TECHNOLOGY_lv.md)  
     Tehnoloģiskais potenciāls, enerģijas pārraide un uzkrāšana.
 
-11. **Ētika** — [`docs/ethics/ETHICS_lv.md`](docs/ethics/ETHICS_lv.md)  
+12. **Ētika** — [`docs/ethics/ETHICS_lv.md`](docs/ethics/ETHICS_lv.md)  
     Ētiskie un drošības aspekti, līdzsvars ar Vertikāli.
+
+---
+
+## 🧭 Ātrā navigācija
+
+| **Tēma** | **Latviski** | **Angliski** |
+|----------|--------------|--------------|
+| Pamats | [LV](docs/foundation/FOUNDATION_lv.md) | [EN](docs/foundation/FOUNDATION_en.md) |
+| Ceļu karte | [LV](docs/roadmap/MT_ROADMAP_lv.md) | [EN](docs/roadmap/MT_ROADMAP_en.md) |
+| Matemātika | [LV](docs/mathematics/MATHEMATICS_lv.md) | [EN](docs/mathematics/MATHEMATICS_en.md) |
+| ID gradācija | [LV](docs/mathematics/ID_GRADIENT_lv.md) | [EN](docs/mathematics/ID_GRADIENT_en.md) |
+| QED | [LV](docs/physics/MT_QED_lv.md) | [EN](docs/physics/MT_QED_en.md) |
+| Gravitācija | [LV](docs/physics/GRAVITY_lv.md) | [EN](docs/physics/GRAVITY_en.md) |
+| Kosmoloģija | [LV](docs/physics/COSMOLOGY_lv.md) | [EN](docs/physics/COSMOLOGY_en.md) |
+| Neitrīno | [LV](docs/physics/research/NEUTRINO_lv.md) | [EN](docs/physics/research/NEUTRINO_en.md) |
+| Dzīvība | [LV](docs/life/LIFE_lv.md) | [EN](docs/life/LIFE_en.md) |
+| QM salīdzinājums | [LV](docs/comparison/QM_COMPARISON_lv.md) | [EN](docs/comparison/QM_COMPARISON_en.md) |
+| Tehnoloģija | [LV](docs/technology/TECHNOLOGY_lv.md) | [EN](docs/technology/TECHNOLOGY_en.md) |
+| Ētika | [LV](docs/ethics/ETHICS_lv.md) | [EN](docs/ethics/ETHICS_en.md) |
+| Majorana hipotēze | [LV](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | [EN](docs/hypotheses/NEUTRINO_MAJORANA_en.md) |
+
+---
+
+## 📄 Papildmateriāli
+
+- [FAQ (LV)](supplementary/FAQ_lv.md) / [FAQ (EN)](supplementary/FAQ_en.md)
+- [Kopsavilkums (LV)](supplementary/SUMMARY_lv.md) / [Kopsavilkums (EN)](supplementary/SUMMARY_en.md)
+- [Matemātiskie uzdevumi (LV)](supplementary/MATH_TASKS_lv.md) / [Matemātiskie uzdevumi (EN)](supplementary/MATH_TASKS_en.md)
+- [AI vērtējumi (LV)](supplementary/ai_evaluations_lv.md) / [AI vērtējumi (EN)](supplementary/ai_evaluations_en.md)
+- [Kritiskie jautājumi (LV)](supplementary/critical_questions_lv.md) / [Kritiskie jautājumi (EN)](supplementary/critical_questions_en.md)
 
 ---
 
