@@ -1,8 +1,8 @@
 # GRAVITY — MATRIX THEORY VERSION (MT)
 
-## Summary Document
+## Revised Version (July 2026)
 
-This document summarizes the Matrix Theory (MT) interpretation of gravity. It is a structured description of the theory arising from MT's foundational principles — without spatial curvature, without singularities, and without the need for the Vertical. Additionally, a quantitative model explaining galaxy rotation curves without dark matter is provided, using only two free parameters. The document is aligned with the ID system.
+This document summarizes the Matrix Theory (MT) interpretation of gravity. It is a structured theoretical description following from MT's foundational principles — without space curvature, without singularities, and without the need for the Vertical as an active element. Additionally, it provides a quantitative model explaining galaxy rotation curves without dark matter. The document is aligned with the ID system and the revised MATHEMATICS formalism.
 
 ---
 
@@ -10,209 +10,208 @@ This document summarizes the Matrix Theory (MT) interpretation of gravity. It is
 
 **Key difference from electromagnetism:**
 
-- **Electromagnetism** (QED in MT style) depends on the **Vertical** — charge arises from proton half-phase asymmetry (TE VEU H-3), requiring Vertical energy for compensation (damper, electron, FV-determined neutral state). In the ID system, this corresponds to ID-1 and ID1.
+- **Electromagnetism** (QED in MT style) depends on the **Vertical** — charge arises from the proton's half-phase asymmetry (TE VEU H-3), and its compensation requires Vertical energy (damper, electron, FV-determined neutral state). In the ID system, this corresponds to ID-1 and ID1.
 
-- **Gravity** is a **purely horizontal (H0) process**. It **does not require the Vertical**. It is fully determined by the dynamics of **TE VEU H-2** (10⁻⁵⁵ m) flow within the H0 matrix. In the ID system, this corresponds to ID0 (matrix level).
-
----
-
-## 2. FV (Phase–Direction) — flow cycle, not a parameter
-
-**FV is not a "direction parameter." FV is a 360° cyclic flow pattern.**
-
-- H+1 modulation continuously pushes TE flow toward the H0 matrix (ID1).
-- ID1 object rotation distributes this flow into **FV directions**, which cyclically flow through the Qn structure (ID0.n).
-- Over a **full Qn cycle**, the TE flow direction has covered **all directions (360°)**.
-- Two half-phases (0° and 180°) repeat this rotation-flow cycle.
-
-**FV is the matrix's "pulse" geometry** — the way flow continuously reviews all directions to maintain balance.
+- **Gravity** is a **purely horizontal (H0) process**. It **does not require the Vertical**. It is fully determined by **TE VEU H-2** (10⁻⁵⁵ m) transfer dynamics in the H0 matrix. In the ID system, this corresponds to ID0 (matrix level).
 
 ---
 
-## 3. TE VEU H-2 — the gravity carrier
+## 2. FV (Phase–Direction) — Transfer Cycle, Not Parameter
 
-- **TE VEU H-2** (10⁻⁵⁵ m) is a large-scale transport flow in the H0 matrix (ID0).
+**FV is not a "direction parameter." FV is a 360° cyclic transfer pattern.**
+
+- H+1 modulation continuously drives TE transfer onto the H0 matrix (ID1).
+- ID1 object rotation distributes this transfer in **FV directions**, cyclically flowing through the Qn structure (ID0.n).
+- In a **full Qn cycle**, the TE transfer direction in the sphere has covered **all directions (360°)**.
+- Two half-phases (0° and 180°) repeat this rotation-transfer cycle.
+
+**FV is the matrix's "pulse" geometry** — the way transfer continuously reviews all directions to maintain equilibrium.
+
+---
+
+## 3. TE VEU H-2 — Gravity Carrier
+
+- **TE VEU H-2** (10⁻⁵⁵ m) is the large-scale transport transfer in the H0 matrix (ID0).
 - It is the **basis of the gravity process**.
-- Unlike H-3 (electrical component, ID1.1), H-2 flow does not require Vertical compensation — it is purely horizontal.
+- Unlike H-3 (electrical component, ID1.1), H-2 transfer does not require Vertical compensation — it is purely horizontal.
 
 ---
 
-## 4. Gravity mechanism — channel blocking and filling
+## 4. Gravity Mechanism — Channel Blocking and Deficit Compensation
 
 ### 4.1. Background
 
-TE VEU H-2 flow continuously flows through the H0 matrix (ID0). Its FV changes in a 360° cycle, determined by ID1 rotation.
+TE VEU H-2 transfer continuously occurs through the H0 matrix (ID0). Its FV changes in a 360° cycle determined by ID1 rotation.
 
-### 4.2. Obstacle (source)
+### 4.2. Obstacle (Source)
 
-A proton (ID1.0) or any material object (ID1, ID2, ID3, ID4) occupies a certain H0 space. In this space, TE flow **cannot pass through** — it blocks it.
+The proton (ID1.0) or any material object (ID1, ID2, ID3, ID4) occupies a certain H0 space. In this space, TE transfer **cannot occur** — the object blocks transfer channels.
 
 **One proton blocks approximately 10²⁰ TE VEU H-2 channels.**
 
-### 4.3. Depletion zone (shadow)
+### 4.3. Deficit Zone
 
-- If the FV cycle is divided into individual "frames," each frame shows a specific flow direction.
-- The proton blocks those channels that pass through its occupied region in that frame.
-- These channels remain **unfilled with TE** — creating a local pressure deficit (ID0).
+- If the FV cycle is divided into individual "frames," each frame shows a specific transfer direction.
+- The proton blocks those channels that in this frame pass through its occupied area.
+- These channels remain **unfilled** — creating a local transfer deficit (ID0).
 
-### 4.4. Filling (FV's role)
+### 4.4. Deficit Compensation (FV Role)
 
-- If flow were only one-directional, the empty channels would continue moving indefinitely — there would be no gravity.
-- **FV** (360° cycle) ensures that **nearly parallel channels from the surroundings fill the missing TE**.
-- The filling capacity is **constant** — determined by FV dynamics (ID0).
-- What changes is the **number of unfilled channels** — the farther from the source, the fewer channels remain empty.
+- If transfer were only unidirectional, empty channels would continue unrestricted — there would be no gravity.
+- **FV** (360° cycle) ensures that **nearly parallel channels from the surroundings compensate for the missing transfer**.
+- The compensation capacity is **constant** — determined by FV dynamics (ID0).
+- What changes is the **number of unfilled channels** — the farther from the source, the fewer channels remain unfilled.
 
-### 4.5. 1/r² — not a law, but geometry
+### 4.5. 1/r² — Not a Law, but Geometry
 
-**1/r² is not a "force law." It is the geometric decrease in the number of unfilled channels.**
+**1/r² is not a "force law." It is the geometric reduction of the number of unfilled channels.**
 
 - `r = 1`: 10²⁰ unfilled channels.
 - `r = 2`: 10²⁰ / 4 = 2.5 × 10¹⁹ unfilled channels.
 - `r = 3`: 10²⁰ / 9 ≈ 1.11 × 10¹⁹ unfilled channels.
 - ...
 
-The greater the distance from the source, the fewer channels the proton can cover — the fewer channels remain unfilled. This is not "force weakening," but a **geometric shrinking of the source's influence sphere**.
+The greater the distance from the source, the fewer channels the proton can cover — the fewer channels remain unfilled. This is not "weakening of force" but the **geometric shrinkage of the source's influence sphere**.
 
 ---
 
-## 5. Gravitational force — pressure difference
+## 5. Gravitational Force — Deficit Gradient
 
-**Gravity is the TE pressure difference on objects.**
+**Gravity is the TE deficit gradient on objects.**
 
-- The number of unfilled channels creates a local pressure deficit (ID0).
-- Another object located in this depletion zone experiences a pressure difference: from one side it is pushed by full TE flow, from the other by the deficit.
-- This pressure difference **pushes** it toward the deficit.
+- The number of unfilled channels creates a local transfer deficit (ID0).
+- Another object in this deficit zone experiences a deficit difference: from one side, full transfer acts on it; from the other, a deficit.
+- This difference **pushes** it toward the deficit.
 
-**Gravity is a force that can be calculated as the TE pressure difference on the objects it affects.**
+**Gravity is a gradient that can be calculated as the TE deficit difference on affected objects.**
 
 In the ID system:
-- ID1.0 (proton) creates the deficit.
-- ID2 (stars, planets) and ID3 (white dwarfs) experience this pressure difference.
+- ID1.0 (proton) creates a deficit.
+- ID2 (stars, planets) and ID3 (white dwarfs) experience this deficit gradient.
 - ID4 (black holes) create the greatest deficit and influence.
 
 ---
 
-## 6. The gravitational constant G
+## 6. Gravitational Constant G
 
-- **G** is the **constant filling parameter** (ID0).
-- It is small but constant — determined by the fundamental properties of H-2 flow and the FV cycle.
-- G is not a "universal constant" in the classical sense — it is a **matrix property** that can vary depending on local dark energy density (ID-1) (see Sections 7 and 11).
+- **G** is the **constant deficit compensation parameter** (ID0).
+- It is small but constant — determined by the fundamental properties of H-2 transfer and the FV cycle.
+- G is not a "universal constant" in the classical sense — it is a **matrix property** that can vary depending on local Vertical energy density (ID-1) (see Sections 7 and 11).
+
+**MT expression:** from MATHEMATICS 3.2.:
+$$
+G_0 = \frac{\alpha_0 \cdot \phi_0}{7} = \frac{(6\omega_0/7) \cdot (\hbar\omega_0/(2\pi))}{7} = \frac{6 \hbar \omega_0^2}{98\pi} = \frac{3 \hbar \omega_0^2}{49\pi}
+$$
 
 ---
 
-## 7. Dark energy — matrix modulator (ID-1)
+## 7. Vertical Energy (Dark Energy) — Matrix Modulator (ID-1)
 
-- **Dark energy** is a large-scale energy accumulation in the matrix (ID-1) that modifies the matrix's fundamental properties (ID0).
-- **Dark energy does not change the gravity mechanism itself** (channel blocking and filling).
-- It **stretches** the depletion process — filling of unfilled channels occurs more slowly, and the deficit persists longer.
+- **Vertical energy** is a large-scale energy accumulation in the matrix (ID-1) that modifies fundamental matrix properties (ID0).
+- **It does not change the gravity mechanism itself** (channel blocking and deficit compensation).
+- It **stretches** the deficit compensation process — unfilled channels fill more slowly, deficits persist longer.
 
 **Consequences:**
 
 - At observable distances (in the Solar System), ID1 synchronization is constant — gravity operates in "standard" mode.
-- In galaxy centers (high dark energy density, ID-1), processes are stretched, which can trigger **Vertical evolution leaps** (e.g., black hole transition from ID4.0 to ID4.1).
+- At galaxy centers (high Vertical energy density, ID-1), processes are stretched, which may trigger **ID transition jumps** (e.g., black hole transition from ID4.0 to ID4.1).
 
 ---
 
-## 8. Gravitational waves
+## 8. Gravitational Waves
 
 **Gravity ≠ gravitational wave.**
 
-- **Gravity** is a **constant pressure deficit** — a static H-2 channel filling gradient (ID0).
-- **Gravitational wave** is a **TE VEU H-2 energy density oscillation** caused by accelerated moving objects (e.g., two orbiting black holes ID4).
+- **Gravity** is a **permanent deficit** — a static H-2 channel compensation gradient (ID0).
+- **Gravitational wave** is a **TE VEU H-2 transfer density oscillation** caused by accelerated moving objects (e.g., two rotating black holes ID4).
 
 **Mechanism:**
 
-- Rotating objects create a moving deficit zone — their centers shift.
-- This creates a **varying TE VEU H-2 pressure difference** — an oscillating energy density wave (ID0).
-- This wave propagates through the H0 matrix as an H-2 flow density oscillation.
+- Rotating objects create a moving deficit zone — its center shifts.
+- This creates a **varying TE VEU H-2 transfer difference** — an oscillating transfer density wave (ID0).
+- This wave propagates through the H0 matrix as an H-2 transfer density oscillation.
 
 **Effect on matter (LIGO):**
 
 - TE VEU H-2 density change creates energetic oscillations on matter (ID1, ID2).
-- The geometry of TE flows changes, altering the shape of LIGO test masses.
-- Just as temperature change changes gas pressure, H-2 density change changes pressure on matter.
-- LIGO registers not "spatial curvature," but the **matter deformation caused by TE pressure change**.
+- TE transfer geometry changes, altering LIGO test mass shape.
+- Just as temperature change alters gas pressure, H-2 density change alters the deficit on matter.
+- LIGO detects not "space curvature" but **material deformation caused by TE transfer changes**.
 
 **Conclusion:**
-A gravitational wave is the same as an EM wave, only larger — an H-2 energy density oscillation that acts on matter (ID0).
+A gravitational wave is the same as an EM wave, only larger — an H-2 transfer density oscillation acting on matter (ID0).
 
 ---
 
-## 9. Comparison with classical physics (qualitative)
+## 9. Comparison with Classical Physics (Qualitative)
 
-| **Aspect** | **Classical physics (GR)** | **Matrix Theory** | **ID correspondence** |
+| **Aspect** | **Classical Physics (GR)** | **Matrix Theory** | **ID correspondence** |
 |------------|----------------------------|-------------------|-----------------------|
 | **Gravity source** | Mass / energy | TE VEU H-2 channel blocking | ID0 |
-| **Gravity mechanism** | Spatial curvature | Pressure deficit and filling | ID0 |
-| **1/r²** | Force law | Geometric decrease in unfilled channel count | ID0 |
-| **G** | Universal constant | Constant filling parameter, depends on matrix state | ID0 / ID-1 |
-| **Dark energy** | Unknown force accelerating expansion | Matrix fundamental property modulator, stretching depletion processes | ID-1 |
-| **Gravitational waves** | Spatial ripples | H-2 energy density oscillations | ID0 |
-| **Singularities** | Exist (black hole center) | Do not exist — matrix switches H level | ID0 / ID4 |
+| **Gravity mechanism** | Space curvature | Transfer deficit and compensation | ID0 |
+| **1/r²** | Force law | Geometric reduction of unfilled channels | ID0 |
+| **G** | Universal constant | Constant compensation parameter, matrix-state dependent | ID0 / ID-1 |
+| **Vertical energy** | Unknown force accelerating expansion | Modulator of fundamental matrix properties, stretching deficit compensation | ID-1 |
+| **Gravitational waves** | Space ripples | H-2 transfer density oscillations | ID0 |
+| **Singularities** | Exist (black hole center) | Do not exist — matrix switches H levels | ID0 / ID4 |
 | **Vertical** | Required | Not required — purely horizontal process | ID0 |
 
 ---
 
-## 10. Conclusions (qualitative)
+## 10. Conclusions (Qualitative)
 
-1. **Gravity in MT is a simple flow mechanism** — channel blocking, deficit, filling, and geometric decrease (ID0).
+1. **Gravity in MT is simple transfer mechanics** — channel blocking, deficit, compensation, and geometric reduction (ID0).
 
-2. **No Vertical is required** — unlike electromagnetism, gravity is a purely horizontal (H0) effect (ID0).
+2. **No Vertical required** — unlike electromagnetism, gravity is a purely horizontal (H0) effect (ID0).
 
-3. **No spatial curvature** — gravity is TE pressure difference, not geometry deformation (ID0).
+3. **No space curvature** — gravity is a TE deficit gradient, not a geometry deformation (ID0).
 
-4. **No singularities** — the matrix switches H levels, preventing energy from collapsing to infinity (ID0 / ID4).
+4. **No singularities** — the matrix switches H levels, preventing energy collapse to infinity (ID0 / ID4).
 
-5. **Gravity and gravitational waves are not the same thing** — the first is a static deficit, the second is a dynamic energy density wave (ID0).
+5. **Gravity and gravitational waves are not the same** — the first is a static deficit, the second is a dynamic transfer density wave (ID0).
 
-6. **Dark energy is a matrix modulator** — it stretches depletion processes, especially in galaxy centers (ID-1), and can trigger Vertical evolution leaps (ID4).
+6. **Vertical energy is a matrix modulator** — it stretches deficit compensation processes, especially in galaxy centers (ID-1), and may trigger ID transitions (ID4).
 
 ---
 
-## 11. Quantitative model — G variability and galaxy rotation curves
+## 11. Quantitative Model — G Variation and Galaxy Rotation Curves
 
-### 11.1. G as a function of dark energy density (ID-1)
+### 11.1. G as a Function of Vertical Energy Density (ID-1)
 
-From MATHEMATICS Part 2 and GRAVITY Section 7:
+From MATHEMATICS 3.3. and GRAVITY Section 7:
 
-\[
+$$
 G(E_{\mathcal{V}}) = G_0 \cdot \left( 1 + \gamma \cdot \frac{E_{\mathcal{V}}}{E_{\text{H0}}} \right)
-\]
+$$
 
 where:
-- \( G_0 \) — base value (in Solar System, ID1/ID2 level),
-- \( E_{\mathcal{V}} \) — local Vertical energy density (dark energy, ID-1),
+- \( G_0 \) — base value (Solar System, ID1/ID2 level),
+- \( E_{\mathcal{V}} \) — local Vertical energy density (ID-1),
 - \( E_{\text{H0}} \) — H0 matrix background energy density (ID0),
-- \( \gamma \) — dimensionless constant, derived from ID1 lattice geometry (ID0).
+- \( \gamma \approx 0.18 \) — dimensionless constant derived from ID1 lattice geometry (ID0).
 
-**Derivation of γ:** From MATHEMATICS Part 1 and COSMOLOGY 10.5.4. — L1 zone distance \( R_{L1}/\lambda_{\text{ID1}} \approx 5.62 \) (ID0), so:
+### 11.2. Energy Profile in Galaxies (ID2)
 
-\[
-\gamma \approx \frac{\lambda_{\text{ID1}}}{R_{L1}} \approx 0.18
-\]
+Assume exponential Vertical energy density decrease from the galaxy center (ID-1):
 
-### 11.2. Energy profile in a galaxy (ID2)
-
-We assume an exponential decrease of Vertical energy density from the galaxy center (ID-1):
-
-\[
+$$
 \frac{E_{\mathcal{V}}(r)}{E_{\text{H0}}} = \frac{E_{\mathcal{V}}^{(0)}}{E_{\text{H0}}} \cdot \exp\left(-\frac{r}{r_0}\right)
-\]
+$$
 
 where:
 - \( r \) — distance from galaxy center (ID2),
-- \( r_0 \) — Vertical energy "scattering" radius (ID2),
+- \( r_0 \) — Vertical energy "spread" radius (ID2),
 - \( E_{\mathcal{V}}^{(0)}/E_{\text{H0}} \) — central energy density (relative to background, ID-1 / ID0).
 
 Then rotation velocity:
 
-\[
+$$
 V_{\text{MT}}(r) = \sqrt{\frac{G(r) \cdot M_{\text{bar}}(r)}{r}}
-\]
+$$
 
 where \( M_{\text{bar}}(r) \) is the visible mass (disk + gas) within radius r (ID2).
 
-### 11.3. Test — NGC 6503 rotation curve (ID2)
+### 11.3. Test — NGC 6503 Rotation Curve (ID2)
 
 NGC 6503 is a dwarf spiral galaxy at ~7 Mpc. Its rotation curve is well-studied and serves as a standard test for alternative gravity theories.
 
@@ -233,7 +232,7 @@ NGC 6503 is a dwarf spiral galaxy at ~7 Mpc. Its rotation curve is well-studied 
 | 9.0 | 112 | 56 | 22 | |
 | 10.0 | 112 | 48 | 20 | |
 
-*Note:* Values are approximate, obtained from published graphs.
+*Note:* Values are approximate, derived from published graphs.
 
 **Fit results:**
 
@@ -244,9 +243,9 @@ NGC 6503 is a dwarf spiral galaxy at ~7 Mpc. Its rotation curve is well-studied 
 | \( E_{\mathcal{V}}^{(0)}/E_{\text{H0}} \) | **2.8 ± 0.3** | Fitted from data | ID-1 |
 | \( r_0 \) | **2.1 ± 0.2 kpc** | Fitted from data | ID2 |
 
-**Only two free parameters** — both have clear physical interpretation within MT.
+**Only two free parameters** — both with clear physical interpretation within MT.
 
-**Correspondence table:**
+**Fit table:**
 
 | R (kpc) | V_obs (km/s) | V_MT (km/s) | Deviation (km/s) | Relative error |
 |---------|-------------|-------------|------------------|----------------|
@@ -265,38 +264,39 @@ NGC 6503 is a dwarf spiral galaxy at ~7 Mpc. Its rotation curve is well-studied 
 
 **Mean absolute deviation:** ~0.6 km/s; **maximum deviation:** 2 km/s (< 3%).
 
-### 11.4. Physical interpretation of parameters (ID correspondence)
+### 11.4. Physical Interpretation of Parameters (ID correspondence)
 
 - \( r_0 \approx 2.1 \) kpc corresponds to the galaxy core size (ID2.0) — the region where Vertical energy density is highest (ID-1) (black hole ID4 and central star cluster ID2).
-- \( E_{\mathcal{V}}^{(0)}/E_{\text{H0}} \approx 2.8 \) means that in the galaxy center, Vertical energy density is ~2.8 times greater than the H0 background energy (ID-1 / ID0).
+- \( E_{\mathcal{V}}^{(0)}/E_{\text{H0}} \approx 2.8 \) means the Vertical energy density at the galaxy center is ~2.8 times greater than the H0 background energy (ID-1 / ID0).
 
-### 11.5. Testable prediction — G value at galaxy center (ID2/ID4)
+### 11.5. Testable Prediction — G Value at Galaxy Center (ID2/ID4)
 
-MT predicts that the **G value at the galaxy center** is (ID-1 influence on ID0):
+MT predicts that **G at the galaxy center** is (ID-1 influence on ID0):
 
-\[
+$$
 G(0) = G_0 \cdot (1 + 0.18 \times 2.8) \approx 1.50 \times G_0
-\]
+$$
 
-This means that the gravitational constant in the galactic core (ID2.0 / ID4.0) is ~50% larger than in the Solar System (ID1/ID2). This prediction is **testable** by precise stellar orbit measurements in the galaxy center (e.g., with the GRAVITY interferometer).
+This means the gravitational constant in the galaxy core (ID2.0 / ID4.0) is ~50% larger than in the Solar System (ID1/ID2). This prediction is **testable** with precise stellar orbit measurements at the galaxy center (e.g., with the GRAVITY interferometer).
 
-### 11.6. Comparison with classical model
+### 11.6. Comparison with Classical Model
 
 | **Criterion** | **Lambda-CDM + dark matter** | **Matrix Theory (MT)** | **ID correspondence** |
-|---------------|------------------------------|-------------------------|-----------------------|
+|---------------|-------------------------------|-------------------------|-----------------------|
 | Number of free parameters | 3–4 (M_h, r_s, ρ_0, ...) | **2** (Eᵥ⁽⁰⁾/E_H₀, r₀) | ID-1, ID2 |
-| Physical mechanism | Unknown particle (WIMP, axion) | Vertical energy influence on G | ID-1 → ID0 |
-| Testability of predictions | Difficult (dark matter invisible) | **Direct** (G measurements in galaxy centers) | ID2/ID4 |
-| Fit to NGC 6503 | Excellent | **Excellent** (deviation < 3%) | ID2 |
+| Physical mechanism | Unknown particle (WIMP, axion) | Vertical energy effect on G | ID-1 → ID0 |
+| Testability | Difficult (dark matter invisible) | **Direct** (G measurements at galaxy centers) | ID2/ID4 |
+| NGC 6503 fit | Excellent | **Excellent** (deviation < 3%) | ID2 |
 
-**Conclusion:** The MT gravity model **successfully explains the NGC 6503 rotation curve** using only two free parameters with clear physical interpretation. It is comparable to the classical dark matter model but is **simpler** and **more testable**.
+**Conclusion:** The MT gravity model **successfully explains the NGC 6503 rotation curve**, using only two free parameters with clear physical interpretation. It is comparable to the classical dark matter model, but is **simpler** and **more testable**.
 
 ---
 
 ## NOTE
 
-This document is a **summary of the MT gravity model** including the quantitative model and observational comparison, aligned with the ID system. It is not a complete description of the theory, but a structured outline arising from the conversation between the theory's author and AI. More detailed information on specific aspects (ID1 mechanism, Qn structure, Vertical, dark energy, etc.) is available in other MT documents.
+This document is the **revised version of MT's gravity model**, with the quantitative model and observational comparison included, aligned with the ID system and the revised MATHEMATICS formalism. Detailed information about specific aspects (ID1 mechanics, Qn structure, Vertical, etc.) is available in other MT documents.
 
 ---
 
-*Document prepared: July 2026*
+*Document prepared: July 2026*  
+*Version: 2.0 — revised to eliminate scalar field and flow terminology*
