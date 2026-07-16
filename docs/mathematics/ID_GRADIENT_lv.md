@@ -1,11 +1,32 @@
-# ID GRADĀCIJA — MATRICAS TEORIJAS FORMĀLAIS MODELIS (MT)
-## Stingrā akadēmiskā versija
+# ID GRADĀCIJA UN SISTĒMA — MATRICAS TEORIJAS VERSIJA (MT)
 
-Šis dokuments definē ID (integrācijas dziļuma) diskrēto strukturālo indeksu, tā atkarību no Qn struktūras un Vertikāles enerģijas vienību skaita, kā arī pāreju nosacījumus starp ID līmeņiem.
+Šis dokuments apvieno ID gradācijas matemātisko modeli un ID sistēmas praktisko klasifikāciju. ID ir diskrēts strukturāls indekss, ko nosaka modulācija (cikliskā TE plūsma), lieluma kategorija un papildus parametri pēc nepieciešamības.
 
----
+Modulācija nav objekts. Modulācija ir cikliska TE plūsma, kura maksimāli ietekmē tikai tos objektus, kuri ir modulācijas lielumā. ID norāda, kura modulācija ietekmē objektu.
 
-## 1. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU
+## 1. PAMATFORMĀTS
+
+ID{modulācija}.{lieluma_kategorija}/{parametri_pēc_vajadzības}
+
+Pirmais cipars — modulācija (H+n). Obligāts.
+Otrais cipars — lieluma kategorija. Obligāts. .0 = pamatvienība, .1, .2, ... = nākamie lielumi.
+Aiz "/" — papildus parametri. Nav obligāti. Pievieno pēc nepieciešamības.
+
+Parametri nav piespiedu kārta, bet nepieciešamība. Obligāts sākums ir modulācija un lielums. Pārējais veidojas darba gaitā.
+
+## 2. MODULĀCIJAS UN TO SKALAS
+
+ID-1 — < 10⁻³⁵ m — Vertikāle (enerģijas avots)
+ID0 — 10⁻³⁵ m — Matrica (režģis, TE plūsmas pamats)
+ID1 — 10⁻¹⁵ m — H+1 modulācija
+ID2 — 10⁵ – 10²⁵ m — H+2 modulācija
+ID3 — 10²⁵ – 10⁴⁵ m — H+3 modulācija
+ID4 — 10⁴⁵ – 10⁶⁵ m — H+4 modulācija
+ID5 — > 10⁶⁵ m — H+5 modulācija (atvērts nākotnei)
+
+Katra nākamā modulācija ir 10²⁰ reizes lielāka par iepriekšējo.
+
+## 3. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU
 
 No MATHEMATICS_lv.md tiek izmantoti šādi operatori un lielumi:
 
@@ -18,92 +39,80 @@ No MATHEMATICS_lv.md tiek izmantoti šādi operatori un lielumi:
 | \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformācijas operators |
 | \( \mathcal{P}_{L1} \) | \( \mathcal{V} \to \mathcal{L} \) | L1 projekcijas operators |
 
-**ID definīcija MT:** ID ir diskrēts strukturāls indekss, ko nosaka:
-- objekta Qn slāņa numurs \( n \) (punktu skaits \( N(n) \)),
-- Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni caur \( \mathcal{P}_{L1} \),
-- modulāciju klātbūtne (H+2, H+3, ...), kas nosaka, kuri Qn slāņi ir sasniedzami.
+ID ir diskrēts strukturāls indekss, ko nosaka:
+- modulācija (H+n),
+- Qn slāņa numurs \( n \),
+- Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni caur \( \mathcal{P}_{L1} \).
 
-ID nav nepārtraukts lauks; tas ir objekta organizācijas līmeņa marķieris, kas atbilst diskrētai Qn slāņu secībai.
-
----
-
-## 2. ID GRADĀCIJAS SOLIS — KVANTITATĪVAIS MODELIS
-
-### 2.1. ID solis un Qn struktūra
+## 4. ID GRADĀCIJAS SOLIS — KVANTITATĪVAIS MODELIS
 
 ID solis ir diskrēts un atbilst Qn indeksa pieaugumam:
 
-\[
-\text{ID} = 2.0 + \log_{S} \left( \frac{R}{R_{\text{protona}}} \right)
-\]
+ID = 2.0 + log_S (R / R_protona)
 
 kur:
-- \( R \) — objekta Qn rādiuss (mērāms ID1 soļos),
-- \( R_{\text{protona}} \approx 10^{-10} \, \text{m} \) — protona orbitāles rādiuss (ID2,0 atskaites punkts),
-- \( S \) — solis, ko nosaka Qn slāņu secība.
-
-**S atvasinājums no Qn:**
+- R — objekta Qn rādiuss (mērāms ID1 soļos),
+- R_protona ≈ 10⁻¹⁰ m — protona orbitāles rādiuss (ID1.0 atskaites punkts),
+- S — solis, ko nosaka Qn slāņu secība.
 
 No Qn punktu skaita:
-\[
-N(n) = \frac{(2n+1)(2n^2+2n+3)}{3}
-\]
+N(n) = (2n+1)(2n²+2n+3)/3
 
-Lineārais mērogs \( R \propto n \cdot \lambda_{\text{ID1}} \). Protonam \( n_{\text{protona}} = 1 \). Tātad:
-\[
-\text{ID} = 2.0 + \log_{S}(n)
-\]
+Lineārais mērogs R ∝ n · λ_ID1. Protonam n_protona = 1. Tātad:
+ID = 2.0 + log_S(n)
 
-No Qn slāņu secības \( n = 6, 15, 23, 31, 39, ... \) (skat. MATHEMATICS) iegūst:
-\[
-S \approx 2.5
-\]
+No Qn slāņu secības n = 6, 15, 23, 31, 39, ... iegūst:
+S ≈ 2.5
 
-Tātad galvenais vienādojums:
-\[
-\boxed{\text{ID} = 2.0 + \log_{2.5}(n)}
-\]
+Galvenais vienādojums:
+ID = 2.0 + log_2.5(n)
 
-### 2.2. ID aprēķins monolītiem objektiem
+Vertikāles enerģijas vienību skaits N_V modificē ID vērtību:
 
-Monolīti objekti ir vienota, slēgta TE plūsmas struktūra bez iekšējas daudzobjektu organizācijas.
+ID(n, N_V) = 2.0 + log_2.5(n) + γ_ID · (N_V / N_H0)
 
-| Objekts | Qn indekss \( n \) | ID aprēķins | Rezultāts |
-|---------|-------------------|-------------|-----------|
-| Protons | 1 | \( 2.0 + \log_{2.5}(1) \) | ID2,0 |
-| Zvaigžņu melnais caurums | ~10² | \( 2.0 + \log_{2.5}(100) \approx 2.0 + 5.0 \) | ID3,0 |
-| Supermasīvs melnais caurums | ~10⁴ | \( 2.0 + \log_{2.5}(10^4) \approx 2.0 + 10.0 \) | ID3,5 |
-| Galaktikas centra melnais caurums | ~10⁶ | \( 2.0 + \log_{2.5}(10^6) \approx 2.0 + 15.0 \) | ID3,9 |
+kur γ_ID ≈ 0.05 (no MATHEMATICS un COSMOLOGY). N_V/N_H0 ir Vertikāles un H0 enerģijas vienību skaita attiecība objekta apkārtnē.
 
-*Piezīme:* ID3,9 ir aptuvens — precīzā vērtība atkarīga no Vertikāles enerģijas vienību skaita \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni.
+Augstāks N_V paātrina strukturālo evolūciju reģionos ar augstu Vertikāles enerģijas vienību blīvumu.
 
-### 2.3. Vertikāles enerģijas vienību skaita ietekme uz ID
+## 5. ID SISTĒMAS STRUKTŪRA PA LĪMEŅIEM
 
-Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \) (atbilst \( \rho_{\mathcal{V}} \)) modificē ID vērtību, jo lielāks \( N_{\mathcal{V}} \) paātrina Qn slāņu pārejas:
+ID-1.0 — Vertikāles pamats
+ID-1.n — VEU līmeņi (H-3, H-4, ... H-min)
 
-\[
-\text{ID}(n, N_{\mathcal{V}}) = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{N_{\mathcal{V}}}{N_{\text{H0}}}
-\]
+ID0.0 — iņ–jaņ punkts (fāzes avots, rotācija)
+ID0.n — Qn slānis (n = 1, 2, 3, ... Qmax)
 
-kur \( \gamma_{\text{ID}} \approx 0.05 \) (no MATHEMATICS un COSMOLOGY). \( N_{\mathcal{V}}/N_{\text{H0}} \) ir Vertikāles un H0 enerģijas vienību skaita attiecība objekta apkārtnē.
+ID1.0 — protons
+ID1.1 — atoms (elements / izotops / ...)
+ID1.2 — viela, kristāls, šķidrums (tips / struktūra / ...)
+ID1.3 — molekula (tips / izomērs / ...)
+ID1.4 — makromolekula (tips / struktūra / ...)
 
-Augstāks \( N_{\mathcal{V}} \) (t.i., blīvāka Vertikāles enerģija) palielina ID, t.i., paātrina strukturālo evolūciju reģionos ar augstu Vertikāles enerģijas vienību blīvumu.
+Parametri:
+- elements — Mendeļejeva tabulas numurs (1–118)
+- izotops — masas skaitlis
+- tips / struktūra — tiek definēts pēc nepieciešamības
 
----
+ID2.lielums/orbītu_sk/atmosfēra/pavadonis/...
+Lieluma kategorija norāda zvaigznes masu/izmēru. Parametri apraksta planētu skaitu, atmosfēras klātbūtni, pavadoņu sistēmas un citas sistēmas īpašības.
 
-## 3. KOLEKTĪVIE OBJEKTI — ID2,n KLASE
+ID3.lielums/tips/spins/magnētisms/...
+Lieluma kategorija norāda objekta masu/izmēru. Tips atšķir balto punduri, neitronu zvaigzni, kvarku zvaigzni. Spins un magnētisms apraksta rotācijas un lauka īpašības.
 
-### 3.1. Definīcija
+ID4.lielums/masa/akrēcija/AGN/strūklas/...
+Lieluma kategorija norāda melnā cauruma masas skalu. Masa precizē vērtību Saules masās. Akrēcija, AGN un strūklas apraksta vides organizāciju un aktivitāti.
 
-Kolektīvie objekti ir daudzu monolītu objektu organizācija (zvaigznes, galaktikas, kopas). Tiem nav piemērojama mērogošana no protona; tos klasificē pēc organizācijas līmeņa \( n \):
+ID5.lielums/...
+Atvērts — tiks definēts pēc nepieciešamības.
 
-\[
-\text{ID2,n} = 2.0 + \log_{2.5} \left( \frac{N_{\text{šūnas}}}{N_{\text{protona}}} \right)
-\]
+## 6. KOLEKTĪVIE OBJEKTI — ID2,n KLASE
 
-kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits.
+Kolektīvie objekti ir daudzu monolītu objektu organizācija (zvaigznes, galaktikas, kopas). Tiem nav piemērojama mērogošana no protona; tos klasificē pēc organizācijas līmeņa n:
 
-### 3.2. ID2,n klasifikācija
+ID2,n = 2.0 + log_2.5 (N_šūnas / N_protona)
+
+kur N_šūnas ir kolektīvās organizācijas pamatvienību skaits.
 
 | Objekts | ID2,n | Piezīme |
 |---------|-------|---------|
@@ -114,66 +123,73 @@ kur \( N_{\text{šūnas}} \) ir kolektīvās organizācijas pamatvienību skaits
 | Galaktika | ID2,4 | Sarežģītākā kolektīvā struktūra |
 | Galaktiku kopa | ID2,5 | Augstākā zināmā kolektīvā organizācija |
 
----
-
-## 4. ID PĀREJAS — NOSACĪJUMI UN LAIKA SKALA
+## 7. ID PĀREJAS — NOSACĪJUMI UN LAIKA SKALA
 
 ID pāreja no viena līmeņa uz nākamo notiek, ja ir izpildīti šādi nosacījumi:
 
-1. Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \) objekta apkārtnē pārsniedz kritisko slieksni \( N_{\text{krit}} \):
-   \[
-   N_{\mathcal{V}} > N_{\text{krit}}
-   \]
-2. Qn struktūra atļauj pāreju — nākamais slānis \( n+1 \) ir pieejams.
+1. Vertikāles enerģijas vienību skaits N_V objekta apkārtnē pārsniedz kritisko slieksni N_krit:
+   N_V > N_krit
+
+2. Qn struktūra atļauj pāreju — nākamais slānis n+1 ir pieejams.
+
 3. Modulācijas aktivizē pāreju.
 
 Pārejas laiks:
-\[
-t_{\text{pāreja}} \propto \frac{1}{N_{\mathcal{V}} - N_{\text{krit}}}
-\]
+t_pāreja ∝ 1 / (N_V - N_krit)
 
-### 4.1. Pāreju piemēri
+Pāreju piemēri:
 
 | Pāreja | No | Uz | Aktivizējošais process | Piemērs |
 |--------|----|----|-------------------------|---------|
-| ID2,0 → ID2,1 | Atoms | Molekula | Ķīmiskā saite | H₂ |
-| ID2,1 → ID2,2 | Molekula | Zvaigzne | Gravitācijas kolapss | Zvaigžņu veidošanās |
-| ID2,4 → ID2,5 | Galaktika | Galaktiku kopa | Gravitācijas mijiedarbība | Lokālā grupa |
-| ID3,0 → ID3,1 | Melnais caurums | Aktīvais galaktikas kodols | Vertikāles enerģijas pārplūde | Kvazārs |
+| ID1.0 → ID1.1 | Protons | Atoms | Elektrona pievienošanās | Ūdeņradis |
+| ID1.1 → ID1.2 | Atoms | Viela | Kristalizācija | Dimants |
+| ID1.2 → ID1.3 | Viela | Molekula | Ķīmiskā saite | H₂O |
+| ID1.3 → ID1.4 | Molekula | Makromolekula | Polimerizācija | DNS |
+| ID2.0 → ID2.1 | Brīva planēta | Planēta ar pavadoni | Pavadoņa notveršana | Marss + Foboss |
+| ID2.1 → ID2.2 | Planēta ar pavadoni | Planēta ar atmosfēru | Atmosfēras veidošanās | Venera |
+| ID2.2 → ID2.3 | Planēta ar atmosfēru | Planēta ar atmosfēru un pavadoņiem | Papildu pavadoņi | Zeme + Mēness |
+| ID3.0 → ID3.1 | Baltais punduris | Neitronu zvaigzne | Gravitācijas kolapss | Pulsārs |
+| ID4.0 → ID4.1 | Zvaigžņu melnais caurums | Vidējas masas melnais caurums | Akrēcija | — |
 
----
+## 8. PIEMĒRI
 
-## 5. PĀRBAUDĀMĀS PROGNOZES
+ID1.0 — brīvs protons
+ID1.1/1/1 — ūdeņradis-1
+ID1.1/6/12 — ogleklis-12
+ID1.1/92/238 — urāns-238
+ID1.2/1/1 — dimants
+ID1.3/1/1 — H₂O
+ID1.4/1/1 — DNS
+ID2.5/8/1 — Saules sistēma (8 planētas, 1 apdzīvojama)
+ID2.3/4/0 — zvaigzne ar 4 planētām, bez atmosfēras un pavadoņiem
+ID3.1/0 — baltais punduris
+ID3.2/1 — pulsārs
+ID4.1/0 — zvaigžņu melnais caurums bez akrēcijas
+ID4.3/2 — supermasīvs melnais caurums ar akrēcijas disku
+ID4.3/2/1 — supermasīvs melnais caurums ar akrēcijas disku un strūklām
+
+## 9. PĀRBAUDĀMĀS PROGNOZES
 
 | Prognoze | Vienādojums | Pārbaudes metode |
 |----------|------------|------------------|
-| ID atkarība no \( N_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}} \) | Melno caurumu masu salīdzinājums |
-| ID pārejas laiks | \( t_{\text{pāreja}} \propto 1/(N_{\mathcal{V}} - N_{\text{krit}}) \) | AGN aktivitātes periodiskums |
-| ID2,n un galaktiku tips | \( \text{ID2,n} = 2.0 + \log_{2.5}(N_{\text{zvaigznes}}/N_{\text{protona}}) \) | Galaktiku morfoloģija |
-| Maksimālais ID3,n | \( n_{\text{max}} \propto N_{\mathcal{V}}^{(0)}/N_{\text{H0}} \) | Maksimālā melnā cauruma masa |
+| ID atkarība no N_V | ID = 2.0 + log_2.5(n) + 0.05 · N_V/N_H0 | Melno caurumu masu salīdzinājums |
+| ID pārejas laiks | t_pāreja ∝ 1/(N_V - N_krit) | AGN aktivitātes periodiskums |
+| ID2,n un galaktiku tips | ID2,n = 2.0 + log_2.5(N_zvaigznes/N_protona) | Galaktiku morfoloģija |
+| Maksimālais ID3,n | n_max ∝ N_V⁽⁰⁾/N_H0 | Maksimālā melnā cauruma masa |
 
----
+## 10. PAPILDINĀŠANAS NOTEIKUMI
 
-## 6. SALĪDZINĀJUMS AR KLASISKO HIERARHIJU
+1. Parametrus pievieno tikai pēc vajadzības.
+2. Parametru skaits nav ierobežots.
+3. Katrs nākamais .n satur iepriekšējos sevī.
+4. Sistēmu var papildināt un precizēt, teorijai attīstoties.
 
-| Klasiskā klasifikācija | MT ID | Piezīme |
-|------------------------|-------|---------|
-| Elementārdaļiņa | ID2,0 | Protons (atskaites punkts) |
-| Atoms | ID2,0 | Viens protons + elektrons |
-| Molekula | ID2,1 | Vairāki atomi |
-| Zvaigzne | ID2,2 | Kolektīva TE organizācija |
-| Galaktika | ID2,4 | Augstākā kolektīvā organizācija |
-| Melnais caurums | ID3,0+ | Monolīts, smalkāks par protonu |
+## 11. PAMATPRINCIPS
 
----
+1. Pirmais cipars = modulācija (obligāts)
+2. Otrais cipars = lieluma kategorija (obligāts)
+3. Viss pārējais aiz "/" = pēc vajadzības (nav obligāts)
 
-## 7. SECINĀJUMI
+ID sistēma ir sākums, nevis beigas. Tās pilnveide notiks darba gaitā.
 
-1. ID ir diskrēts strukturāls indekss:  
-   \[
-   \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot N_{\mathcal{V}}/N_{\text{H0}}
-   \]
-2. ID soli nosaka Qn slāņu secība ar soli \( S \approx 2.5 \).
-3. Augstāks \( N_{\mathcal{V}} \) paātrina ID pārejas.
-4. Kolektīvie objekti pieder ID2,n klasei.
-5. ID pārejas ir kvantitatīvi prognozējamas.
+Dokuments sagatavots: 2026. gada jūlijā
