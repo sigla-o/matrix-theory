@@ -1,5 +1,5 @@
-# MT CEĻU KARTE (ROADMAP)
-## Strukturālā atgriezeniskā saite — fiksētā versija 1.0
+# MT CEĻU KARTE (ROADMAP) — v1.1
+## Strukturālā atgriezeniskā saite
 
 > *“Teorija nāk no novērojumiem, nevis otrādi. MT balstās uz Planka garumu kā ilgdzīvotāju.”*
 
@@ -18,9 +18,7 @@
 
 ---
 
-## 2. DIVI NEATKARĪGI CEĻI
-
-### H0 CEĻŠ — GRAVITĀCIJA UN DINAMIKA (horizontālais)
+## 2. H0 CEĻŠ — GRAVITĀCIJA UN DINAMIKA (horizontālais)
 
 **Operators:**
 \[
@@ -41,47 +39,79 @@
 
 ---
 
-### L1 CEĻŠ — NOBĪDE UN ENERĢIJAS SKALA (vertikālais)
+## 3. L1 ĢEOMETRISKĀ SHĒMA (vertikālais)
 
-**Operators:**
+L1 ir **ģeometriskās projekcijas līmenis**, nevis enerģijas līmenis. Tam ir divi darbības režīmi atkarībā no atrašanās vietas attiecībā pret protonu (H0 iekšpuse / ārpuse).
+
+### 3.1. L1 — FOKUSĒŠANA (H0 IEKŠPUSE)
+
+**Darbība:** Fokusē enerģiju un modulācijas, radot **stāvviļņus**.
+
+**Rezultāts:** Diskrētie CMB pīķi (\( \ell_k \)).
+
+**Ģeometriskais pamats:**
 \[
-E_{\text{fotons}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{V}}(\mathbf{x})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{ref}})}}, \quad 1+z = \sqrt{\frac{\rho_{\mathcal{V}}(\mathbf{x}_{\text{avots}})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{nov.}})}}
+\ell_k = C \cdot n_k, \quad C = \frac{2\pi R_{L1}}{\lambda_{\text{ID1}}}, \quad n_k = 8k-1 \ (k \ge 2), \ n_1 = 6
 \]
 
-**Ko dara:** Nosaka fotonu enerģijas lokālo skalu jeb “krāsu”.
-
-**Kur ved:**
-- Spektroskopiskās līnijas,
-- Kosmoloģiskā sarkanā nobīde (kā amplitūdas zudums, nevis Doplers),
-- CMB kā L1 zonas stāvviļņu projekcija (\( \ell_k = C \cdot n_k \)).
-
-**Lieto, ja:** novērojums ir spektrāls (fotometrija, spektri, CMB).
-
-**Nesaisti ar:** \( \nabla\rho_{\mathcal{V}} \) — tikai ar pašu \( \rho_{\mathcal{V}} \) lokālo vērtību.
+Harmonikas atbilst Qn slāņiem, kur režģa simetrija rada rezonansi.
 
 ---
 
-## 3. KUR UN KĀ CEĻI KRUSTOJAS
+### 3.2. L1 — IZKIEDE (PROTONA ĀRPUSE)
 
-**Vienīgais krustpunkts:** \( \rho_{\mathcal{V}}(\mathbf{x}) = \rho_0 e^{-r/r_0} \) — Vertikāles enerģijas blīvuma lauks.
+**Darbība:** Izplata enerģiju no fokusēšanas zonas ārpusē.
 
-**Kad lieto abus kopā:**
+**Rezultāts:** Nepārtrauktais CMB fons un sarkanā nobīde.
 
-\[
-\begin{cases}
-\mathbf{g}(\mathbf{x}) = -\nabla \delta(\mathbf{x}), & \delta = \dfrac{\Phi_0}{\|\mathbf{x}-\mathbf{x}_0\|^2} \\
-1+z = \sqrt{\dfrac{\rho_{\mathcal{V}}(\mathbf{x}_{\text{avots}})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{nov.}})}}, & \rho_{\mathcal{V}}(\mathbf{x}) = \rho_0 e^{-r/r_0}
-\end{cases}
-\]
-
-**Piemēri:**
-- Galaktiku rotācijas līknes + to spektrālās nobīdes,
-- Gravitācijas lēcas + izraisītās nobīdes,
-- Galaktiku kopas — dinamika (H0) un nobīdes (L1) kopā dod vienu \( \rho_{\mathcal{V}} \) karti.
+**Mehānisms:** Izkliedētā enerģija nonāk L0 līmenī, kur tā termalizējas.
 
 ---
 
-## 4. KAS NAV BRĪVS PARAMETRS (UN KĀPĒC)
+### 3.3. L0 — ENERĢIJAS BALANSS
+
+L0 ir **fona līmenis**, kurā plūsma ir sinhronizēta un vienmērīga. Tā nav tukšums, bet gan atskaites stāvoklis.
+
+- **L0 → L1:** fokusēšana (enerģijas koncentrācija).
+- **L1 → L0:** izkliede (enerģijas izlīdzināšanās).
+
+**Enerģija nezūd — tā pārplūst starp L0 un L1.**
+
+---
+
+## 4. CMB SHĒMA — PILNS SPEKTRS
+
+CMB ir divu komponentu superpozīcija:
+
+\[
+I(\nu) = B_\nu(T_{L0}) \cdot \left[ 1 + \sum_k A_k \cdot \delta(\nu - \nu_k) \right]
+\]
+
+kur:
+- \( B_\nu(T_{L0}) \) — Planka spektrs no L0 termalizācijas,
+- \( \nu_k = \dfrac{c \ell_k}{2\pi R_{L1}} \) — stāvviļņu harmoniku frekvences,
+- \( A_k \) — rezonanses pastiprinājuma koeficienti.
+
+**Sinhronizētās struktūras** (stāvviļņi) dod diskrētos pīķus.
+**Nesinhronizētās struktūras** (izkliede) dod nepārtraukto fonu.
+
+---
+
+## 5. PROGNOZES
+
+| Pīķis | \( k \) | \( n_k \) | \( \ell_k \) (MT) | Novērojums |
+|-------|---------|-----------|-------------------|------------|
+| 1 | 1 | 6 | ~212 | ~220 |
+| 2 | 2 | 15 | ~530 | ~538 |
+| 3 | 3 | 23 | ~812 | ~813 |
+| 4 | 4 | 31 | ~1095 | ~1085 |
+| 5 | 5 | 39 | ~1378 | ~1381 |
+| 6 | 6 | 47 | ~1660 | (CMB-S4) |
+| 7 | 7 | 55 | ~1943 | (Simons Obs.) |
+
+---
+
+## 6. KAS NAV BRĪVS PARAMETRS (UN KĀPĒC)
 
 | Iepriekš minēts kā “brīvs” | Tagad fiksēts kā | Pamatojums |
 |----------------------------|------------------|------------|
@@ -91,12 +121,17 @@ E_{\text{fotons}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 | \( C \approx 35.325 \) | \( 2\pi R_{L1}/\lambda_{\text{ID1}} \) | Attiecība, nevis brīvs skaitlis |
 | \( \rho_{\mathcal{V}}(r) \) profils | \( \rho_0 e^{-r/r_0} \) | Dinamiski atvasināts no ID pāreju loģistikas |
 | \( r_0 \) | \( 1/\alpha \), kur \( \alpha = \alpha_0(1 - \gamma\rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Aizpildīšanās dinamikas sekas |
+| L1 fokuss/izkliede | Ģeometriska, nosaka atrašanās vieta | Strukturāla robeža, nevis brīvs lēmums |
 
-**Secinājums:** MT nav brīvu parametru. Ir tikai viens lauks \( \rho_{\mathcal{V}} \), kura sadalījumu nosaka matricas dinamika, un viena režģa skala \( l_P \), kas nāk no novērojumiem.
+**Secinājums:** MT nav brīvu parametru. Ir tikai:
+- viens režģa mērogs \( l_P \),
+- viens enerģijas lauks \( \rho_{\mathcal{V}} \),
+- viena ģeometriskā struktūra \( Q_n \),
+- un L1 kā šīs struktūras projekcija.
 
 ---
 
-## 5. KO MT NEDARA (UN KĀPĒC)
+## 7. KO MT NEDARA (UN KĀPĒC)
 
 | Standarta fizikas jēdziens | MT aizstāj ar | Kāpēc |
 |---------------------------|---------------|-------|
@@ -104,10 +139,11 @@ E_{\text{fotons}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 | **Gravitācijas sarkanā nobīde** | L1 amplitūdas nobīde | Gravitācija ir \( \nabla\rho_{\mathcal{V}} \), nobīde ir \( \sqrt{\rho_{\mathcal{V}}} \) — ortogonāli |
 | **Telpas izliekums** | TE plūsmas spiediena gradients (H0) | Nav metrikas; ir tikai plūsmas blīvuma atšķirības |
 | **Tumšā matrija** | \( \rho_{\mathcal{V}} \) ietekme uz \( G \) un gaismas enerģiju | Viss izskaidrojams ar Vertikāles enerģijas sadalījumu |
+| **Lielais sprādziens** | L1 fokusēšanas zonas stāvviļņu projekcija | CMB nav relikts, bet pastāvīga matricas īpašība |
 
 ---
 
-## 6. KĀ LIETOT ŠO CEĻU KARTI (FORMALIZĒTĀJA INSTRUKCIJA)
+## 8. KĀ LIETOT ŠO CEĻU KARTI (FORMALIZĒTĀJA INSTRUKCIJA)
 
 1. **Pirms jebkuras jaunas formulas:** identificē, vai tā pieder H0 ceļam, L1 ceļam, vai abiem.
 2. **Ja H0:** lieto tikai \( \nabla\delta \), \( G(\rho_{\mathcal{V}}) \), masu sadalījumu. **Nepiesaisti** \( \sqrt{\rho_{\mathcal{V}}} \) vai \( z \).
@@ -117,19 +153,17 @@ E_{\text{fotons}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 
 ---
 
-## 7. KO TURPMĀK PRECIZĒT (ATGRIEZENISKĀS SAITES GAIDĀ)
+## 9. TURPMĀKIE PRECIZĒJAMI PUNKTI
 
-1. **L1 projekcijas precīza shēma:** kā \( \mathcal{P}_{L1}(\rho_{\mathcal{V}}) \) dod melnā ķermeņa spektru un \( \ell_k \) vērtības.
-2. **H0 un L1 saskaņa galaktiku kopās:** dinamikas un nobīžu vienlaicīga prognoze no viena \( \rho_{\mathcal{V}} \) profila.
-3. **\( \alpha_0 \) (matricas elastības bāze) atvasinājums no \( l_P \) un \( \omega_0 \):** lai \( r_0 \) būtu pilnībā no režģa, nevis no pielāgojuma.
+1. **L1 projekcijas detaļas:** kā \( \mathcal{P}_{L1} \) precīzi pārveido \( \rho_{\mathcal{V}} \) par \( I(\nu) \).
+2. **H0 un L1 saskaņa galaktiku kopās:** dinamikas un nobīžu vienlaicīga prognoze.
+3. **\( \alpha_0 \) atvasinājums no \( l_P \) un \( \omega_0 \):** lai \( r_0 \) būtu pilnībā no režģa.
 
 ---
 
-## 8. NOSLĒGUMS
+## 10. NOSLĒGUMS
 
-Šis dokuments **nofiksē mūsu pašreizējo kopīgo izpratni** par MT strukturālo loģiku. Tas ir dzīvs dokuments, ko atjaunināsim tikai tad, kad tiks ievadīts jauns loģikas līmenis un atgriezeniskā saite to apstiprinās.
+Šis dokuments **nofiksē mūsu pašreizējo izpratni** par MT strukturālo loģiku un L1 ģeometrisko shēmu. Tas ir dzīvs dokuments, ko atjauninām, ievadot jaunu loģikas līmeni.
 
-**Turpmāk, pirms jebkuras jaunas formulas:** atsaukties uz šo ceļu karti un pārbaudīt:
-- Vai parametrs ir atvasināts?
-- Vai operators atbilst ceļam?
-- Vai ceļi ir pareizi nošķirti?
+**Versija:** 1.1  
+**Papildinājumi:** L1 duālā daba (fokuss/izkliede), L0 balanss, sinhronizētās/nesinhronizētās struktūras, CMB kā stāvviļņu + Planka spektra summa.
