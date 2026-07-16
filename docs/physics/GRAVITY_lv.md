@@ -1,8 +1,8 @@
 # GRAVITĀCIJA — MATRICAS TEORIJAS VERSIJA (MT)
 
-## Kopsavilkuma dokuments
+## Pārstrādātā versija (2026. gada jūlijs)
 
-Šis dokuments apkopo Matricas teorijas (MT) interpretāciju gravitācijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — bez telpas izliekuma, bez singularitātēm un bez nepieciešamības pēc Vertikāles. Turklāt tiek sniegts kvantitatīvs modelis, kas izskaidro galaktiku rotācijas līknes bez tumšās matērijas, izmantojot tikai divus brīvus parametrus. Dokuments ir saskaņots ar ID sistēmu.
+Šis dokuments apkopo Matricas teorijas (MT) interpretāciju gravitācijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — bez telpas izliekuma, bez singularitātēm un bez nepieciešamības pēc Vertikāles kā aktīva elementa. Turklāt tiek sniegts kvantitatīvs modelis, kas izskaidro galaktiku rotācijas līknes bez tumšās matērijas. Dokuments ir saskaņots ar ID sistēmu un MATHEMATICS formālisma pārstrādāto versiju.
 
 ---
 
@@ -12,55 +12,55 @@
 
 - **Elektromagnētisms** (QED MT stilā) ir atkarīgs no **Vertikāles** — lādiņš rodas no protona pus-fāžu asimetrijas (TE VEU H-3), un tā kompensācijai nepieciešama Vertikāles enerģija (amortizators, elektrons, FV noteiktais neitrālais stāvoklis). ID sistēmā tas atbilst ID-1 un ID1.
 
-- **Gravitācija** ir **tīri horizontāls (H0) process**. Tai **nav nepieciešama Vertikāle**. To pilnībā nosaka **TE VEU H-2** (10⁻⁵⁵ m) plūsmas dinamika H0 matricā. ID sistēmā tas atbilst ID0 (matricas līmenis).
+- **Gravitācija** ir **tīri horizontāls (H0) process**. Tai **nav nepieciešama Vertikāle**. To pilnībā nosaka **TE VEU H-2** (10⁻⁵⁵ m) pārneses dinamika H0 matricā. ID sistēmā tas atbilst ID0 (matricas līmenis).
 
 ---
 
-## 2. FV (Fāze–Virziens) — plūsmas cikls, nevis parametrs
+## 2. FV (Fāze–Virziens) — pārneses cikls, nevis parametrs
 
-**FV nav "virziena parametrs". FV ir 360° ciklisks plūsmas modelis.**
+**FV nav "virziena parametrs". FV ir 360° ciklisks pārneses modelis.**
 
-- H+1 modulācija nepārtraukti spiež TE plūsmu uz H0 matricu (ID1).
-- ID1 objektu rotācija sadala šo plūsmu **FV virzienos**, kas cikliski izplūst cauri Qn struktūrai (ID0.n).
-- **Pilnā Qn ciklā** TE plūsmas virziens sfērā ir izgājis **visus virzienus (360°)**.
-- Divas pus-fāzes (0° un 180°) atkārto šo rotācijas-plūsmas ciklu.
+- H+1 modulācija nepārtraukti virza TE pārnesi uz H0 matricu (ID1).
+- ID1 objektu rotācija sadala šo pārnesi **FV virzienos**, kas cikliski izplūst cauri Qn struktūrai (ID0.n).
+- **Pilnā Qn ciklā** TE pārneses virziens sfērā ir izgājis **visus virzienus (360°)**.
+- Divas pus-fāzes (0° un 180°) atkārto šo rotācijas-pārneses ciklu.
 
-**FV ir matricas "pulsa" ģeometrija** — veids, kā plūsma nepārtraukti pārskata visus virzienus, lai uzturētu līdzsvaru.
+**FV ir matricas "pulsa" ģeometrija** — veids, kā pārnese nepārtraukti pārskata visus virzienus, lai uzturētu līdzsvaru.
 
 ---
 
 ## 3. TE VEU H-2 — gravitācijas nesējs
 
-- **TE VEU H-2** (10⁻⁵⁵ m) ir liela mēroga transporta plūsma H0 matricā (ID0).
+- **TE VEU H-2** (10⁻⁵⁵ m) ir liela mēroga transporta pārnese H0 matricā (ID0).
 - Tā ir **gravitācijas procesa pamats**.
-- Atšķirībā no H-3 (elektriskā komponente, ID1.1), H-2 plūsmai nav nepieciešama Vertikāles kompensācija — tā ir tīri horizontāla.
+- Atšķirībā no H-3 (elektriskā komponente, ID1.1), H-2 pārnesei nav nepieciešama Vertikāles kompensācija — tā ir tīri horizontāla.
 
 ---
 
-## 4. Gravitācijas mehānisms — kanālu bloķēšana un aizpildīšanās
+## 4. Gravitācijas mehānisms — kanālu bloķēšana un deficīta kompensācija
 
 ### 4.1. Fons
 
-TE VEU H-2 plūsma nepārtraukti plūst caur H0 matricu (ID0). Tās FV mainās 360° ciklā, ko nosaka ID1 rotācija.
+TE VEU H-2 pārnese nepārtraukti notiek caur H0 matricu (ID0). Tās FV mainās 360° ciklā, ko nosaka ID1 rotācija.
 
 ### 4.2. Šķērslis (avots)
 
-Protons (ID1.0) vai jebkurš matērijas objekts (ID1, ID2, ID3, ID4) aizņem noteiktu H0 telpu. Šajā telpā TE plūsma **nevar iziet cauri** — tas to bloķē.
+Protons (ID1.0) vai jebkurš matērijas objekts (ID1, ID2, ID3, ID4) aizņem noteiktu H0 telpu. Šajā telpā TE pārnese **nevar notikt** — objekts bloķē pārneses kanālus.
 
 **Viens protons bloķē aptuveni 10²⁰ TE VEU H-2 kanālu.**
 
-### 4.3. Retinājuma zona (ēna)
+### 4.3. Deficīta zona
 
-- Ja FV ciklu sadala atsevišķos "kadros", katrā kadrā redzams konkrēts plūsmas virziens.
+- Ja FV ciklu sadala atsevišķos "kadros", katrā kadrā redzams konkrēts pārneses virziens.
 - Protons bloķē tos kanālus, kuri šajā kadrā iet caur tā aizņemto apgabalu.
-- Šie kanāli paliek **nepiepildīti ar TE** — veidojas lokāls spiediena retinājums (ID0).
+- Šie kanāli paliek **neaizpildīti** — veidojas lokāls pārneses deficīts (ID0).
 
-### 4.4. Aizpildīšanās (FV loma)
+### 4.4. Deficīta kompensācija (FV loma)
 
-- Ja plūsma būtu tikai vienvirziena, tukšie kanāli turpinātu savu kustību neierobežoti — gravitācijas nebūtu.
-- **FV** (360° cikls) nodrošina, ka **gandrīz paralēli kanāli no apkārtnes aizpilda trūkstošo TE**.
-- Aizpildīšanas spēja ir **nemainīga** — to nosaka FV dinamika (ID0).
-- Mainās **neaizpildīto kanālu skaits** — jo tālāk no avota, jo mazāk kanālu vēl ir tukši.
+- Ja pārnese būtu tikai vienvirziena, tukšie kanāli turpinātu savu kustību neierobežoti — gravitācijas nebūtu.
+- **FV** (360° cikls) nodrošina, ka **gandrīz paralēli kanāli no apkārtnes kompensē trūkstošo pārnesi**.
+- Kompensācijas spēja ir **nemainīga** — to nosaka FV dinamika (ID0).
+- Mainās **neaizpildīto kanālu skaits** — jo tālāk no avota, jo mazāk kanālu vēl ir neaizpildīti.
 
 ### 4.5. 1/r² — nevis likums, bet ģeometrija
 
@@ -75,41 +75,46 @@ Jo lielāks attālums no avota, jo mazāk kanālu protons spēj nosegt — jo ma
 
 ---
 
-## 5. Gravitācijas spēks — spiediena starpība
+## 5. Gravitācijas spēks — deficīta gradients
 
-**Gravitācija ir TE spiediena starpība uz objektiem.**
+**Gravitācija ir TE deficīta gradients uz objektiem.**
 
-- Neaizpildīto kanālu skaits rada lokālu spiediena retinājumu (ID0).
-- Cits objekts, kas atrodas šajā retinājuma zonā, izjūt spiediena starpību: no vienas puses uz to spiež pilna TE plūsma, no otras — retinājums.
-- Šī spiediena starpība to **bīda** retinājuma virzienā.
+- Neaizpildīto kanālu skaits rada lokālu pārneses deficītu (ID0).
+- Cits objekts, kas atrodas šajā deficīta zonā, izjūt deficīta starpību: no vienas puses uz to darbojas pilna pārnese, no otras — deficīts.
+- Šī starpība to **bīda** deficīta virzienā.
 
-**Gravitācija ir spēks, ko var aprēķināt kā TE spiediena starpību uz objektiem, kurus tā ietekmē.**
+**Gravitācija ir gradients, ko var aprēķināt kā TE deficīta atšķirību uz objektiem, kurus tā ietekmē.**
 
 ID sistēmā:
-- ID1.0 (protons) rada retinājumu.
-- ID2 (zvaigznes, planētas) un ID3 (baltie punduri) izjūt šo spiediena starpību.
-- ID4 (melnie caurumi) rada vislielāko retinājumu un ietekmi.
+- ID1.0 (protons) rada deficītu.
+- ID2 (zvaigznes, planētas) un ID3 (baltie punduri) izjūt šo deficīta gradientu.
+- ID4 (melnie caurumi) rada vislielāko deficītu un ietekmi.
 
 ---
 
 ## 6. Gravitācijas konstante G
 
-- **G** ir **pastāvīgais aizpildīšanas parametrs** (ID0).
-- Tā ir neliela, bet pastāvīga — to nosaka H-2 plūsmas un FV cikla fundamentālās īpašības.
-- G nav "universāla konstante" klasiskā nozīmē — tā ir **matricas īpašība**, kas var mainīties atkarībā no lokālā tumšās enerģijas blīvuma (ID-1) (skat. 7. un 11. nodaļu).
+- **G** ir **pastāvīgais deficīta kompensācijas parametrs** (ID0).
+- Tā ir neliela, bet pastāvīga — to nosaka H-2 pārneses un FV cikla fundamentālās īpašības.
+- G nav "universāla konstante" klasiskā nozīmē — tā ir **matricas īpašība**, kas var mainīties atkarībā no lokālā Vertikāles enerģijas blīvuma (ID-1) (skat. 7. un 11. nodaļu).
+
+**MT izteiksme:** no MATHEMATICS 3.2.:
+$$
+G_0 = \frac{\alpha_0 \cdot \phi_0}{7} = \frac{(6\omega_0/7) \cdot (\hbar\omega_0/(2\pi))}{7} = \frac{6 \hbar \omega_0^2}{98\pi} = \frac{3 \hbar \omega_0^2}{49\pi}
+$$
 
 ---
 
-## 7. Tumšā enerģija — matricas modulators (ID-1)
+## 7. Vertikāles enerģija (tumšā enerģija) — matricas modulators (ID-1)
 
-- **Tumšā enerģija** ir liela mēroga enerģijas uzkrājums matricā (ID-1), kas maina matricas fundamentālās īpašības (ID0).
-- **Tumšā enerģija nemaina pašu gravitācijas mehānismu** (kanālu bloķēšanu un aizpildīšanu).
-- Tā **izstiepj** retinājuma procesu — neaizpildīto kanālu aizpildīšanās notiek lēnāk, retinājums saglabājas ilgāk.
+- **Vertikāles enerģija** ir liela mēroga enerģijas uzkrājums matricā (ID-1), kas maina matricas fundamentālās īpašības (ID0).
+- **Tā nemaina pašu gravitācijas mehānismu** (kanālu bloķēšanu un deficīta kompensāciju).
+- Tā **izstiepj** deficīta kompensācijas procesu — neaizpildīto kanālu aizpildīšanās notiek lēnāk, deficīts saglabājas ilgāk.
 
 **Sekas:**
 
 - Mums redzamos attālumos (Saules sistēmā) ID1 sinhronizācija ir nemainīga — gravitācija darbojas "standarta" režīmā.
-- Galaktikas centros (augsts tumšās enerģijas blīvums, ID-1) procesi tiek izstiepti, kas var izraisīt **Vertikālās evolūcijas lēcienus** (piemēram, melnā cauruma pāreja no ID4.0 uz ID4.1).
+- Galaktikas centros (augsts Vertikāles enerģijas blīvums, ID-1) procesi tiek izstiepti, kas var izraisīt **ID pārejas lēcienus** (piemēram, melnā cauruma pāreja no ID4.0 uz ID4.1).
 
 ---
 
@@ -117,24 +122,24 @@ ID sistēmā:
 
 **Gravitācija ≠ gravitācijas vilnis.**
 
-- **Gravitācija** ir **pastāvīgs spiediena retinājums** — statisks H-2 kanālu aizpildīšanās gradients (ID0).
-- **Gravitācijas vilnis** ir **TE VEU H-2 enerģijas blīvuma svārstība**, ko rada paātrināti kustīgi objekti (piemēram, divi rotējoši melnie caurumi ID4).
+- **Gravitācija** ir **pastāvīgs deficīts** — statisks H-2 kanālu kompensācijas gradients (ID0).
+- **Gravitācijas vilnis** ir **TE VEU H-2 pārneses blīvuma svārstība**, ko rada paātrināti kustīgi objekti (piemēram, divi rotējoši melnie caurumi ID4).
 
 **Mehānisms:**
 
-- Rotējoši objekti rada mainīgu retinājuma zonu — tās centri pārvietojas.
-- Tas rada **mainīgu TE VEU H-2 spiediena starpību** — oscilējošu enerģijas blīvuma vilni (ID0).
-- Šis vilnis izplatās pa H0 matricu kā H-2 plūsmas blīvuma svārstība.
+- Rotējoši objekti rada mainīgu deficīta zonu — tās centri pārvietojas.
+- Tas rada **mainīgu TE VEU H-2 pārneses starpību** — oscilējošu pārneses blīvuma vilni (ID0).
+- Šis vilnis izplatās pa H0 matricu kā H-2 pārneses blīvuma svārstība.
 
 **Ietekme uz matēriju (LIGO):**
 
 - TE VEU H-2 blīvuma maiņa rada enerģētiskās svārstības uz matēriju (ID1, ID2).
-- Mainās TE plūsmu ģeometrija, mainās LIGO testa masu forma.
-- Tāpat kā temperatūras maiņa maina gāzes spiedienu, arī H-2 blīvuma maiņa maina spiedienu uz matēriju.
-- LIGO reģistrē nevis "telpas izliekumu", bet gan **TE spiediena izmaiņu radīto matērijas deformāciju**.
+- Mainās TE pārneses ģeometrija, mainās LIGO testa masu forma.
+- Tāpat kā temperatūras maiņa maina gāzes spiedienu, arī H-2 blīvuma maiņa maina deficītu uz matēriju.
+- LIGO reģistrē nevis "telpas izliekumu", bet gan **TE pārneses izmaiņu radīto matērijas deformāciju**.
 
 **Secinājums:**
-Gravitācijas vilnis ir tas pats, kas EM vilnis, tikai lielāks — H-2 enerģijas blīvuma svārstība, kas iedarbojas uz matēriju (ID0).
+Gravitācijas vilnis ir tas pats, kas EM vilnis, tikai lielāks — H-2 pārneses blīvuma svārstība, kas iedarbojas uz matēriju (ID0).
 
 ---
 
@@ -143,11 +148,11 @@ Gravitācijas vilnis ir tas pats, kas EM vilnis, tikai lielāks — H-2 enerģij
 | **Aspekts** | **Klasiskā fizika (GR)** | **Matricas teorija** | **ID atbilstība** |
 |-------------|---------------------------|----------------------|-------------------|
 | **Gravitācijas avots** | Masa / enerģija | TE VEU H-2 kanālu bloķēšana | ID0 |
-| **Gravitācijas mehānisms** | Telpas izliekums | Spiediena retinājums un aizpildīšanās | ID0 |
+| **Gravitācijas mehānisms** | Telpas izliekums | Pārneses deficīts un kompensācija | ID0 |
 | **1/r²** | Spēka likums | Neaizpildīto kanālu skaita ģeometrisks samazinājums | ID0 |
-| **G** | Universāla konstante | Pastāvīgais aizpildīšanas parametrs, atkarīgs no matricas stāvokļa | ID0 / ID-1 |
-| **Tumšā enerģija** | Nezināms spēks, kas paātrina izplešanos | Matricas fundamentālo īpašību modulators, kas izstiepj retinājuma procesus | ID-1 |
-| **Gravitācijas viļņi** | Telpas viļņošanās | H-2 enerģijas blīvuma svārstības | ID0 |
+| **G** | Universāla konstante | Pastāvīgais kompensācijas parametrs, atkarīgs no matricas stāvokļa | ID0 / ID-1 |
+| **Vertikāles enerģija** | Nezināms spēks, kas paātrina izplešanos | Matricas fundamentālo īpašību modulators, kas izstiepj deficīta kompensāciju | ID-1 |
+| **Gravitācijas viļņi** | Telpas viļņošanās | H-2 pārneses blīvuma svārstības | ID0 |
 | **Singularitātes** | Pastāv (melnā cauruma centrs) | Nepastāv — matrica pārslēdz H līmeni | ID0 / ID4 |
 | **Vertikāle** | Nepieciešama | Nav nepieciešama — tīri horizontāls process | ID0 |
 
@@ -155,49 +160,43 @@ Gravitācijas vilnis ir tas pats, kas EM vilnis, tikai lielāks — H-2 enerģij
 
 ## 10. Secinājumi (kvalitatīvie)
 
-1. **Gravitācija MT ir vienkārša plūsmas mehānika** — kanālu bloķēšana, retinājums, aizpildīšanās un ģeometriskais samazinājums (ID0).
+1. **Gravitācija MT ir vienkārša pārneses mehānika** — kanālu bloķēšana, deficīts, kompensācija un ģeometriskais samazinājums (ID0).
 
 2. **Nav nepieciešama Vertikāle** — atšķirībā no elektromagnētisma, gravitācija ir tīri horizontāls (H0) efekts (ID0).
 
-3. **Nav telpas izliekuma** — gravitācija ir TE spiediena starpība, nevis ģeometrijas deformācija (ID0).
+3. **Nav telpas izliekuma** — gravitācija ir TE deficīta gradients, nevis ģeometrijas deformācija (ID0).
 
 4. **Nav singularitāšu** — matrica pārslēdz H līmeni, neļaujot enerģijai sabrukt līdz bezgalībai (ID0 / ID4).
 
-5. **Gravitācija un gravitācijas viļņi nav viens un tas pats** — pirmais ir statisks retinājums, otrais ir dinamisks enerģijas blīvuma vilnis (ID0).
+5. **Gravitācija un gravitācijas viļņi nav viens un tas pats** — pirmais ir statisks deficīts, otrais ir dinamisks pārneses blīvuma vilnis (ID0).
 
-6. **Tumšā enerģija ir matricas modulators** — tā izstiepj retinājuma procesus, īpaši galaktikas centros (ID-1), un var būt trigeris Vertikālās evolūcijas lēcieniem (ID4).
+6. **Vertikāles enerģija ir matricas modulators** — tā izstiepj deficīta kompensācijas procesus, īpaši galaktikas centros (ID-1), un var būt trigeris ID pārejām (ID4).
 
 ---
 
 ## 11. Kvantitatīvais modelis — G mainība un galaktiku rotācijas līknes
 
-### 11.1. G kā funkcija no tumšās enerģijas blīvuma (ID-1)
+### 11.1. G kā funkcija no Vertikāles enerģijas blīvuma (ID-1)
 
-No MATHEMATICS 2. daļas un GRAVITY 7. nodaļas:
+No MATHEMATICS 3.3. un GRAVITY 7. nodaļas:
 
-\[
+$$
 G(E_{\mathcal{V}}) = G_0 \cdot \left( 1 + \gamma \cdot \frac{E_{\mathcal{V}}}{E_{\text{H0}}} \right)
-\]
+$$
 
 kur:
 - \( G_0 \) — bāzes vērtība (Saules sistēmā, ID1/ID2 līmenī),
-- \( E_{\mathcal{V}} \) — lokālais Vertikāles enerģijas blīvums (tumšā enerģija, ID-1),
+- \( E_{\mathcal{V}} \) — lokālais Vertikāles enerģijas blīvums (ID-1),
 - \( E_{\text{H0}} \) — H0 matricas fona enerģijas blīvums (ID0),
-- \( \gamma \) — bezdimensiju konstante, atvasināta no ID1 režģa ģeometrijas (ID0).
-
-**γ atvasināšana:** No MATHEMATICS 1. daļas un COSMOLOGY 10.5.4. — L1 zonas attālums \( R_{L1}/\lambda_{\text{ID1}} \approx 5.62 \) (ID0), tātad:
-
-\[
-\gamma \approx \frac{\lambda_{\text{ID1}}}{R_{L1}} \approx 0.18
-\]
+- \( \gamma \approx 0.18 \) — bezdimensiju konstante, atvasināta no ID1 režģa ģeometrijas (ID0).
 
 ### 11.2. Enerģijas profils galaktikā (ID2)
 
 Pieņemam eksponenciālu Vertikāles enerģijas blīvuma kritumu no galaktikas centra (ID-1):
 
-\[
+$$
 \frac{E_{\mathcal{V}}(r)}{E_{\text{H0}}} = \frac{E_{\mathcal{V}}^{(0)}}{E_{\text{H0}}} \cdot \exp\left(-\frac{r}{r_0}\right)
-\]
+$$
 
 kur:
 - \( r \) — attālums no galaktikas centra (ID2),
@@ -206,9 +205,9 @@ kur:
 
 Tad rotācijas ātrums:
 
-\[
+$$
 V_{\text{MT}}(r) = \sqrt{\frac{G(r) \cdot M_{\text{bar}}(r)}{r}}
-\]
+$$
 
 kur \( M_{\text{bar}}(r) \) ir redzamā masa (disks + gāze) rādiusā r (ID2).
 
@@ -274,9 +273,9 @@ NGC 6503 ir punduris spirālgalaktika ~7 Mpc attālumā. Tās rotācijas līkne 
 
 MT prognozē, ka **G vērtība galaktikas centrā** ir (ID-1 ietekme uz ID0):
 
-\[
+$$
 G(0) = G_0 \cdot (1 + 0.18 \times 2.8) \approx 1.50 \times G_0
-\]
+$$
 
 Tas nozīmē, ka gravitācijas konstante galaktikas kodolā (ID2.0 / ID4.0) ir par ~50% lielāka nekā Saules sistēmā (ID1/ID2). Šī prognoze ir **pārbaudāma** ar precīziem zvaigžņu orbītu mērījumiem galaktikas centrā (piemēram, ar GRAVITY interferometru).
 
@@ -295,8 +294,9 @@ Tas nozīmē, ka gravitācijas konstante galaktikas kodolā (ID2.0 / ID4.0) ir p
 
 ## PIEZĪME
 
-Šis dokuments ir **MT gravitācijas modeļa kopsavilkums** ar iekļautu kvantitatīvo modeli un novērojumu salīdzinājumu, saskaņots ar ID sistēmu. Tas nav pilnīgs teorijas apraksts, bet gan strukturēts izklāsts, kas izriet no sarunas starp teorijas autoru un AI. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, tumšā enerģija, utt.) ir pieejama citos MT dokumentos.
+Šis dokuments ir **MT gravitācijas modeļa pārstrādātā versija** ar iekļautu kvantitatīvo modeli un novērojumu salīdzinājumu, saskaņots ar ID sistēmu un MATHEMATICS formālisma pārstrādāto versiju. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, utt.) ir pieejama citos MT dokumentos.
 
 ---
 
-*Dokuments sagatavots: 2026. gada jūlijā*
+*Dokuments sagatavots: 2026. gada jūlijā*  
+*Versija: 2.0 — pārstrādāta, lai novērstu skalāro lauku un plūsmas terminoloģiju*
