@@ -2,6 +2,8 @@
 
 Matricas teorija ir fizikāls ietvars, kas Visumu apraksta kā diskrētu, determinētu enerģijas plūsmu matricu. Tā piedāvā alternatīvu skaidrojumu gravitācijai, kosmoloģijai, elektromagnētismam un dzīvībai — bez singularitātēm, bez telpas izplešanās un bez nepieciešamības pēc tumšās matērijas vai tumšās enerģijas kā nezināmiem spēkiem.
 
+Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē visus objektus pēc modulācijas (ietekmes līmeņa) un lieluma kategorijas. **ROADMAP** nodrošina strukturālo shēmu, kas nošķir H0 ceļu (gravitācija, dinamika) un L1 ceļu (sarkanā nobīde, CMB), novēršot operatoru sajaukšanu.
+
 > **Dokumenti pieejami latviešu un angļu valodā.**
 
 ---
@@ -39,6 +41,9 @@ Matricas teorija ir fizikāls ietvars, kas Visumu apraksta kā diskrētu, determ
 | **`docs/comparison/`** | Salīdzinājums ar kvantu mehāniku |
 | — [`QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md) | QM salīdzinājums (latviski) |
 | — [`QM_COMPARISON_en.md`](docs/comparison/QM_COMPARISON_en.md) | QM Comparison (angliski) |
+| **`docs/roadmap/`** | Strukturālā shēma un ceļu nošķīrums |
+| — [`MT_ROADMAP_lv.md`](docs/roadmap/MT_ROADMAP_lv.md) | Ceļu karte (latviski) |
+| — [`MT_ROADMAP_en.md`](docs/roadmap/MT_ROADMAP_en.md) | Roadmap (angliski) |
 
 ### Papildmateriāli — `supplementary/`
 
@@ -64,13 +69,13 @@ Matricas teorija ir fizikāls ietvars, kas Visumu apraksta kā diskrētu, determ
 
 ## 🔬 Galvenās prognozes
 
-| Prognoze | Vērtība | Statuss |
-|----------|---------|---------|
-| Smalkās struktūras konstante atvasināta no \( G_0, \hbar, c \) | \( \alpha \approx 0.0073 \) (< 0.4% novirze) | Atbilst eksperimentam |
-| Gravitācijas konstantes mainība galaktiku centros | \( G(0)/G_0 \approx 1.50 \) | Pārbaudāms ar GRAVITY interferometru |
-| 6. CMB pīķis | \( \ell_6 \approx 1660 \) | Pārbaudāms ar CMB-S4, Simons Observatory |
-| 7. CMB pīķis | \( \ell_7 \approx 1943 \) | Pārbaudāms ar CMB-S4, Simons Observatory |
-| NGC 6503 rotācijas līkne | Atbilst < 3% novirzi | Nav nepieciešama tumšā matērija |
+| Prognoze | Vērtība | Statuss | ID atbilstība |
+|----------|---------|---------|---------------|
+| Smalkās struktūras konstante atvasināta no \( G_0, \hbar, c \) | \( \alpha \approx 0.0073 \) (< 0.4% novirze) | Atbilst eksperimentam | ID0 / ID1 |
+| Gravitācijas konstantes mainība galaktiku centros | \( G(0)/G_0 \approx 1.50 \) | Pārbaudāms ar GRAVITY interferometru | ID0 / ID-1 / ID2 |
+| 6. CMB pīķis | \( \ell_6 \approx 1660 \) | Pārbaudāms ar CMB-S4, Simons Observatory | ID0.47 |
+| 7. CMB pīķis | \( \ell_7 \approx 1943 \) | Pārbaudāms ar CMB-S4, Simons Observatory | ID0.55 |
+| NGC 6503 rotācijas līkne | Atbilst < 3% novirzi | Nav nepieciešama tumšā matērija | ID2 / ID-1 |
 
 Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_lv.md)
 
@@ -81,31 +86,34 @@ Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_
 1. **Pamats** — [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_lv.md)  
    Teorijas pamats, darbības robežas un prognožu kopsavilkums.
 
-2. **Matemātika** — [`docs/mathematics/MATHEMATICS_lv.md`](docs/mathematics/MATHEMATICS_lv.md)  
+2. **Ceļu karte (ROADMAP)** — [`docs/roadmap/MT_ROADMAP_lv.md`](docs/roadmap/MT_ROADMAP_lv.md)  
+   Strukturālā shēma, H0 un L1 ceļu nošķīrums, L1 duālā daba.
+
+3. **Matemātika** — [`docs/mathematics/MATHEMATICS_lv.md`](docs/mathematics/MATHEMATICS_lv.md)  
    Formālais kodols: operatori, Qn struktūra, TE plūsmas dinamika.
 
-3. **QED** — [`docs/physics/MT_QED_lv.md`](docs/physics/MT_QED_lv.md)  
-   Elektromagnētisms MT stilā, ieskaitot fundamentālo konstanšu atvasinājumu.
-
-4. **Gravitācija** — [`docs/physics/GRAVITY_lv.md`](docs/physics/GRAVITY_lv.md)  
-   Gravitācijas mehānisms un galaktiku rotācijas līknes (NGC 6503).
-
-5. **Kosmoloģija** — [`docs/physics/COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md)  
-   Kosmoloģiskā sarkanā nobīde, Habla likums un kvantitatīvais CMB modelis.
-
-6. **ID gradācija** — [`docs/mathematics/ID_GRADIENT_lv.md`](docs/mathematics/ID_GRADIENT_lv.md)  
+4. **ID gradācija** — [`docs/mathematics/ID_GRADIENT_lv.md`](docs/mathematics/ID_GRADIENT_lv.md)  
    ID kā procesa marķieris, kvantitatīvais modelis un pārbaudāmās prognozes.
 
-7. **Dzīvība** — [`docs/life/LIFE_lv.md`](docs/life/LIFE_lv.md)  
+5. **QED** — [`docs/physics/MT_QED_lv.md`](docs/physics/MT_QED_lv.md)  
+   Elektromagnētisms MT stilā, ieskaitot fundamentālo konstanšu atvasinājumu.
+
+6. **Gravitācija** — [`docs/physics/GRAVITY_lv.md`](docs/physics/GRAVITY_lv.md)  
+   Gravitācijas mehānisms un galaktiku rotācijas līknes (NGC 6503).
+
+7. **Kosmoloģija** — [`docs/physics/COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md)  
+   Kosmoloģiskā sarkanā nobīde, Habla likums un kvantitatīvais CMB modelis.
+
+8. **Dzīvība** — [`docs/life/LIFE_lv.md`](docs/life/LIFE_lv.md)  
    Dzīvība kā TE plūsmu pašorganizācija, apziņa, vēzis un novecošanās.
 
-8. **QM salīdzinājums** — [`docs/comparison/QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md)  
+9. **QM salīdzinājums** — [`docs/comparison/QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md)  
    Salīdzinājums ar klasisko kvantu mehāniku un pārbaudāmās atšķirības.
 
-9. **Tehnoloģija** — [`docs/technology/TECHNOLOGY_lv.md`](docs/technology/TECHNOLOGY_lv.md)  
-   Tehnoloģiskais potenciāls, enerģijas pārraide un uzkrāšana.
+10. **Tehnoloģija** — [`docs/technology/TECHNOLOGY_lv.md`](docs/technology/TECHNOLOGY_lv.md)  
+    Tehnoloģiskais potenciāls, enerģijas pārraide un uzkrāšana.
 
-10. **Ētika** — [`docs/ethics/ETHICS_lv.md`](docs/ethics/ETHICS_lv.md)  
+11. **Ētika** — [`docs/ethics/ETHICS_lv.md`](docs/ethics/ETHICS_lv.md)  
     Ētiskie un drošības aspekti, līdzsvars ar Vertikāli.
 
 ---
