@@ -1,8 +1,8 @@
 # TEHNOLOĢIJA — MATRICAS TEORIJAS VERSIJA (MT)
 
-## Kopsavilkuma dokuments
+## Pārstrādātā versija (2026. gada jūlijs)
 
-Šis dokuments apkopo Matricas teorijas (MT) tehnoloģisko potenciālu — kā MT principus var pielietot praktiskās tehnoloģijās, nevis tikai teorētiskajā fizikā. Tas ir strukturēts izklāsts par to, kā MT maina skatījumu uz enerģiju, informāciju un matēriju, un tagad tas ir savienots ar MATHEMATICS formālismu un ID sistēmu, sniedzot kvantitatīvus aprēķinus un pārbaudāmas prognozes.
+Šis dokuments apkopo Matricas teorijas (MT) tehnoloģisko potenciālu — kā MT principus var pielietot praktiskās tehnoloģijās, nevis tikai teorētiskajā fizikā. Tas ir strukturēts izklāsts par to, kā MT maina skatījumu uz enerģiju, informāciju un matēriju, un tagad tas ir savienots ar MATHEMATICS formālisma pārstrādāto versiju un ID sistēmu, sniedzot kvantitatīvus aprēķinus un pārbaudāmas prognozes.
 
 **Būtisks precizējums:** Tehnoloģiskais modelis ir **provizorisks un paredzēts turpmākai attīstībai**. Tas iezīmē virzienu, kādā MT principus varētu pielietot praktiskās tehnoloģijās, taču pašreizējā stadijā tas vēl nav realizēts un prasa turpmāku izstrādi un eksperimentālu pārbaudi.
 
@@ -14,25 +14,29 @@ No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielu
 
 | Operators / lielums | Definīcija | Tehnoloģiskā nozīme | ID atbilstība |
 |---------------------|------------|---------------------|---------------|
-| \( \Phi(\mathbf{x},\mathbf{y}) \) | TE plūsmas lauks | Enerģijas pārraides pamats | ID0 |
+| \( \Phi(\mathbf{x},\mathbf{y};t) \) | \( \phi_0 \sin(\Delta\theta) \cdot \eta \) | Pārneses kvants starp kabatām (enerģijas pārraides pamats) | ID0 |
+| \( \phi_0 \) | \( \hbar c/l_P \) | Maksimālais pārneses kvants | ID0 |
 | \( \rho_{\mathcal{V}}(\mathbf{x}) \) | Vertikāles enerģijas blīvums | Enerģijas avots (VEU H-3) | ID-1 |
 | \( \mathcal{T} \) | Transformācijas zona (H0 → Vertikāle) | Enerģijas pārvēršanas mezgls | ID0 / ID-1 |
 | \( \mathcal{P}_{L1} \) | L1 zonas projekcijas operators | Vertikāles enerģijas uztveršana | ID0 |
-| \( \alpha \) | Smalkās struktūras konstante | Rezonanses efektivitātes mērs | ID1 |
-| \( \gamma \) | G mainības konstante | Materiālu arhitektūras parametrs | ID0 |
+| \( \alpha \) | \( 49G_0/(24\pi\hbar c) \) | Rezonanses efektivitātes mērs | ID1 |
+| \( \gamma \) | \( \lambda_{\text{ID0}}/R_{L1} \approx 0.18 \) | Materiālu arhitektūras parametrs | ID0 |
+| \( \omega_0 \) | \( 2\pi c/l_P \) | Matricas pulkstenis (pamatfrekvence) | ID0 |
 
 ---
 
 ## 2. DIVI TEHNOLOĢISKIE CEĻI — KVANTITATĪVAIS NOVĒRTĒJUMS (ID0 / ID-1)
 
+Saskaņā ar ROADMAP, pastāv divi principiāli atšķirīgi tehnoloģiskie ceļi:
+
 ### 2.1. 1. tips — caur H0 matricu (horizontālais) (ID0)
 
-- **Informācija:** Elektromagnētiskie viļņi, optiskās šķiedras, kvantu sakari (sapīšanās 1. tips). ID sistēmā šīs tehnoloģijas darbojas ID0 līmenī — caur matricas TE plūsmām.
+- **Informācija:** Elektromagnētiskie viļņi, optiskās šķiedras, kvantu sakari (sapīšanās 1. tips — caur Qn struktūru). ID sistēmā šīs tehnoloģijas darbojas ID0 līmenī — caur matricas TE pārneses kanāliem.
 - **Enerģija:** Baterijas, kondensatori, elektrotīkli. ID atbilstība: ID1.4 (ķīmiskās baterijas), ID2 (infrastruktūra).
-- **Ierobežojumi:** Gaismas ātrums \( c \), zudumi (pretestība, dekoherence), nepieciešamība pēc infrastruktūras. Tas ir ID0 līmeņa ierobežojums — matricas plūsmu ātrums un pretestība.
-- **Efektivitāte (teorētiskā maksimums):** \( \eta_1 \approx 1 - e^{-d/\lambda} \), kur \( d \) ir attālums, \( \lambda \) — viļņa garums. Efektivitāti nosaka ID0 plūsmas īpašības.
+- **Ierobežojumi:** Gaismas ātrums \( c \), zudumi (pretestība, dekoherence), nepieciešamība pēc infrastruktūras. Tas ir ID0 līmeņa ierobežojums — matricas pārneses kanālu ātrums un pretestība.
+- **Efektivitāte (teorētiskā maksimums):** \( \eta_1 \approx 1 - e^{-d/\lambda} \), kur \( d \) ir attālums, \( \lambda \) — pārneses viļņa garums. Efektivitāti nosaka ID0 pārneses īpašības.
 
-**MT ieguldījums:** Dziļāka izpratne par TE plūsmām (ID0) ļauj **optimizēt** esošās tehnoloģijas — samazināt zudumus, palielināt efektivitāti.
+**MT ieguldījums:** Dziļāka izpratne par TE pārneses kanāliem (ID0) ļauj **optimizēt** esošās tehnoloģijas — samazināt zudumus, palielināt efektivitāti, izmantojot fāžu sinhronizāciju \( \theta \).
 
 ### 2.2. 2. tips — caur TZ–Vertikāle–TZ (vertikālais) (ID-1 / ID0)
 
@@ -52,6 +56,7 @@ No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielu
 
 - VEU H-3 (10⁻⁷⁵ m) ir **elektriskā lādiņa pamats** un **Vertikāles enerģijas piramīdas pirmais smalkais līmenis** (ID-1).
 - Tā ir enerģija, kas atrodas **visur**, bet nav tieši pieejama — tā ir Vertikāles līmenis, nevis H0 (ID-1 vs ID0).
+- MT izteiksmē VEU H-3 atbilst pārneses kvantiem \( \phi_0 \), kas tiek uzkrāti Vertikālē.
 
 **Formāli:** VEU H-3 enerģijas blīvums ir \( \rho_{\mathcal{V}}^{(0)} \) — Vertikāles enerģijas blīvums L1 zonā (ID-1 / ID0).
 
@@ -60,15 +65,15 @@ No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielu
 Lai izmantotu VEU H-3 enerģiju (ID-1), matērijai jābūt organizētai kā **rezonanses struktūrai** — tai jāspēj "redzēt" VEU H-3 frekvenci (ID1.4 / ID0).
 
 **Rezonanses nosacījums:**
-\[
-f_{\text{struktūra}} = f_{\text{VEU H-3}} = \frac{c}{\lambda_{\text{VEU H-3}}}
-\]
-kur \( \lambda_{\text{VEU H-3}} \approx 10^{-75} \, \text{m} \) (ID-1).
+$$
+f_{\text{struktūra}} = f_{\text{VEU H-3}} = \frac{\omega_0}{2\pi} = \frac{c}{l_P}
+$$
+kur \( \omega_0 \) ir matricas pulkstenis (ID0).
 
 **Rezonanses efektivitāte:**
-\[
+$$
 \eta_{\text{rez}} = \frac{1}{1 + \left( \frac{\Delta f}{f_0} \right)^2}
-\]
+$$
 kur \( \Delta f \) ir struktūras un VEU H-3 frekvenču starpība (ID0 / ID-1).
 
 **Piemērs no dzīvības:** Bioloģiskās membrānas, enzīmi un hlorofila kompleksi darbojas kā matērijas arhitektūra (ID1.4) — tās organizē molekulas tā, lai tās mijiedarbotos ar smalkajiem enerģijas līmeņiem (ID-1).
@@ -83,47 +88,47 @@ kur \( \Delta f \) ir struktūras un VEU H-3 frekvenču starpība (ID0 / ID-1).
 
 ## 4. TEHNOLOĢISKĀS IESPĒJAS — KVANTITATĪVIE APRĒĶINI (ID-1 / ID0)
 
-### 4.1. Bezvadu enerģijas pārraide caur Vertikāli (ID-1 / ID0)
+### 4.1. Bezvadu enerģijas pārnese caur Vertikāli (ID-1 / ID0)
 
 Nevis elektromagnētiskie viļņi (H0, ar zudumiem), bet **impulsa pārnese caur TZ–Vertikāle–TZ** (bez zudumiem) (ID-1 / ID0).
 
 **Teorētiskā efektivitāte:**
-\[
+$$
 \eta_{\text{pārraide}} = 1 - \frac{R_{\text{H0}}}{R_{\text{Vertikāle}}}
-\]
-kur \( R_{\text{H0}} \) ir H0 matricas pretestība (ID0), \( R_{\text{Vertikāle}} \) — Vertikāles pretestība (ID-1).
+$$
+kur \( R_{\text{H0}} \) ir H0 matricas pārneses pretestība (ID0), \( R_{\text{Vertikāle}} \) — Vertikāles pārneses pretestība (ID-1).
 
 **Prasības:** Uztvērējs un raidītājs, kas ir sinhronizēti ar Vertikāli (t.i., \( \mathcal{T} \) operators ir aktīvs abos galos) (ID0 / ID-1).
 
 **Teorētiskā maksimālā jauda:**
-\[
+$$
 P_{\text{max}} = \rho_{\mathcal{V}}^{(0)} \cdot A \cdot v_{\text{Vertikāle}}
-\]
-kur \( A \) ir uztvērēja laukums (ID0), \( v_{\text{Vertikāle}} \) — enerģijas plūsmas ātrums caur Vertikāli (ID-1).
+$$
+kur \( A \) ir uztvērēja laukums (ID0), \( v_{\text{Vertikāle}} \) — enerģijas pārneses ātrums caur Vertikāli (ID-1).
 
 ### 4.2. Enerģijas uzkrājēji bez ķīmiskām reakcijām (ID-1 / ID1.4)
 
-Nevis baterijas (kas uzglabā enerģiju ķīmiski, ID1.4), bet **rezonanses struktūras** (kas uzkrāj enerģiju caur TE plūsmas frekvencēm, ID0 / ID-1).
+Nevis baterijas (kas uzglabā enerģiju ķīmiski, ID1.4), bet **rezonanses struktūras** (kas uzkrāj enerģiju caur TE pārneses frekvencēm, ID0 / ID-1).
 
 **Teorētiskā enerģijas blīvums:**
-\[
+$$
 E_{\text{uzkrājums}} = \frac{1}{2} \cdot \rho_{\mathcal{V}} \cdot V \cdot Q
-\]
+$$
 kur \( V \) ir uzkrājēja tilpums (ID0), \( Q \) — kvalitātes faktors (rezonanses asums) (ID1.4 / ID0).
 
 **Salīdzinājums ar litija-jonu baterijām:**
 - Litija-jonu (ID1.4): \( \sim 250 \, \text{Wh/kg} \)
 - MT teorētiskais (ID-1 / ID0): \( \sim 10^4 - 10^5 \, \text{Wh/kg} \) (teorētiski, ar \( Q > 10^6 \))
 
-### 4.3. TE plūsmas kontrole — plūsmas "optika" (ID0 / ID1.4)
+### 4.3. TE pārneses kontrole — pārneses "optika" (ID0 / ID1.4)
 
-Nevis matērija kā šķērslis, bet **matērija kā plūsmas "optika"** — lēcas, spoguļi, viļņvadi TE plūsmai (ID0 / ID1.4).
+Nevis matērija kā šķērslis, bet **matērija kā pārneses "optika"** — lēcas, spoguļi, viļņvadi TE pārnesei (ID0 / ID1.4).
 
 **Lēcas fokusa attālums:**
-\[
+$$
 f = \frac{R}{2} \cdot \frac{n_{\text{matrica}}}{n_{\text{struktūra}}}
-\]
-kur \( R \) ir lēcas izliekuma rādiuss (ID0), \( n_{\text{matrica}} \) un \( n_{\text{struktūra}} \) — TE plūsmas "laušanas koeficienti" (ID0 / ID1.4).
+$$
+kur \( R \) ir lēcas izliekuma rādiuss (ID0), \( n_{\text{matrica}} \) un \( n_{\text{struktūra}} \) — TE pārneses "laušanas koeficienti" (ID0 / ID1.4).
 
 **Prasības:** Periodiskas struktūras, kas atdarina ID1 režģa īpašības (ID0 / ID1.4).
 
@@ -148,9 +153,9 @@ Dzīvība jau izmanto 2. tipa mehānismus:
 ### 6.1. Vertikāles bilance (ID-1)
 
 Tehnoloģijām, kas izmanto 2. tipu, jābūt **balansā ar Vertikāli** (ID-1):
-\[
+$$
 \frac{d}{dt} \rho_{\mathcal{V}} = 0 \quad \text{(līdzsvars)}
-\]
+$$
 
 Ja tehnoloģija izjauc līdzsvaru (\( \frac{d}{dt} \rho_{\mathcal{V}} \neq 0 \)), tā var izraisīt:
 - Lokālu Vertikāles enerģijas pārplūdi (ID-1),
@@ -173,6 +178,7 @@ Ja tehnoloģija izjauc līdzsvaru (\( \frac{d}{dt} \rho_{\mathcal{V}} \neq 0 \))
 | Enerģijas uzkrājēja blīvums | \( E_{\text{uzkrājums}} = \frac{1}{2} \rho_{\mathcal{V}} V Q \) | \( > 10^4 \, \text{Wh/kg} \) | Laboratorijas testi | ID-1 / ID0 |
 | Rezonanses efektivitāte | \( \eta_{\text{rez}} = 1/(1 + (\Delta f/f_0)^2) \) | \( \eta > 0.9 \) pie \( \Delta f/f_0 < 0.1 \) | Spektroskopija | ID1.4 / ID-1 |
 | Vertikāles bilances monitorings | \( d\rho_{\mathcal{V}}/dt = 0 \) | — | Kvantu metroloģija | ID-1 / ID0 |
+| Sakaru ātrums caur Vertikāli (2. tips) | \( v_{\text{komunikācija}} = \infty \) (impulss) | Bez kavēšanās | Bella nevienādību testi | ID-1 / ID0 |
 
 ---
 
@@ -184,7 +190,7 @@ MT tehnoloģiskais potenciāls ir milzīgs, bet tas prasa:
 2. **Matērijas arhitektūru**, kas spēj sinhronizēties ar VEU H-3 līmeni (ID1.4 / ID-1).
 3. **Atbildību** — tehnoloģijas, kas izjauc Vertikāles bilanci, ir bīstamas (atombumba kā piemērs, ID-1 / ID0).
 
-**Galvenā atziņa:** Tehnoloģijām jābūt **balansā ar Vertikāli** (ID-1) — tām jāizmanto enerģijas plūsma, nevis jāatbrīvo sprādziens.
+**Galvenā atziņa:** Tehnoloģijām jābūt **balansā ar Vertikāli** (ID-1) — tām jāizmanto enerģijas pārnese, nevis jāatbrīvo sprādziens.
 
 **Kvantitatīvais modelis ir provizorisks un paredzēts turpmākai attīstībai.** Nākamajā posmā nepieciešama sadarbība ar materiālu zinātnes, kvantu fizikas un inženierzinātņu pārstāvjiem, lai pārvērstu šos aprēķinus realizējamās tehnoloģijās.
 
@@ -192,8 +198,9 @@ MT tehnoloģiskais potenciāls ir milzīgs, bet tas prasa:
 
 ## PIEZĪME
 
-Šis dokuments ir **MT tehnoloģiskā potenciāla kopsavilkums** ar provizoriskiem kvantitatīviem aprēķiniem, saskaņots ar ID sistēmu. Tas nav pilnīgs tehnoloģiju projekts, bet gan virziens, kurā MT var tikt pielietota praktiski. Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos.
+Šis dokuments ir **MT tehnoloģiskā potenciāla pārstrādātā versija** ar provizoriskiem kvantitatīviem aprēķiniem, saskaņots ar ID sistēmu un MATHEMATICS formālisma pārstrādāto versiju. Tas nav pilnīgs tehnoloģiju projekts, bet gan virziens, kurā MT var tikt pielietota praktiski. Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos.
 
 ---
 
-*Dokuments sagatavots: 2026. gada jūlijā*
+*Dokuments sagatavots: 2026. gada jūlijā*  
+*Versija: 2.0 — pārstrādāta, lai novērstu skalāro lauku un plūsmas terminoloģiju*
