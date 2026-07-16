@@ -15,18 +15,35 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | Mape | Saturs |
 |------|--------|
 | **`docs/foundation/`** | Teorijas pamats un darbības robežas |
-| **`docs/mathematics/`** | Matemātiskais formālisms un ID gradācija |
+| — [`FOUNDATION_lv.md`](docs/foundation/FOUNDATION_lv.md) | Pamats (latviski) |
+| — [`FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md) | Foundation (angliski) |
 | **`docs/physics/`** | Fizikālie modeļi |
-| — `MT_QED_lv.md` / `MT_QED_en.md` | Kvantu elektrodinamika |
-| — `GRAVITY_lv.md` / `GRAVITY_en.md` | Gravitācija |
-| — `COSMOLOGY_lv.md` / `COSMOLOGY_en.md` | Kosmoloģija |
-| **`docs/physics/research/`** | Pētnieciskie materiāli |
-| **`docs/hypotheses/`** |(hipotēzes, provizoriskie modeļi) |
+| — [`MT_QED_lv.md`](docs/physics/MT_QED_lv.md) | QED (latviski) |
+| — [`MT_QED_en.md`](docs/physics/MT_QED_en.md) | QED (angliski) |
+| — [`GRAVITY_lv.md`](docs/physics/GRAVITY_lv.md) | Gravitācija (latviski) |
+| — [`GRAVITY_en.md`](docs/physics/GRAVITY_en.md) | Gravity (angliski) |
+| — [`COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md) | Kosmoloģija (latviski) |
+| — [`COSMOLOGY_en.md`](docs/physics/COSMOLOGY_en.md) | Cosmology (angliski) |
+| **`docs/life/`** | Dzīvība, intelekts un evolūcija |
+| — [`LIFE_lv.md`](docs/life/LIFE_lv.md) | Dzīvība (latviski) |
+| — [`LIFE_en.md`](docs/life/LIFE_en.md) | Life (angliski) |
+| **`docs/mathematics/`** | Matemātiskais formālisms un ID gradācija |
+| — [`MATHEMATICS_lv.md`](docs/mathematics/MATHEMATICS_lv.md) | Matemātika (latviski) |
+| — [`MATHEMATICS_en.md`](docs/mathematics/MATHEMATICS_en.md) | Mathematics (angliski) |
+| — [`ID_GRADIENT_lv.md`](docs/mathematics/ID_GRADIENT_lv.md) | ID gradācija (latviski) |
+| — [`ID_GRADIENT_en.md`](docs/mathematics/ID_GRADIENT_en.md) | ID Gradation (angliski) |
 | **`docs/technology/`** | Tehnoloģiskais potenciāls |
+| — [`TECHNOLOGY_lv.md`](docs/technology/TECHNOLOGY_lv.md) | Tehnoloģija (latviski) |
+| — [`TECHNOLOGY_en.md`](docs/technology/TECHNOLOGY_en.md) | Technology (angliski) |
 | **`docs/ethics/`** | Ētiskie un drošības aspekti |
+| — [`ETHICS_lv.md`](docs/ethics/ETHICS_lv.md) | Ētika (latviski) |
+| — [`ETHICS_en.md`](docs/ethics/ETHICS_en.md) | Ethics (angliski) |
 | **`docs/comparison/`** | Salīdzinājums ar kvantu mehāniku |
+| — [`QM_COMPARISON_lv.md`](docs/comparison/QM_COMPARISON_lv.md) | QM salīdzinājums (latviski) |
+| — [`QM_COMPARISON_en.md`](docs/comparison/QM_COMPARISON_en.md) | QM Comparison (angliski) |
 | **`docs/roadmap/`** | Strukturālā shēma un ceļu nošķīrums |
-
+| — [`MT_ROADMAP_lv.md`](docs/roadmap/MT_ROADMAP_lv.md) | Ceļu karte (latviski) |
+| — [`MT_ROADMAP_en.md`](docs/roadmap/MT_ROADMAP_en.md) | Roadmap (angliski) |
 ### Papildmateriāli — `supplementary/`
 
 | Mape | Saturs |
