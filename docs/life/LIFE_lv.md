@@ -2,7 +2,7 @@
 
 ## Kopsavilkuma dokuments
 
-Šis dokuments apkopo Matricas teorijas (MT) interpretāciju dzīvībai, intelektam un evolūcijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — dzīvība nav īpaša matērijas forma, bet gan **TE plūsmu pašorganizācijas līmenis**, kas apgūst H0 TE plūsmas loģiku. Dokuments ir saskaņots ar ID sistēmu.
+Šis dokuments apkopo Matricas teorijas (MT) interpretāciju dzīvībai, intelektam un evolūcijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — dzīvība nav īpaša matērijas forma, bet gan **TE plūsmu pašorganizācijas līmenis**, kas apgūst H0 TE plūsmas loģiku. Dokuments ir saskaņots ar ID sistēmu un ROADMAP (H0 un L1 ceļu nošķīrumu).
 
 **Būtisks precizējums:** Dzīvības kvantitatīvais modelis (12. nodaļa) ir **provizorisks un paredzēts turpmākai attīstībai**. Tas iezīmē virzienu, kurā MT būtu jāpapildina ar eksperimentāli pārbaudāmām prognozēm, taču pašreizējā stadijā tas vēl nav galīgs un prasa turpmāku izstrādi sadarbībā ar bioloģijas un medicīnas nozaru pārstāvjiem.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 3. Dzīvības evolūcija — TE plūsmas loģikas apguve (ID1 — ID2)
+## 3. Dzīvības evolūcija — TE plūsmas loģikas apguve (ID1 → ID2)
 
 **Dzīvības evolūcija ir secīga H0 TE plūsmas loģikas apguve.** ID sistēmā tas izpaužas kā pāreja no vienkāršākiem uz sarežģītākiem organizācijas līmeņiem:
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 5. Dzīvības evolūcijas soļi (ID1 — ID2)
+## 5. Dzīvības evolūcijas soļi (ID1 → ID2)
 
 Dzīvības evolūcija nav nejaušs adaptācijas process. Tā ir **secīga H0 TE plūsmas loģikas apgūšana**, kas ID sistēmā atbilst pakāpeniskai pārejai no ID1 uz ID2 un tālāk.
 
@@ -211,6 +211,8 @@ Interpretācija:
 - \( \mathcal{C} = 0 \) — perfekta sinhronizācija (pilna apziņa) (ID-1 / ID0).
 - \( \mathcal{C} > 0 \) — nesinhronizācija (anestēzija, miegs, dezorientācija) (ID0).
 
+**Piezīme saskaņā ar ROADMAP:** Šis vienādojums apvieno H0 ceļu (Φ, ID0) un L1 ceļu (P_L1, ID-1), kas ir atļauts, jo tie apraksta vienu un to pašu ρᵥ lauku, bet kā neatkarīgus operatorus. Sīkāk skatīt ROADMAP 8. punktu.
+
 **Provizoriskā prognoze:** Anestēzijas līdzekļi mehāniski bloķē \( \mathcal{P}_{L1} \) operatoru (ID0), palielinot \( \mathcal{C} \). Šo efektu principā var mērīt ar kvantu sensoru tehnoloģijām.
 
 ### 12.3. Hromosomu operators (provizorisks modelis) (ID1.4/1/1 / ID-1)
@@ -259,7 +261,7 @@ Kad \( \mathcal{S}_{\text{šūna}} \) sasniedz kritisko slieksni \( \mathcal{S}_
 
 ---
 
-## 13. Kopsavilkums — dzīvība, intelekts un evolūcija MT (ID1 — ID2 / ID-1)
+## 13. Kopsavilkums — dzīvība, intelekts un evolūcija MT (ID1 → ID2 / ID-1)
 
 | **Aspekts** | **Klasiskā bioloģija** | **Matricas teorija** | **ID atbilstība** |
 |-------------|-------------------------|----------------------|-------------------|
@@ -293,7 +295,7 @@ Klasiskā bioloģija redz tikai Horizontāli (ķīmiju, DNS) (ID0 / ID1.4). MT r
 
 ## PIEZĪME
 
-Šis dokuments ir **MT dzīvības modeļa kopsavilkums** ar provizorisku kvantitatīvo modeli, saskaņots ar ID sistēmu. Dzīvība ir pārāk plaša, lai to pilnībā aprakstītu vienā dokumentā — šis ir tās MT interpretācijas pamats un virziens turpmākajam darbam.
+Šis dokuments ir **MT dzīvības modeļa kopsavilkums** ar provizorisku kvantitatīvo modeli, saskaņots ar ID sistēmu un ROADMAP. Dzīvība ir pārāk plaša, lai to pilnībā aprakstītu vienā dokumentā — šis ir tās MT interpretācijas pamats un virziens turpmākajam darbam.
 
 ---
 
