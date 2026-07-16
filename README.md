@@ -24,6 +24,9 @@ The core of the theory is the **ID system** — a universal classification that 
 | — [`GRAVITY_en.md`](docs/physics/GRAVITY_en.md) | Gravity (English) |
 | — [`COSMOLOGY_lv.md`](docs/physics/COSMOLOGY_lv.md) | Cosmology (Latvian) |
 | — [`COSMOLOGY_en.md`](docs/physics/COSMOLOGY_en.md) | Cosmology (English) |
+| **`docs/physics/research/`** | Research materials (preliminary models, in development) |
+| — [`NEUTRINO_lv.md`](docs/physics/research/NEUTRINO_lv.md) | Neutrino physics (Latvian) |
+| — [`NEUTRINO_en.md`](docs/physics/research/NEUTRINO_en.md) | Neutrino physics (English) |
 | **`docs/life/`** | Life, intelligence, and evolution |
 | — [`LIFE_lv.md`](docs/life/LIFE_lv.md) | Life (Latvian) |
 | — [`LIFE_en.md`](docs/life/LIFE_en.md) | Life (English) |
@@ -44,6 +47,11 @@ The core of the theory is the **ID system** — a universal classification that 
 | **`docs/roadmap/`** | Structural scheme and path separation |
 | — [`MT_ROADMAP_lv.md`](docs/roadmap/MT_ROADMAP_lv.md) | Roadmap (Latvian) |
 | — [`MT_ROADMAP_en.md`](docs/roadmap/MT_ROADMAP_en.md) | Roadmap (English) |
+| **`docs/hypotheses/`** | Hypotheses and preliminary research directions |
+| — [`NEUTRINO_MAJORANA_lv.md`](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | Majorana particle hypothesis (Latvian) |
+| — [`NEUTRINO_MAJORANA_en.md`](docs/hypotheses/NEUTRINO_MAJORANA_en.md) | Majorana particle hypothesis (English) |
+
+---
 
 ### Supplementary Materials — `supplementary/`
 
@@ -55,6 +63,8 @@ The core of the theory is the **ID system** — a universal classification that 
 | — [`MATH_TASKS_lv.md`](supplementary/MATH_TASKS_lv.md) / [`MATH_TASKS_en.md`](supplementary/MATH_TASKS_en.md) | Mathematical tasks |
 | — [`ai_evaluations_lv.md`](supplementary/ai_evaluations_lv.md) / [`ai_evaluations_en.md`](supplementary/ai_evaluations_en.md) | AI evaluations |
 | — [`critical_questions_lv.md`](supplementary/critical_questions_lv.md) / [`critical_questions_en.md`](supplementary/critical_questions_en.md) | Critical questions |
+
+---
 
 ### Archive — `archive/`
 
@@ -76,6 +86,8 @@ The core of the theory is the **ID system** — a universal classification that 
 | 6th CMB peak | \( \ell_6 \approx 1660 \) | Testable with CMB-S4, Simons Observatory | ID0.47 |
 | 7th CMB peak | \( \ell_7 \approx 1943 \) | Testable with CMB-S4, Simons Observatory | ID0.55 |
 | NGC 6503 rotation curve | Matches within < 3% | No dark matter needed | ID2 / ID-1 |
+| Neutrino masses | \( m_1 \approx 0.0015, m_2 \approx 0.0087, m_3 \approx 0.050 \, \text{eV} \) | Testable with DUNE, Hyper-K, KATRIN | ID1.1 / ID-1 |
+| Majorana particle mass scale | \( m_{\text{Majorana}} \approx 0.2 - 7 \, \text{eV} \) | Testable with 0νββ experiments | ID0 / ID-1 |
 
 Full list: [`docs/foundation/FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md)
 
@@ -90,7 +102,7 @@ Full list: [`docs/foundation/FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md
    Structural scheme, H0 and L1 path separation, L1 dual nature.
 
 3. **Mathematics** — [`docs/mathematics/MATHEMATICS_en.md`](docs/mathematics/MATHEMATICS_en.md)  
-   Formal core: operators, Qn structure, TE flow dynamics.
+   Formal core: operators, Qn structure, TE transfer dynamics.
 
 4. **ID Gradation** — [`docs/mathematics/ID_GRADIENT_en.md`](docs/mathematics/ID_GRADIENT_en.md)  
    ID as a process marker, quantitative model, and testable predictions.
@@ -104,16 +116,19 @@ Full list: [`docs/foundation/FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md
 7. **Cosmology** — [`docs/physics/COSMOLOGY_en.md`](docs/physics/COSMOLOGY_en.md)  
    Cosmological redshift, Hubble's law, and quantitative CMB model.
 
-8. **Life** — [`docs/life/LIFE_en.md`](docs/life/LIFE_en.md)  
-   Life as TE flow self-organization, consciousness, cancer, and aging.
+8. **Neutrino** — [`docs/physics/research/NEUTRINO_en.md`](docs/physics/research/NEUTRINO_en.md)  
+   Neutrino physics — mass, oscillations, annihilation.
 
-9. **QM Comparison** — [`docs/comparison/QM_COMPARISON_en.md`](docs/comparison/QM_COMPARISON_en.md)  
-   Comparison with classical quantum mechanics and testable differences.
+9. **Life** — [`docs/life/LIFE_en.md`](docs/life/LIFE_en.md)  
+   Life as TE transfer self-organization, consciousness, cancer, and aging.
 
-10. **Technology** — [`docs/technology/TECHNOLOGY_en.md`](docs/technology/TECHNOLOGY_en.md)  
+10. **QM Comparison** — [`docs/comparison/QM_COMPARISON_en.md`](docs/comparison/QM_COMPARISON_en.md)  
+    Comparison with classical quantum mechanics and testable differences.
+
+11. **Technology** — [`docs/technology/TECHNOLOGY_en.md`](docs/technology/TECHNOLOGY_en.md)  
     Technological potential, energy transfer, and storage.
 
-11. **Ethics** — [`docs/ethics/ETHICS_en.md`](docs/ethics/ETHICS_en.md)  
+12. **Ethics** — [`docs/ethics/ETHICS_en.md`](docs/ethics/ETHICS_en.md)  
     Ethical and safety aspects, balance with the Vertical.
 
 ---
@@ -129,10 +144,12 @@ Full list: [`docs/foundation/FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md
 | QED | [LV](docs/physics/MT_QED_lv.md) | [EN](docs/physics/MT_QED_en.md) |
 | Gravity | [LV](docs/physics/GRAVITY_lv.md) | [EN](docs/physics/GRAVITY_en.md) |
 | Cosmology | [LV](docs/physics/COSMOLOGY_lv.md) | [EN](docs/physics/COSMOLOGY_en.md) |
+| Neutrino | [LV](docs/physics/research/NEUTRINO_lv.md) | [EN](docs/physics/research/NEUTRINO_en.md) |
 | Life | [LV](docs/life/LIFE_lv.md) | [EN](docs/life/LIFE_en.md) |
 | QM Comparison | [LV](docs/comparison/QM_COMPARISON_lv.md) | [EN](docs/comparison/QM_COMPARISON_en.md) |
 | Technology | [LV](docs/technology/TECHNOLOGY_lv.md) | [EN](docs/technology/TECHNOLOGY_en.md) |
 | Ethics | [LV](docs/ethics/ETHICS_lv.md) | [EN](docs/ethics/ETHICS_en.md) |
+| Majorana Hypothesis | [LV](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | [EN](docs/hypotheses/NEUTRINO_MAJORANA_en.md) |
 
 ---
 
