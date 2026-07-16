@@ -2,7 +2,7 @@
 
 ## Kopsavilkuma dokuments
 
-Šis dokuments apkopo Matricas teorijas (MT) interpretāciju kosmoloģiskajai sarkanajai nobīdei, Habla likumam un kosmiskajam mikroviļņu fonam (CMB). Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — bez telpas izplešanās, bez singularitātēm un bez nepieciešamības pēc "tumšās enerģijas" kā nezināma spēka. Turklāt tiek sniegts kvantitatīvs CMB spektra pīķu skaidrojums, kas izriet no H0 matricas Qn struktūras, kā arī pārbaudāmas prognozes turpmākajiem pīķiem. Dokuments ir saskaņots ar ID sistēmu.
+Šis dokuments apkopo Matricas teorijas (MT) interpretāciju kosmoloģiskajai sarkanajai nobīdei, Habla likumam un kosmiskajam mikroviļņu fonam (CMB). Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — bez telpas izplešanās, bez singularitātēm un bez nepieciešamības pēc "tumšās enerģijas" kā nezināma spēka. Turklāt tiek sniegts kvantitatīvs CMB spektra pīķu skaidrojums, kas izriet no H0 matricas Qn struktūras, kā arī pārbaudāmas prognozes turpmākajiem pīķiem. Dokuments ir saskaņots ar ID sistēmu un ROADMAP (H0 un L1 ceļu nošķīrumu).
 
 ---
 
@@ -13,12 +13,14 @@
 - **Klasiskā fizika** interpretē sarkano nobīdi kā telpas izplešanos. Jo tālāk objekts, jo vairāk telpa ir "izstiepusies" kopš gaismas izstarošanas.
 
 - **Matricas teorija** saka: **matrica ir statiska**. Tas, ko klasiskā fizika redz kā "izplešanos", ir **divu neatkarīgu efektu kopums**:
-  1. **H+n modulācijas** — nosaka fotona ceļa ģeometriju (izliekumu).
-  2. **Tumšā enerģija** — nosaka fotona enerģijas zudumu.
+  1. **H+n modulācijas** — nosaka fotona ceļa ģeometriju (izliekumu). (H0 ceļš)
+  2. **Tumšā enerģija** — nosaka fotona enerģijas zudumu. (L1 ceļš)
 
 ID sistēmā šie efekti atbilst dažādiem līmeņiem:
-- H+n modulācijas atbilst ID līmeņiem atkarībā no to skalas.
+- H+n modulācijas atbilst ID līmeņiem atkarībā no to skalas (ID1 — ID5).
 - Tumšā enerģija (Vertikāles enerģija) atbilst ID-1.
+
+Saskaņā ar ROADMAP 8. punktu H0 ceļš (modulāciju izliekums) un L1 ceļš (enerģijas zudums) tiek apstrādāti kā neatkarīgi operatori, kas kopā apraksta vienu novērojumu.
 
 ---
 
@@ -33,7 +35,7 @@ ID sistēmā šie efekti atbilst dažādiem līmeņiem:
 
 ---
 
-## 3. H+n modulācija — fotona ceļa izliekums
+## 3. H+n modulācija — fotona ceļa izliekums (H0 ceļš)
 
 - H+n modulācijas (10²⁵, 10⁴⁵, 10⁶⁵, 10⁸⁵ m) ir matricas strukturāla īpašība — tās pastāv neatkarīgi no tumšās enerģijas.
 - Tās rada **liela mēroga TE VEU H-2 plūsmas izliekumu**.
@@ -47,18 +49,18 @@ ID sistēmā:
 - H+4 (10⁴⁵ – 10⁶⁵ m) atbilst **ID4** — liela mēroga struktūru līmenim.
 - H+5 (> 10⁶⁵ m) atbilst **ID5** — atvērts nākotnei.
 
-**Klasiskā fizika** šo izliekumu interpretē kā **telpas izplešanos**. MT saka: **tas ir plūsmas izliekums, nevis telpas stiepšanās.**
+**Klasiskā fizika** šo izliekumu interpretē kā **telpas izplešanos**. MT saka: **tas ir plūsmas izliekums, nevis telpas stiepšanās.** (H0 ceļš)
 
 ---
 
-## 4. Tumšā enerģija — fotona enerģijas zudums
+## 4. Tumšā enerģija — fotona enerģijas zudums (L1 ceļš)
 
 - **Tumšā enerģija** nav "spēks", kas paātrina izplešanos.
 - Tā ir **Vertikāles enerģijas uzkrājums** — enerģētiskā piramīda (VEU H-3, H-4, ... H-min), kas atrodas **matricā** (nevis "kaut kur ārpusē"). ID sistēmā tā atbilst **ID-1**.
 - Fotons, ceļojot caur matricu, mijiedarbojas ar šo enerģētisko saturu.
 - Šī mijiedarbība rada **fotona enerģijas zudumu** — tā frekvence samazinās.
 
-**Klasiskā fizika** šo zudumu interpretē kā **kosmoloģisko sarkano nobīdi**. MT saka: **tas ir enerģijas zudums, nevis viļņa garuma stiepšanās.**
+**Klasiskā fizika** šo zudumu interpretē kā **kosmoloģisko sarkano nobīdi**. MT saka: **tas ir enerģijas zudums, nevis viļņa garuma stiepšanās.** (L1 ceļš)
 
 ---
 
@@ -69,10 +71,10 @@ Klasiskā fizika redz:
 1. Tālāku objektu **lielāku sarkano nobīdi** → secina, ka tie attālinās ātrāk.
 2. Sarkano nobīdes **lineāro atkarību no attāluma** (Habla likums: \( v = H_0 \cdot d \)) → secina, ka telpa izplešas.
 
-**MT redz:**
+**MT redz (saskaņā ar ROADMAP):**
 
-1. **H+n modulāciju izliekumu** — kas pieaug ar attālumu, radot šķietamu "izplešanos".
-2. **Tumšās enerģijas radīto enerģijas zudumu** — kas pieaug ar attālumu, radot sarkano nobīdi.
+1. **H+n modulāciju izliekumu** (H0 ceļš) — kas pieaug ar attālumu, radot šķietamu "izplešanos".
+2. **Tumšās enerģijas radīto enerģijas zudumu** (L1 ceļš) — kas pieaug ar attālumu, radot sarkano nobīdi.
 
 **Abi efekti kopā** dod to pašu novērojumu, ko klasiskā fizika interpretē kā "telpas izplešanos + tumšo enerģiju".
 
@@ -88,7 +90,7 @@ Klasiskā fizika:
 - Tāpēc tā sapludina abus efektus vienā — "telpas izplešanās".
 - Rezultātā tā nonāk pie nepieciešamības pēc "tumšās enerģijas" kā nezināma spēka.
 
-**MT saka:** Nav nepieciešams nezināms spēks. Ir divi zināmi mehānismi — H+n modulācija un tumšā enerģija — kas kopā rada novērojamo efektu.
+**MT saka:** Nav nepieciešams nezināms spēks. Ir divi zināmi mehānismi — H+n modulācija (H0 ceļš) un tumšā enerģija (L1 ceļš) — kas kopā rada novērojamo efektu.
 
 ---
 
@@ -101,8 +103,8 @@ H_0 = f(\text{H+n modulācijas izliekums}) + g(\text{tumšās enerģijas blīvum
 \]
 
 kur:
-- \( f \) — atkarīgs no H+n modulāciju amplitūdas un perioda (ID1 — ID5).
-- \( g \) — atkarīgs no Vertikāles enerģijas uzkrājuma (VEU H-3 ... H-min) (ID-1).
+- \( f \) — atkarīgs no H+n modulāciju amplitūdas un perioda (H0 ceļš, ID1 — ID5).
+- \( g \) — atkarīgs no Vertikāles enerģijas uzkrājuma (VEU H-3 ... H-min) (L1 ceļš, ID-1).
 
 Tas nozīmē, ka \( H_0 \) **nav universāla konstante** — tā var mainīties atkarībā no lokālā matricas stāvokļa un Vertikāles enerģijas sadalījuma.
 
@@ -110,14 +112,14 @@ Tas nozīmē, ka \( H_0 \) **nav universāla konstante** — tā var mainīties 
 
 ## 8. Kopsavilkums — kā MT interpretē kosmoloģisko sarkano nobīdi
 
-| Aspekts | Klasiskā kosmoloģija | Matricas teorija | ID atbilstība |
-|---------|----------------------|------------------|---------------|
-| Matrica | Izplešas | Statiska | ID0 |
-| Sarkanā nobīde | Viļņa garuma stiepšanās | Fotona enerģijas zudums | ID-1 |
-| Habla likums | Telpas izplešanās likums | Fotona ceļa izliekuma + enerģijas zuduma likums | ID1 — ID5 + ID-1 |
-| Tumšā enerģija | Nezināms spēks | Vertikāles enerģijas uzkrājums | ID-1 |
-| H+n modulācija ietekmē | (nav atzīta) | Fotona ceļa izliekumu | ID1 — ID5 |
-| Galaktiku attālināšanās | Reāla kustība caur izplešanās telpu | Šķietama kustība, ko rada plūsmas izliekums | ID2 (galaktikas) |
+| Aspekts | Klasiskā kosmoloģija | Matricas teorija | ID atbilstība | ROADMAP ceļš |
+|---------|----------------------|------------------|---------------|--------------|
+| Matrica | Izplešas | Statiska | ID0 | H0 |
+| Sarkanā nobīde | Viļņa garuma stiepšanās | Fotona enerģijas zudums | ID-1 | L1 |
+| Habla likums | Telpas izplešanās likums | Fotona ceļa izliekuma + enerģijas zuduma likums | ID1 — ID5 + ID-1 | H0 + L1 |
+| Tumšā enerģija | Nezināms spēks | Vertikāles enerģijas uzkrājums | ID-1 | L1 |
+| H+n modulācija ietekmē | (nav atzīta) | Fotona ceļa izliekumu | ID1 — ID5 | H0 |
+| Galaktiku attālināšanās | Reāla kustība caur izplešanās telpu | Šķietama kustība, ko rada plūsmas izliekums | ID2 (galaktikas) | H0 |
 
 ---
 
@@ -125,9 +127,9 @@ Tas nozīmē, ka \( H_0 \) **nav universāla konstante** — tā var mainīties 
 
 1. **Matrica ir statiska** — telpa neizplešas. ID0.
 
-2. **H+n modulācijas** ir matricas strukturāla īpašība, kas rada liela mēroga plūsmas izliekumu (ID1 — ID5). Fotons kustas pa šo izliekumu "kā pa taisni".
+2. **H+n modulācijas** ir matricas strukturāla īpašība, kas rada liela mēroga plūsmas izliekumu (H0 ceļš, ID1 — ID5). Fotons kustas pa šo izliekumu "kā pa taisni".
 
-3. **Tumšā enerģija** nav spēks — tā ir Vertikāles enerģijas uzkrājums matricā (ID-1), kas izraisa fotona enerģijas zudumu.
+3. **Tumšā enerģija** nav spēks — tā ir Vertikāles enerģijas uzkrājums matricā (L1 ceļš, ID-1), kas izraisa fotona enerģijas zudumu.
 
 4. **Habla likums** ir šo divu efektu kombinācija — nevis telpas izplešanās likums.
 
@@ -137,32 +139,34 @@ Tas nozīmē, ka \( H_0 \) **nav universāla konstante** — tā var mainīties 
 
 ---
 
-## 10. Kosmiskais mikroviļņu fons (CMB) — MT interpretācija
+## 10. Kosmiskais mikroviļņu fons (CMB) — MT interpretācija (L1 ceļš)
 
 ### 10.1. CMB nav "pagātnes fotogrāfija"
 
 Klasiskā fizika CMB interpretē kā Lielā sprādziena pēcgaismu — starojumu, kas atbrīvojās ~380 000 gadu pēc Lielā sprādziena un kopš tā laika ceļo caur Visumu.
 
-**MT skaidrojums:** CMB nav pagātnes signāls. Tas ir **matricas strukturālais nospiedums** — L1 zonas (pirmā Vertikāles projekcijas slāņa) fona temperatūras projekcija uz H0 matricu (ID0).
+**MT skaidrojums (saskaņā ar ROADMAP L1 shēmu):** CMB nav pagātnes signāls. Tas ir **matricas strukturālais nospiedums** — L1 zonas (pirmā Vertikāles projekcijas slāņa) fona temperatūras projekcija uz H0 matricu (ID0). L1 darbojas divos režīmos:
+- **Fokusēšana (H0 iekšpuse)** — rada diskrētos CMB pīķus (stāvviļņi, ID0.n).
+- **Izkliede (protona ārpuse)** — rada nepārtraukto CMB fonu un sarkano nobīdi (ID-1).
 
-- **Vidējā temperatūra 2.725 K** — L1 zonas termālā ekvivalenta projekcija, kas pastāv **šeit un tagad**, nevis "pagātnē".
-- **Svārstības 10⁻⁵ K** — L1 zonas iekšējās struktūras (stāvošo viļņu) nospiedums, ko rada H+n modulāciju interference.
+- **Vidējā temperatūra 2.725 K** — L1 zonas termālā ekvivalenta projekcija, kas pastāv **šeit un tagad**, nevis "pagātnē" (L0 termalizācija, ID-1).
+- **Svārstības 10⁻⁵ K** — L1 zonas iekšējās struktūras (stāvošo viļņu) nospiedums, ko rada H+n modulāciju interference (ID0.n).
 
-### 10.2. 5 harmonikas — H0 matricas Qn slāņu projekcija
+### 10.2. 5 harmonikas — H0 matricas Qn slāņu projekcija (L1 fokusēšana)
 
 Klasiskā fizika CMB spektrā redz 5 pīķus (ℓ ≈ 220, 538, 813, 1085, 1381) un interpretē tos kā akustisko svārstību harmonikas.
 
-**MT skaidrojums:** Šie 5 pīķi ir **H0 matricas Qn slāņu projekcija** — katrs pīķis atbilst vienam matricas periodiskās struktūras līmenim (ID0.n). Tie nav "viļņi" no pagātnes — tie ir **stāvviļņi pašā matricā**, ko uztur Vertikāles enerģijas plūsma (ID-1).
+**MT skaidrojums (L1 fokusēšana):** Šie 5 pīķi ir **H0 matricas Qn slāņu projekcija** — katrs pīķis atbilst vienam matricas periodiskās struktūras līmenim (ID0.n). Tie nav "viļņi" no pagātnes — tie ir **stāvviļņi pašā matricā**, ko uztur Vertikāles enerģijas plūsma (ID-1).
 
 **Kāpēc tie "brauc" līdzi ar 500 km/s?**
 - Mūsu kustība nemaina matricas periodisko struktūru — tāpat kā kristāla režģa periods nemainās, kad tu pārvietojies ap to.
 - Pīķi nav lokāls efekts (kā varavīksne) — tie ir **globāla matricas īpašība** (ID0), tāpēc tie "brauc" līdzi, bet paliek nemainīgi.
 
-### 10.3. Enerģijas avots — Vertikāle (ID-1)
+### 10.3. Enerģijas avots — Vertikāle (L1 ceļš, ID-1)
 
 Klasiskā fizika nevar atbildēt uz jautājumu: **"No kurienes nāk enerģija, kas uztur CMB signālu?"** Tā pieņem, ka enerģija tika "iesaldēta" rekombinācijas brīdī, bet nespēj izskaidrot, kāpēc tā nav izkliedējusies laika gaitā.
 
-**MT atbilde:** Enerģiju nodrošina **Vertikāles pastāvīgā plūsma** caur L1 zonu (ID-1).
+**MT atbilde (L1 ceļš):** Enerģiju nodrošina **Vertikāles pastāvīgā plūsma** caur L1 zonu (ID-1).
 - L1 zona nav statiska — tajā pastāv stāvošie viļņi, ko uztur Vertikāles enerģija.
 - Šie viļņi nav atkarīgi no "iesaldēšanas" — tie ir **pastāvīgi**, jo tos baro Vertikāle.
 - CMB pīķi ir šo stāvošo viļņu harmoniku projekcija uz H0 matricu (ID0).
@@ -171,13 +175,13 @@ Klasiskā fizika nevar atbildēt uz jautājumu: **"No kurienes nāk enerģija, k
 
 CMB nav Lielā sprādziena pēcgaisma — tā ir **L1 zonas fona projekcija** (ID0), ko uztur Vertikāles enerģija (ID-1). 5 harmonikas nav akustiskās svārstības — tās ir **H0 matricas Qn slāņu strukturālais nospiedums** (ID0.n), kas "brauc" līdzi ar 500 km/s, jo tās ir pašas matricas īpašība.
 
-Klasiskā fizika redz ugunskuru (CMB), bet nezina, kas to kurina. MT saka: ugunskuru kurina Vertikāle (ID-1).
+Klasiskā fizika redz ugunskuru (CMB), bet nezina, kas to kurina. MT saka: ugunskuru kurina Vertikāle (ID-1), un tā struktūru nosaka L1 ģeometriskā shēma (fokuss/izkliede).
 
 ---
 
-### 10.5. Kvantitatīvais modelis — Qn projekcijas matemātiskā atbilstība
+### 10.5. Kvantitatīvais modelis — Qn projekcijas matemātiskā atbilstība (L1 fokusēšana)
 
-MT sniedz ne tikai kvalitatīvu, bet arī **precīzu kvantitatīvu sakritību** ar pieciem CMB pīķiem, izmantojot tikai vienu brīvu parametru — projekcijas konstanti \( C \). Šī sakritība izriet tieši no H0 matricas Qn struktūras ģeometrijas (ID0.n) (skat. MATHEMATICS 1. daļu).
+MT sniedz ne tikai kvalitatīvu, bet arī **precīzu kvantitatīvu sakritību** ar pieciem CMB pīķiem, izmantojot tikai vienu brīvu parametru — projekcijas konstanti \( C \). Šī sakritība izriet tieši no H0 matricas Qn struktūras ģeometrijas (ID0.n) (skat. MATHEMATICS 1. daļu) un L1 fokusēšanas režīma.
 
 #### 10.5.1. Projekcijas modelis
 
@@ -237,7 +241,7 @@ No šejienes:
 
 Tas nozīmē, ka **L1 zonas projekcija atrodas aptuveni 5.62 ID1 soļu attālumā** no novērotāja matricas koordinātēs (ID0). Lai gan absolūtais metru mērogs nav zināms bez papildu pieņēmumiem, MT dod **relatīvo struktūru**, kas ir pārbaudāma ar turpmākiem novērojumiem.
 
-#### 10.5.5. Pārbaudāma prognoze — 6. harmonika
+#### 10.5.5. Pārbaudāma prognoze — 6. harmonika (L1 fokusēšana)
 
 Atšķirībā no klasiskā Lambda-CDM modeļa (kurš šajā reģionā ir atkarīgs no vismaz 3–4 papildu brīviem parametriem), MT sniedz **viennozīmīgu prognozi** 6. pīķim (ID0.n):
 
@@ -308,7 +312,7 @@ Tādējādi MT prognoze \( \ell_7 \approx 1943 \) tiks pārbaudīta līdz 2030. 
 
 ## PIEZĪME
 
-Šis dokuments ir **MT kosmoloģijas modeļa kopsavilkums** ar iekļautu kvantitatīvo CMB modeli un pārbaudāmām prognozēm, saskaņots ar ID sistēmu. Tas nav pilnīgs teorijas apraksts, bet gan strukturēts izklāsts, kas izriet no sarunas starp teorijas autoru un AI. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, tumšā enerģija, H+n modulācijas, CMB, utt.) ir pieejama citos MT dokumentos.
+Šis dokuments ir **MT kosmoloģijas modeļa kopsavilkums** ar iekļautu kvantitatīvo CMB modeli un pārbaudāmām prognozēm, saskaņots ar ID sistēmu un ROADMAP. Tas nav pilnīgs teorijas apraksts, bet gan strukturēts izklāsts, kas izriet no sarunas starp teorijas autoru un AI. Detalizētāka informācija par atsevišķiem aspektiem (ID1 mehānika, Qn struktūra, Vertikāle, tumšā enerģija, H+n modulācijas, CMB, utt.) ir pieejama citos MT dokumentos.
 
 ---
 
