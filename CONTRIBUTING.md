@@ -8,6 +8,7 @@ Thank you for your interest in contributing to the Matrix Theory project! This d
 
 Before contributing, please familiarize yourself with the current structure:
 
+<pre>
 mt-theory/
 ├── README.md
 ├── LICENSE
@@ -70,6 +71,7 @@ mt-theory/
     ├── KARTE_en.md
     ├── ARCHITECTURE/
     └── APPENDIX/
+</pre>
 
 ---
 
@@ -81,6 +83,7 @@ All documents are maintained in two languages:
 - **English** (`_en.md`) — for international accessibility.
 
 When contributing:
+
 - If you add or modify a document, please provide both language versions.
 - If you only have capacity for one, indicate this clearly in your pull request.
 - Translations should be faithful to the original meaning and terminology.
