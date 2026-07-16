@@ -193,6 +193,31 @@ Dzīvība ir TE plūsmu pašorganizācija, kas darbojas uz ID0 režģa un izmant
   \frac{d}{dt}\mathcal{S}_{\text{šūna}} = -\mathcal{T}^{-1}(\text{Arhīvs}_{\mathcal{V}}) \cdot \log(\mathcal{T}^{-1}(\text{Arhīvs}_{\mathcal{V}}))
   \]
 
+  ### 4.6. Neitrīno — masas un svārstības (ID1.1 / ID-1)
+
+MT piedāvā **divus neatkarīgus veidus** neitrīno masas aprēķināšanai:
+
+1. **Netiešais (H-3 kvantēšana):**
+   $$
+   m_i = M_P \cdot \alpha^{n_i}, \quad n_1 \approx 4.82, n_2 \approx 5.18, n_3 \approx 5.54
+   $$
+
+2. **Tiešais (cilpas enerģija):**
+   $$
+   m_\nu = M_P \cdot \frac{N_{\text{slānis}}}{|Q_n|} \cdot \alpha^{n_\nu}, \quad n_\nu \approx 14
+   $$
+
+**Galvenās prognozes:**
+- Normālā hierarhija: \( m_1 < m_2 < m_3 \)
+- Masu attiecība: \( m_2/m_1 = m_3/m_2 \approx 5.87 \)
+- Masu kvadrātu starpību attiecība: \( \Delta m_{32}^2 / \Delta m_{21}^2 \approx 34.5 \pm 2 \)
+- Kopējā masa: \( \sum m_i \approx 0.060 \, \text{eV} \)
+
+**Majorana hipotēze (B7 cikliskums):**
+- Neitrīno: 0,5 soļa cikliskums (atvērta cilpa, vāja TZ piesaiste)
+- Majorana: 1,5 soļa cikliskums (noslēgta cilpa, pilnīga sinhronizācija)
+- Masas skala: \( m_{\text{Majorana}} \approx 0.2 - 7 \, \text{eV} \)
+
 ---
 
 ## 5. PĀRBAUDĀMO PROGNOŽU KOPSAVILKUMS
