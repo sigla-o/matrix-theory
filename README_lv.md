@@ -21,9 +21,7 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | — `GRAVITY_lv.md` / `GRAVITY_en.md` | Gravitācija |
 | — `COSMOLOGY_lv.md` / `COSMOLOGY_en.md` | Kosmoloģija |
 | **`docs/physics/research/`** | Pētnieciskie materiāli |
-| — `NEUTRINO_lv.md` / `NEUTRINO_en.md` | Neitrīno fizika |
 | **`docs/hypotheses/`** |(hipotēzes, provizoriskie modeļi) |
-| — `NEUTRINO_MAJORANA_lv.md` / `NEUTRINO_MAJORANA_en.md` | Majorana daļiņu hipotēze (B7 cikliskums) |
 | **`docs/technology/`** | Tehnoloģiskais potenciāls |
 | **`docs/ethics/`** | Ētiskie un drošības aspekti |
 | **`docs/comparison/`** | Salīdzinājums ar kvantu mehāniku |
