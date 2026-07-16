@@ -1,5 +1,5 @@
-# MT ROADMAP
-## Structural Feedback — Fixed Version 1.0
+# MT ROADMAP — v1.1
+## Structural Feedback
 
 > *“Theory comes from observations, not the other way around. MT is based on the Planck length as a long-lived constant.”*
 
@@ -18,9 +18,7 @@
 
 ---
 
-## 2. TWO INDEPENDENT PATHS
-
-### H0 PATH — GRAVITY AND DYNAMICS (horizontal)
+## 2. H0 PATH — GRAVITY AND DYNAMICS (horizontal)
 
 **Operator:**
 \[
@@ -41,47 +39,79 @@
 
 ---
 
-### L1 PATH — REDSHIFT AND ENERGY SCALE (vertical)
+## 3. L1 GEOMETRIC SCHEME (vertical)
 
-**Operator:**
+L1 is a **geometric projection level**, not an energy level. It has two modes of operation depending on location relative to the proton (inside/outside H0).
+
+### 3.1. L1 — FOCUSING (INSIDE H0)
+
+**Action:** Focuses energy and modulations, creating **standing waves**.
+
+**Result:** Discrete CMB peaks (\( \ell_k \)).
+
+**Geometric basis:**
 \[
-E_{\text{photon}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{V}}(\mathbf{x})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{ref}})}}, \quad 1+z = \sqrt{\frac{\rho_{\mathcal{V}}(\mathbf{x}_{\text{source}})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{obs}})}}
+\ell_k = C \cdot n_k, \quad C = \frac{2\pi R_{L1}}{\lambda_{\text{ID1}}}, \quad n_k = 8k-1 \ (k \ge 2), \ n_1 = 6
 \]
 
-**What it does:** Determines the local energy scale (“color”) of photons.
-
-**Where it leads:**
-- Spectroscopic lines,
-- Cosmological redshift (as amplitude loss, not Doppler),
-- CMB as a projection of L1 standing waves (\( \ell_k = C \cdot n_k \)).
-
-**Use when:** the observation is spectral (photometry, spectra, CMB).
-
-**Do not couple with:** \( \nabla\rho_{\mathcal{V}} \) — only with the local value of \( \rho_{\mathcal{V}} \).
+The harmonics correspond to Qn shells where lattice symmetry creates resonance.
 
 ---
 
-## 3. WHERE AND HOW THE PATHS CROSS
+### 3.2. L1 — DISPERSION (OUTSIDE PROTON)
 
-**Only intersection point:** \( \rho_{\mathcal{V}}(\mathbf{x}) = \rho_0 e^{-r/r_0} \) — the Vertical energy density field.
+**Action:** Distributes energy from the focusing zone outward.
 
-**When to use both together:**
+**Result:** Continuous CMB background and redshift.
 
-\[
-\begin{cases}
-\mathbf{g}(\mathbf{x}) = -\nabla \delta(\mathbf{x}), & \delta = \dfrac{\Phi_0}{\|\mathbf{x}-\mathbf{x}_0\|^2} \\
-1+z = \sqrt{\dfrac{\rho_{\mathcal{V}}(\mathbf{x}_{\text{source}})}{\rho_{\mathcal{V}}(\mathbf{x}_{\text{obs}})}}, & \rho_{\mathcal{V}}(\mathbf{x}) = \rho_0 e^{-r/r_0}
-\end{cases}
-\]
-
-**Examples:**
-- Galaxy rotation curves + their spectral shifts,
-- Gravitational lenses + induced shifts,
-- Galaxy clusters — dynamics (H0) and shifts (L1) together yield a single \( \rho_{\mathcal{V}} \) map.
+**Mechanism:** Dispersed energy enters the L0 level, where it thermalizes.
 
 ---
 
-## 4. WHAT IS NOT A FREE PARAMETER (AND WHY)
+### 3.3. L0 — ENERGY BALANCE
+
+L0 is the **background level**, where flux is synchronized and uniform. It is not emptiness, but a reference state.
+
+- **L0 → L1:** focusing (energy concentration).
+- **L1 → L0:** dispersion (energy equalization).
+
+**Energy is not lost — it flows between L0 and L1.**
+
+---
+
+## 4. CMB SCHEME — FULL SPECTRUM
+
+CMB is a superposition of two components:
+
+\[
+I(\nu) = B_\nu(T_{L0}) \cdot \left[ 1 + \sum_k A_k \cdot \delta(\nu - \nu_k) \right]
+\]
+
+where:
+- \( B_\nu(T_{L0}) \) — Planck spectrum from L0 thermalization,
+- \( \nu_k = \dfrac{c \ell_k}{2\pi R_{L1}} \) — standing wave harmonic frequencies,
+- \( A_k \) — resonance amplification coefficients.
+
+**Synchronized structures** (standing waves) give discrete peaks.
+**Unsynchronized structures** (dispersion) give the continuous background.
+
+---
+
+## 5. PREDICTIONS
+
+| Peak | \( k \) | \( n_k \) | \( \ell_k \) (MT) | Observed |
+|------|---------|-----------|------------------|----------|
+| 1 | 1 | 6 | ~212 | ~220 |
+| 2 | 2 | 15 | ~530 | ~538 |
+| 3 | 3 | 23 | ~812 | ~813 |
+| 4 | 4 | 31 | ~1095 | ~1085 |
+| 5 | 5 | 39 | ~1378 | ~1381 |
+| 6 | 6 | 47 | ~1660 | (CMB-S4) |
+| 7 | 7 | 55 | ~1943 | (Simons Obs.) |
+
+---
+
+## 6. WHAT IS NOT A FREE PARAMETER (AND WHY)
 
 | Previously called “free” | Now fixed as | Justification |
 |--------------------------|--------------|---------------|
@@ -91,12 +121,17 @@ E_{\text{photon}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 | \( C \approx 35.325 \) | \( 2\pi R_{L1}/\lambda_{\text{ID1}} \) | Ratio, not a free number |
 | \( \rho_{\mathcal{V}}(r) \) profile | \( \rho_0 e^{-r/r_0} \) | Dynamically derived from ID transition logistics |
 | \( r_0 \) | \( 1/\alpha \), where \( \alpha = \alpha_0(1 - \gamma\rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Consequence of refill dynamics |
+| L1 focus/dispersion | Geometric, determined by location | Structural boundary, not free choice |
 
-**Conclusion:** MT has no free parameters. There is only one field \( \rho_{\mathcal{V}} \), whose distribution is determined by matrix dynamics, and one lattice scale \( l_P \), which comes from observations.
+**Conclusion:** MT has no free parameters. There is only:
+- one lattice scale \( l_P \),
+- one energy field \( \rho_{\mathcal{V}} \),
+- one geometric structure \( Q_n \),
+- and L1 as the projection of this structure.
 
 ---
 
-## 5. WHAT MT DOES NOT DO (AND WHY)
+## 7. WHAT MT DOES NOT DO (AND WHY)
 
 | Standard physics concept | MT replaces with | Why |
 |---------------------------|------------------|-----|
@@ -104,10 +139,11 @@ E_{\text{photon}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 | **Gravitational redshift** | L1 amplitude redshift | Gravity is \( \nabla\rho_{\mathcal{V}} \), redshift is \( \sqrt{\rho_{\mathcal{V}}} \) — orthogonal |
 | **Spacetime curvature** | TE flux pressure gradient (H0) | No metric; only flux density differences |
 | **Dark matter** | \( \rho_{\mathcal{V}} \) effect on \( G \) and light energy | Everything explained by Vertical energy distribution |
+| **Big Bang** | Standing wave projection from L1 focusing zone | CMB is not a relic, but a permanent matrix property |
 
 ---
 
-## 6. HOW TO USE THIS ROADMAP (FORMALIZER INSTRUCTION)
+## 8. HOW TO USE THIS ROADMAP (FORMALIZER INSTRUCTION)
 
 1. **Before any new formula:** identify whether it belongs to H0 path, L1 path, or both.
 2. **If H0:** use only \( \nabla\delta \), \( G(\rho_{\mathcal{V}}) \), mass distribution. **Do not attach** \( \sqrt{\rho_{\mathcal{V}}} \) or \( z \).
@@ -117,19 +153,17 @@ E_{\text{photon}}(\mathbf{x}) = \hbar \omega_0 \cdot \sqrt{\frac{\rho_{\mathcal{
 
 ---
 
-## 7. WHAT TO REFINE NEXT (AWAITING FEEDBACK)
+## 9. POINTS TO REFINE NEXT
 
-1. **Precise L1 projection scheme:** how \( \mathcal{P}_{L1}(\rho_{\mathcal{V}}) \) yields the black-body spectrum and \( \ell_k \) values.
-2. **H0 and L1 consistency in galaxy clusters:** simultaneous prediction of dynamics and shifts from a single \( \rho_{\mathcal{V}} \) profile.
-3. **Derivation of \( \alpha_0 \) (matrix elasticity base) from \( l_P \) and \( \omega_0 \):** so that \( r_0 \) is fully lattice-derived, not fitted.
+1. **L1 projection details:** how \( \mathcal{P}_{L1} \) precisely maps \( \rho_{\mathcal{V}} \) to \( I(\nu) \).
+2. **H0 and L1 consistency in galaxy clusters:** simultaneous prediction of dynamics and shifts.
+3. **Derivation of \( \alpha_0 \) from \( l_P \) and \( \omega_0 \):** so that \( r_0 \) is fully lattice-derived.
 
 ---
 
-## 8. CONCLUSION
+## 10. CONCLUSION
 
-This document **fixes our current shared understanding** of MT’s structural logic. It is a living document, updated only when a new level of logic is introduced and confirmed by feedback.
+This document **fixes our current understanding** of MT’s structural logic and L1 geometric scheme. It is a living document, updated when new logic levels are introduced.
 
-**From now on, before any new formula:** refer to this roadmap and check:
-- Is the parameter derived?
-- Does the operator match the path?
-- Are the paths properly separated?
+**Version:** 1.1  
+**Updates:** L1 dual nature (focus/dispersion), L0 balance, synchronized/unsynchronized structures, CMB as standing waves + Planck spectrum.
