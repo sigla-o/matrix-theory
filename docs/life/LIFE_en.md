@@ -2,7 +2,7 @@
 
 ## Summary Document
 
-This document summarizes the Matrix Theory (MT) interpretation of life, intelligence, and evolution. It is a structured description of the theory arising from MT's foundational principles — life is not a special form of matter, but a **level of TE flow self-organization** that learns the logic of H0 TE flow. The document is aligned with the ID system.
+This document summarizes the Matrix Theory (MT) interpretation of life, intelligence, and evolution. It is a structured description of the theory arising from MT's foundational principles — life is not a special form of matter, but a **level of TE flow self-organization** that learns the logic of H0 TE flow. The document is aligned with the ID system and ROADMAP (separation of H0 and L1 paths).
 
 **Important note:** The quantitative model of life (Section 12) is **preliminary and intended for further development**. It outlines the direction in which MT should be supplemented with experimentally testable predictions, but at its current stage it is not yet final and requires further development in collaboration with representatives of biology and medicine.
 
@@ -211,6 +211,8 @@ Interpretation:
 - \( \mathcal{C} = 0 \) — perfect synchronization (full consciousness) (ID-1 / ID0).
 - \( \mathcal{C} > 0 \) — desynchronization (anesthesia, sleep, disorientation) (ID0).
 
+**Note according to ROADMAP:** This equation combines the H0 path (Φ, ID0) and the L1 path (P_L1, ID-1), which is permissible because they describe the same ρᵥ field but as independent operators. See ROADMAP Section 8 for details.
+
 **Preliminary prediction:** Anesthetics mechanically block the \( \mathcal{P}_{L1} \) operator (ID0), increasing \( \mathcal{C} \). This effect can in principle be measured with quantum sensor technologies.
 
 ### 12.3. Chromosome operator (preliminary model) (ID1.4/1/1 / ID-1)
@@ -293,7 +295,7 @@ Classical biology sees only the Horizontal (chemistry, DNA) (ID0 / ID1.4). MT al
 
 ## NOTE
 
-This document is a **summary of the MT model of life** with a preliminary quantitative model, aligned with the ID system. Life is too broad to be fully described in a single document — this is the foundation of its MT interpretation and a direction for future work.
+This document is a **summary of the MT model of life** with a preliminary quantitative model, aligned with the ID system and ROADMAP. Life is too broad to be fully described in a single document — this is the foundation of its MT interpretation and a direction for future work.
 
 ---
 
