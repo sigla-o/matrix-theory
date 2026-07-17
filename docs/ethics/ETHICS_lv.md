@@ -1,8 +1,10 @@
+# ETHICS_lv.md (v3.0)
+
 # ĒTIKA — MATRICAS TEORIJAS VERSIJA (MT)
 
-## Kopsavilkuma dokuments
+## Pārstrādātā versija (2026. gada jūlijs) — v3.0
 
-Šis dokuments apkopo Matricas teorijas (MT) ētiskos un drošības aspektus — kāpēc MT tehnoloģijas ir bīstamas, kāpēc tās prasa atbildību un kāpēc "balanss ar Vertikāli" ir svarīgāks par "kontroli". Dokuments ir savienots ar MATHEMATICS formālismu un ID sistēmu, sniedzot kvantitatīvus kritērijus atbildīgai tehnoloģiju attīstībai.
+Šis dokuments apkopo Matricas teorijas (MT) ētiskos un drošības aspektus — kāpēc MT tehnoloģijas ir bīstamas, kāpēc tās prasa atbildību un kāpēc "balanss ar Vertikāli" ir svarīgāks par "kontroli". Dokuments ir savienots ar MATHEMATICS formālisma v3.0 versiju un ID sistēmu, sniedzot kvantitatīvus kritērijus atbildīgai tehnoloģiju attīstībai.
 
 **Būtisks precizējums:** Kvantitatīvie drošības kritēriji (4. nodaļa) ir provizoriski un paredzēti turpmākai attīstībai. Tie iezīmē virzienu, kādā MT varētu dot praktiskus ieteikumus tehnoloģiju drošībai, taču prasa turpmāku izstrādi un eksperimentālu pārbaudi.
 
@@ -10,15 +12,16 @@
 
 ## 1. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU UN ID SISTĒMU
 
-No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielumi un ID līmeņi:
+No MATHEMATICS_lv.md v3.0 un ID_GRADIENT_lv.md v3.0 tiek izmantoti šādi operatori, lielumi un ID līmeņi:
 
 | Operators / lielums | Definīcija | Ētiskā / drošības nozīme | ID atbilstība |
 |---------------------|------------|--------------------------|---------------|
 | \( \rho_{\mathcal{V}}(\mathbf{x}) \) | Vertikāles enerģijas blīvums | Enerģijas bilances indikators | ID-1 |
 | \( \mathcal{T} \) | Transformācijas zona (H0 → Vertikāle) | Enerģijas pārvēršanas mezgls | ID0 / ID-1 |
-| \( \mathcal{P}_{L1} \) | L1 zonas projekcijas operators | Vertikāles enerģijas uztveršana | ID0 |
-| \( \Delta \Phi(\mathbf{x}_0) \) | TE plūsmas deficīts | Lokālās bilances traucējums | ID0 |
-| \( \alpha \) | Matricas elastība | Sistēmas stabilitātes mērs | ID0 |
+| \( \mathcal{P}_{L1} \) | L1 zonas projekcijas operators | Vertikāles enerģijas uztveršana | ID0 / ID-1 |
+| \( \Phi(\mathbf{x},\mathbf{y};t) \) | TE pārneses lielums | Lokālās bilances traucējums | ID0 |
+| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Sistēmas stabilitātes mērs | ID0 |
+| \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cikliskuma konstante | ID0.n |
 
 **Drošības pamatprincips:** Jebkura tehnoloģija, kas izraisa \( \rho_{\mathcal{V}} \) lokālas izmaiņas (ID-1), ir potenciāli bīstama.
 
@@ -30,9 +33,9 @@ No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielu
 - Atšķirībā no klasiskās fizikas, MT tehnoloģijas darbojas **ārpus H0 ierobežojumiem** (ID-1 / ID0) — tās ir grūtāk kontrolēt un bīstamāk, ja tiek izmantotas nepareizi.
 
 **Formāli:** Tehnoloģija ir droša, ja (ID-1 / ID0):
-\[
+$$
 \left| \frac{d}{dt} \rho_{\mathcal{V}} \right| < \epsilon_{\text{krit}}
-\]
+$$
 kur \( \epsilon_{\text{krit}} \) ir kritiskais slieksnis, kas nosaka Vertikāles bilances traucējuma pieļaujamo lielumu (ID-1).
 
 ---
@@ -42,15 +45,15 @@ kur \( \epsilon_{\text{krit}} \) ir kritiskais slieksnis, kas nosaka Vertikāles
 **Atombumba ir piemērs tam, kas notiek, ja tiek izjaukta Vertikāles bilance (ID-1).**
 
 - Tā atbrīvo VEU H-3 enerģiju **nekontrolēti** (ID-1).
-- Tā iznīcina matēriju un traucē TE plūsmas (ID0).
+- Tā iznīcina matēriju un traucē TE pārneses (ID0).
 - Tā ir **vienreizējs, neatgriezenisks** notikums (ID0 / ID-1).
 
 **MT skaidrojums:** Atombumba nav "enerģijas avots" — tā ir "enerģijas atbrīvošana", kas notiek, izjaucot Vertikāles bilanci (ID-1).
 
 **Kvantitatīvi:** Kodolsprādziena laikā atbrīvotā enerģija (ID-1 / ID0):
-\[
+$$
 E_{\text{sprādziens}} = \Delta \rho_{\mathcal{V}} \cdot V_{\text{ietekme}}
-\]
+$$
 kur \( \Delta \rho_{\mathcal{V}} \) ir Vertikāles enerģijas blīvuma lokālās izmaiņas (ID-1), \( V_{\text{ietekme}} \) — ietekmes zona (ID0).
 
 Salīdzinājumam: Saules kodolreakcijās \( \Delta \rho_{\mathcal{V}} \) ir pakāpeniska un kontrolēta (ID-1 / ID2). Atombumbā tā ir pēkšņa un nekontrolēta (ID-1 / ID0).
@@ -68,9 +71,9 @@ TZ ir **Vertikāles telpa** (ID-1), nevis Horizontāles (ID0).
 - Mēģinājums radīt TZ būtu mēģinājums manipulēt ar Vertikāli (ID-1) — tas ir bīstami un, visticamāk, neiespējami.
 
 **Formāli:** TZ operators \( \mathcal{T} \) ir **vienvirziena** (ID0 → ID-1):
-\[
+$$
 \mathcal{T}: \mathcal{L} \to \mathcal{V}, \quad \mathcal{T}^{-1} \text{ nav definēts H0 līmenī}
-\]
+$$
 
 Tas nozīmē, ka H0 objekti (ID0 / ID1 — ID4) **nevar** radīt TZ — tie var tikai mijiedarboties ar to, kad Vertikāle to aktivizē (ID-1).
 
@@ -87,26 +90,26 @@ Tas nozīmē, ka H0 objekti (ID0 / ID1 — ID4) **nevar** radīt TZ — tie var 
 **Nevis "paņemt", bet "pieslēgties".** Izmantot enerģijas plūsmu, kas jau pastāv (ID-1 / ID0), nevis to izraut.
 
 Kvantitatīvais kritērijs:
-\[
+$$
 \frac{\Delta \rho_{\mathcal{V}}}{\rho_{\mathcal{V}}^{(0)}} \ll 1
-\]
+$$
 — tehnoloģija nedrīkst mainīt Vertikāles enerģijas blīvumu (ID-1) vairāk par nelielu daļu.
 
 **Nevis sprādziens, bet ilgtspējība.** Tehnoloģijai jābūt ilgtspējīgai — tā var darboties nepārtraukti, bez Vertikāles bilances traucēšanas (ID-1).
 
 Kvantitatīvais kritērijs:
-\[
+$$
 \frac{d}{dt} \rho_{\mathcal{V}} \approx 0
-\]
+$$
 — sistēmai jāuztur līdzsvars laikā (ID-1 / ID0).
 
 **Nevis nesaderība, bet saderība.** Tehnoloģijai jābūt saderīgai ar H0 matricu (ID0) — tā pastāv matricā, nevis to iznīcina.
 
 Kvantitatīvais kritērijs:
-\[
+$$
 \Delta \Phi(\mathbf{x}) < \Phi_{\text{krit}}
-\]
-— TE plūsmas lokālais traucējums (ID0) nedrīkst pārsniegt kritisko slieksni.
+$$
+— TE pārneses lokālais traucējums (ID0) nedrīkst pārsniegt kritisko slieksni.
 
 ### 5.2. Kāpēc "balansā" ir svarīgāk par "kontroli"? (ID-1 / ID0)
 
@@ -137,7 +140,7 @@ Kvantitatīvais kritērijs:
 | **Prognoze** | **Kvantitatīvais kritērijs** | **Pārbaudes metode** | **ID atbilstība** |
 |--------------|------------------------------|----------------------|-------------------|
 | Vertikāles bilances traucējums | \( \Delta \rho_{\mathcal{V}}/\rho_{\mathcal{V}}^{(0)} \ll 1 \) | Kvantu metroloģija | ID-1 / ID0 |
-| TE plūsmas lokālais traucējums | \( \Delta \Phi < \Phi_{\text{krit}} \) | TE plūsmas sensori | ID0 |
+| TE pārneses lokālais traucējums | \( \Delta \Phi < \Phi_{\text{krit}} \) | TE pārneses sensori | ID0 |
 | Atombumbas ietekme uz Vertikāli | \( \Delta \rho_{\mathcal{V}} \sim E_{\text{sprādziens}}/V \) | Pēceksplozijas mērījumi | ID-1 / ID0 |
 | Drošas tehnoloģijas kritērijs | \( d\rho_{\mathcal{V}}/dt \approx 0 \) | Nepārtraukts monitorings | ID-1 / ID0 |
 
@@ -158,10 +161,5 @@ Kvantitatīvais kritērijs:
 
 ---
 
-## PIEZĪME
-
-Šis dokuments ir **MT ētisko un drošības aspektu kopsavilkums** ar provizoriskiem kvantitatīviem kritērijiem, saskaņots ar ID sistēmu. Tas nav pilnīgs ētikas kodekss, bet gan virziens, kurā MT tehnoloģijas būtu jāattīsta atbildīgi. Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos.
-
----
-
-*Dokuments sagatavots: 2026. gada jūlijā*
+*Dokuments sagatavots: 2026. gada jūlijā*  
+*Versija: 3.0 — saskaņots ar MATHEMATICS v3.0, atjauninātas operatoru definīcijas*
