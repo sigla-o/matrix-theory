@@ -1,8 +1,10 @@
+# TECHNOLOGY_lv.md (v3.0)
+
 # TEHNOLOĢIJA — MATRICAS TEORIJAS VERSIJA (MT)
 
-## Pārstrādātā versija (2026. gada jūlijs)
+## Pārstrādātā versija (2026. gada jūlijs) — v3.0
 
-Šis dokuments apkopo Matricas teorijas (MT) tehnoloģisko potenciālu — kā MT principus var pielietot praktiskās tehnoloģijās, nevis tikai teorētiskajā fizikā. Tas ir strukturēts izklāsts par to, kā MT maina skatījumu uz enerģiju, informāciju un matēriju, un tagad tas ir savienots ar MATHEMATICS formālisma pārstrādāto versiju un ID sistēmu, sniedzot kvantitatīvus aprēķinus un pārbaudāmas prognozes.
+Šis dokuments apkopo Matricas teorijas (MT) tehnoloģisko potenciālu — kā MT principus var pielietot praktiskās tehnoloģijās, nevis tikai teorētiskajā fizikā. Tas ir strukturēts izklāsts par to, kā MT maina skatījumu uz enerģiju, informāciju un matēriju, un tagad tas ir savienots ar MATHEMATICS formālisma v3.0 versiju un ID sistēmu.
 
 **Būtisks precizējums:** Tehnoloģiskais modelis ir **provizorisks un paredzēts turpmākai attīstībai**. Tas iezīmē virzienu, kādā MT principus varētu pielietot praktiskās tehnoloģijās, taču pašreizējā stadijā tas vēl nav realizēts un prasa turpmāku izstrādi un eksperimentālu pārbaudi.
 
@@ -10,7 +12,7 @@
 
 ## 1. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU UN ID SISTĒMU
 
-No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielumi un ID līmeņi:
+No MATHEMATICS_lv.md v3.0 un ID_GRADIENT_lv.md v3.0 tiek izmantoti šādi operatori, lielumi un ID līmeņi:
 
 | Operators / lielums | Definīcija | Tehnoloģiskā nozīme | ID atbilstība |
 |---------------------|------------|---------------------|---------------|
@@ -18,9 +20,10 @@ No MATHEMATICS_lv.md un ID_GRADIENT_lv.md tiek izmantoti šādi operatori, lielu
 | \( \phi_0 \) | \( \hbar c/l_P \) | Maksimālais pārneses kvants | ID0 |
 | \( \rho_{\mathcal{V}}(\mathbf{x}) \) | Vertikāles enerģijas blīvums | Enerģijas avots (VEU H-3) | ID-1 |
 | \( \mathcal{T} \) | Transformācijas zona (H0 → Vertikāle) | Enerģijas pārvēršanas mezgls | ID0 / ID-1 |
-| \( \mathcal{P}_{L1} \) | L1 zonas projekcijas operators | Vertikāles enerģijas uztveršana | ID0 |
+| \( \mathcal{P}_{L1} \) | L1 zonas projekcijas operators | Vertikāles enerģijas uztveršana | ID0 / ID-1 |
 | \( \alpha \) | \( 49G_0/(24\pi\hbar c) \) | Rezonanses efektivitātes mērs | ID1 |
-| \( \gamma \) | \( \lambda_{\text{ID0}}/R_{L1} \approx 0.18 \) | Materiālu arhitektūras parametrs | ID0 |
+| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Cikliskuma inversais mērogs | ID0 |
+| \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cikliskuma konstante | ID0.n |
 | \( \omega_0 \) | \( 2\pi c/l_P \) | Matricas pulkstenis (pamatfrekvence) | ID0 |
 
 ---
@@ -34,7 +37,7 @@ Saskaņā ar ROADMAP, pastāv divi principiāli atšķirīgi tehnoloģiskie ceļ
 - **Informācija:** Elektromagnētiskie viļņi, optiskās šķiedras, kvantu sakari (sapīšanās 1. tips — caur Qn struktūru). ID sistēmā šīs tehnoloģijas darbojas ID0 līmenī — caur matricas TE pārneses kanāliem.
 - **Enerģija:** Baterijas, kondensatori, elektrotīkli. ID atbilstība: ID1.4 (ķīmiskās baterijas), ID2 (infrastruktūra).
 - **Ierobežojumi:** Gaismas ātrums \( c \), zudumi (pretestība, dekoherence), nepieciešamība pēc infrastruktūras. Tas ir ID0 līmeņa ierobežojums — matricas pārneses kanālu ātrums un pretestība.
-- **Efektivitāte (teorētiskā maksimums):** \( \eta_1 \approx 1 - e^{-d/\lambda} \), kur \( d \) ir attālums, \( \lambda \) — pārneses viļņa garums. Efektivitāti nosaka ID0 pārneses īpašības.
+- **Efektivitāte (teorētiskā maksimums):** \( \eta_1 \approx 1 - e^{-d/\lambda} \), kur \( d \) ir attālums, \( \lambda \) — pārneses viļņa garums.
 
 **MT ieguldījums:** Dziļāka izpratne par TE pārneses kanāliem (ID0) ļauj **optimizēt** esošās tehnoloģijas — samazināt zudumus, palielināt efektivitāti, izmantojot fāžu sinhronizāciju \( \theta \).
 
@@ -42,9 +45,9 @@ Saskaņā ar ROADMAP, pastāv divi principiāli atšķirīgi tehnoloģiskie ceļ
 
 - **Informācija:** Impulsa pārnese caur Vertikāli (sapīšanās 2. tips) — bez laika aiztures, bez zudumiem, neatkarīgi no attāluma. ID sistēmā tas atbilst ID-1 (Vertikāles enerģijas kanāls) un ID0 (matricas projekcija).
 - **Enerģija:** VEU H-3 līmeņa enerģijas izmantošana caur matērijas arhitektūru — bez ķīmiskām reakcijām, bez zudumiem. ID atbilstība: ID-1 (enerģijas avots), ID1.4 (materiālu struktūra), ID0 (pārraides kanāls).
-- **Efektivitāte (teorētiskā):** \( \eta_2 \approx 1 - \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \), kur \( \rho_{\mathcal{V}} \) ir Vertikāles enerģijas blīvums (ID-1). Efektivitāti nosaka ID-1 / ID0 attiecība.
+- **Efektivitāte (teorētiskā):** \( \eta_2 \approx 1 - \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \), kur \( \rho_{\mathcal{V}} \) ir Vertikāles enerģijas blīvums (ID-1).
 
-**Ierobežojumi:** Nepieciešama **matērijas arhitektūra**, kas spēj sinhronizēties ar Vertikāli (ID-1). Tehnoloģija ir bīstama, ja tiek izmantota nepareizi (skat. ETHICS_lv.md). ID sistēmā tas atbilst nepareizai ID-1 / ID0 mijiedarbībai.
+**Ierobežojumi:** Nepieciešama **matērijas arhitektūra**, kas spēj sinhronizēties ar Vertikāli (ID-1). Tehnoloģija ir bīstama, ja tiek izmantota nepareizi (skat. ETHICS_lv.md).
 
 **MT ieguldījums:** Pilnīgi jauna tehnoloģiju klase, kas darbojas ārpus H0 ierobežojumiem (ID-1 / ID0).
 
@@ -196,11 +199,5 @@ MT tehnoloģiskais potenciāls ir milzīgs, bet tas prasa:
 
 ---
 
-## PIEZĪME
-
-Šis dokuments ir **MT tehnoloģiskā potenciāla pārstrādātā versija** ar provizoriskiem kvantitatīviem aprēķiniem, saskaņots ar ID sistēmu un MATHEMATICS formālisma pārstrādāto versiju. Tas nav pilnīgs tehnoloģiju projekts, bet gan virziens, kurā MT var tikt pielietota praktiski. Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos.
-
----
-
 *Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 2.0 — pārstrādāta, lai novērstu skalāro lauku un plūsmas terminoloģiju*
+*Versija: 3.0 — saskaņots ar MATHEMATICS v3.0, atjauninātas operatoru definīcijas*
