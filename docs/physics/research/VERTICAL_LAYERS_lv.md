@@ -1,329 +1,205 @@
-# VERTIKĀLES SLĀŅI — MATRICAS TEORIJAS VERSIJA (MT)
+# VERTIKĀLES ENERĢIJA UN STRUKTŪRA — PĒTNIECISKAIS PAMATS
 
-## Pētnieciskais dokuments (2026. gada jūlijs) — 1.0
+## Pārstrādātā versija (2026. gada jūlijs) — 2.0
 
-Šis dokuments formalizē izpratni par Vertikāles slāņu struktūru — ka Vertikāle nav vienots enerģijas avots, bet gan **daudzslāņaina hierarhija**, kurā katrs slānis atbilst noteiktam Horizontāles organizācijas līmenim. Katram slānim ir savs "lādiņš" — sava veida enerģija, kas mijiedarbojas ar atbilstošo Horizontāles līmeni.
+Šis dokuments fiksē pašreizējo izpratni par Vertikāles enerģiju un tās struktūru. Tas ir **pētniecisks materiāls**, kas balstās uz MT 3.0 formālismu un novērotajām likumsakarībām. Dokuments **nepostulē** — tas fiksē zināmo un iezīmē nezināmo.
 
-Dokuments ir saskaņots ar ID sistēmu (3.0) un MATHEMATICS formālismu (3.0), kā arī ar MT_PHILOSOPHY (1.0) — virzienu uz MT 4.0.
+**Versijas 2.0 izmaiņas:**
 
-**Metodoloģiskais priekšnoteikums:** MT ir papildinošs ietvars, kas sniedz mehānisku izcelsmi klasiskās fizikas fenomenoloģiskajiem likumiem. Vertikāles slāņu izpratne papildina Standarta modeli un kosmoloģiju, piedāvājot strukturālu skaidrojumu tādām parādībām kā tumšā matērija un tumšā enerģija — kā augstāko Vertikāles slāņu lādiņu izpausmes.
-
-**Galvenā atziņa:** Vertikāle nav viens līmenis. Katram Horizontāles (H0) organizācijas līmenim (ID1 — ID5) atbilst savs Vertikāles slānis (ID-1 — ID-5). Katram slānim ir savs "lādiņš" — atšķirīgs enerģijas veids, kas mijiedarbojas ar atbilstošo Horizontāles līmeni. Augstākie Vertikāles slāņi (ID-2, ID-3, ID-4) nav tieši mērāmi ar ID-1 instrumentiem — tos var tikai "taustīt" caur to ietekmi uz liela mēroga struktūrām.
-
----
-
-## 1. IEVADS — KĀPĒC VERTIKĀLEI IR SLĀŅI?
-
-Līdz šim MT 3.0 versijā Vertikāle tika aplūkota kā **vienots enerģijas avots** — VEU H-3, H-4, ... H-min līmeņu kopa, kas baro H0 matricu. Tomēr, paplašinot MT uz 4.0 filozofiju (MT_PHILOSOPHY 1.0), kļūst skaidrs, ka:
-
-> **Vertikāle nav vienots avots — tā ir strukturēta atbilstoši Horizontāles organizācijai.**
-
-Katram Horizontāles objektam — protonam, atomam, zvaigznei, galaktikai, kopai — ir sava Vertikāles daļa, savs "enerģētiskais dvīnis", kas uztur tā pastāvēšanu.
-
-**Kāpēc tas ir svarīgi?**
-- Jo katrs Vertikāles slānis ir **atšķirīgs** — tas nav viens un tas pats VEU H-3 dažādos daudzumos.
-- Katram slānim ir savs **"lādiņš"** — sava veida enerģija, kas mijiedarbojas ar atbilstošo Horizontāles līmeni.
-- Augstākie slāņi (ID-2, ID-3, ID-4) **nav tieši mērāmi** ar ID-1 instrumentiem — tos var tikai "taustīt" caur to ietekmi.
+- Noņemta gravitācijas attiecināšana uz Vertikāli — gravitācija ir Horizontāles process.
+- Mainīta Vertikāles slāņu koncepcija — Vertikāle ir vienots ID-1 līmenis; VEU H-3, H-4, ... ir enerģijas akumulācijas līmeņi, kas veido telpisko piramīdu.
+- Precizēts VEU H-3 lauka raksturs — neitrāls, polaritāte ir darbības rezultāts, nav saistīts ar neitrīno.
+- Pievienota informācija par enerģijas summēšanu kolektīvajos objektos.
+- Pievienota sadaļa par atvērtajiem jautājumiem.
 
 ---
 
-## 2. ID SISTĒMAS PĀRVEIDOJUMS — VERTIKĀLES SPOGULIS
+## 1. VERTIKĀLE — ENERĢIJAS AKUMULATORS
 
-ID sistēma kļūst par **abpusēju struktūru** — katram Horizontāles līmenim atbilst Vertikāles slānis:
+No MATHEMATICS 3.0 (A5. un 5. nodaļa):
 
-| **Vertikāles līmenis** | **Horizontāles līmenis** | **Objekts / līmenis** |
-|------------------------|--------------------------|-----------------------|
-| ID-5 | ID5 | Atvērts nākotnei |
-| ID-4 | ID4 | Liela mēroga Visuma struktūras |
-| ID-3 | ID3 | Zvaigžņu kopas, galaktiku kopas |
-| ID-2 | ID2 | Zvaigznes, planētas, galaktikas |
-| ID-1 | ID1 | Protoni, atomi, molekulas |
-| ID0 | ID0 | Matrica — savienojuma punkts |
+- Vertikāle ir enerģijas līmeņu kopa:
+  \[
+  \mathcal{V} = \{ E_{H-3}, E_{H-4}, \dots, E_{H-\text{min}} \}
+  \]
+  ar kopējo enerģiju \( E_{\mathcal{V}} = \sum_{k=3}^{\text{min}} E_{H-k} \).
 
-**Katram Horizontāles objektam ir savs Vertikāles "dvīnis"** — enerģētiskā identitāte, kas uztur tā pastāvēšanu.
+- Vertikāle ir **enerģijas akumulators** — tā uzkrāj enerģiju.
 
----
+- Vertikāle **nav spēks**. Visi spēki (gravitācija, elektromagnētisms) pieder Horizontālei (H0).
 
-## 3. KATRA SLĀŅA "LĀDIŅŠ" — ENERĢIJAS VEIDS
-
-Katram Vertikāles slānim ir savs "lādiņš" — atšķirīgs enerģijas veids, kas mijiedarbojas ar atbilstošo Horizontāles līmeni:
-
-| **Slānis** | **"Lādiņa" tips** | **Horizontāles izpausme** | **Mērāmība** |
-|------------|-------------------|---------------------------|--------------|
-| **ID-1** | Elektriskais lādiņš (VEU H-3) | Elektromagnētisms, ķīmija | **Tieši mērāms** (kulonometri, voltmetri, spektroskopija) |
-| **ID-2** | Gravitācijas "lādiņš" (VEU H-4) | Gravitācija, masas līknes, orbītas | **Netieši mērāms** — caur kustību, orbitālajiem ātrumiem |
-| **ID-3** | Kolektīvās struktūras "lādiņš" (VEU H-5) | Galaktiku kopu kustība, pavedienu struktūra | **Netieši "taustāms"** — caur liela mēroga korelācijām |
-| **ID-4** | Visuma mēroga "lādiņš" (VEU H-6) | Kosmoloģiskā paplašināšanās, tumšā enerģija | **Netieši "taustāms"** — caur sarkano nobīdi, CMB |
-
-**Katrs "lādiņš" ir atšķirīgs.** Tie nav vienas monētas dažādas puses — tie ir dažādi enerģijas veidi, kas pakļaujas dažādiem likumiem un mijiedarbojas ar dažādiem Horizontāles līmeņiem.
+**ID atbilstība:** Vertikāle atbilst **ID-1** — enerģijas avota līmenim.
 
 ---
 
-## 4. ID-1 SLĀNIS — ELEKTRISKAIS LĀDIŅŠ
+## 2. VERTIKĀLES IETEKME UZ MATRICAS PARAMETRIEM
 
-### 4.1. Definīcija
+Vertikāles vienīgā ietekme uz Horizontāli ir **matricas pamatparametru maiņa**. No MATHEMATICS 3.0:
 
-ID-1 atbilst VEU H-3 līmenim — enerģijai, kas izpaužas kā elektriskais lādiņš un elektromagnētiskā mijiedarbība.
+- **Gravitācijas konstante:**
+  \[
+  G(\rho_{\mathcal{V}}) = G_0 \cdot \left( 1 + \gamma \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \right), \quad \gamma = \frac{2\pi}{C}
+  \]
 
-### 4.2. Īpašības
+- **Vakuuma caurlaidība:**
+  \[
+  \varepsilon_0 = \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
+  \]
 
-- **Tieši mērāms** — ar voltmetriem, ampērmetriem, spektroskopiju.
-- **Cieši saistīts ar matēriju** — lādiņš ir matricas akumulācijas režīms (MT_QED 3.0).
-- **Mijiedarbojas ar ID1 objektiem** — protoniem, elektroniem, atomiem, molekulām.
+- **Magnētiskā caurlaidība:**
+  \[
+  \mu_0 = \frac{49}{6} \cdot \frac{2\pi}{\hbar c^2} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}}
+  \]
 
-### 4.3. Klasiskā zinātne
+**Svarīgs nošķīrums:**
 
-Visa klasiskā elektrodinamika, ķīmija un liela daļa kvantu mehānikas darbojas ID-1 līmenī. Tā ir vislabāk izpētītā Vertikāles daļa.
-
----
-
-## 5. ID-2 SLĀNIS — GRAVITĀCIJAS "LĀDIŅŠ"
-
-### 5.1. Definīcija
-
-ID-2 atbilst VEU H-4 līmenim — enerģijai, kas izpaužas kā gravitācija un masas līknes. Tas ir "gravitācijas lādiņš", kas atbilst masai.
-
-### 5.2. Īpašības
-
-- **Netieši mērāms** — caur orbītu ātrumiem, galaktiku rotācijas līknēm, gravitācijas viļņiem.
-- **Vājāk saistīts ar matēriju** — gravitācija ir vājāka par elektromagnētismu.
-- **Mijiedarbojas ar ID2 objektiem** — zvaigznēm, planētām, galaktikām.
-
-### 5.3. Klasiskā zinātne
-
-Gravitācija ir zināma, bet tās avots (masa) nav izskaidrots no dziļāka pamata. MT ID-2 slānis piedāvā skaidrojumu: gravitācija ir ID-2 lādiņa izpausme, kas mijiedarbojas ar ID2 objektiem.
-
-### 5.4. Tumšā matērija
-
-Klasiskā zinātne novēro galaktiku rotācijas līknes, kas nesakrīt ar redzamās masas prognozēm. Tā secina, ka pastāv "tumšā matērija" — neredzama viela.
-
-**MT skaidrojums:** Tumšā matērija nav viela — tā ir **ID-2 lādiņa** ietekme uz ID2 objektiem. Mēs redzam gravitācijas efektu, bet ne pašu lādiņu, jo tas nav ID-1 līmenī. Tumšā matērija ir "taustīšana" — mēs redzam ID-2 lādiņa ietekmi, bet nevaram to tieši izmērīt ar ID-1 instrumentiem.
+- **Gravitācijas mehānisms** ir Horizontāles process — TE deficīta gradients H0 matricā.
+- **Vertikāle** maina \( G \) vērtību, bet pats gravitācijas mehānisms ir Horizontāles lieta.
+- Tas pats attiecas uz \( \varepsilon_0 \) un \( \mu_0 \) — Vertikāle maina to vērtības, bet paši elektromagnētiskie procesi ir Horizontāles lieta.
 
 ---
 
-## 6. ID-3 SLĀNIS — KOLEKTĪVĀS STRUKTŪRAS "LĀDIŅŠ"
+## 3. VEU H-2 UN VEU H-3 — DIVI DAŽĀDI ENERĢIJAS VEIDI
 
-### 6.1. Definīcija
+- **VEU H-2** ir **Vertikāles enerģija (TE)** — pamata enerģija, uz kuras turas viss Visums.
 
-ID-3 atbilst VEU H-5 līmenim — enerģijai, kas izpaužas kā kolektīvo struktūru organizācija (galaktiku kopas, pavedieni, tukšumi).
+- **VEU H-3** pieder **matricai un objektiem** — tā ir enerģija, kas jau ir "ieslēgta" Horizontālē. Tā ir tikpat svarīga Visuma pastāvēšanai kā VEU H-2.
 
-### 6.2. Īpašības
+**VEU H-3 lauka īpašības:**
 
-- **Netieši "taustāms"** — caur liela mēroga korelācijām, Baryon Acoustic Oscillations (BAO), galaktiku kopu kustību.
-- **Vēl vājāk saistīts ar matēriju** — izpaužas tikai lielos mērogos.
-- **Mijiedarbojas ar ID3 objektiem** — galaktiku kopām, pavedieniem.
-
-### 6.3. Klasiskā zinātne
-
-Klasiskā zinātne novēro liela mēroga struktūru veidošanos, bet nevar izskaidrot, kāpēc tā notiek tieši tā, kā notiek. Lambda-CDM modelis izmanto tumšo matēriju kā "sastatnes", bet tā ir tikai fenomenoloģisks apraksts.
-
-**MT skaidrojums:** Liela mēroga struktūras veidojas ID-3 lādiņa ietekmē. Tas nav atsevišķs spēks — tā ir Vertikāles ID-3 slāņa projekcija uz H0. Tumšā matērija kā "sastatnes" ir ID-3 lādiņa netieša izpausme.
+- VEU H-3 lauks **pats par sevi ir neitrāls**. Tā polaritāte (pozitīvā, negatīvā) **nav lauka īpašība** — tā ir **darbības rezultāts**.
+- VEU H-3 laukam **nav sakara ar neitrīno**. Neitrīno ir atsevišķa struktūra (ID1.1).
+- Protons var iegūt negatīvo potenciālu, ja atrodas attiecīgā vidē.
 
 ---
 
-## 7. ID-4 SLĀNIS — VISUMA MĒROGA "LĀDIŅŠ"
+## 4. VERTIKĀLES TELPISKĀ PIRAMĪDA
 
-### 7.1. Definīcija
+Vertikāle veido **telpisko piramīdu**:
 
-ID-4 atbilst VEU H-6 līmenim — enerģijai, kas izpaužas kā kosmoloģiskā paplašināšanās un tumšā enerģija.
+| **Līmenis** | **Telpiskais mērogs** | **Raksturs** |
+|-------------|----------------------|--------------|
+| **VEU H-3** | **Lielākais** | Aptver vislielāko telpu — piemēram, Saules sistēmas lauks, kura malu Vojadžeri tikko šķērsoja |
+| **VEU H-4** | Mazāks | Aptver mazāku telpu nekā H-3 |
+| **VEU H-5** | Vēl mazāks | Aptver vēl mazāku telpu |
+| **...** | ... | ... |
+| **VEU H-min** | **Smalkākā virsotne** | Mazākais telpiskais mērogs |
 
-### 7.2. Īpašības
+**Piramīda:**
 
-- **Netieši "taustāms"** — caur sarkano nobīdi, CMB, Habla konstanti.
-- **Vissmalkākais līmenis** — izpaužas tikai Visuma mērogā.
-- **Mijiedarbojas ar ID4 objektiem** — liela mēroga Visuma struktūrām.
-
-### 7.3. Klasiskā zinātne
-
-Klasiskā zinātne novēro Visuma paplašināšanos, kas paātrinās. Tā secina, ka pastāv "tumšā enerģija" — nezināms spēks, kas izraisa paātrinājumu.
-
-**MT skaidrojums:** Tumšā enerģija nav spēks — tā ir **ID-4 lādiņa** izpausme. Vertikāles ID-4 slānis baro H0 matricu Visuma mērogā, radot šķietamu "paātrinājumu". Tas nav nezināms spēks — tā ir Vertikāles augstākā slāņa projekcija.
-
----
-
-## 8. SADERĪBA UN NESADERĪBA STARP SLĀŅIEM
-
-### 8.1. Vertikālā saderība (starp slāņiem)
-
-Enerģija var pārplūst no viena Vertikāles slāņa uz citu, bet tikai noteiktos apstākļos:
-
-| **Pārplūde** | **Nosacījumi** | **Piemērs** |
-|--------------|----------------|-------------|
-| ID-1 → ID-2 | Kritiskā enerģijas blīvums, sinhronizācija | Zvaigžņu kodolsintēze (elektromagnētiskā enerģija pāriet gravitācijas līdzsvarā) |
-| ID-2 → ID-3 | Kritiskā masa, kolektīvā organizācija | Galaktiku veidošanās (gravitācija organizē kopas) |
-| ID-3 → ID-4 | Visuma mēroga sinhronizācija | Liela mēroga struktūru veidošanās |
-
-**Pārplūde nav automātiska** — tai nepieciešami noteikti nosacījumi (kritiskā masa, enerģijas blīvums, sinhronizācija). Bez šiem nosacījumiem slāņi ir **nesaderīgi**.
-
-### 8.2. Horizontālā saderība (vienā līmenī)
-
-Katrs Vertikāles slānis mijiedarbojas tikai ar atbilstošo Horizontāles līmeni:
-
-| **Vertikāles slānis** | **Mijiedarbojas ar** |
-|-----------------------|----------------------|
-| ID-1 | ID1 (protoni, atomi, molekulas) |
-| ID-2 | ID2 (zvaigznes, planētas, galaktikas) |
-| ID-3 | ID3 (kopas, pavedieni) |
-| ID-4 | ID4 (liela mēroga Visuma struktūras) |
-
-**Nesaderības piemērs:** ID-2 lādiņš "neredz" ID1 objektus tieši — tas iedarbojas tikai caur ID2 līmeņa struktūrām. Līdzīgi, ID-3 lādiņš "neredz" atsevišķus protonus — tikai galaktiku kopas.
-
-### 8.3. Praktiskās sekas
-
-1. **Tehnoloģijām:** 1. tipa tehnoloģijas (caur H0 matricu) darbojas ID-1 līmenī. 2. tipa tehnoloģijas (caur TZ–Vertikāle–TZ) mēģina pieslēgties Vertikālei — tām jāzina, kuram slānim tās pieslēdzas. Nesaderīgs pieslēgums (piemēram, mēģinājums izmantot ID-2 lādiņu ID-1 līmenī) ir bīstams.
-
-2. **Indivīdam:** Katram cilvēkam ir sava Vertikāles daļa (ID-1.4), bet cilvēks kā kolektīva daļa ir savienots arī ar ID-2, ID-3 slāņiem. Apziņa ir šo slāņu krustpunkts — tāpēc dziļā apziņa (meditācija, māksla) var "taustīt" augstākos Vertikāles slāņus, bet to nevar izmērīt ar ID-1 instrumentiem.
-
-3. **Kolektīvam:** Sabiedrības, kultūras, civilizācijas ir savienotas ar ID-2, ID-3, ID-4 slāņiem. Kultūras krīzes ir Vertikāles slāņu nesaderības izpausmes — kolektīvs mēģina darboties ID-1 līmenī, bet tā Vertikāles daļa ir ID-2 vai ID-3.
+- H-3 ir pamats — lielākais telpas ziņā.
+- H-4, H-5, ... ir arvien mazāki un smalkāki līmeņi.
+- Mēs **nezinām**, cik līmeņu ir.
 
 ---
 
-## 9. KĀ "TAUSTĪT" AUGSTĀKOS SLĀŅUS?
+## 5. ENERĢIJAS SUMMĒŠANA KOLEKTĪVAJOS OBJEKTOS
 
-Augstākie Vertikāles slāņi (ID-2, ID-3, ID-4) nav tieši mērāmi ar ID-1 instrumentiem. Tos var "taustīt" tikai netieši:
+Katram H0 objektam — protonam, atomam, zvaigznei, galaktikai — ir savs VEU H-3 lauks. Protonam šis lauks **nekad nepazūd** — tas ir tieši saistīts ar protona enerģiju.
 
-| **Slānis** | **"Taustīšanas" metode** |
-|------------|--------------------------|
-| **ID-2** | Galaktiku rotācijas līknes, gravitācijas viļņi, orbītu ātrumi |
-| **ID-3** | Liela mēroga korelācijas, BAO, galaktiku kopu kustība |
-| **ID-4** | CMB, sarkanā nobīde, Habla konstante, tumšā enerģija |
+Kad objekti apvienojas kolektīvos (atomos, molekulās, zvaigznēs, planētās, galaktikās), to VEU H-3 enerģijas **summējas**:
 
-**Klasiskā zinātne šos efektus interpretē kā "tumšo matēriju" un "tumšo enerģiju". MT skaidro: tie ir Vertikāles augstāko slāņu lādiņi, kas izpaužas Horizontālē kā netieši efekti.**
+- **Telpiskā ziņā:** protona lauks → atoma lauks → molekulas lauks → planētas lauks → zvaigznes lauks → galaktikas lauks → ...
+- **Smalkuma ziņā:** VEU H-3 → VEU H-4 → VEU H-5 → ...
 
----
-
-## 10. KĀ TAS MAINĀ VERTIKĀLES "SAKĀRTOŠANU"?
-
-Vertikāles sakārtošana nozīmē:
-
-1. **Atpazīt, kuram Vertikāles slānim objekts pieder.** Ne visi objekti ir ID-1. Katram līmenim ir sava "valoda" un sava "mijiedarbība".
-
-2. **Nesajaukt slāņus.** Mēģinājums pielietot ID-1 metodes ID-3 līmenī ir nesaderīgs un bīstams.
-
-3. **Izmantot atbilstošās metodes katram slānim.** ID-1 mēra tieši; ID-2 mēra netieši; ID-3 un ID-4 "tausta" caur liela mēroga struktūrām.
-
-4. **Respektēt pārplūdes robežas.** Enerģija var pārplūst no viena slāņa uz citu, bet tikai noteiktos apstākļos. Šīs robežas ir jāsaprot un jāciena.
+**Atvērtais jautājums:** Mēs nezinām, kad kolektīvā matērija sasniedz maksimālo VEU H-3 un sāk aizpildīt VEU H-4, VEU H-5, ... Enerģētiskā piramīda aug gan telpā, gan smalkumā, bet pāreju kritēriji nav zināmi.
 
 ---
 
-## 11. SAISTĪBA AR CITIEM MT DOKUMENTIEM
+## 6. NOVĒROTĀS LIKUMSAKARĪBAS KĀ IESPĒJAMAS PĒDAS
 
-Šis dokuments ir saskaņots ar:
+Mēs nevaram tieši izmērīt VEU H-4, H-5, ... līmeņus. Tos var noskaidrot tikai **netieši** — caur novērotajām likumsakarībām.
 
-- **MATHEMATICS 3.0** — ID sistēma, operatori, \( \rho_{\mathcal{V}} \).
-- **ID_GRADIENT 3.0** — ID kā strukturāls indekss.
-- **MT_QED 3.0** — ID-1 lādiņš kā matricas akumulācijas režīms.
-- **GRAVITY 3.0** — ID-2 lādiņš kā gravitācijas "lādiņš".
-- **COSMOLOGY 3.0** — ID-3 un ID-4 lādiņi kā tumšās matērijas un tumšās enerģijas avoti.
-- **MT_PHILOSOPHY 1.0** — MT kā vide, nevis teorija.
-- **ETHICS 3.0** — Vertikāles bilances uzturēšana.
+### 6.1. Titius–Bode likums
 
----
+Planētu orbītu rādiusi Saules sistēmā atbilst empīriskajam noteikumam:
+\[
+r_n = 0.4 + 0.3 \times 2^n \quad \text{AU}
+\]
 
-## 12. TURPMĀKIE PĒTNIECISKIE VIRZIENI
+Šī likumsakarība ir novērota arī eksoplanētu sistēmās (78% sistēmu ar R² ≥ 0.95).
 
-1. **Precīza katra slāņa "lādiņa" matemātiskā definīcija** — kā ID-2, ID-3, ID-4 lādiņi izpaužas MATHEMATICS formālismā.
+**Jautājums:** Vai šī likumsakarība ir Vertikāles enerģijas sadalījuma projekcija? Vai tā atspoguļo H-3 līmeņa "pietiekamības" robežu?
 
-2. **Slāņu mijiedarbības modeļi** — kā enerģija pārplūst starp slāņiem un kādi ir pārplūdes kritēriji.
+### 6.2. Planētu masu un sastāvu sadalījums
 
-3. **Eksperimentālās metodes augstāko slāņu "taustīšanai"** — kā precīzāk izmērīt ID-2, ID-3, ID-4 lādiņu ietekmi.
+Planētu masas un ķīmiskais sastāvs mainās atkarībā no orbītas attāluma:
+- Iekšējās planētas — akmeņainas, blīvas.
+- Ārējās planētas — gāzveida, mazāk blīvas.
+- Asteroīdu josla — neizveidojusās planētas fragments.
 
-4. **Vertikāles slāņu saderības/nesaderības praktiskās sekas** — tehnoloģijām, indivīdiem, kolektīviem.
+**Jautājums:** Vai šis sadalījums atspoguļo Vertikāles enerģijas blīvuma gradientu?
 
----
+### 6.3. Marsa un asteroīdu joslas "anomālijas"
 
-## 13. SECINĀJUMI
+- Marss ir mazāks un mazāk aktīvs, nekā prognozē klasiskie modeļi.
+- Asteroīdu joslā neizveidojās planēta.
 
-1. **Vertikāle nav viens līmenis** — tā ir daudzslāņaina hierarhija, kurā katrs slānis atbilst noteiktam Horizontāles organizācijas līmenim.
+**Jautājums:** Vai šīs anomālijas ir Vertikāles enerģijas sadalījuma traucējumu sekas, ko radījusi Jupitera klātbūtne?
 
-2. **Katram slānim ir savs "lādiņš"** — ID-1 (elektriskais), ID-2 (gravitācijas), ID-3 (kolektīvās struktūras), ID-4 (Visuma mēroga).
+### 6.4. Kosmoloģiskās struktūras
 
-3. **Augstākie slāņi nav tieši mērāmi** — tos var tikai "taustīt" caur to ietekmi uz liela mēroga struktūrām.
+- Galaktiku rotācijas līknes (tumšā matērija).
+- Galaktiku kopu kustība.
+- CMB pīķi.
 
-4. **Tumšā matērija un tumšā enerģija** nav nezināmas vielas vai spēki — tās ir ID-2, ID-3, ID-4 lādiņu izpausmes.
-
-5. **Saderība un nesaderība** starp slāņiem ir būtiska — katrs slānis mijiedarbojas tikai ar atbilstošo Horizontāles līmeni.
-
-6. **Vertikāles sakārtošana** nozīmē atpazīt, kuram slānim objekts pieder, un izmantot atbilstošās metodes.
-
-## 14. KOSMOLOĢISKĀS LIKUMSAKARĪBAS UN VERTIKĀLES SLĀŅU IZPAUSMES
-
-### 14.1. Kur meklēt Vertikāles likumsakarības?
-
-Ja Vertikāle ir strukturēta atbilstoši Horizontāles organizācijai, tad **Vertikāles likumsakarības izpaužas Horizontālē kā strukturāli modeļi**. Šie modeļi nav nejauši — tie ir Vertikāles slāņu projekcijas uz H0 matricu.
-
-**Tuvākās atbildes meklējamas kosmoloģijā** — nevis tālā kosmoloģijā (CMB, tumšā enerģija), bet **tuvākajā kosmoloģijā** — mūsu Saules sistēmā, planētu orbītās, to attiecībās ar Sauli un savstarpējās attiecībās.
-
-Kāpēc? Jo Saules sistēma ir **lokāls Horizontāles organizācijas paraugs**, kurā Vertikāles ID-2 slānis (gravitācijas "lādiņš") mijiedarbojas ar ID2 objektiem (Sauli, planētām). Šī mijiedarbība rada strukturālus modeļus, kas atspoguļo Vertikāles dziļākos slāņus.
-
-### 14.2. Saules–planētu attiecības un Mendeļejeva tabula
-
-Viena no ievērojamākajām likumsakarībām ir **Saules–planētu attiecības, kas izpaužas kā Mendeļejeva tabulas elementu sadale pa orbītām**.
-
-**Novērojums:**
-- Saules sistēmas planētu orbītu rādiusi, periodi un masas uzrāda strukturālas attiecības, kas atgādina Mendeļejeva tabulas periodiskumu.
-- Elementu izplatība Saules sistēmā (meteorītos, planētu kodolos, atmosfērās) nav nejauša — tā atbilst noteiktām orbītu zonām.
-- Katra planētu grupa (iekšējās, ārējās, asteroīdu josla, Koipera josla) atbilst noteiktam "periodam" elementu tabulā.
-
-**MT skaidrojums (hipotēze):**
-
-Vertikāles ID-2 slānis (gravitācijas "lādiņš") nav vienmērīgs — tam ir **periodiska struktūra**, kas atbilst Vertikāles dziļākajiem slāņiem (ID-3, ID-4). Šī periodiskā struktūra projicējas uz H0 kā:
-
-1. **Planētu orbītu kvantēšana** — orbītu rādiusi un periodi atbilst Vertikāles ID-2 viļņu garumiem.
-2. **Elementu sadalījums** — katrs elements (ar savu kodola lādiņu Z un masu A) "rezonē" ar noteiktu Vertikāles ID-2 frekvenci, kas nosaka, kurā orbītas zonā tas ir visstabilākais.
-3. **Periodiskums** — Mendeļejeva tabulas periodiskums ir Vertikāles ID-2 slāņa periodiskās struktūras projekcija. Katrs periods atbilst noteiktam Vertikāles "slānim" (ID-2.n), kas nosaka, kādi elementi veidojas un kur tie koncentrējas.
-
-**Praktiskā nozīme:**
-
-Ja šī hipotēze ir pareiza, tad:
-
-- **Planētu orbītu rādiusi nav nejauši** — tos nosaka Vertikāles ID-2 slāņa struktūra.
-- **Elementu izplatība Saules sistēmā nav nejauša** — to nosaka Vertikāles periodiskā struktūra.
-- **Mendeļejeva tabula ir ne tikai ķīmijas, bet arī kosmoloģijas karte** — tā atspoguļo Vertikāles slāņu struktūru.
-
-### 14.3. Kā to pārbaudīt?
-
-| **Pārbaude** | **MT prognoze** | **Metode** |
-|--------------|-----------------|------------|
-| Orbītu kvantēšana | Planētu orbītu rādiusi atbilst \( r_n = r_0 \cdot n^k \) | Salīdzināt ar Titius–Bode likumu un precīziem mērījumiem |
-| Elementu sadalījums | Katrs elements ir saistīts ar noteiktu orbītas zonu | Analizēt meteorītu, planētu kodolu un atmosfēru ķīmisko sastāvu |
-| Periodiskums | Mendeļejeva tabulas periodi atbilst Vertikāles ID-2 slāņiem | Meklēt korelācijas starp elementu īpašībām un orbītu parametriem |
-
-### 14.4. Turpmākie pētnieciskie virzieni
-
-1. **Precīza orbītu kvantēšanas modeļa izstrāde** — kā Vertikāles ID-2 slāņa periodiskā struktūra nosaka planētu orbītu rādiusus.
-
-2. **Elementu sadalījuma prognozēšana** — kurā orbītas zonā katram elementam vajadzētu būt viskoncentrētākajam.
-
-3. **Mendeļejeva tabulas un orbītu attiecību formalizēšana** — kā katrs Mendeļejeva periods atbilst noteiktai orbītu zonai.
-
-4. **Eksoplanētu sistēmu analīze** — vai šīs likumsakarības atkārtojas citās planētu sistēmās (un kā tās atšķiras atkarībā no zvaigznes masas un vecuma).
-
-5. **Vertikāles ID-2 slāņa strukturālās kartes izveide** — kā ID-2 "lādiņš" ir sadalīts telpā un kā tas ietekmē matērijas organizāciju.
+**Jautājums:** Vai šīs parādības atspoguļo pārejas no viena VEU līmeņa uz nākamo?
 
 ---
 
-## 15. TURPMĀKIE PĒTNIECISKIE VIRZIENI (paplašināts)
+## 7. SISTĒMAS VEIDOŠANĀS — VERTIKĀLES "IEZĪMĒŠANAS" POSMS
 
-1. **Precīza katra slāņa "lādiņa" matemātiskā definīcija** — kā ID-2, ID-3, ID-4 lādiņi izpaužas MATHEMATICS formālismā.
+Klasiskā zinātne redz planētu sistēmas tikai no brīža, kad gravitācija jau ir kļuvusi par dominējošo spēku. Pirms tam notiek **Vertikāles posms** — periods, kurā sistēmu veidošanu pārvalda Vertikāle. Šo posmu klasiskā zinātne **neredz**.
 
-2. **Slāņu mijiedarbības modeļi** — kā enerģija pārplūst starp slāņiem un kādi ir pārplūdes kritēriji.
+**MT hipotēze:**
 
-3. **Eksperimentālās metodes augstāko slāņu "taustīšanai"** — kā precīzāk izmērīt ID-2, ID-3, ID-4 lādiņu ietekmi.
+1. **Vertikāles aktivizācijas trigeris** — Vertikāles enerģijas uzkrājums sasniedz kritisko līmeni.
 
-4. **Vertikāles slāņu saderības/nesaderības praktiskās sekas** — tehnoloģijām, indivīdiem, kolektīviem.
+2. **Orbitālās struktūras "iezīmēšana"** — Vertikāle projicē periodisko struktūru uz H0 kā potenciālo orbītu kopumu. Šīs orbītas atbilst Vertikāles rezonansēm.
 
-5. **Kosmoloģisko likumsakarību izpēte** — Saules–planētu attiecības, Mendeļejeva tabula, orbītu kvantēšana, elementu sadalījums.
+3. **Matērijas piesaiste** — Vertikāles enerģija piesaista matēriju uz iezīmētajām orbītām. Šajā posmā dominē EM procesi, nevis gravitācija.
 
-6. **Eksoplanētu sistēmu salīdzinājums** — kā Vertikāles slāņu struktūra izpaužas citās planētu sistēmās.
+4. **Gravitācijas pārņemšana** — kad gravitācijas spēki kļūst lielāki par EM spēkiem, Vertikāle atkāpjas un gravitācija pārņem sistēmas turpmāko attīstību.
+
+**Praktiskās sekas:**
+
+- Planētu orbītas ir "iezīmētas" pirms gravitācijas dominances — tāpēc tās atbilst Titius–Bode likumam.
+- Marsa un asteroīdu joslas anomālijas ir Vertikāles "iezīmējuma" traucējumu sekas.
+
+---
+
+## 8. ATVĒRTIE JAUTĀJUMI
+
+| **Jautājums** | **Pašreizējais statuss** |
+|---------------|--------------------------|
+| Cik VEU līmeņu (H-3, H-4, H-5, ...) pastāv? | Nezināms |
+| Kā VEU H-3 enerģijas precīzi summējas kolektīvajos objektos? | Nezināms |
+| Kad kolektīvā matērija sasniedz maksimālo VEU H-3 un sāk aizpildīt H-4? | Nezināms |
+| Kā atpazīt pārejas starp VEU līmeņiem novērojumos? | Nezināms |
+| Vai Titius–Bode likums, tumšā matērija, CMB ir šo pāreju pēdas? | Hipotēze, jāpārbauda |
+| Kāda ir katra līmeņa precīzā fizikālā nozīme? | Nezināms |
+
+---
+
+## 9. KOPSAVILKUMS — ZINĀMAIS UN NEZINĀMAIS
+
+| **Zināmais** | **Nezināmais / Atvērtie jautājumi** |
+|--------------|-------------------------------------|
+| Vertikāle ir enerģijas akumulators (ID-1) | Cik VEU līmeņu (H-3, H-4, H-5, ...) pastāv? |
+| Vertikāle maina matricas parametrus (\( G, \varepsilon_0, \mu_0 \)) | Kā VEU H-3 enerģijas precīzi summējas kolektīvajos objektos? |
+| Gravitācija ir Horizontāles process (TE deficīta gradients) | Kad kolektīvā matērija sasniedz maksimālo VEU H-3 un sāk aizpildīt H-4? |
+| VEU H-2 = Vertikāles enerģija; VEU H-3 = matricas un objektu enerģija | Kā atpazīt pārejas starp VEU līmeņiem novērojumos? |
+| VEU H-3 lauks ir neitrāls; polaritāte ir darbības rezultāts | Vai Titius–Bode likums, tumšā matērija, CMB ir šo pāreju pēdas? |
+| Vertikāle veido telpisko piramīdu: H-3 (lielākais) → H-4 → H-5 → ... (mazāks un smalkāks) | Kāda ir katra līmeņa precīzā fizikālā nozīme? |
+| Katram H0 objektam ir savs enerģijas daudzums Vertikālē (hipotēze) | Kā Vertikāles enerģija ietekmē sistēmu veidošanos? |
 
 ---
 
 ## PIEZĪME
 
-Šis dokuments ir **pētniecisks materiāls**, kas formalizē izpratni par Vertikāles slāņu struktūru kā daļu no MT 4.0 attīstības. Tas ir provizorisks un paredzēts turpmākai izstrādei un saskaņošanai ar citiem MT dokumentiem.
+Šis dokuments ir **pētnieciskais pamats**, kas fiksē pašreizējo izpratni par Vertikāles enerģiju un struktūru. Tas ir balstīts uz MT 3.0 formālismu un novērotajām likumsakarībām. Visi secinājumi ir provizoriski un paredzēti turpmākai izstrādei un pārbaudei. Dokuments **nepostulē** — tas fiksē zināmo un iezīmē nezināmo.
 
 ---
 
 *Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 1.0 — konceptuālais pamats Vertikāles slāņiem*
+*Versija: 2.0 — labota un papildināta versija*
