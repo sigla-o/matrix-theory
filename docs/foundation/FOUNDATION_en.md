@@ -18,6 +18,19 @@ MT's operational range covers approximately \(10^{-115}\) m to \(10^{105}\) m. T
 
 **The theory does not attempt to answer "what came before" — it answers "how energy organizes itself."**
 
+### 1.1. MT's Relation to Classical Theories (GR, QED, QM, ΛCDM)
+
+Matrix Theory **does not compete** with established physical theories and **does not attempt to disprove them**.
+
+- Classical theories (Special and General Relativity, Quantum Electrodynamics, the Lambda-CDM model, quantum mechanics) are **empirical phenomenological laws** that excellently describe and predict observations within their domains (L1 and H0 levels).
+- MT's role is to provide a **deeper mechanical origin** for these laws. If a classical theory successfully describes a regularity, MT does not challenge it — it shows how that regularity emerges from the TE transfer on the ID0 lattice, Qn structure, and Vertical (ID-1) interactions.
+
+**"Map and territory" principle:**
+- Classical physics is the accurate **map**.
+- MT describes the **territory** (the discrete matrix and the Vertical) on which this map is built.
+
+Thus, MT reduces to classical equations in the appropriate limits (see Correspondence Principle in MATHEMATICS, Chapter 7), but offers new explanations for anomalies (dark matter/energy) and predicts new effects (G variation, higher CMB peaks) not visible on the classical map.
+
 ---
 
 ## 2. CONNECTION TO MATHEMATICS FORMALISM AND ID SYSTEM
