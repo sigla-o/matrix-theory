@@ -310,6 +310,17 @@ Novirze < 0.4%.
 
 ## 7. KORESPONDENCES PRINCIPS (ID0 / ID1)
 
+### 7.0. "Kartes un teritorijas" princips — MT kā mikro-pamatojums
+
+Pirms robežpāreju aplūkošanas, ir būtiski nofiksēt MT metodoloģisko attieksmi pret klasiskajām teorijām.
+
+MT **neierobežo** klasiskās fizikas (Ņūtona gravitācijas, Maksvela elektrodinamikas, Vispārīgās relativitātes, kvantu mehānikas) darbības lauku. Šīs teorijas ir precīzi fenomenoloģiski likumi, kas lieliski darbojas savos mērogos (ID1 — ID4, L1 līmenī). MT uzdevums ir sniegt **mehānisko izcelsmi** šo likumu matemātiskajai struktūrai.
+
+Korespondences princips MT iegūst papildu nozīmi:
+> **Klasiskā fizika ir precīzā karte. MT apraksta teritoriju (ID0 režģi un Vertikāli), uz kuras šī karte ir veidota.**
+
+Tādējādi, veicot robežpārejas (7.1.–7.3.), mēs nevis "zaudējam" MT, bet gan parādām, ka tā dabiski sašaurinās līdz labi zināmajiem vienādojumiem, kad Vertikāles enerģijas blīvums \( \rho_{\mathcal{V}} \) ir zems un novērojumi notiek lielos attālumos (ID1/ID2 skalās). Ja kāda no MT prognozēm (piemēram, G mainība) eksperimentāli neapstiprinās, klasiskā karte paliek neskarta, un MT tiek koriģēta savā mikrolīmenī.
+
 ### 7.1. Robeža: Saules sistēma (ID1 / ID2)
 Kad \( E_{\mathcal{V}}/E_{\text{H0}} \ll 1 \):
 $$
