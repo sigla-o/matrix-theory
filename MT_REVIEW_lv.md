@@ -8,7 +8,7 @@
 
 ---
 
-**0. Saderība, nevis konfrontācija (metodoloģiskā stabilitāte)**
+## 0. Saderība, nevis konfrontācija (metodoloģiskā stabilitāte)
 
 MT ir veidota tā, lai tā būtu **papildinoša**, nevis graujoša. Tā neprasa atteikties no GR, QED vai kvantu mehānikas — gluži pretēji, tā atzīst to prognožu milzīgo precizitāti. MT vienkārši piedāvā mehānismu, kas izskaidro, *kāpēc* šie likumi darbojas (ID0 režģa īpašības un Vertikāles enerģijas plūsma).
 
