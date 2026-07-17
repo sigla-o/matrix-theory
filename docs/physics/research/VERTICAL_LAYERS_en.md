@@ -246,6 +246,77 @@ This document is aligned with:
 
 6. **Organizing the Vertical** means recognizing which layer an object belongs to and using appropriate methods.
 
+## 14. COSMOLOGICAL REGULARITIES AND VERTICAL LAYER MANIFESTATIONS
+
+### 14.1. Where to look for Vertical regularities?
+
+If the Vertical is structured according to the organization of the Horizontal, then **Vertical regularities manifest in the Horizontal as structural patterns**. These patterns are not random — they are projections of Vertical layers onto the H0 matrix.
+
+**The closest answers are found in cosmology** — not distant cosmology (CMB, dark energy), but **nearby cosmology** — our Solar System, planetary orbits, their relationships with the Sun and with each other.
+
+Why? Because the Solar System is a **local example of Horizontal organization** where the Vertical ID-2 layer (gravitational "charge") interacts with ID2 objects (Sun, planets). This interaction creates structural patterns that reflect the deeper Vertical layers.
+
+### 14.2. Sun–planet relationships and the Periodic Table
+
+One of the most remarkable regularities is the **Sun–planet relationship manifesting as the distribution of Periodic Table elements across orbits**.
+
+**Observation:**
+- Solar System planetary orbital radii, periods, and masses show structural relationships resembling the periodicity of the Periodic Table.
+- Element distribution in the Solar System (meteorites, planetary cores, atmospheres) is not random — it corresponds to specific orbital zones.
+- Each planetary group (inner, outer, asteroid belt, Kuiper belt) corresponds to a specific "period" in the elemental table.
+
+**MT explanation (hypothesis):**
+
+The Vertical ID-2 layer (gravitational "charge") is not uniform — it has a **periodic structure** corresponding to the deeper Vertical layers (ID-3, ID-4). This periodic structure projects onto H0 as:
+
+1. **Quantization of planetary orbits** — orbital radii and periods correspond to Vertical ID-2 wavelengths.
+2. **Element distribution** — each element (with its nuclear charge Z and mass A) "resonates" with a specific Vertical ID-2 frequency, determining which orbital zone it is most stable in.
+3. **Periodicity** — the periodicity of the Periodic Table is a projection of the periodic structure of the Vertical ID-2 layer. Each period corresponds to a specific Vertical "layer" (ID-2.n), determining which elements form and where they concentrate.
+
+**Practical significance:**
+
+If this hypothesis is correct, then:
+
+- **Planetary orbital radii are not random** — they are determined by the structure of the Vertical ID-2 layer.
+- **Element distribution in the Solar System is not random** — it is determined by the periodic structure of the Vertical.
+- **The Periodic Table is not just a map of chemistry, but also of cosmology** — it reflects the structure of the Vertical layers.
+
+### 14.3. How to test this?
+
+| **Test** | **MT prediction** | **Method** |
+|----------|-------------------|------------|
+| Orbit quantization | Planetary orbital radii follow \( r_n = r_0 \cdot n^k \) | Compare with Titius–Bode law and precise measurements |
+| Element distribution | Each element is associated with a specific orbital zone | Analyze chemical composition of meteorites, planetary cores, and atmospheres |
+| Periodicity | Periodic Table periods correspond to Vertical ID-2 layers | Look for correlations between element properties and orbital parameters |
+
+### 14.4. Further research directions
+
+1. **Development of a precise orbit quantization model** — how the periodic structure of the Vertical ID-2 layer determines planetary orbital radii.
+
+2. **Prediction of element distribution** — in which orbital zone each element should be most concentrated.
+
+3. **Formalization of the relationship between the Periodic Table and orbits** — how each Periodic Table period corresponds to a specific orbital zone.
+
+4. **Analysis of exoplanet systems** — whether these regularities repeat in other planetary systems (and how they differ depending on star mass and age).
+
+5. **Creation of a structural map of the Vertical ID-2 layer** — how the ID-2 "charge" is distributed in space and how it affects matter organization.
+
+---
+
+## 15. FURTHER RESEARCH DIRECTIONS (expanded)
+
+1. **Precise mathematical definition of each layer's "charge"** — how ID-2, ID-3, ID-4 charges manifest in the MATHEMATICS formalism.
+
+2. **Models of layer interaction** — how energy flows between layers and what the flow criteria are.
+
+3. **Experimental methods for "sensing" higher layers** — how to more precisely measure the influence of ID-2, ID-3, ID-4 charges.
+
+4. **Practical implications of Vertical layer compatibility/incompatibility** — for technologies, individuals, collectives.
+
+5. **Investigation of cosmological regularities** — Sun–planet relationships, the Periodic Table, orbit quantization, element distribution.
+
+6. **Comparison of exoplanet systems** — how the Vertical layer structure manifests in other planetary systems.
+
 ---
 
 ## NOTE
