@@ -18,6 +18,19 @@ MT darbības diapazons aptver aptuveni \(10^{-115}\) m līdz \(10^{105}\) m. Š�
 
 **Teorija necenšas atbildēt uz jautājumu "kas bija pirms" — tā atbild uz jautājumu "kā enerģija organizējas".**
 
+### 1.1. MT attiecības ar klasiskajām teorijām (GR, QED, QM, ΛCDM)
+
+Matricas teorija **nekonkurē** ar vispārpieņemtajām fizikas teorijām un **nemēģina tās noliegt**.
+
+- Klasiskās teorijas (Īpašā un Vispārīgā relativitāte, Kvantu elektrodinamika, Lambda-CDM modelis, kvantu mehānika) ir **empīriski fenomenoloģiski likumi**, kas lieliski apraksta un prognozē novērojumus savās darbības zonās (L1 un H0 līmenī).
+- MT uzdevums ir sniegt **dziļāku mehānisko izcelsmi** šiem likumiem. Ja klasiskā teorija spēj aprakstīt likumsakarību, MT to neapšauba — tā parāda, kā šī likumsakarība izriet no ID0 režģa TE pārneses, Qn struktūras un Vertikāles (ID-1) mijiedarbības.
+
+**"Kartes un teritorijas" princips:**
+- Klasiskā fizika ir precīzā **karte**.
+- MT apraksta **teritoriju** (diskrēto matricu un Vertikāli), uz kuras šī karte ir veidota.
+
+Tādējādi MT reducējas uz klasiskajiem vienādojumiem atbilstošās robežās (skat. Korespondences principu MATHEMATICS 7. nodaļā), bet piedāvā jaunus skaidrojumus anomālijām (tumšā matērija/enerģija) un prognozē jaunus efektus (G mainība, augstāki CMB pīķi), kas klasiskajā kartē nav redzami.
+
 ---
 
 ## 2. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU UN ID SISTĒMU
