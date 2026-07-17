@@ -246,6 +246,77 @@ Vertikāles sakārtošana nozīmē:
 
 6. **Vertikāles sakārtošana** nozīmē atpazīt, kuram slānim objekts pieder, un izmantot atbilstošās metodes.
 
+## 14. KOSMOLOĢISKĀS LIKUMSAKARĪBAS UN VERTIKĀLES SLĀŅU IZPAUSMES
+
+### 14.1. Kur meklēt Vertikāles likumsakarības?
+
+Ja Vertikāle ir strukturēta atbilstoši Horizontāles organizācijai, tad **Vertikāles likumsakarības izpaužas Horizontālē kā strukturāli modeļi**. Šie modeļi nav nejauši — tie ir Vertikāles slāņu projekcijas uz H0 matricu.
+
+**Tuvākās atbildes meklējamas kosmoloģijā** — nevis tālā kosmoloģijā (CMB, tumšā enerģija), bet **tuvākajā kosmoloģijā** — mūsu Saules sistēmā, planētu orbītās, to attiecībās ar Sauli un savstarpējās attiecībās.
+
+Kāpēc? Jo Saules sistēma ir **lokāls Horizontāles organizācijas paraugs**, kurā Vertikāles ID-2 slānis (gravitācijas "lādiņš") mijiedarbojas ar ID2 objektiem (Sauli, planētām). Šī mijiedarbība rada strukturālus modeļus, kas atspoguļo Vertikāles dziļākos slāņus.
+
+### 14.2. Saules–planētu attiecības un Mendeļejeva tabula
+
+Viena no ievērojamākajām likumsakarībām ir **Saules–planētu attiecības, kas izpaužas kā Mendeļejeva tabulas elementu sadale pa orbītām**.
+
+**Novērojums:**
+- Saules sistēmas planētu orbītu rādiusi, periodi un masas uzrāda strukturālas attiecības, kas atgādina Mendeļejeva tabulas periodiskumu.
+- Elementu izplatība Saules sistēmā (meteorītos, planētu kodolos, atmosfērās) nav nejauša — tā atbilst noteiktām orbītu zonām.
+- Katra planētu grupa (iekšējās, ārējās, asteroīdu josla, Koipera josla) atbilst noteiktam "periodam" elementu tabulā.
+
+**MT skaidrojums (hipotēze):**
+
+Vertikāles ID-2 slānis (gravitācijas "lādiņš") nav vienmērīgs — tam ir **periodiska struktūra**, kas atbilst Vertikāles dziļākajiem slāņiem (ID-3, ID-4). Šī periodiskā struktūra projicējas uz H0 kā:
+
+1. **Planētu orbītu kvantēšana** — orbītu rādiusi un periodi atbilst Vertikāles ID-2 viļņu garumiem.
+2. **Elementu sadalījums** — katrs elements (ar savu kodola lādiņu Z un masu A) "rezonē" ar noteiktu Vertikāles ID-2 frekvenci, kas nosaka, kurā orbītas zonā tas ir visstabilākais.
+3. **Periodiskums** — Mendeļejeva tabulas periodiskums ir Vertikāles ID-2 slāņa periodiskās struktūras projekcija. Katrs periods atbilst noteiktam Vertikāles "slānim" (ID-2.n), kas nosaka, kādi elementi veidojas un kur tie koncentrējas.
+
+**Praktiskā nozīme:**
+
+Ja šī hipotēze ir pareiza, tad:
+
+- **Planētu orbītu rādiusi nav nejauši** — tos nosaka Vertikāles ID-2 slāņa struktūra.
+- **Elementu izplatība Saules sistēmā nav nejauša** — to nosaka Vertikāles periodiskā struktūra.
+- **Mendeļejeva tabula ir ne tikai ķīmijas, bet arī kosmoloģijas karte** — tā atspoguļo Vertikāles slāņu struktūru.
+
+### 14.3. Kā to pārbaudīt?
+
+| **Pārbaude** | **MT prognoze** | **Metode** |
+|--------------|-----------------|------------|
+| Orbītu kvantēšana | Planētu orbītu rādiusi atbilst \( r_n = r_0 \cdot n^k \) | Salīdzināt ar Titius–Bode likumu un precīziem mērījumiem |
+| Elementu sadalījums | Katrs elements ir saistīts ar noteiktu orbītas zonu | Analizēt meteorītu, planētu kodolu un atmosfēru ķīmisko sastāvu |
+| Periodiskums | Mendeļejeva tabulas periodi atbilst Vertikāles ID-2 slāņiem | Meklēt korelācijas starp elementu īpašībām un orbītu parametriem |
+
+### 14.4. Turpmākie pētnieciskie virzieni
+
+1. **Precīza orbītu kvantēšanas modeļa izstrāde** — kā Vertikāles ID-2 slāņa periodiskā struktūra nosaka planētu orbītu rādiusus.
+
+2. **Elementu sadalījuma prognozēšana** — kurā orbītas zonā katram elementam vajadzētu būt viskoncentrētākajam.
+
+3. **Mendeļejeva tabulas un orbītu attiecību formalizēšana** — kā katrs Mendeļejeva periods atbilst noteiktai orbītu zonai.
+
+4. **Eksoplanētu sistēmu analīze** — vai šīs likumsakarības atkārtojas citās planētu sistēmās (un kā tās atšķiras atkarībā no zvaigznes masas un vecuma).
+
+5. **Vertikāles ID-2 slāņa strukturālās kartes izveide** — kā ID-2 "lādiņš" ir sadalīts telpā un kā tas ietekmē matērijas organizāciju.
+
+---
+
+## 15. TURPMĀKIE PĒTNIECISKIE VIRZIENI (paplašināts)
+
+1. **Precīza katra slāņa "lādiņa" matemātiskā definīcija** — kā ID-2, ID-3, ID-4 lādiņi izpaužas MATHEMATICS formālismā.
+
+2. **Slāņu mijiedarbības modeļi** — kā enerģija pārplūst starp slāņiem un kādi ir pārplūdes kritēriji.
+
+3. **Eksperimentālās metodes augstāko slāņu "taustīšanai"** — kā precīzāk izmērīt ID-2, ID-3, ID-4 lādiņu ietekmi.
+
+4. **Vertikāles slāņu saderības/nesaderības praktiskās sekas** — tehnoloģijām, indivīdiem, kolektīviem.
+
+5. **Kosmoloģisko likumsakarību izpēte** — Saules–planētu attiecības, Mendeļejeva tabula, orbītu kvantēšana, elementu sadalījums.
+
+6. **Eksoplanētu sistēmu salīdzinājums** — kā Vertikāles slāņu struktūra izpaužas citās planētu sistēmās.
+
 ---
 
 ## PIEZĪME
