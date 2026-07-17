@@ -1,8 +1,12 @@
 # ID GRADĀCIJA UN SISTĒMA — MATRICAS TEORIJAS VERSIJA (MT)
 
-Šis dokuments apvieno ID gradācijas matemātisko modeli un ID sistēmas praktisko klasifikāciju. ID ir diskrēts strukturāls indekss, ko nosaka modulācija (cikliskā TE plūsma), lieluma kategorija un papildus parametri pēc nepieciešamības.
+## Pārstrādātā versija (2026. gada jūlijs) — v3.0
 
-Modulācija nav objekts. Modulācija ir cikliska TE plūsma, kura maksimāli ietekmē tikai tos objektus, kuri ir modulācijas lielumā. ID norāda, kura modulācija ietekmē objektu.
+Šis dokuments apvieno ID gradācijas matemātisko modeli un ID sistēmas praktisko klasifikāciju. ID ir diskrēts strukturāls indekss, ko nosaka modulācija (cikliskā TE pārnese), lieluma kategorija un papildus parametri pēc nepieciešamības.
+
+**Versijas 3.0 precizējums:** ID līmeņi ir neatkarīgi no Visuma fiziskā izmēra — tos nosaka lokālā Qn struktūra un \( \rho_{\mathcal{V}} \). Cikliskuma mērogs \( R_{L1} \approx 5.62 \, l_P \) ir periods, nevis fiziskais attālums.
+
+---
 
 ## 1. PAMATFORMĀTS
 
@@ -14,14 +18,12 @@ Aiz "/" — papildus parametri. Nav obligāti. Pievieno pēc nepieciešamības.
 
 Parametri nav piespiedu kārta, bet nepieciešamība. Obligāts sākums ir modulācija un lielums. Pārējais veidojas darba gaitā.
 
-**Piezīme par ID un klasiskajām teorijām:**
-
-ID sistēma klasificē visus objektus — gan tos, kurus apraksta klasiskā fizika (ID1 — ID4), gan MT specifiskos līmeņus (ID0, ID-1). Tas nenozīmē, ka klasiskie objekti (piemēram, zvaigzne ar ID2.2) būtu "nepareizi" aprakstīti ar GR — ID sistēma vienkārši norāda to vietu kopējā enerģijas organizācijas hierarhijā. Klasiskie likumi ir derīgi prognozēm šajos ID līmeņos; MT pievieno mehānisko skaidrojumu to izcelsmei.
+---
 
 ## 2. MODULĀCIJAS UN TO SKALAS
 
 ID-1 — < 10⁻³⁵ m — Vertikāle (enerģijas avots)
-ID0 — 10⁻³⁵ m — Matrica (režģis, TE plūsmas pamats)
+ID0 — 10⁻³⁵ m — Matrica (režģis, TE pārneses pamats)
 ID1 — 10⁻¹⁵ m — H+1 modulācija
 ID2 — 10⁵ – 10²⁵ m — H+2 modulācija
 ID3 — 10²⁵ – 10⁴⁵ m — H+3 modulācija
@@ -30,23 +32,29 @@ ID5 — > 10⁶⁵ m — H+5 modulācija (atvērts nākotnei)
 
 Katra nākamā modulācija ir 10²⁰ reizes lielāka par iepriekšējo.
 
+**Piezīme:** Šīs skalas ir **strukturālas**, nevis fiziskie attālumi. MT nepretendē noteikt Visuma fizisko izmēru — šīs skalas ir lokālas Qn struktūras izpausmes.
+
+---
+
 ## 3. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU
 
-No MATHEMATICS_lv.md tiek izmantoti šādi operatori un lielumi:
+No MATHEMATICS v3.0 tiek izmantoti šādi operatori un lielumi:
 
-| Operators / lielums | Definīcija | Fizikālā nozīme |
-|---------------------|------------|-----------------|
-| \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matricas kubiskais režģis |
-| \( Q_n \) | \( \{\mathbf{x} \in \mathbb{Z}^3 : \|\mathbf{x}\|_\infty \leq n\} \) | Apvalku struktūra |
-| \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Punktu skaits Qn slānī |
-| \( N_{\mathcal{V}}(\Omega) \) | VEU vienību skaits reģionā \( \Omega \) | Vertikāles enerģijas daudzums |
-| \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformācijas operators |
-| \( \mathcal{P}_{L1} \) | \( \mathcal{V} \to \mathcal{L} \) | L1 projekcijas operators |
+| Operators / lielums | Definīcija | Fizikālā nozīme | ID atbilstība |
+|---------------------|------------|-----------------|---------------|
+| \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matricas kubiskais režģis | ID0 |
+| \( Q_n \) | \( \{\mathbf{x} \in \mathbb{Z}^3 : \|\mathbf{x}\|_\infty \leq n\} \) | Apvalku struktūra | ID0.n |
+| \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Punktu skaits Qn slānī | ID0.n |
+| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertikāles enerģijas blīvums | ID-1 |
+| \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformācijas operators | ID-1 / ID0 |
+| \( \mathcal{P}_{L1} \) | \( \int K(\mathbf{x}, \mathbf{x}') \rho_{\mathcal{V}}(\mathbf{x}') d\mathbf{x}' \) | L1 projekcijas operators | ID0 / ID-1 |
 
 ID ir diskrēts strukturāls indekss, ko nosaka:
 - modulācija (H+n),
 - Qn slāņa numurs \( n \),
 - Vertikāles enerģijas vienību skaits \( N_{\mathcal{V}} \), kas projicējas uz objekta apkārtni caur \( \mathcal{P}_{L1} \).
+
+---
 
 ## 4. ID GRADĀCIJAS SOLIS — KVANTITATĪVAIS MODELIS
 
@@ -77,7 +85,11 @@ ID(n, N_V) = 2.0 + log_2.5(n) + γ_ID · (N_V / N_H0)
 
 kur γ_ID ≈ 0.05 (no MATHEMATICS un COSMOLOGY). N_V/N_H0 ir Vertikāles un H0 enerģijas vienību skaita attiecība objekta apkārtnē.
 
+**Piezīme:** γ_ID var būt saistīts ar cikliskuma mērogu \( \gamma = 2\pi/C \approx 0.18 \), bet ID gradācijā tiek izmantots mazāks koeficients, jo ID mēra strukturālās izmaiņas, nevis modulācijas ātrumu. γ_ID ≈ 0.05 ir empīrisks koeficients, kas iegūts no novērojumiem.
+
 Augstāks N_V paātrina strukturālo evolūciju reģionos ar augstu Vertikāles enerģijas vienību blīvumu.
+
+---
 
 ## 5. ID SISTĒMAS STRUKTŪRA PA LĪMEŅIEM
 
@@ -110,6 +122,10 @@ Lieluma kategorija norāda melnā cauruma masas skalu. Masa precizē vērtību S
 ID5.lielums/...
 Atvērts — tiks definēts pēc nepieciešamības.
 
+**Piezīme:** ID līmeņi ir neatkarīgi no Visuma fiziskā izmēra — tos nosaka lokālā Qn struktūra un \( \rho_{\mathcal{V}} \).
+
+---
+
 ## 6. KOLEKTĪVIE OBJEKTI — ID2,n KLASE
 
 Kolektīvie objekti ir daudzu monolītu objektu organizācija (zvaigznes, galaktikas, kopas). Tiem nav piemērojama mērogošana no protona; tos klasificē pēc organizācijas līmeņa n:
@@ -126,6 +142,8 @@ kur N_šūnas ir kolektīvās organizācijas pamatvienību skaits.
 | Zvaigžņu kopa | ID2,3 | Sarežģītāka kolektīvā struktūra |
 | Galaktika | ID2,4 | Sarežģītākā kolektīvā struktūra |
 | Galaktiku kopa | ID2,5 | Augstākā zināmā kolektīvā organizācija |
+
+---
 
 ## 7. ID PĀREJAS — NOSACĪJUMI UN LAIKA SKALA
 
@@ -155,6 +173,8 @@ Pāreju piemēri:
 | ID3.0 → ID3.1 | Baltais punduris | Neitronu zvaigzne | Gravitācijas kolapss | Pulsārs |
 | ID4.0 → ID4.1 | Zvaigžņu melnais caurums | Vidējas masas melnais caurums | Akrēcija | — |
 
+---
+
 ## 8. PIEMĒRI
 
 ID1.0 — brīvs protons
@@ -172,14 +192,18 @@ ID4.1/0 — zvaigžņu melnais caurums bez akrēcijas
 ID4.3/2 — supermasīvs melnais caurums ar akrēcijas disku
 ID4.3/2/1 — supermasīvs melnais caurums ar akrēcijas disku un strūklām
 
+---
+
 ## 9. PĀRBAUDĀMĀS PROGNOZES
 
-| Prognoze | Vienādojums | Pārbaudes metode |
-|----------|------------|------------------|
-| ID atkarība no N_V | ID = 2.0 + log_2.5(n) + 0.05 · N_V/N_H0 | Melno caurumu masu salīdzinājums |
-| ID pārejas laiks | t_pāreja ∝ 1/(N_V - N_krit) | AGN aktivitātes periodiskums |
-| ID2,n un galaktiku tips | ID2,n = 2.0 + log_2.5(N_zvaigznes/N_protona) | Galaktiku morfoloģija |
-| Maksimālais ID3,n | n_max ∝ N_V⁽⁰⁾/N_H0 | Maksimālā melnā cauruma masa |
+| Prognoze | Vienādojums | Pārbaudes metode | ID atbilstība |
+|----------|------------|------------------|---------------|
+| ID atkarība no N_V | ID = 2.0 + log_2.5(n) + 0.05 · N_V/N_H0 | Melno caurumu masu salīdzinājums | ID4 / ID-1 |
+| ID pārejas laiks | t_pāreja ∝ 1/(N_V - N_krit) | AGN aktivitātes periodiskums | ID4 / ID-1 |
+| ID2,n un galaktiku tips | ID2,n = 2.0 + log_2.5(N_zvaigznes/N_protona) | Galaktiku morfoloģija | ID2 |
+| Maksimālais ID3,n | n_max ∝ N_V⁽⁰⁾/N_H0 | Maksimālā melnā cauruma masa | ID3 / ID-1 |
+
+---
 
 ## 10. PAPILDINĀŠANAS NOTEIKUMI
 
@@ -187,6 +211,8 @@ ID4.3/2/1 — supermasīvs melnais caurums ar akrēcijas disku un strūklām
 2. Parametru skaits nav ierobežots.
 3. Katrs nākamais .n satur iepriekšējos sevī.
 4. Sistēmu var papildināt un precizēt, teorijai attīstoties.
+
+---
 
 ## 11. PAMATPRINCIPS
 
@@ -196,4 +222,7 @@ ID4.3/2/1 — supermasīvs melnais caurums ar akrēcijas disku un strūklām
 
 ID sistēma ir sākums, nevis beigas. Tās pilnveide notiks darba gaitā.
 
-Dokuments sagatavots: 2026. gada jūlijā
+---
+
+*Dokuments sagatavots: 2026. gada jūlijā*  
+*Versija: 3.0 — saskaņota ar MATHEMATICS v3.0 un cikliskuma principu*
