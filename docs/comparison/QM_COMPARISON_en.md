@@ -6,6 +6,8 @@ This document compares classical quantum mechanics and the MT approach, followin
 
 **Key insight:** Classical physics operates only at the L1 level (ID0) and is unaware of the L0 background (ID-1). MT sees both — L0 as the background and L1 as the transfer disturbance. Therefore, phenomena that appear "miraculous" or "fundamentally uncertain" in classical physics are explainable in MT as matrix structural properties (ID0 / ID-1).
 
+**Methodological clarification:** MT does not deny the validity of quantum mechanics as a predictive tool (ID0). It indicates that QM is a valid L1-level description, but its "probabilistic nature" and "collapse" are projections of ID-1 background effects that classical physics simply does not include in its mathematical formalism. QM remains valid in its domain — MT complements it, not replaces it.
+
 ---
 
 ## 1. CONNECTION TO MATHEMATICS FORMALISM AND ID SYSTEM
