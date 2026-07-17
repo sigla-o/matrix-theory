@@ -1,16 +1,26 @@
-# FOUNDATION — MATRIX THEORY BASICS
+# FOUNDATION — MATRIX THEORY FOUNDATION
 
-## Revised Version (July 2026) — v3.0
+## Revised version (July 2026) — 3.0
 
-This document establishes the operational boundaries, fundamental principles, and conceptual framework of the Universe's evolution according to Matrix Theory (MT). It is the starting point from which everything else grows, now connected to the MATHEMATICS formalism v3.0 and the ID system, incorporating the **cyclicity principle** and the **redefinition of charge** as a matrix energy accumulation mode.
+This document establishes the operational boundaries, core principles, and conceptual framework of the Universe's evolution within Matrix Theory (MT). It is the starting point from which everything else grows, and it is now connected to the MATHEMATICS formalism (3.0) and ID system (3.0), as well as summarizing quantitative results from COSMOLOGY, GRAVITY, MT_QED, and ID_GRADIENT.
 
-**Key insight:** MT is not a theory about the "beginning of the Universe" — it is a theory about the **cyclic transition of energy organization** between Horizontals, quantitatively formulated and testable. MT does not claim to determine the physical size of the Universe — it uses **cyclicity** as its structural principle.
+**Key insight:** MT is not a theory about the "beginning of the Universe" — it is a theory about the **cyclic transition of energy organization** between Horizontals, quantitatively formulated and testable.
+
+**Methodological prerequisite (3.0):** MT is a complementary framework providing a mechanical origin for the phenomenological laws of classical physics. Classical theories (GR, QED, QM, ΛCDM) remain valid within their domains; MT describes the "territory" (ID0 lattice and Vertical) on which these "maps" are built. MT does not compete with classical theories — it complements them.
 
 ---
 
-## 1. THEORY OPERATIONAL BOUNDARIES
+## 1. THEORY'S OPERATIONAL BOUNDARIES
 
-### 1.1. MT as a Complementary Framework, Not a Competitor
+Matrix Theory does not claim to describe all of reality.
+
+It describes **one Vertical of Eternity's energy cycle**. The question of how many Verticals exist in Eternity and how they are organized relative to each other is not addressed in this theory.
+
+MT's operational range spans approximately \(10^{-115}\) m to \(10^{105}\) m. This is not an absolute boundary, but a practical working range of the theory.
+
+**The theory does not attempt to answer "what came before" — it answers "how energy organizes itself."**
+
+### 1.1. MT's Relation to Classical Theories (methodological clarification) — 3.0
 
 Matrix Theory **does not compete** with established physical theories and **does not attempt to disprove them**.
 
@@ -23,97 +33,65 @@ Matrix Theory **does not compete** with established physical theories and **does
 
 Thus, MT reduces to classical equations in the appropriate limits (see Correspondence Principle in MATHEMATICS, Chapter 7), but offers new explanations for anomalies (dark matter/energy) and predicts new effects (G variation, higher CMB peaks) not visible on the classical map.
 
-### 1.2. Cyclicity Principle — MT Does Not Claim to Determine the Size of the Universe
-
-MT does not claim to determine the physical size of the Universe. The L1 zone is not a spatial region with a size — it is a **mathematical structure of cyclicity**, manifesting as the harmonic sequence in the CMB spectrum.
-
-- **Cyclicity constant \( C \)** — determined by observations (Planck data). It is not derivable from axioms because it is a matrix structural property manifested as a harmonic sequence.
-- **Cyclicity scale \( R_{L1} \)** — NOT a physical radius. It is the **period length** over which L1 focusing completes a full cycle.
-- **Cyclicity inverse scale \( \gamma \)** — determines how quickly harmonics transition from focusing to dispersion.
-
-**Conclusion:** MT's operational range spans approximately \(10^{-115}\) m to \(10^{105}\) m. This is not an absolute boundary but a practical working range. The theory does not attempt to answer "what came before" — it answers "how energy organizes."
-
 ---
 
-## 2. CONNECTION TO MATHEMATICS FORMALISM AND ID SYSTEM
+## 2. CONNECTION TO MATHEMATICS FORMALISM AND ID SYSTEM (3.0)
 
-MT's quantitative foundation is defined in MATHEMATICS_lv.md v3.0. The ID system (ID_GRADIENT_lv.md) provides classification of organization levels. The main operators, quantities, and ID levels used across all other documents are summarized here:
+MT's quantitative foundation is defined in MATHEMATICS_lv.md (3.0). The ID system (ID_GRADIENT_lv.md 3.0) provides classification of organization levels. Here are the main operators, quantities, and ID levels used across all other documents:
 
 | Operator / quantity | Definition | Physical meaning | ID correspondence |
-|---------------------|------------|------------------|-------------------|
+|---------------------|------------|-----------------|-------------------|
 | \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matrix lattice | ID0 |
 | \( Q_n \) | \( \{\mathbf{x}: \|\mathbf{x}\|_\infty \leq n\} \) | Qn shell structure | ID0.n |
 | \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Number of points in Qn shell | ID0.n |
-| \( \Phi(\mathbf{x},\mathbf{y}) \) | \( \mathcal{L} \times \mathcal{L} \to \mathbb{R}^+ \) | TE transfer quantity | ID0 (basis) |
-| \( \phi_0 \) | \( \hbar c/l_P \) | Maximum transfer quantum (energy) | ID0 |
-| \( \alpha_0 \) | \( 6\omega_0/7 \) | Matrix elasticity | ID0 |
-| \( G_0 \) | \( 6\omega_0\phi_0/49 \) | Gravitational constant (base) | ID0 |
-| \( G \) | \( G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Variable gravitational constant | ID0 / ID-1 |
-| \( \varepsilon_0 \) | \( \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | Vacuum permittivity | ID0 / ID-1 |
+| \( \Phi(\mathbf{x},\mathbf{y}) \) | \( \mathcal{L} \times \mathcal{L} \to \mathbb{R}^+ \) | TE transfer field | ID0 |
 | \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertical energy density | ID-1 |
 | \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformation zone (H0 → Vertical) | ID-1 / ID0 |
-| \( \mathcal{P}_{L1} \) | \( \mathcal{V} \to \mathcal{L} \) | L1 zone projection operator | ID0 / ID-1 |
+| \( \mathcal{P}_{L1} \) | \( \int K \rho_{\mathcal{V}} \) | L1 projection operator (integral) | ID0 |
+| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Cyclicity inverse scale | ID0 / ID-1 |
 | \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cyclicity constant | ID0.n |
-| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Cyclicity inverse scale | ID0 |
+| \( \varepsilon_0 \) | \( \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | Vacuum permittivity (matrix state function) | ID0 |
+| \( G \) | \( G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Variable gravitational constant | ID0 / ID-1 |
 
 ---
 
-## 3. CHARGE IN MT — REDEFINED
-
-**Old definition (v2.0):** Charge is a set of blocked transfer channels caused by the proton's asymmetric phase.
-
-**New definition (v3.0):**
-
-> **Charge is a matrix energy accumulation mode.**
-> - It resides in the **matrix's surrounding structure** (not just in the proton ID1.0) — the matrix itself is an accumulator.
-> - Charge does **not block** channels — it **changes the matrix's fundamental parameters** (\( \varepsilon_0, G_0, \alpha \)) when its quantity is large.
-> - The proton's (ID1.0) charge is only a **local manifestation** of this global matrix state.
-
-**ID correspondence:**
-- Charge as a **global matrix state** — ID0 (matrix level).
-- Charge as a **local proton manifestation** — ID1.0 / ID-1.
-
-**Structural coefficient \( \kappa \):**
-$$
-\kappa = \frac{e^2}{\phi_0^2} = \frac{6}{49} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
-$$
-where \( 6/49 \) comes from Q1 combinatorics, and \( \rho_{\mathcal{V}}/\rho_{\text{H0}} \) determines the matrix's accumulation capacity.
-
----
-
-## 4. ID SYSTEM BASIC LEVELS
+## 3. ID SYSTEM FUNDAMENTAL LEVELS (3.0)
 
 The ID system organizes all objects by modulation (influence level) and size category:
 
 | ID level | Modulation | Size scale (m) | Content |
 |----------|------------|----------------|---------|
 | ID-1 | — | < 10⁻³⁵ | Vertical (energy source) |
-| ID0 | — | 10⁻³⁵ | Matrix (lattice, TE transfer basis) |
+| ID0 | — | 10⁻³⁵ | Matrix (lattice, TE transfer foundation) |
 | ID1 | H+1 | 10⁻¹⁵ | Protons, atoms, molecules |
 | ID2 | H+2 | 10⁵ – 10²⁵ | Stars, planets, galaxies |
 | ID3 | H+3 | 10²⁵ – 10⁴⁵ | Star clusters, galaxy clusters |
 | ID4 | H+4 | 10⁴⁵ – 10⁶⁵ | Large-scale Universe structures |
-| ID5 | H+5 | > 10⁶⁵ | Open to the future |
+| ID5 | H+5 | > 10⁶⁵ | Open for the future |
 
-Detailed ID system structure and examples are provided in ID_GRADIENT_lv.md.
+Detailed ID system structure and examples are provided in ID_GRADIENT_lv.md (3.0).
+
+**Note on ID and classical theories:** The ID system classifies all objects — both those described by classical physics (ID1 — ID4) and MT-specific levels (ID0, ID-1). This does not mean that classical objects are "incorrectly" described — the ID system simply indicates their place within the overall hierarchy of energy organization.
 
 ---
 
-## 5. BASIC DEFINITIONS
+## 4. BASIC DEFINITIONS
 
-### 5.1. Eternity
+### 4.1. Eternity
 
-Eternity is a global energy cycle. It is the highest known level of organization, which this theory uses as a reference system. Eternity's full structure is not modeled in this theory.
+Eternity is a global energy cycle.
+
+It is the highest known level of organization that this theory uses as a reference system. The full structure of Eternity is not modeled in the theory.
 
 Eternity's cycle is based on two interconnected components — the **Vertical** and the **Horizontal**.
 
 **MT does not claim that Eternity has a beginning or an end — it describes its processes.**
 
-### 5.2. Vertical (ID-1)
+### 4.2. Vertical (ID-1)
 
-The Vertical forms as a result of conservation, preservation, and accumulation of energies of the Primary Horizontal. When the critical energy accumulation level is reached, a new (finer) Horizontal forms. This cyclic mechanism forms the basis of Eternity's cycle and the hierarchy of Vertical levels.
+The Vertical forms as a result of the conservation, preservation, and accumulation processes of the Primary Horizontal's energies. When the critical energy accumulation level is reached, a new (finer) Horizontal is formed. This cyclic mechanism forms the foundation of Eternity's cycle and the hierarchy of Vertical levels.
 
-**The Vertical is an energy accumulation system.** Each Vertical level corresponds to a specific energy storage depth (VEU H-3, H-4, ... H-min), which in the ID system corresponds to **ID-1.n**.
+**The Vertical is an energy accumulation system.** Each Vertical level corresponds to a specific energy storage depth (VEU H-3, H-4, ... H-min), corresponding to **ID-1.n** in the ID system.
 
 **Formally:** The Vertical is a set of energy levels:
 $$
@@ -125,29 +103,53 @@ The Vertical continuously maintains energy flow to the H0 matrix through the **L
 
 **The Vertical is not a "place" — it is an energy structure that continuously feeds the H0 matrix.**
 
-### 5.3. Horizontals (ID0 — ID5)
+### 4.3. Horizontals (ID0 — ID5)
 
-A Horizontal is a matrix of stable energy units of a specific Vertical, in which discrete evolution occurs through successive ID levels.
+A Horizontal is a matrix of stable energy units of a specific Vertical, in which discrete evolution occurs through sequential ID levels.
 
-**Formally:** A Horizontal \( H_n \) is a lattice \( \mathcal{L}_n \) with Qn structure and TE transfer field \( \Phi_n \).
+**Formally:** Horizontal \( H_n \) is a lattice \( \mathcal{L}_n \) with Qn structure and TE transfer field \( \Phi_n \).
 
 **H0** is one of the Horizontals — our Universe. It is not the center or beginning of the Vertical.
 
-**A Horizontal in its evolution cannot surpass its creator — the next higher (H+1) Horizontal.**
+**A Horizontal cannot surpass its creator in evolution — the next higher (H+1) Horizontal.**
 
-### 5.4. L1 Zone and Cyclicity
+The H0 matrix corresponds to **ID0** in the ID system. All objects in the H0 matrix are classified by ID levels depending on their size and modulation influence.
 
-**The L1 zone** is the Vertical's first projection layer onto the H0 matrix. It is not a "place" — it is an **energy focusing structure** that transforms the Vertical's flow into H0 matrix-compatible TE flows. The L1 operates in two modes:
-- **Focusing (inside H0)** — produces discrete CMB peaks (standing waves, ID0.n).
-- **Dispersion (outside the proton)** — produces the continuous CMB background and redshift (ID-1).
+### 4.4. ID gradation (3.0)
 
-The cyclicity scale \( R_{L1} \approx 5.62 \, l_P \) is not a physical radius — it is the **period length** over which L1 focusing completes a full cycle.
+ID is an **energy management zone marker** quantitatively calculable from Qn structure and Vertical energy.
+
+**Formally:**
+$$
+\text{ID} = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
+$$
+where \( n \) is the Qn shell index, \( \gamma_{\text{ID}} \approx 0.05 \).
+
+**Important:** The Vertical energy correction \( \gamma_{\text{ID}} \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) **does not change the object's fundamental ID level** — it only refines the value in regions with high Vertical energy density.
+
+For more details: ID_GRADIENT_lv.md (3.0).
+
+### 4.5. Cyclicity (3.0)
+
+From MATHEMATICS 5.0 (3.0), cyclicity is a matrix structural property manifesting as a harmonic sequence in the CMB spectrum and modulating the gravitational constant.
+
+**Cyclicity constant:**
+$$
+C = \frac{\ell_k}{n_k} \approx 35.325
+$$
+
+**Cyclicity inverse scale:**
+$$
+\gamma = \frac{2\pi}{C} \approx 0.18
+$$
+
+Cyclicity determines the L1 focusing/dispersion transition and is connected to G variation via \( G(\rho_{\mathcal{V}}) = G_0(1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \).
 
 ---
 
-## 6. H0 EVOLUTION — QUANTITATIVE MODEL
+## 5. H0 EVOLUTION — QUANTITATIVE MODEL
 
-H0 Universe evolution began at ID0.0 (yin–yang point) and continues through successive ID levels:
+H0 Universe evolution began from ID0.0 (yin–yang point) and continues through sequential ID levels:
 
 1. **ID0.0** — matrix point (rotating yin–yang object).
 2. **ID1.0** — first proton.
@@ -157,13 +159,13 @@ H0 Universe evolution began at ID0.0 (yin–yang point) and continues through su
 6. **ID3.0 — ID3.2** — white dwarfs, neutron stars.
 7. **ID4.0 — ID4.3** — black holes, AGN.
 
-**H0 evolution is cyclic** — each subsequent step is longer than the previous. H0 never becomes H+1 or H-1 — it remains at its own level.
+**H0 evolution is cyclic** — each subsequent step is longer than the previous. H0 never becomes H+1 or H-1 — it remains at its level.
 
-**13.8 billion years is the time since the last spatial expansion step, not the age of the Universe.**
+**13.8 billion years is the time since the last space expansion step, not the age of the Universe.**
 
-### 6.1. Spatial expansion step (quantitative)
+### 5.1. Space expansion step (quantitative)
 
-When the Vertical's energy accumulation reaches the critical level \( \rho_{\mathcal{V}} > \rho_{\text{krit}} \), a spatial expansion step occurs.
+When Vertical energy accumulation reaches the critical level \( \rho_{\mathcal{V}} > \rho_{\text{krit}} \), a space expansion step occurs.
 
 **Transition time:**
 $$
@@ -172,70 +174,120 @@ $$
 
 **Consequences:**
 1. Larger space creates a **new Qn TE transfer structure**.
-2. The new Qn structure is **incompatible** with the previous one.
+2. The new Qn structure is **not compatible** with the previous one.
 3. **Molecular bonds** are damaged.
-4. Old star positions become **Oort clouds**.
-5. In Oort cloud centers, **star formation begins anew**.
+4. Old star locations become **Oort clouds**.
+5. In the centers of Oort clouds, **star formation begins anew**.
 
 ---
 
-## 7. MATRIX — STATIC ARCHITECTURE, DYNAMIC ENERGY
+## 6. L1 ZONE AND CMB — QUANTITATIVE MODEL (3.0)
 
-**The matrix (H0)** is a static architecture — the ID1 lattice, Qn structure, and FV cycles do not change. In the ID system, it corresponds to **ID0** with Qn layers **ID0.n**.
+**L1 zone** is the Vertical projection structure onto the H0 matrix. It is not a "place" — it is a **mathematical structure of cyclicity** that transforms Vertical flow into H0-compatible TE transfers.
 
-However, the **matrix's energy content** is not static. It is determined by:
+**CMB (cosmic microwave background):**
+- **Not the Big Bang afterglow** — it is the L1 zone background temperature projection onto H0.
+- **Average temperature 2.725 K** — L1 zone thermal equivalent projection.
+- **5 harmonics** (ℓ ≈ 220, 538, 813, 1085, 1381) — H0 matrix Qn shell projection.
+- **6th and 7th harmonics** (ℓ ≈ 1660, ℓ ≈ 1943) — MT predictions, awaiting test.
+
+**Formally:**
+$$
+\ell_k = C \cdot n_k, \quad C = \frac{\ell_k}{n_k} \approx 35.325
+$$
+with \( n_k = 8k - 1 \) (k ≥ 2) and \( n_1 = 6 \).
+
+**L1 projection operator \( \mathcal{P}_{L1} \) (3.0):**
+$$
+\mathcal{P}_{L1}[\rho_{\mathcal{V}}](\mathbf{x}) = \int_{\mathcal{V}} K(\mathbf{x}, \mathbf{x}') \, \rho_{\mathcal{V}}(\mathbf{x}') \, d\mathbf{x}'
+$$
+with kernel:
+$$
+K(\mathbf{x}, \mathbf{x}') = \sum_{n=1}^{\infty} \sum_{\hat{\mathbf{r}} \in \{\pm X, \pm Y, \pm Z\}} \frac{1}{N(n)} \cdot e^{i \mathbf{k}_n \cdot (\mathbf{x} - \mathbf{x}')} \cdot \mathcal{F}_n(\mathbf{x}, \mathbf{x}')
+$$
+
+For more details: COSMOLOGY_lv.md (3.0) Chapter 10, MATHEMATICS_lv.md (3.0) Chapter 5.
+
+---
+
+## 7. MATRIX — STATIC ARCHITECTURE, DYNAMIC ENERGY (3.0)
+
+**The matrix (H0)** is a static architecture — the ID1 lattice, Qn structure, and PV cycles do not change. In the ID system, it corresponds to **ID0** with Qn shells **ID0.n**.
+
+However, the **matrix's energetic content** is not static. It is determined by:
 - **Vertical energy pyramid** (\( \rho_{\mathcal{V}} \)).
 - **H+n modulations** — large-scale transfer structure.
 
-**A photon** is a free energy formation (VEU H-2 × H-3) that interacts with the matrix and its energy content. Its energy loss while traveling through the Vertical field is quantitatively calculable:
+**The photon** is a free energy formation (VEU H-2 × H-3) that interacts with the matrix and its energetic content. Its energy loss traveling through the Vertical field is quantitatively calculable:
 $$
 \frac{dE}{dx} = -\beta \cdot E \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
 $$
 
----
-
-## 8. SUMMARY OF TESTABLE PREDICTIONS
-
-MT's quantitative formalism and ID system yield the following testable predictions:
-
-| Prediction | Equation | Value / prediction | Test method | ID correspondence |
-|------------|----------|--------------------|-------------|-------------------|
-| Fine-structure constant | \( \alpha = \frac{49 G_0}{24\pi \hbar c} \) | \( \alpha_{\text{MT}} \approx 0.0073 \) (< 0.4% deviation) | Precision spectroscopy | ID1 |
-| G variation in galaxy centers | \( G(r) = G_0 \cdot (1 + \gamma \cdot \rho_{\mathcal{V}}(r)/\rho_{\text{H0}}) \) | \( G(0)/G_0 \approx 1.50 \) | GRAVITY interferometer | ID2 / ID-1 |
-| \( \varepsilon_0 \) dependence on \( \rho_{\mathcal{V}} \) | \( \varepsilon_0 = \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | — | Quantum metrology | ID0 / ID-1 |
-| 6th CMB peak | \( \ell_6 = C \cdot 47 \approx 1660 \) | \( \ell_6 \approx 1660 \) | CMB-S4, Simons Observatory | ID0.47 |
-| 7th CMB peak | \( \ell_7 = C \cdot 55 \approx 1943 \) | \( \ell_7 \approx 1943 \) | CMB-S4, Simons Observatory | ID0.55 |
-| CMB peak amplitudes | \( c_n \propto n^3 \cdot \rho_{\mathcal{V}} \) | Testable with Planck/CMB-S4 | High-precision CMB measurements | ID0.n / ID-1 |
-| Neutrino mass hierarchy | \( m_i = M_P \cdot \alpha^{n_i} \) | Normal hierarchy, \( \sum m_i \approx 0.060 \, \text{eV} \) | DUNE, Hyper-Kamiokande, KATRIN | ID1.1 / ID-1 |
-| Consciousness intensity under anesthesia | \( \mathcal{C} = \int \| \mathcal{P}_{L1} - \Phi \|^2 \) | \( \mathcal{C} \) increases | Quantitative EEG/fMRI | ID1.4 / ID-1 / ID0 |
+For more details: COSMOLOGY_lv.md (3.0) Chapter 4, MT_QED_lv.md (3.0).
 
 ---
 
-## 9. CONCLUSIONS
+## 8. TESTABLE PREDICTIONS SUMMARY (3.0)
 
-1. **MT is a quantitatively formulated theory** — all key quantities are defined by operators from the MATHEMATICS formalism v3.0.
+MT's quantitative formalism and ID system give the following testable predictions:
 
-2. **MT is connected to the ID system** — all objects are classified by modulation and size category, providing a unified system of organization levels.
+| Prediction | Equation | Value / prediction | Status | Test method | ID correspondence |
+|------------|----------|-------------------|--------|-------------|-------------------|
+| Fine-structure constant | \( \alpha = \frac{49 G_0}{24\pi \hbar c} \) | \( \alpha_{\text{MT}} \approx 0.0073 \) | Confirmed (< 0.4%) | Precision spectroscopy | ID1 |
+| G variation in galactic centers | \( G(r) = G_0 (1 + 0.18 \cdot \rho_{\mathcal{V}}(r)/\rho_{\text{H0}}) \) | \( G(0)/G_0 \approx 1.50 \) | Awaiting test | Stellar orbits (GRAVITY) | ID2 / ID-1 |
+| 6th CMB peak | \( \ell_6 = 35.325 \times 47 \) | \( \ell_6 \approx 1660 \) | Awaiting test | CMB-S4, Simons Obs. | ID0.47 |
+| 7th CMB peak | \( \ell_7 = 35.325 \times 55 \) | \( \ell_7 \approx 1943 \) | Awaiting test | CMB-S4, Simons Obs. | ID0.55 |
+| ID dependence on \( \rho_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) | Black hole mass correlation | Awaiting test | Black hole mass measurements | ID4 |
+| \( \varepsilon_0 \) dependence on \( \rho_{\mathcal{V}} \) | \( \varepsilon_0 = \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | — | Awaiting test | Quantum metrology | ID0 / ID-1 |
+| \( \mu_0 \) dependence on \( \rho_{\mathcal{V}} \) | \( \mu_0 = \frac{49}{6} \cdot \frac{2\pi}{\hbar c^2} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) | — | Awaiting test | Quantum metrology | ID0 / ID-1 |
+| Neutrino masses | \( m_i = M_P \cdot \alpha^{n_i} \) | \( m_1 \approx 0.0015, m_2 \approx 0.0087, m_3 \approx 0.050 \, \text{eV} \) | Awaiting test | DUNE, Hyper-K, KATRIN | ID1.1 / ID-1 |
+| Consciousness intensity under anesthesia | \( \mathcal{C} = \int \| \mathcal{P}_{L1} - \Phi \|^2 \) | \( \mathcal{C} \) increases | Theoretical | EEG/fMRI | ID1.4 / ID-1 |
+
+---
+
+## 9. CORRESPONDENCE WITH MATHEMATICS 3.0 AND ID_GRADIENT 3.0
+
+This document is fully aligned with:
+
+- **MATHEMATICS 3.0** — all operators and quantities are derived from MATHEMATICS 3.0 definitions.
+- **ID_GRADIENT 3.0** — the ID system is aligned with the new \( \rho_{\mathcal{V}} \) correction and methodological clarification.
+- **MT_QED 3.0** — \( \varepsilon_0 \) and \( \mu_0 \) as matrix state functions.
+- **GRAVITY 3.0** — \( \gamma \) as cyclicity scale, G variation.
+- **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB predictions.
+- **ROADMAP 3.0** — H0 and L1 path separation, L1 as cyclicity structure.
+
+**Key 3.0 changes:**
+1. \( \varepsilon_0 \) and \( \mu_0 \) are no longer constants — they are matrix state functions.
+2. \( \gamma \) and \( C \) are derived from cyclicity, not free parameters.
+3. \( \mathcal{P}_{L1} \) is fully defined as an integral operator.
+4. Methodological clarification: MT as a complementary framework.
+5. All predictions are now quantitatively determined with no free parameters.
+
+---
+
+## 10. CONCLUSIONS (3.0)
+
+1. **MT is quantitatively formulated** — all key quantities are defined by operators from the MATHEMATICS formalism (3.0).
+
+2. **MT is connected to the ID system (3.0)** — all objects are classified by modulation and size category, providing a unified organization level system.
 
 3. **MT is testable** — it gives precise numerical predictions that can be compared with experiments.
 
-4. **MT is reducible** — in appropriate limits, it transitions to classical physics (Newtonian gravity, Maxwell's electrodynamics, quantum mechanics).
+4. **MT is reducible** — in appropriate limits it transitions to classical physics (Newtonian gravity, Maxwell's electrodynamics, quantum mechanics).
 
-5. **MT does not require dark matter or dark energy as unknown forces** — they are replaced by the Vertical's energy effect on G and photon energy loss.
+5. **MT does not require dark matter or dark energy as unknown forces** — they are replaced by Vertical energy influence on G and photon energy loss.
 
-6. **MT has no singularities** — the matrix switches H levels, preventing energy from collapsing to infinity.
+6. **MT has no singularities** — the matrix switches H levels, preventing energy collapse to infinity.
 
-7. **MT does not claim to determine the size of the Universe** — it uses cyclicity as its structural principle, and its predictions depend on cyclicity scales, not absolute distances.
-
-8. **Charge in MT is a matrix energy accumulation mode** — it changes the matrix's fundamental parameters, not blocks channels.
+7. **MT is a complementary framework** — it does not compete with classical theories, but provides them with a mechanical foundation.
 
 ---
 
 ## NOTE
 
-This document is a **summary of MT's foundation**, connected to the MATHEMATICS formalism v3.0 and the ID system, with a summary of quantitative predictions. It is not a complete description of the theory, but a structured presentation of its operational boundaries, basic principles, and testable consequences. More detailed information on individual aspects is available in other MT documents.
+This document is **version 3.0 of the MT foundation**, including methodological clarifications, alignment with MATHEMATICS 3.0 and ID_GRADIENT 3.0, and fully defined quantities with no free parameters. More detailed information on specific aspects is available in other MT documents (3.0 versions).
 
 ---
 
 *Document prepared: July 2026*  
-*Version: 3.0 — rewritten, incorporating cyclicity principle, charge redefinition, and updated predictions*
+*Version: 3.0 — methodological clarifications, aligned with MATHEMATICS 3.0*
