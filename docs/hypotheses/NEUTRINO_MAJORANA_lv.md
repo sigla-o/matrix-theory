@@ -1,10 +1,12 @@
+# NEUTRINO_MAJORANA_lv.md (v3.0)
+
 # NEUTRĪNO UN MAJORANA DAĻIŅAS — MT HIPOTĒZE (B7 CIKLISKUMS)
 
-## Provizoriskais dokuments (2026. gada jūlijs)
+## Pārstrādātā versija (2026. gada jūlijs) — v3.0
 
 Šis dokuments formalizē hipotēzi, ka neitrīno un Majorana daļiņas atšķiras pēc to **cikliskuma soļa** attiecībā pret B7 (Q1) struktūru. Tā ir jauna klasifikācijas dimensija, kas papildina ID sistēmu un izskaidro, kāpēc šīs daļiņas ir tik cieši saistītas, bet tomēr atšķirīgas.
 
-**Galvenā atziņa:** Neitrīno atbilst **0,5 soļa cikliskumam** (atvērta cilpa, vāja TZ piesaiste), bet Majorana daļiņas atbilst **1,5 soļa cikliskumam** (noslēgta cilpa, pilnīga TZ sinhronizācija).
+**Galvenā atziņa:** Neitrīno atbilst **0,5 soļa cikliskumam** (atvērta cilpa, vāja TZ piesaiste), bet Majorana daļiņas atbilst **1,5 soļa cikliskumam** (noslēgta cilpa, pilnīga TZ sinhronizācija). Cikliskuma soļus nosaka cikliskuma konstante \( C \) un inversais mērogs \( \gamma = 2\pi/C \).
 
 ---
 
@@ -26,6 +28,8 @@ No MATHEMATICS un ID_GRADIENT:
 - **1,5 soļa** = 1,5 × Q1 cikls = \( 3\pi \) radiānu (540°) ≡ \( \pi \) radiānu (180°) pēc \( 2\pi \) periodiskuma.
 
 **Svarīgi:** 1,5 soļa un 0,5 soļa cikliskums ir **fāzes simetrijas ziņā identiski** (abi dod \( \pi \)), bet **strukturāli atšķirīgi** — 1,5 soļa cilpa ir veikusi papildu pilnu apgriezienu, kas to noslēdz.
+
+**Cikliskuma konstantes loma:** Cikliskuma mērogs \( \gamma = 2\pi/C \approx 0.18 \) nosaka, cik ātri cilpa pāriet no viena stāvokļa uz otru. 0,5 un 1,5 soļu atšķirība atbilst pusei no pilna \( 1/\gamma \) cikla.
 
 ---
 
@@ -52,9 +56,7 @@ Neitrīno (ID1.1) atbilst **0,5 soļa cikliskumam**:
 
 ### 2.3. Kāpēc neitrīno svārstās?
 
-0,5 soļa cikliskums nozīmē, ka neitrīno cilpa **nav pilnībā noslēgta**. Tās fāze nav stabila — tā var "pārlēkt" no vienas konfigurācijas uz citu. Tas atbilst neitrīno svārstībām (pāreja no viena tipa uz citu).
-
-**MT mehānisms:** Neitrīno cilpai ir atvērts TZ logs, kas ļauj tai mijiedarboties ar Vertikāli (ID-1). Šī mijiedarbība maina tās fāzi, izraisot pāreju starp trim garšām.
+0,5 soļa cikliskums nozīmē, ka neitrīno cilpa **nav pilnībā noslēgta**. Tās fāze nav stabila — tā var "pārlēkt" no vienas konfigurācijas uz citu. Tas atbilst neitrīno svārstībām (pāreja no viena tipa uz citu). Cikliskuma mērogs \( \gamma \) nosaka šo pārlēcienu biežumu.
 
 ---
 
@@ -81,9 +83,7 @@ Majorana daļiņa atbilst **1,5 soļa cikliskumam**:
 
 ### 3.3. Kāpēc Majorana daļiņa ir sava antidaļiņa?
 
-1,5 soļa cikliskums nozīmē, ka Majorana daļiņas cilpa ir **pilnībā noslēgta**. Tās fāze ir stabila — nav iespējas "pārlēkt" uz citu konfigurāciju. Tāpēc tai nav atšķirīgas antidaļiņas — tā ir pati sevi.
-
-**MT mehānisms:** Majorana daļiņai TZ logs ir aizvērts — tā ir pilnībā sinhronizēta ar Vertikāli. Tās cilpa ir noslēgta, un tā nevar mijiedarboties ar Vertikāli tādā veidā, kas izraisītu fāzes maiņu.
+1,5 soļa cikliskums nozīmē, ka Majorana daļiņas cilpa ir **pilnībā noslēgta**. Tās fāze ir stabila — nav iespējas "pārlēkt" uz citu konfigurāciju. Tāpēc tai nav atšķirīgas antidaļiņas — tā ir pati sevi. Noslēgumu nodrošina papildu cikls, kas atbilst \( 1/\gamma \) mērogam.
 
 ---
 
@@ -116,6 +116,8 @@ kur \( \theta_{\text{cilpa}} \) ir kopējā fāzes nobīde pa cilpu.
 
 - Neitrīno: \( \mathcal{C} = 0.5 \)
 - Majorana: \( \mathcal{C} = 1.5 \)
+
+Cikliskuma mērogs \( \gamma = 2\pi/C \) nosaka, ka pilns cikls atbilst \( 1/\gamma \approx 5.56 \) Qn soļiem. 0,5 un 1,5 soļi ir šī mēroga daļas.
 
 ### 5.2. TZ piesaistes operators
 
@@ -169,7 +171,7 @@ Tas ir **~7 eV** — sasniedzams ar nākamās paaudzes \( 0\nu\beta\beta \) eksp
 
 ### 6.3. Cikliskuma pārbaude
 
-Ja Majorana daļiņas tiek atklātas, to cikliskumu var pārbaudīt, analizējot to **cilpas ģeometriju** — vai tā atbilst 1,5 Q1 cikliem (noslēgta) vai 0,5 Q1 cikliem (atvērta).
+Ja Majorana daļiņas tiek atklātas, to cikliskumu var pārbaudīt, analizējot to **cilpas ģeometriju** — vai tā atbilst 1,5 Q1 cikliem (noslēgta) vai 0,5 Q1 cikliem (atvērta). Cikliskuma mērogs \( \gamma = 2\pi/C \approx 0.18 \) nosaka šo cilpu atšķirību.
 
 ---
 
@@ -177,7 +179,7 @@ Ja Majorana daļiņas tiek atklātas, to cikliskumu var pārbaudīt, analizējot
 
 | Aspekts | Ietekme |
 |---------|---------|
-| **ID sistēma** | Jauna dimensija: cikliskuma solis (\( \mathcal{C} \)) |
+| **ID sistēma** | Jauna dimensija: cikliskuma solis (\( \mathcal{C} \)), ko nosaka \( C \) un \( \gamma \) |
 | **Neitrīno modelis** | Izskaidro, kāpēc neitrīno svārstās un kāpēc tā masa ir maza |
 | **Majorana daļiņas** | Skaidrojums, kāpēc tās būtu smagākas un stabilākas |
 | **0νββ** | Skaidra prognoze masas skalai (0.2–7 eV) |
@@ -195,15 +197,9 @@ Ja Majorana daļiņas tiek atklātas, to cikliskumu var pārbaudīt, analizējot
 
 4. **Majorana masas skala** ir prognozēta kā \( 0.2 - 7 \, \text{eV} \), kas ir sasniedzama ar nākamās paaudzes \( 0\nu\beta\beta \) eksperimentiem.
 
-5. **Cikliskuma operators** \( \mathcal{C} \) ir jauna klasifikācijas dimensija, kas papildina ID sistēmu.
-
----
-
-## PIEZĪME
-
-Šis dokuments ir **provizoriska hipotēze**, kas balstās uz neitrīno un Majorana daļiņu strukturālajām atšķirībām MT ietvaros. Tā vēl nav eksperimentāli pārbaudīta un prasa turpmāku izstrādi un saskaņošanu ar citiem MT modeļiem (neitrīno masa, svārstības, anihilācija). Cikliskuma ideja ir jauna un var tikt attīstīta tālāk, iekļaujot to formālajā MT aparātā.
+5. **Cikliskuma operators** \( \mathcal{C} \) ir jauna klasifikācijas dimensija, kas papildina ID sistēmu, un to nosaka cikliskuma konstante \( C \) un inversais mērogs \( \gamma \).
 
 ---
 
 *Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 1.0 — provizoriska hipotēze (B7 cikliskums)*
+*Versija: 3.0 — saskaņots ar MATHEMATICS v3.0, iekļauta cikliskuma konstantes loma*
