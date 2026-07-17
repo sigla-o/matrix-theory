@@ -14,6 +14,10 @@ Aiz "/" — papildus parametri. Nav obligāti. Pievieno pēc nepieciešamības.
 
 Parametri nav piespiedu kārta, bet nepieciešamība. Obligāts sākums ir modulācija un lielums. Pārējais veidojas darba gaitā.
 
+**Piezīme par ID un klasiskajām teorijām:**
+
+ID sistēma klasificē visus objektus — gan tos, kurus apraksta klasiskā fizika (ID1 — ID4), gan MT specifiskos līmeņus (ID0, ID-1). Tas nenozīmē, ka klasiskie objekti (piemēram, zvaigzne ar ID2.2) būtu "nepareizi" aprakstīti ar GR — ID sistēma vienkārši norāda to vietu kopējā enerģijas organizācijas hierarhijā. Klasiskie likumi ir derīgi prognozēm šajos ID līmeņos; MT pievieno mehānisko skaidrojumu to izcelsmei.
+
 ## 2. MODULĀCIJAS UN TO SKALAS
 
 ID-1 — < 10⁻³⁵ m — Vertikāle (enerģijas avots)
