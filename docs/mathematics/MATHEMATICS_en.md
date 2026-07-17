@@ -300,6 +300,17 @@ Deviation < 0.4%.
 
 ## 7. CORRESPONDENCE PRINCIPLE (ID0 / ID1)
 
+### 7.0. "Map and territory" principle — MT as micro-foundation
+
+Before examining the limit transitions, it is essential to establish MT's methodological stance toward classical theories.
+
+MT **does not constrain** the domain of classical physics (Newtonian gravity, Maxwell's electrodynamics, General Relativity, quantum mechanics). These theories are precise phenomenological laws that work excellently within their respective scales (ID1 — ID4, L1 level). MT's role is to provide the **mechanical origin** of the mathematical structure of these laws.
+
+The Correspondence Principle in MT gains an additional meaning:
+> **Classical physics is the accurate map. MT describes the territory (ID0 lattice and the Vertical) on which this map is built.**
+
+Thus, when taking the limits (7.1.–7.3.), we are not "losing" MT, but rather showing that it naturally reduces to the well-known equations when the Vertical energy density \( \rho_{\mathcal{V}} \) is low and observations occur at large scales (ID1/ID2 scales). If any of MT's predictions (e.g., G variation) were not confirmed experimentally, the classical map remains intact, and MT would simply be revised at its micro-level.
+
 ### 7.1. Limit: Solar System (ID1 / ID2)
 When \( E_{\mathcal{V}}/E_{\text{H0}} \ll 1 \):
 $$
