@@ -14,6 +14,10 @@ After "/" — additional parameters. Not required. Added as needed.
 
 Parameters are not a forced order, but a necessity. The required start is modulation and size. Everything else forms during work.
 
+**Note on ID and classical theories:**
+
+The ID system classifies all objects — both those described by classical physics (ID1 — ID4) and MT-specific levels (ID0, ID-1). This does not mean that classical objects (e.g., a star with ID2.2) are "incorrectly" described by GR — the ID system simply indicates their place within the overall hierarchy of energy organization. Classical laws remain valid for predictions at these ID levels; MT adds the mechanical explanation for their origin.
+
 ## 2. MODULATIONS AND THEIR SCALES
 
 ID-1 — < 10⁻³⁵ m — Vertical (energy source)
