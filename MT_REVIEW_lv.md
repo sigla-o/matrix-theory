@@ -8,6 +8,12 @@
 
 ---
 
+**0. Saderība, nevis konfrontācija (metodoloģiskā stabilitāte)**
+
+MT ir veidota tā, lai tā būtu **papildinoša**, nevis graujoša. Tā neprasa atteikties no GR, QED vai kvantu mehānikas — gluži pretēji, tā atzīst to prognožu milzīgo precizitāti. MT vienkārši piedāvā mehānismu, kas izskaidro, *kāpēc* šie likumi darbojas (ID0 režģa īpašības un Vertikāles enerģijas plūsma).
+
+Šī pozīcija nodrošina, ka pat tad, ja kāda no MT jaunajām prognozēm (piemēram, precīza G vērtība galaktiku centros) eksperimentāli neapstiprināsies, klasiskā fizika saglabā savu derīgumu, un MT tiek vienkārši koriģēta savā mikrolīmenī. Tas padara teoriju **elastīgu** un pasargā to no neauglīga konflikta ar vēsturiski pārbaudītu empīriju.
+
 ## 1. KOPSAVILKUMS
 
 Matricas teorija (MT) ir jauna fizikālā teorija, kas piedāvā mehānisku skaidrojumu fizikas pamatparādībām — elektromagnētismam, gravitācijai, kosmoloģijai un dzīvībai — no vienota pamata. Teorija balstās uz pieņēmumu, ka Visums (H0 matrica) ir statisks, diskrēts režģis, kurā enerģijas plūsmas (TE) un to strukturālās īpašības (Qn, FV) rada visus novērojamos efektus. ID sistēma (ID_GRADIENT_lv.md) nodrošina universālu klasifikāciju, un ROADMAP (MT_ROADMAP_lv.md) nosaka H0 un L1 ceļu nošķīrumu.
