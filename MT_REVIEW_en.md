@@ -8,6 +8,12 @@
 
 ---
 
+## 0. Compatibility, not confrontation (methodological stability)
+
+MT is designed to be **complementary**, not disruptive. It does not require abandoning GR, QED, or quantum mechanics — on the contrary, it acknowledges their remarkable predictive accuracy. MT simply provides a mechanism that explains *why* these laws work (ID0 lattice properties and Vertical energy flow).
+
+This stance ensures that even if some of MT's novel predictions (e.g., the precise G value in galactic centers) were not confirmed experimentally, classical physics would remain valid, and MT would simply be revised at its micro-level. This makes the theory **flexible** and protects it from unproductive conflict with historically validated empirical knowledge.
+
 ## 1. SUMMARY
 
 Matrix Theory (MT) is a new physical theory that offers a mechanical explanation of fundamental physical phenomena — electromagnetism, gravity, cosmology, and life — from a unified basis. The theory is founded on the assumption that the Universe (the H0 matrix) is a static, discrete ID0 lattice in which energy flows (TE) and their structural properties (Qn, FV) produce all observable effects. The ID system (ID_GRADIENT_lv.md) provides a universal classification, and ROADMAP (MT_ROADMAP_lv.md) establishes the separation of H0 and L1 paths.
