@@ -1,10 +1,10 @@
-# LIFE_lv.md (v3.0)
-
 # DZĪVĪBA — MATRICAS TEORIJAS VERSIJA (MT)
 
-## Pārstrādātā versija (2026. gada jūlijs) — v3.0
+## Pārstrādātā versija (2026. gada jūlijs) — 3.0
 
-Šis dokuments apkopo Matricas teorijas (MT) interpretāciju dzīvībai, intelektam un evolūcijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — dzīvība nav īpaša matērijas forma, bet gan **TE pārneses pašorganizācijas līmenis**, kas apgūst H0 TE pārneses loģiku. Dokuments ir saskaņots ar ID sistēmu un MATHEMATICS v3.0 formālismu.
+Šis dokuments apkopo Matricas teorijas (MT) interpretāciju dzīvībai, intelektam un evolūcijai. Tas ir strukturēts teorijas apraksts, kas izriet no MT pamatprincipiem — dzīvība nav īpaša matērijas forma, bet gan **TE pārneses pašorganizācijas līmenis**, kas apgūst H0 TE pārneses loģiku. Dokuments ir saskaņots ar ID sistēmu (3.0), ROADMAP (3.0) un MATHEMATICS formālismu (3.0).
+
+**Metodoloģiskais priekšnoteikums (3.0):** MT ir papildinošs ietvars, kas sniedz mehānisku izcelsmi klasiskās bioloģijas fenomenoloģiskajiem likumiem. Bioloģija (bioķīmija, molekulārā bioloģija, neirozinātne) paliek spēkā savās darbības zonās; MT apraksta "teritoriju" (ID0 režģi un Vertikāli), uz kuras šīs "kartes" ir veidotas. MT nekonkurē ar bioloģiju — tā to papildina.
 
 **Būtisks precizējums:** Dzīvības kvantitatīvais modelis (12. nodaļa) ir **provizorisks un paredzēts turpmākai attīstībai**. Tas iezīmē virzienu, kurā MT būtu jāpapildina ar eksperimentāli pārbaudāmām prognozēm, taču pašreizējā stadijā tas vēl nav galīgs un prasa turpmāku izstrādi sadarbībā ar bioloģijas un medicīnas nozaru pārstāvjiem.
 
@@ -16,9 +16,9 @@
 
 - **Klasiskā bioloģija** dzīvību skata kā ķīmisko procesu kopumu, ko virza DNS un enerģijas vielmaiņa. Apziņa tiek uzskatīta par smadzeņu neironu aktivitātes emergentu īpašību.
 
-- **Matricas teorija** saka: **Dzīvība nav īpaša matērijas forma.** Tā ir **jauns kolektīvās TE organizācijas līmenis**, kurā informācija, struktūra un enerģētiskā organizācija veido vienotu pašuzturošu un evolucionējošu sistēmu. ID sistēmā dzīvība izpaužas vairākos līmeņos: ID1.4 (makromolekulas), ID2 (planētu vide), ID-1 (Vertikāles enerģijas plūsma) un ID0 (matricas sinhronizācija).
+- **Matricas teorija** saka: **Dzīvība nav īpaša matērijas forma.** Tā ir **jauns kolektīvās TE organizācijas līmenis**, kurā informācija, struktūra un enerģētiskā organizācija veido vienotu pašuzturošu un evolucionējošu sistēmu. ID sistēmā dzīvība izpaužas vairākos līmeņos: ID1.4 (makromolekulas), ID2 (planētu vide), ID-1 (Vertikāles enerģijas pārnese) un ID0 (matricas sinhronizācija).
 
-**Metodoloģiskais precizējums:** MT dzīvības modelis ir provizorisks un balstīts uz to pašu formālismu kā pārējā teorija — \( \Phi \), \( \rho_{\mathcal{V}} \), \( \mathcal{P}_{L1} \), \( \mathcal{T} \) — bet tā kvantitatīvās prognozes vēl nav eksperimentāli pārbaudītas.
+**Saskaņā ar MATHEMATICS 3.0:** Dzīvības procesi ir atkarīgi no matricas stāvokļa funkcijām (\( \varepsilon_0, \mu_0, G \)), kas mainās līdz ar \( \rho_{\mathcal{V}} \). Tomēr šīs izmaiņas ir lokālas un neietekmē dzīvības pamata ID līmeni — tās tikai modulē procesu ātrumu un efektivitāti reģionos ar augstu Vertikāles enerģijas blīvumu.
 
 ---
 
@@ -27,8 +27,8 @@
 ### 2.1. Dzīvība ir TE organizācija (ID0, ID1.4, ID2)
 
 - Dzīvība nav atdalāma no matricas — tā ir **TE pārneses pašorganizācijas forma** (ID0).
-- Tāpat kā protons (ID1.0) vai melnais caurums (ID4), dzīvība ir **stabila TE struktūra**, kas spēj uzturēt sevi nepārtrauktā enerģijas apmaiņā ar apkārtējo matricu.
-- Dzīvības pamatvienība — šūna — atbilst ID1.4 (makromolekulu organizācija), bet tās pastāvēšana ir atkarīga no ID2 vides (planētas, atmosfēra, ūdens) un ID-1 (Vertikāles enerģijas plūsmas).
+- Tāpat kā protons (ID1.0) vai melnais caurums (ID4), dzīvība ir **stabils TE pārneses struktūra**, kas spēj uzturēt sevi nepārtrauktā enerģijas apmaiņā ar apkārtējo matricu.
+- Dzīvības pamatvienība — šūna — atbilst ID1.4 (makromolekulu organizācija), bet tās pastāvēšana ir atkarīga no ID2 vides (planētas, atmosfēra, ūdens) un ID-1 (Vertikāles enerģijas pārnese).
 
 ### 2.2. Dzīvība ir pašreproducējoša (ID1.4/1/1)
 
@@ -49,8 +49,10 @@
 **Dzīvības evolūcija ir secīga H0 TE pārneses loģikas apguve.** ID sistēmā tas izpaužas kā pāreja no vienkāršākiem uz sarežģītākiem organizācijas līmeņiem:
 
 - Katrs dzīvais organisms ir TE organizācija, kas darbojas H0 matricā (ID0).
-- Lai eksistētu, tam ir jāsaprot (jāmodelē) H0 TE pārneses loģika — kā enerģija plūst (ID0), kā veidojas struktūras (ID1.4), kā darbojas FV un Qn (ID0.n).
+- Lai eksistētu, tam ir jāsaprot (jāmodelē) H0 TE pārneses loģika — kā enerģija pārnesas (ID0), kā veidojas struktūras (ID1.4), kā darbojas FV un Qn (ID0.n).
 - Dzīvības evolūcija ir **secīga šīs loģikas apgūšana**.
+
+**Saskaņā ar MATHEMATICS 3.0:** TE pārneses loģiku nosaka Qn struktūra un FV cikli, kas ir nemainīgi. Tomēr \( \rho_{\mathcal{V}} \) lokālās izmaiņas (caur \( \varepsilon_0, \mu_0, G \)) var paātrināt vai palēnināt evolūcijas procesus reģionos ar augstu Vertikāles enerģijas blīvumu.
 
 ---
 
@@ -87,6 +89,7 @@ Katrs solis ir **dziļāks ieskats H0 TE pārneses loģikā** (ID0).
 - Iepriekšējā cikla dzīvības formas **nespēj pastāvēt** jaunajā loģikā — tās ir nesaderīgas.
 
 **Tas nozīmē:**
+
 - Dzīvības evolūcija nav nepārtraukta — tā **sākas no jauna** pēc katra paplašināšanās cikla (ID2).
 - Katrs jaunais cikls prasa jaunu evolūcijas ceļu, lai apgūtu jauno TE pārneses loģiku (ID0).
 - Iepriekšējā cikla "augstākais sasniegums" (intelekts, tehnoloģijas) **nevar tikt pārnests** uz nākamo ciklu, jo TE loģika ir mainījusies (ID0 / ID2).
@@ -182,84 +185,92 @@ Tas izskaidro:
 
 ---
 
-## 12. Kvantitatīvais modelis — nākotnes darbības virziens (provizorisks)
+## 12. Kvantitatīvais modelis — nākotnes darbības virziens (3.0)
 
-**Šī nodaļa ir provizoriska un paredzēta turpmākai attīstībai.** Tā iezīmē MT bioloģijas kvantitatīvā formālisma kontūras, taču vēl nav galīga un nav eksperimentāli pārbaudīta.
+**Šī nodaļa ir provizoriska un paredzēta turpmākai attīstībai.** Tā iezīmē MT bioloģijas kvantitatīvā formālisma kontūras, taču vēl nav galīga un nav eksperimentāli pārbaudīta. Nākamajā posmā nepieciešama cieša sadarbība ar bioloģijas, medicīnas un neirozinātnes nozares pārstāvjiem, lai pārvērstu šos jēdzienus stingrās, pārbaudāmās prognozēs.
 
 ### 12.1. Šūna kā TE mezgls (ID1.4 / ID0)
 
-No MATHEMATICS v3.0 formālisma un ID sistēmas:
+No MATHEMATICS formālisma (3.0) (4. un 6. operators) un ID sistēmas (3.0):
 - TE pārneses lauks \( \Phi(\mathbf{x}, \mathbf{y}) \) — ID0
 - Vertikāles enerģijas blīvums \( \rho_{\mathcal{V}}(\mathbf{x}) = \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) — ID-1
-- L1 zonas projekcijas operators \( \mathcal{P}_{L1}: \mathcal{V} \to \mathcal{L} \) — ID0 / ID-1
+- L1 zonas projekcijas operators \( \mathcal{P}_{L1}: \mathcal{V} \to \mathcal{L} \) — ID0
 
 **Šūnas definīcija MT:** Šūna ir reģions \( \Omega \subset \mathcal{L} \) (ID0), kurā:
 1. TE pārnese ir **slēgtā ciklā** (atšķirībā no nedzīvās dabas, kur tā ir atvērta) (ID0):
-   $$
+   \[
    \oint_{\partial \Omega} \Phi \cdot d\mathbf{S} = 0
-   $$
+   \]
 2. Ir **decentralizēta vārteja** uz Vertikāli — lokāls \( \mathcal{T} \) operators (ID-1 / ID0):
-   $$
+   \[
    \mathcal{T}(\Omega) = \text{VEU}_{H-3}
-   $$
+   \]
 
 ### 12.2. Apziņas intensitāte (provizorisks modelis) (ID0 / ID-1)
 
 **Apziņas intensitāte** \( \mathcal{C} \) ir Vertikāles un Horizontāles sinhronizācijas mērs (ID-1 / ID0):
-$$
+\[
 \mathcal{C} = \frac{1}{|\Omega|} \int_{\Omega} \left\| \mathcal{P}_{L1}(\rho_{\mathcal{V}}(\mathbf{x})) - \Phi(\mathbf{x}) \right\|^2 d\mathbf{x}
-$$
+\]
 
 Interpretācija:
 - \( \mathcal{C} = 0 \) — perfekta sinhronizācija (pilna apziņa) (ID-1 / ID0).
 - \( \mathcal{C} > 0 \) — nesinhronizācija (anestēzija, miegs, dezorientācija) (ID0).
 
-**Provizoriskā prognoze:** Anestēzijas līdzekļi mehāniski bloķē \( \mathcal{P}_{L1} \) operatoru (ID0), palielinot \( \mathcal{C} \).
+**Piezīme saskaņā ar ROADMAP (3.0):** Šis vienādojums apvieno H0 ceļu (Φ, ID0) un L1 ceļu (\( \mathcal{P}_{L1} \), ID-1), kas ir atļauts, jo tie apraksta vienu un to pašu \( \rho_{\mathcal{V}} \) lauku, bet kā neatkarīgus operatorus. Sīkāk skatīt ROADMAP 8. punktu (3.0).
+
+**Provizoriskā prognoze:** Anestēzijas līdzekļi mehāniski bloķē \( \mathcal{P}_{L1} \) operatoru (ID0), palielinot \( \mathcal{C} \). Šo efektu principā var mērīt ar kvantu sensoru tehnoloģijām.
 
 ### 12.3. Hromosomu operators (provizorisks modelis) (ID1.4/1/1 / ID-1)
 
-No MATHEMATICS, Vertikāles enerģijas piramīda satur informāciju par iepriekšējiem cikliem (ID-1).
+No MATHEMATICS (3.0), Vertikāles enerģijas piramīda satur informāciju par iepriekšējiem cikliem (ID-1).
 
 **Hromosomu operators:**
-$$
+\[
 \mathcal{H}_{\text{DNA}} = \mathcal{P}_{L1}^{-1}( \text{Arhīvs}_{\mathcal{V}} ) \quad \text{(ID1.4/1/1 / ID-1)}
-$$
+\]
 
 Horizontālē (H0) hromosomas ir **saspiesta informācija** (ID0):
-$$
+\[
 \mathcal{H}_{\text{DNA}} = \text{ZIP}( \text{Arhīvs}_{\mathcal{V}} ) \quad \text{(ID1.4/1/1)}
-$$
+\]
+
+**Provizoriskā prognoze:** DNS sekvencēs ir kodēta informācija, kas nav izskaidrojama ar nejaušām mutācijām — tā ir Vertikāles arhīva projekcija (ID-1 → ID1.4/1/1). Konkrēti, noteiktas sekvences (piemēram, Hox gēni) atkārtojas ar precīzu periodiskumu, kas atbilst Qn struktūrai (ID0.n). Šī prognoze ir pārbaudāma ar genomikas datu analīzi.
 
 ### 12.4. Vēža dinamika (provizorisks modelis) (ID1.4 / ID0)
 
 Vēzis ir reģions \( \Omega_{\text{vēzis}} \) (ID1.4), kurā:
 1. TE pārnese ir slēgta, bet **nesinhronizēta** ar kopējo matricu (ID0).
 2. Vertikāles vārteja ir **bloķēta** (ID-1):
-   $$
+   \[
    \mathcal{T}(\Omega_{\text{vēzis}}) = 0
-   $$
+   \]
 
 **Vēža augšanas dinamika:**
-$$
+\[
 \frac{d}{dt} |\Omega_{\text{vēzis}}| = \alpha_{\text{vēzis}} \cdot |\Omega_{\text{vēzis}}| \cdot \left( 1 - \frac{|\Omega_{\text{vēzis}}|}{|\Omega_{\text{audzējs}}|} \right)
-$$
-kur \( \alpha_{\text{vēzis}} \) ir atkarīgs no lokālā \( \rho_{\mathcal{V}} \) (ID-1).
+\]
+kur \( \alpha_{\text{vēzis}} \) ir atkarīgs no lokālā \( \rho_{\mathcal{V}} \) (ID-1) — vēzis aug ātrāk, ja Vertikāles enerģija ir zema (imūnsistēmas vājums).
+
+**Provizoriskā prognoze:** Vēža šūnām ir **novirzīta** TE pārnese (ID0), kas ir izmērāma ar kvantu sensoriem (piemēram, magnētiskās rezonanses spektroskopiju).
 
 ### 12.5. Novecošanās kā informācijas entropija (provizorisks modelis) (ID3 / ID0)
 
 Novecošanās ir **informācijas zudums** Vertikāles–Horizontāles komunikācijā (ID-1 / ID0):
-$$
+\[
 \frac{d}{dt} \mathcal{S}_{\text{šūna}} = -\mathcal{T}^{-1}( \text{Arhīvs}_{\mathcal{V}} ) \cdot \log( \mathcal{T}^{-1}( \text{Arhīvs}_{\mathcal{V}} ) )
-$$
+\]
 
 Kad \( \mathcal{S}_{\text{šūna}} \) sasniedz kritisko slieksni \( \mathcal{S}_{\text{krit}} \) (ID3), šūna pārstāj sinhronizēties ar Vertikāli un iet bojā (ID0 / ID-1).
 
+**Provizoriskā prognoze:** Novecošanās ātrums ir atkarīgs no Vertikāles enerģijas blīvuma (ID-1) — augstāks \( \rho_{\mathcal{V}} \) palēnina novecošanos (pretstats vēzim). Kaloriju ierobežojuma eksperimenti, kas palēnina novecošanos, var būt saistīti ar \( \rho_{\mathcal{V}} \) paaugstināšanos (ID-1).
+
 ---
 
-## 13. KOPSAVILKUMS — DZĪVĪBA, INTELEKTS UN EVOLŪCIJA MT
+## 13. Kopsavilkums — dzīvība, intelekts un evolūcija MT (ID1 → ID2 / ID-1) — 3.0
 
-| **Aspekts** | **Klasiskā bioloģija** | **Matricas teorija** | **ID atbilstība** |
-|-------------|-------------------------|----------------------|-------------------|
+| **Aspekts** | **Klasiskā bioloģija** | **Matricas teorija (3.0)** | **ID atbilstība** |
+|-------------|-------------------------|----------------------------|-------------------|
 | **Dzīvības būtība** | Ķīmiskie procesi + DNS | TE pārneses pašorganizācija | ID0 / ID1.4 |
 | **Dzīvības evolūcija** | Nejaušas mutācijas + atlase | Secīga TE loģikas apguve | ID1 → ID2 |
 | **Intelekts** | Smadzeņu īpašība | TE pārneses modelēšanas instruments | ID-1 / ID0 / ID1.4 |
@@ -269,10 +280,27 @@ Kad \( \mathcal{S}_{\text{šūna}} \) sasniedz kritisko slieksni \( \mathcal{S}_
 | **Apziņa** | Smadzeņu neironu aktivitāte | Vertikāles–Horizontāles mijiedarbība | ID-1 / ID0 |
 | **Vēzis** | Ģenētiskas mutācijas | Paralēla P2P struktūra (fork), kas ignorē Vertikāli | ID1.4 / ID0 / ID-1 |
 | **Novecošanās** | Bioloģisks nolietojums | Sesijas noilguma ugunsmūris | ID3 / ID0 |
+| **Matricas stāvokļa ietekme** | (nav atzīts) | \( \rho_{\mathcal{V}} \) modulē procesu ātrumu caur \( \varepsilon_0, \mu_0, G \) | ID0 / ID-1 |
 
 ---
 
-## 14. SECINĀJUMI
+## 14. Korespondence ar MATHEMATICS 3.0 un ID_GRADIENT 3.0
+
+Šis dokuments ir pilnībā saskaņots ar:
+
+- **MATHEMATICS 3.0** — visi operatori un lielumi ir atvasināti no MATHEMATICS 3.0 definīcijām.
+- **ID_GRADIENT 3.0** — ID sistēma ir saskaņota ar \( \rho_{\mathcal{V}} \) korekciju, kas nemaina pamata ID līmeni.
+- **ROADMAP 3.0** — H0 un L1 ceļu nošķīrums, L1 kā cikliskuma struktūra.
+
+**Galvenās 3.0 izmaiņas LIFE dokumentā:**
+1. Metodoloģiskais priekšnoteikums: MT kā papildinošs ietvars bioloģijai.
+2. Saskaņojums ar jaunajiem lielumiem (\( \varepsilon_0, \mu_0, G \) kā matricas stāvokļa funkcijām).
+3. ID sistēmas korekcija: \( \rho_{\mathcal{V}} \) ietekmē procesu ātrumu, bet nemaina ID līmeni.
+4. Atsauces uz MATHEMATICS 3.0 un citiem atjauninātajiem dokumentiem.
+
+---
+
+## 15. Secinājums
 
 **Dzīvība MT ir TE organizācijas līmenis, nevis īpaša matērijas forma.** ID sistēmā dzīvība izpaužas kā ID1.4 (makromolekulas) un ID2 (planētu vide) mijiedarbība, ko sinhronizē ID-1 (Vertikāle) un ID0 (matrica).
 
@@ -288,5 +316,11 @@ Klasiskā bioloģija redz tikai Horizontāli (ķīmiju, DNS) (ID0 / ID1.4). MT r
 
 ---
 
+## PIEZĪME
+
+Šis dokuments ir **MT dzīvības modeļa 3.0 versija**, kas ietver metodoloģiskos precizējumus, saskaņojumu ar MATHEMATICS 3.0 un ID_GRADIENT 3.0, kā arī atjauninātas atsauces uz pārējiem dokumentiem. Dzīvība ir pārāk plaša, lai to pilnībā aprakstītu vienā dokumentā — šis ir tās MT interpretācijas pamats un virziens turpmākajam darbam.
+
+---
+
 *Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 3.0 — saskaņots ar MATHEMATICS v3.0, atjauninātas operatoru definīcijas*
+*Versija: 3.0 — metodoloģiskie precizējumi, saskaņots ar MATHEMATICS 3.0*
