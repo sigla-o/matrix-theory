@@ -5,6 +5,16 @@
 
 ---
 
+## 0. MT as a complementary framework (methodological prerequisite)
+
+This roadmap structures the internal logic of Matrix Theory (MT) — the separation of the H0 and L1 paths, the dual nature of L1, and the application of the ID system.
+
+**Crucial prerequisite:** MT is not designed to replace General Relativity, Quantum Electrodynamics, or the Lambda-CDM cosmological model. Its aim is to provide a **deeper mechanical foundation** for the phenomenological successes of these theories.
+
+- Existing theories remain valid within their operational domains (L1, H0, ID1 — ID4).
+- MT offers a description of the "territory" (ID0 lattice and the Vertical) that explains *why* these "maps" (classical equations) work.
+- The operators and divisions outlined in this roadmap serve to demonstrate MT's reduction to classical laws in the appropriate limits, while simultaneously pointing toward new, testable effects beyond the direct predictive power of these laws.
+
 ## 1. AXIOMATIC FOUNDATIONS (NOT FREE)
 
 | Quantity | Value / Operator | Origin | Status | ID correspondence |
