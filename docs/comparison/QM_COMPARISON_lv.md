@@ -6,6 +6,8 @@
 
 **Galvenā atziņa:** Klasiskā fizika darbojas tikai L1 līmenī (ID0) un nezina par L0 fonu (ID-1). MT redz abus — L0 kā fonu un L1 kā pārneses traucējumu. Tāpēc parādības, kas klasiskajā fizikā šķiet "brīnumainas" vai "fundamentāli nenoteiktas", MT ir izskaidrojamas kā matricas strukturālas īpašības (ID0 / ID-1).
 
+**Metodoloģiskais precizējums:** MT nenoliedz kvantu mehānikas derīgumu kā prognozēšanas rīku (ID0). Tā norāda, ka QM ir derīgs L1 līmeņa apraksts, taču tās "varbūtiskums" un "sabrukums" ir ID-1 fona ietekmes projekcija, ko klasiskā fizika vienkārši neiekļauj savā matemātiskajā aparātā. QM paliek spēkā savā darbības laukā — MT to papildina, nevis aizstāj.
+
 ---
 
 ## 1. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU UN ID SISTĒMU
