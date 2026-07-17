@@ -5,6 +5,16 @@
 
 ---
 
+## 0. MT kā papildinošs ietvars (metodoloģiskais priekšnoteikums)
+
+Šī ceļu karte strukturē Matricas teorijas (MT) iekšējo loģiku — H0 un L1 ceļu nošķīrumu, L1 duālo dabu un ID sistēmas pielietojumu.
+
+**Būtisks priekšnoteikums:** MT nav izstrādāta, lai aizstātu Vispārīgo relativitāti, kvantu elektrodinamiku vai Lambda-CDM kosmoloģisko modeli. Tās mērķis ir sniegt **dziļāku mehānisko pamatojumu** šo teoriju fenomenoloģiskajiem panākumiem.
+
+- Esošās teorijas paliek spēkā savās darbības zonās (L1, H0, ID1 — ID4).
+- MT piedāvā "teritorijas" (ID0 režģa un Vertikāles) aprakstu, kas izskaidro, *kāpēc* šīs "kartes" (klasiskie vienādojumi) darbojas.
+- Ceļu kartē norādītie operatori un sadalījumi kalpo tam, lai parādītu MT reducēšanos uz klasiskajiem likumiem atbilstošās robežās, vienlaikus norādot uz jauniem, pārbaudāmiem efektiem ārpus šo likumu tiešās prognozēšanas spējas.
+
 ## 1. AKSIOMĀTISKIE PAMATI (NAV BRĪVI)
 
 | Lielums | Vērtība / Operators | Izcelsme | Statuss | ID atbilstība |
