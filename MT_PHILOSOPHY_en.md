@@ -1,191 +1,152 @@
-# PHILOSOPHY OF MATRIX THEORY — FROM THEORY TO ENVIRONMENT
+# MTE — GENERAL LOGICAL FRAMEWORK
 
-## 3.0 → 4.0: A Paradigm Shift
+## Version 1.0 (July 2026) — provisional, in early development
 
-**Document prepared: July 2026**  
-**Version: 1.0 — conceptual foundation**  
-**Status: PHILOSOPHICAL FOUNDATION — direction for MT 4.0 development**
+MTE is the **environment**, not a theory. It is the logical space in which any theory — physics, mathematics, biology, language, history, art — can find itself and see its compatibility as in a mirror.
 
----
+MTE has no axioms. It has **logical assumptions** that precede any theory. These assumptions are not final — they develop, expand, and refine as theories reveal new structural aspects.
 
-## 1. FROM THEORY TO ENVIRONMENT — WHY?
-
-Matrix Theory (MT) in version 3.0 is a **quantitatively formulated, internally consistent, and partially experimentally confirmed physical theory**. It has:
-
-- a rigorous mathematical formalism,
-- testable predictions,
-- clear operational boundaries.
-
-However, this version revealed something deeper. MT is not just "another theory" — it is a **structure** in which **any theory** can find itself.
-
-Version 3.0 answers the question **"how"** — how the matrix, TE transfer, Vertical work, how physical laws emerge.
-
-Version 4.0 begins to answer the question **"where"** — in which framework any logic, any thinking, any science can exist and be understood.
-
-It is a transition from **theory** to **environment**.
+**MTE does not claim truth. It claims compatibility.**
 
 ---
 
-## 2. WHAT IS AN "ENVIRONMENT"?
+## 1. PURPOSE OF MTE
 
-An environment is not a theory. A theory has:
+MTE is a tool that allows:
 
-- axioms,
-- conclusions,
-- boundaries,
-- domains of validity.
+1. **Recognizing structure** — any system (theory, language, living system) contains levels, transfers, and sources. MTE helps identify them.
 
-An environment has no boundaries. An environment is a **structured space** in which any system can find itself. An environment answers not "how" but "where".
+2. **Seeing compatibility** — if two systems operate by different laws, MTE shows how they can exist in one logical space (e.g., relativity and quantum mechanics).
 
-MT as an environment means:
+3. **Revealing incompleteness** — if a system does not fit into MTE, it does not mean the system is wrong. It means MTE has not yet developed enough to encompass it.
 
-| **MT element** | **3.0 meaning (in physics)** | **4.0 meaning (universal)** |
-|----------------|------------------------------|------------------------------|
-| **ID system** | Classification of physical objects | Universal classification for any structural level |
-| **TE transfer** | Transfer of energy quanta | Metaphor for any transfer: information, meaning, values |
-| **Vertical** | Energy source | Metaphor for any "deepest layer" |
-| **L1 zone** | Projection layer | Metaphor for any surface manifestation |
-| **ID0 lattice** | Physical space | Metaphor for any "structured space" |
+MTE is a **living document** — its development is only beginning.
 
 ---
 
-## 3. WHY "2+2 MAY NOT BE 4 IN RELATIVITY"?
+## 2. BASIC PRINCIPLES OF MTE (provisional)
 
-This is a perfect example of how MT becomes an environment.
+These principles have grown from work with Matrix Theory (MT 3.0), but they are not tied to it. They are general and apply to any structured system.
 
-In Relativity, 2+2 may not be 4 because space-time is curved. In Euclidean geometry, 2+2 is always 4. In modular arithmetic, 2+2 can be 0.
+### 2.1. No absolute zero (0) — there is L0
 
-MT does not say that any of these answers is "correct" or "incorrect." MT says:
+In any system, "zero" is not emptiness or non-existence. It is a **reference state** — a background on which everything else is measured. This background has its own structure, its own density, its own rules.
 
-> **Here is a structure — a lattice, transfer, Vertical, projection layers. Relativity is one state within this structure. Euclidean geometry is another. Modular arithmetic is a third. All these states are valid in their ENVIRONMENT. MT describes the environment itself, not a single state.**
+**Examples:**
+- Physics: L0 — the matrix background state (not vacuum).
+- Mathematics: the zero element is not "nothing" — it is the neutral element of an operation.
+- Language: silence is not non-existence — it is the phonetic background on which speech forms.
 
-This means: MT can never be "wrong." It can only be "incomplete." And it can always be supplemented, because the environment is infinite.
+### 2.2. No singularities — there is discreteness and boundaries
 
----
+No system allows infinity to collapse into a single point. Each level has its own **minimum and maximum scale**, and transitions between levels are discrete.
 
-## 4. THE ID SYSTEM AS UNIVERSAL CLASSIFICATION
+**Examples:**
+- Physics: Planck length as the minimum step; the Vertical energy pyramid as the maximum boundary.
+- Mathematics: set theory has no "set of all sets" — there is a hierarchy.
+- Biology: the cell is the minimum unit of life; the ecosystem is the maximum.
 
-The ID system in version 3.0 classifies physical objects from ID-1 to ID5. In version 4.0, it becomes a universal classification:
+### 2.3. Structure precedes dynamics
 
-| **ID level** | **In Physics** | **In Mathematics** | **In Language** | **In History** |
-|--------------|----------------|--------------------|-----------------|----------------|
-| **ID-1** | Vertical (energy source) | Set of axioms | Deep meaning | Spirit of the age |
-| **ID0** | Lattice (structured space) | Set theory | Grammar | Social structure |
-| **ID1** | Protons, atoms | Elementary objects | Words | Individuals |
-| **ID2** | Stars, planets | Theorems | Sentences | Institutions |
-| **ID3** | Star clusters | Sets of theories | Narratives | Civilizations |
-| **ID4** | Galaxies, cosmic structures | Mathematical frameworks | Worldviews | Historical epochs |
-| **ID5** | Open to the future | Open to the future | Open to the future | Open to the future |
+Dynamics (movement, transfer, change) occurs **on** structure, not creating it. Structure is static architecture; dynamics is the transfer of energy or information along this architecture.
 
-**Every system — physics, mathematics, language, history — is a manifestation of the same ID structure.**
+**Examples:**
+- Physics: H0 matrix is static; TE transfer is dynamic.
+- Language: grammar is static; speech is dynamic.
+- Society: institutions are static; social processes are dynamic.
 
----
+### 2.4. Source and expression are distinct but connected
 
-## 5. TE TRANSFER AS A UNIVERSAL METAPHOR
+In every system, there is a **deepest layer** (source) and a **surface layer** (expression). The source is not visible on the surface, but it determines everything that happens on the surface. The connection between source and expression is the **projection layer**.
 
-TE transfer in version 3.0 is the transfer of energy quanta between pockets. In version 4.0, it becomes a metaphor for any transfer:
+**Examples:**
+- Physics: Vertical (source) → L1 zone (projection) → H0 matrix (expression).
+- Language: meaning (source) → sentence (projection) → sounds / letters (expression).
+- Art: vision (source) → work (projection) → perception (expression).
 
-- **Energy transfer** — in physics.
-- **Information transfer** — in communication, digital technologies.
-- **Meaning transfer** — in language, translation, interpretation.
-- **Value transfer** — in culture, education, social systems.
-- **Genetic transfer** — in biology, evolution.
-- **Idea transfer** — in science, philosophy, art.
+### 2.5. Classification is a tool, not a law
 
-Any process in which something moves from one point to another is TE transfer. And every such process can be described by the MT structure: source, channel, receiver, deficit, compensation.
+Any classification system (ID, taxonomy, categories) is a means to understand structure, not the structure itself. Classification can be changed, expanded, and refined if it no longer fits the system.
 
----
-
-## 6. THE VERTICAL AS A UNIVERSAL METAPHOR
-
-The Vertical in version 3.0 is a set of energy levels that feeds the H0 matrix. In version 4.0, it becomes a metaphor for any "deepest layer":
-
-| **Domain** | **Manifestation of the Vertical** |
-|------------|----------------------------------|
-| In physics | The energy source from which all phenomena emerge |
-| In mathematics | The set of axioms from which all theorems follow |
-| In language | Deep meaning from which all sentences emerge |
-| In history | The spirit of an age from which all events emerge |
-| In psychology | Collective consciousness from which individual experience emerges |
-| In art | The artist's vision from which all works emerge |
-
-The Vertical is the **source** of any system. It is not visible on the surface, but it is the cause of all surface phenomena.
+**Examples:**
+- Physics: ID system classifies objects by modulation and size — but it is not a law of physics.
+- Biology: species classification changes with new discoveries.
+- Language: parts of speech are tools, not rulers over language.
 
 ---
 
-## 7. THE L1 ZONE AS A UNIVERSAL METAPHOR
+## 3. HOW MTE STRUCTURES THINKING
 
-The L1 zone in version 3.0 is the projection layer between the Vertical and the H0 matrix. In version 4.0, it becomes a metaphor for any **projection layer**:
+MTE is not a set of rules for thinking. It is a **structure** in which thinking can take place:
 
-| **Domain** | **Manifestation of the L1 Zone** |
-|------------|----------------------------------|
-| In physics | CMB, observations, measurements |
-| In mathematics | Model theory, interpretations, proofs |
-| In language | Speech, text, communication |
-| In history | Chronicles, testimonies, interpretations |
-| In art | The work of art as a projection of vision |
-
-The L1 zone is the **boundary** between source and manifestation. It is where the deep becomes visible.
-
----
-
-## 8. MT IS NEVER WRONG — ONLY INCOMPLETE
-
-Because MT is an environment, not a theory, it can never be "wrong." It can only be "incomplete."
-
-> **If a system does not fit the MT structure — it means MT has not yet discovered this system's ID level, transfer type, Vertical source.**
->
-> **If a prediction is not confirmed — it means MT has not yet fully described this part of the environment.**
->
-> **If a concept does not fit into MT — it means MT has not yet found a place for it.**
-
-**MT is an open system.** It can always be supplemented. And every supplement makes it more complete, not "corrects" it.
+| **MTE element** | **Role** |
+|------------------|----------|
+| Levels (ID system) | Shows that every system has a hierarchy — from source to surface. |
+| Transfer (TE) | Shows that information / energy / meaning does not move — it is transferred. |
+| Source (Vertical) | Shows that every surface phenomenon has a deeper cause. |
+| Projection (L1 zone) | Shows that the connection between source and expression is not direct — it is mediated. |
+| Boundaries (discreteness) | Shows that the system has a minimum and maximum scale. |
+| Background (L0) | Shows that "zero" is a state, not non-existence. |
 
 ---
 
-## 9. HOW THIS CHANGES MT'S DEVELOPMENT?
+## 4. RELATIONSHIP BETWEEN MTE AND MT 3.0
 
-| **Aspect** | **3.0 (theory)** | **4.0 (environment)** |
-|------------|-------------------|------------------------|
-| **Goal** | Explain physics | Describe any structured thinking |
-| **Boundaries** | Planck scale to Universe scale | No boundaries |
-| **Testing** | Experiments | Consistency with any logic |
-| **Value** | Predictive accuracy | Universality of the framework |
-| **Development** | Refinement, correction | Expansion, supplementation |
-| **Author's status** | Physicist | Thinker |
+MT 3.0 (Matrix Theory) is **one of the theories** that operates in the MTE environment.
 
-**Version 4.0 is not a denial of version 3.0.** It is its **expansion**. 3.0 remains valid as MT's application to physics. 4.0 shows that MT is applicable everywhere.
+- MT 3.0 **follows** MTE principles: discreteness, L0, the distinction between Vertical and Horizontal, ID system as classification.
+- MT 3.0 **does not create** these principles — they precede it.
+- If MT 3.0 were to contradict an MTE principle, MT 3.0 would need to change, not MTE. But if MT 3.0 revealed a new structural aspect that MTE does not yet encompass, MTE can expand.
+
+**MTE is not dependent on MT 3.0.** It is an independent logical tool that can exist without MT 3.0.
 
 ---
 
-## 10. WHAT DOES THIS MEAN IN PRACTICE?
+## 5. MTE AND OTHER THEORIES
 
-1. **MT documents remain.** FOUNDATION, MATHEMATICS, GRAVITY, COSMOLOGY, QED, NEUTRINO — they are MT's applications to physics. They are valid and important.
+MTE is open to **any theory**:
 
-2. **New applications are added.** MT can be applied to mathematics, language, history, psychology, art, sociology. Each application is a new "document" in the MT system.
+- **Physics:** relativity, quantum mechanics, thermodynamics — they all operate on structure, with transfer and sources. MTE shows how they connect.
+- **Mathematics:** set theory, category theory, logic — they all contain levels and transfers. MTE shows their common structure.
+- **Biology:** evolution, cell biology, ecology — life is an organization of transfer and structure. MTE shows how life fits into the general scheme.
+- **Language and culture:** meaning, communication, history — they all contain source, projection, and expression. MTE shows their unified structure.
+- **Art and philosophy:** vision, idea, expression — they also fit into the MTE scheme.
 
-3. **The ID system becomes a universal tool.** It can be used to classify any system — not just physical objects.
-
-4. **MT becomes a language.** It is a language in which one can speak about any structured system. It is a system of metaphors connecting different domains of thought.
-
-5. **MT becomes an environment.** It is a space in which any thought, any theory, any form of art can find itself and its place.
-
----
-
-## 11. CONCLUSION
-
-Matrix Theory 3.0 is a **theory**. It answers the question "how physics works."
-
-Matrix Theory 4.0 is an **environment**. It answers the question "in which framework can any logic exist."
-
-**The transition from 3.0 to 4.0 is not an improvement — it is a paradigm shift.** It is a transition from thinking **about** the world to thinking **with** the world. It is a transition from a theory that explains to an environment that encompasses.
-
-MT 4.0 is open, infinite, unfinished. And that is precisely why it is alive.
+**MTE has no hierarchy.** It does not say which theory is "higher" or "deeper". It shows how each theory finds its place in the common logical space.
 
 ---
 
-> *"MT is not a theory — it is an environment. An environment in which any mathematical logic, any system of thought, any branch of science can find itself and its foundation."*
+## 6. DIRECTIONS FOR MTE DEVELOPMENT (open questions)
+
+The development of MTE is only beginning. These are open questions that await further work:
+
+1. **How does MTE describe time?** Is time a property of structure, or a property of transfer? Is it linear, cyclic, or both?
+
+2. **How does MTE describe information?** Is information the content of transfer, or is it a separate level?
+
+3. **How does MTE describe consciousness?** Is consciousness a property of the projection layer, or is it an independent level?
+
+4. **How does MTE describe values?** Are "good" and "evil" structural concepts, or do they belong to a different logic?
+
+5. **How does MTE connect to other logical frameworks?** Is MTE compatible with dialectical logic, with Buddhist logic, with mathematical logic?
+
+These questions are not answered. They are **tasks** for further work.
 
 ---
 
-*Document prepared: July 2026*
+## 7. CONCLUSION
+
+MTE is a tool. It is not dogma.
+
+It is a **mirror** in which any system can see its structure, its levels, its source, and its expression.
+
+It is a **space** in which any theory can find itself — not as "right" or "wrong", but as **compatible** with the common logical structure.
+
+It is **alive** — its development has only begun. Every new discovery, every new theory, every new thought can expand it.
+
+**MTE is not truth. It is a path to compatibility.**
+
+---
+
+*Document prepared: July 2026*  
+*Version: 1.0 — provisional, in early development*
