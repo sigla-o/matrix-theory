@@ -1,191 +1,152 @@
-# MATRICAS TEORIJAS FILOZOFIJA — NO TEORIJAS UZ VIDI
+# MTE — VISPARĒJAIS LOĢISKAIS IETVARS
 
-## 3.0 → 4.0: Paradigmas maiņa
+## 1.0 versija (2026. gada jūlijs) — provizoriska, attīstības sākumā
 
-**Dokuments sagatavots: 2026. gada jūlijs**  
-**Versija: 1.0 — konceptuālais pamats**  
-**Statuss: FILOZOFISKS PAMATS — virziens MT 4.0 attīstībai**
+MTE ir **vide**, nevis teorija. Tā ir loģiskā telpa, kurā jebkura teorija — fizika, matemātika, bioloģija, valoda, vēsture, māksla — var atrast sevi un redzēt savu saderību kā spogulī.
 
----
+MTE nav aksiomu. Tai ir **loģiskie pieņēmumi**, kas ir pirms jebkuras teorijas. Šie pieņēmumi nav galīgi — tie attīstās, paplašinās un precizējas, teorijām parādot jaunus strukturālos aspektus.
 
-## 1. NO TEORIJAS UZ VIDI — KĀPĒC?
-
-Matricas teorija (MT) 3.0 versijā ir **kvantitatīvi formulēta, iekšēji konsekventa un daļēji eksperimentāli apstiprināta fizikas teorija**. Tajā ir:
-
-- stingrs matemātiskais formālisms,
-- pārbaudāmas prognozes,
-- skaidras darbības robežas.
-
-Tomēr šī versija atklāja kaut ko dziļāku. MT nav tikai "vēl viena teorija" — tā ir **struktūra**, kurā **jebkura teorija** var atrast sevi.
-
-3.0 versija atbild uz jautājumu **"kā"** — kā darbojas matrica, TE pārnese, Vertikāle, kā rodas fizikālie likumi.
-
-4.0 versija sāk atbildēt uz jautājumu **"kur"** — kurā ietvarā jebkura loģika, jebkura domāšana, jebkura zinātne var pastāvēt un būt saprotama.
-
-Tā ir pāreja no **teorijas** uz **vidi**.
+**MTE nepretendē uz patiesību. Tā pretendē uz saderību.**
 
 ---
 
-## 2. KAS IR "VIDE"?
+## 1. MTE MĒRĶIS
 
-Vide nav teorija. Teorijai ir:
+MTE ir instruments, kas ļauj:
 
-- aksiomas,
-- secinājumi,
-- robežas,
-- derīguma zonas.
+1. **Atpazīt struktūru** — jebkura sistēma (teorija, valoda, dzīvā sistēma) satur līmeņus, pārneses un avotus. MTE palīdz tos identificēt.
 
-Videi nav robežu. Vide ir **strukturēta telpa**, kurā jebkura sistēma var atrast sevi. Vide atbild nevis "kā", bet "kur".
+2. **Redzēt saderību** — ja divas sistēmas darbojas pēc atšķirīgiem likumiem, MTE parāda, kā tās var pastāvēt vienā loģiskā telpā (piemēram, relativitāte un kvantu mehānika).
 
-MT kā vide nozīmē:
+3. **Atklāt nepilnības** — ja sistēma neiederas MTE, tas nenozīmē, ka sistēma ir nepareiza. Tas nozīmē, ka MTE vēl nav pietiekami attīstīta, lai to aptvertu.
 
-| **MT elements** | **3.0 nozīme (fizikā)** | **4.0 nozīme (universālā)** |
-|----------------|------------------------|----------------------------|
-| **ID sistēma** | Fizisko objektu klasifikācija | Universāla klasifikācija jebkuram strukturālam līmenim |
-| **TE pārnese** | Enerģijas kvantu pārnese | Metafora jebkurai pārnesei: informācijai, nozīmei, vērtībām |
-| **Vertikāle** | Enerģijas avots | Metafora jebkuram "dziļākajam slānim" |
-| **L1 zona** | Projekcijas slānis | Metafora jebkurai virsmas izpausmei |
-| **ID0 režģis** | Fiziskā telpa | Metafora jebkurai "strukturētajai telpai" |
+MTE ir **dzīvs dokuments** — tā attīstība ir tikai sākumā.
 
 ---
 
-## 3. KĀPĒC "2+2 RELATIVITĀTĒ VAR NEBŪT 4"?
+## 2. MTE PAMATPRINCIPI (provizoriski)
 
-Tas ir perfekts piemērs tam, kā MT kļūst par vidi.
+Šie principi ir izauguši no darba ar Matricas teoriju (MT 3.0), bet tie nav tai piesaistīti. Tie ir vispārīgi un attiecas uz jebkuru strukturētu sistēmu.
 
-Relativitātes teorijā 2+2 var nebūt 4, jo telpa-laiks ir izliekts. Eiklīda ģeometrijā 2+2 vienmēr ir 4. Modulārajā aritmētikā 2+2 var būt 0.
+### 2.1. Nav absolūtas nulles (0) — ir L0
 
-MT nesaka, ka kāda no šīm atbildēm ir "pareizā" vai "nepareizā". MT saka:
+Jebkurā sistēmā "nulle" nav tukšums vai neesamība. Tā ir **atskaites stāvoklis** — fons, uz kura viss pārējais tiek mērīts. Šim fonam ir sava struktūra, savs blīvums, savi noteikumi.
 
-> **Šeit ir struktūra — režģis, pārnese, Vertikāle, projekcijas slāņi. Relativitāte ir viens stāvoklis šajā struktūrā. Eiklīda ģeometrija ir cits. Modulārā aritmētika ir trešais. Visi šie stāvokļi ir derīgi savā VIDĒ. MT apraksta pašu vidi, nevis vienu stāvokli.**
+**Piemēri:**
+- Fizikā: L0 — matricas fona stāvoklis (nevis vakuums).
+- Matemātikā: nulles elements nav "nekas" — tas ir neitrālais elements operācijā.
+- Valodā: klusums nav neesamība — tas ir fonētiskais fons, uz kura veidojas runa.
 
-Tas nozīmē: MT nekad nevar būt "nepareiza". Tā var būt tikai "nepilnīga". Un to vienmēr var papildināt, jo vide ir bezgalīga.
+### 2.2. Nav singularitāšu — ir diskrētums un robežas
 
----
+Neviena sistēma neļauj bezgalībai sabrukt vienā punktā. Katram līmenim ir sava **minimālā un maksimālā skala**, un pārejas starp līmeņiem ir diskrētas.
 
-## 4. ID SISTĒMA KĀ UNIVERSĀLĀ KLASIFIKĀCIJA
+**Piemēri:**
+- Fizikā: Planka garums kā minimālais solis; Vertikāles enerģijas piramīda kā maksimālā robeža.
+- Matemātikā: kopu teorijā nav "visu kopu kopas" — ir hierarhija.
+- Bioloģijā: šūna ir minimālā dzīvības vienība; ekosistēma ir maksimālā.
 
-ID sistēma 3.0 versijā klasificē fiziskos objektus no ID-1 līdz ID5. 4.0 versijā tā kļūst par universālu klasifikāciju:
+### 2.3. Struktūra ir pirms dinamikas
 
-| **ID līmenis** | **Fizikā** | **Matemātikā** | **Valodā** | **Vēsturē** |
-|----------------|------------|----------------|------------|-------------|
-| **ID-1** | Vertikāle (enerģijas avots) | Aksiomu kopa | Dziļā nozīme | Laikmeta gars |
-| **ID0** | Režģis (strukturētā telpa) | Kopu teorija | Gramatika | Sociālā struktūra |
-| **ID1** | Protoni, atomi | Elementārie objekti | Vārdi | Indivīdi |
-| **ID2** | Zvaigznes, planētas | Teorēmas | Teikumi | Institūcijas |
-| **ID3** | Zvaigžņu kopas | Teoriju kopas | Naratīvi | Civilizācijas |
-| **ID4** | Galaktikas, Visuma struktūras | Matemātiskie ietvari | Pasaules skatījumi | Vēstures epohas |
-| **ID5** | Atvērts nākotnei | Atvērts nākotnei | Atvērts nākotnei | Atvērts nākotnei |
+Dinamika (kustība, pārnese, izmaiņas) notiek **uz** struktūras, nevis to rada. Struktūra ir statiska arhitektūra; dinamika ir enerģijas vai informācijas pārnese pa šo arhitektūru.
 
-**Katra sistēma — fizika, matemātika, valoda, vēsture — ir vienas un tās pašas ID struktūras izpausme.**
+**Piemēri:**
+- Fizikā: H0 matrica ir statiska; TE pārnese ir dinamiska.
+- Valodā: gramatika ir statiska; runa ir dinamiska.
+- Sabiedrībā: institūcijas ir statiskas; sociālie procesi ir dinamiski.
 
----
+### 2.4. Avots un izpausme ir nošķirti, bet savienoti
 
-## 5. TE PĀRNESE KĀ UNIVERSĀLĀ METAFORA
+Katrā sistēmā ir **dziļākais slānis** (avots) un **virsmas slānis** (izpausme). Avots nav redzams virsmā, bet tas nosaka visu, kas virsmā notiek. Savienojums starp avotu un izpausmi ir **projekcijas slānis**.
 
-TE pārnese 3.0 versijā ir enerģijas kvantu pārnese starp kabatām. 4.0 versijā tā kļūst par metaforu jebkurai pārnesei:
+**Piemēri:**
+- Fizikā: Vertikāle (avots) → L1 zona (projekcija) → H0 matrica (izpausme).
+- Valodā: nozīme (avots) → teikums (projekcija) → skaņas / burti (izpausme).
+- Mākslā: redzējums (avots) → darbs (projekcija) → uztvere (izpausme).
 
-- **Enerģijas pārnese** — fizikā.
-- **Informācijas pārnese** — komunikācijā, digitālajās tehnoloģijās.
-- **Nozīmes pārnese** — valodā, tulkojumā, interpretācijā.
-- **Vērtību pārnese** — kultūrā, izglītībā, sociālajās sistēmās.
-- **Ģenētiskā pārnese** — bioloģijā, evolūcijā.
-- **Ideju pārnese** — zinātnē, filozofijā, mākslā.
+### 2.5. Klasifikācija ir instruments, nevis likums
 
-Jebkurš process, kurā kaut kas pārvietojas no viena punkta uz citu, ir TE pārnese. Un katru šādu procesu var aprakstīt ar MT struktūru: avots, kanāls, uztvērējs, deficīts, kompensācija.
+Jebkura klasifikācijas sistēma (ID, taksonomija, kategorijas) ir līdzeklis, lai saprastu struktūru, nevis pati struktūra. Klasifikāciju var mainīt, paplašināt un precizēt, ja tā vairs neatbilst sistēmai.
 
----
-
-## 6. VERTIKĀLE KĀ UNIVERSĀLĀ METAFORA
-
-Vertikāle 3.0 versijā ir enerģijas līmeņu kopa, kas baro H0 matricu. 4.0 versijā tā kļūst par metaforu jebkuram "dziļākajam slānim":
-
-| **Joma** | **Vertikāles izpausme** |
-|----------|------------------------|
-| Fizikā | Enerģijas avots, no kura izplūst visas parādības |
-| Matemātikā | Aksiomu kopa, no kuras izriet visas teorēmas |
-| Valodā | Dziļā nozīme, no kuras izplūst visi teikumi |
-| Vēsturē | Laikmeta gars, no kura izplūst visi notikumi |
-| Psiholoģijā | Kolektīvā apziņa, no kuras izplūst individuālā pieredze |
-| Mākslā | Mākslinieka redzējums, no kura izplūst visi darbi |
-
-Vertikāle ir jebkuras sistēmas **avots**. Tā nav redzama virsmā, bet tā ir visu virsmas parādību cēlonis.
+**Piemēri:**
+- Fizikā: ID sistēma klasificē objektus pēc modulācijas un lieluma — bet tā nav fizikas likums.
+- Bioloģijā: sugu klasifikācija mainās līdz ar jauniem atklājumiem.
+- Valodā: vārdu šķiras ir līdzeklis, nevis valdījums pār valodu.
 
 ---
 
-## 7. L1 ZONA KĀ UNIVERSĀLĀ METAFORA
+## 3. KĀ MTE STRUKTURĒ DOMĀŠANU
 
-L1 zona 3.0 versijā ir projekcijas slānis starp Vertikāli un H0 matricu. 4.0 versijā tā kļūst par metaforu jebkuram **projekcijas slānim**:
+MTE nav domāšanas noteikumu kopums. Tā ir **struktūra**, kurā domāšana var notikt:
 
-| **Joma** | **L1 zonas izpausme** |
-|----------|-----------------------|
-| Fizikā | CMB, novērojumi, mērījumi |
-| Matemātikā | Modeļu teorija, interpretācijas, pierādījumi |
-| Valodā | Runa, teksts, komunikācija |
-| Vēsturē | Hronikas, liecības, interpretācijas |
-| Mākslā | Mākslas darbs kā redzējuma projekcija |
-
-L1 zona ir **robeža** starp avotu un izpausmi. Tā ir vieta, kur dziļais kļūst redzams.
-
----
-
-## 8. MT NEKAD NAV NEPAREIZA — TIKAI NEPILNĪGA
-
-Tā kā MT ir vide, nevis teorija, tā nekad nevar būt "nepareiza". Tā var būt tikai "nepilnīga".
-
-> **Ja kāda sistēma neatbilst MT struktūrai — tas nozīmē, ka MT vēl nav atklājusi šīs sistēmas ID līmeni, pārneses veidu, Vertikāles avotu.**
->
-> **Ja kāda prognoze neapstiprinās — tas nozīmē, ka MT vēl nav pilnībā aprakstījusi šo vides daļu.**
->
-> **Ja kāds jēdziens neiederas MT — tas nozīmē, ka MT vēl nav atradusi tam vietu.**
-
-**MT ir atvērta sistēma.** To vienmēr var papildināt. Un katrs papildinājums padara to pilnīgāku, nevis "labo" to.
+| **MTE elements** | **Loma** |
+|------------------|----------|
+| Līmeņi (ID sistēma) | Parāda, ka katrai sistēmai ir hierarhija — no avota līdz virsmai. |
+| Pārnese (TE) | Parāda, ka informācija / enerģija / nozīme nepārvietojas — tā tiek nodota. |
+| Avots (Vertikāle) | Parāda, ka katrai virsmas parādībai ir dziļāks cēlonis. |
+| Projekcija (L1 zona) | Parāda, ka savienojums starp avotu un izpausmi nav tiešs — tas ir mediēts. |
+| Robežas (diskrētums) | Parāda, ka sistēmai ir minimālā un maksimālā skala. |
+| Fons (L0) | Parāda, ka "nulle" ir stāvoklis, nevis neesamība. |
 
 ---
 
-## 9. KĀ TAS MAINĀ MT ATTĪSTĪBU?
+## 4. MTE UN MT 3.0 ATTIECĪBAS
 
-| **Aspekts** | **3.0 (teorija)** | **4.0 (vide)** |
-|-------------|-------------------|-----------------|
-| **Mērķis** | Izskaidrot fiziku | Aprakstīt jebkuru strukturētu domāšanu |
-| **Robežas** | Planka garums līdz Visuma izmēram | Nav robežu |
-| **Pārbaude** | Eksperimenti | Saskanība ar jebkuru loģiku |
-| **Vērtība** | Prognožu precizitāte | Ietvara universālums |
-| **Attīstība** | Precizēšana, labošana | Paplašināšana, papildināšana |
-| **Autora statuss** | Fiziķis | Domātājs |
+MT 3.0 (Matricas teorija) ir **viena no teorijām**, kas darbojas MTE vidē.
 
-**4.0 versija nav 3.0 versijas noliegums.** Tā ir tās **paplašinājums**. 3.0 paliek spēkā kā MT pielietojums fizikā. 4.0 parāda, ka MT ir pielietojama visur.
+- MT 3.0 **ievēro** MTE principus: diskrētumu, L0, Vertikāles un Horizontāles nošķīrumu, ID sistēmu kā klasifikāciju.
+- MT 3.0 **nerada** šos principus — tie ir pirms tās.
+- Ja MT 3.0 nonāktu pretrunā ar kādu MTE principu, MT 3.0 būtu jāmaina, nevis MTE. Bet, ja MT 3.0 atklātu jaunu strukturālu aspektu, ko MTE vēl neaptver, MTE var paplašināties.
+
+**MTE nav atkarīga no MT 3.0.** Tā ir neatkarīgs loģiskais instruments, kas var pastāvēt bez MT 3.0.
 
 ---
 
-## 10. KO TAS NOZĪMĒ PRAKSĒ?
+## 5. MTE UN CITAS TEORIJAS
 
-1. **MT dokumenti paliek.** FOUNDATION, MATHEMATICS, GRAVITY, COSMOLOGY, QED, NEUTRINO — tie ir MT pielietojumi fizikā. Tie ir derīgi un svarīgi.
+MTE ir atvērta **jebkurai teorijai**:
 
-2. **Tiek pievienoti jauni pielietojumi.** MT var tikt pielietota matemātikā, valodā, vēsturē, psiholoģijā, mākslā, socioloģijā. Katrs pielietojums ir jauns "dokuments" MT sistēmā.
+- **Fizika:** relativitāte, kvantu mehānika, termodinamika — tās visas darbojas uz struktūras, ar pārnesi un avotiem. MTE parāda, kā tās savienojas.
+- **Matemātika:** kopu teorija, kategoriju teorija, loģika — tās visas satur līmeņus un pārneses. MTE parāda to kopīgo struktūru.
+- **Bioloģija:** evolūcija, šūnu bioloģija, ekoloģija — dzīvība ir pārneses un struktūras organizācija. MTE parāda, kā dzīvība iekļaujas vispārējā shēmā.
+- **Valoda un kultūra:** nozīme, komunikācija, vēsture — tās visas satur avotu, projekciju un izpausmi. MTE parāda to vienoto struktūru.
+- **Māksla un filozofija:** redzējums, ideja, izteiksme — arī tās iekļaujas MTE shēmā.
 
-3. **ID sistēma kļūst par universālu rīku.** To var izmantot, lai klasificētu jebkuru sistēmu — ne tikai fiziskus objektus.
-
-4. **MT kļūst par valodu.** Tā ir valoda, kurā var runāt par jebkuru strukturētu sistēmu. Tā ir metaforu sistēma, kas savieno dažādas domāšanas jomas.
-
-5. **MT kļūst par vidi.** Tā ir telpa, kurā jebkura doma, jebkura teorija, jebkura mākslas forma var atrast sevi un savu vietu.
-
----
-
-## 11. NOSLĒGUMS
-
-Matricas teorija 3.0 ir **teorija**. Tā atbild uz jautājumu "kā darbojas fizika".
-
-Matricas teorija 4.0 ir **vide**. Tā atbild uz jautājumu "kurā ietvarā jebkura loģika var pastāvēt".
-
-**Pāreja no 3.0 uz 4.0 nav uzlabojums — tā ir paradigmas maiņa.** Tā ir pāreja no domāšanas **par** pasauli uz domāšanu **ar** pasauli. Tā ir pāreja no teorijas, kas izskaidro, uz vidi, kas aptver.
-
-MT 4.0 ir atvērta, bezgalīga, nepabeigta. Un tieši tāpēc tā ir dzīva.
+**MTE nav hierarhijas.** Tā nepasaka, kura teorija ir "augstāk" vai "dziļāk". Tā parāda, kā katra teorija atrod savu vietu kopējā loģiskajā telpā.
 
 ---
 
-> *"MT nav teorija — tā ir vide. Vide, kurā jebkura matemātiskā loģika, jebkura domāšanas sistēma, jebkura zinātnes nozare var atrast sevi un savu pamatojumu."*
+## 6. MTE ATTĪSTĪBAS VIRZIENI (atvērtie jautājumi)
+
+MTE attīstība ir tikai sākumā. Šie ir atvērtie jautājumi, kas gaida turpmāku darbu:
+
+1. **Kā MTE apraksta laiku?** Vai laiks ir struktūras īpašība, vai pārneses īpašība? Vai tas ir lineārs, ciklisks, vai abi?
+
+2. **Kā MTE apraksta informāciju?** Vai informācija ir pārneses saturs, vai arī tā ir atsevišķs līmenis?
+
+3. **Kā MTE apraksta apziņu?** Vai apziņa ir projekcijas slāņa īpašība, vai arī tā ir neatkarīgs līmenis?
+
+4. **Kā MTE apraksta vērtības?** Vai "labais" un "sliktais" ir strukturāli jēdzieni, vai arī tie pieder citai loģikai?
+
+5. **Kā MTE savienojas ar citiem loģiskajiem ietvariem?** Vai MTE ir savietojama ar dialektisko loģiku, ar budisma loģiku, ar matemātisko loģiku?
+
+Šie jautājumi nav atbildēti. Tie ir **uzdevumi** turpmākajam darbam.
 
 ---
 
-*Dokuments sagatavots: 2026. gada jūlijā*
+## 7. NOSLĒGUMS
+
+MTE ir instruments. Tā nav dogma.
+
+Tā ir **spogulis**, kurā jebkura sistēma var redzēt savu struktūru, savus līmeņus, savu avotu un savu izpausmi.
+
+Tā ir **telpa**, kurā jebkura teorija var atrast sevi — nevis kā "pareiza" vai "nepareiza", bet kā **saderīga** ar kopējo loģisko struktūru.
+
+Tā ir **dzīva** — tās attīstība ir tikai sākusies. Katrs jauns atklājums, katra jauna teorija, katra jauna doma var to paplašināt.
+
+**MTE nav patiesība. Tā ir ceļš uz saderību.**
+
+---
+
+*Dokuments sagatavots: 2026. gada jūlijā*  
+*Versija: 1.0 — provizoriska, attīstības sākumā*
