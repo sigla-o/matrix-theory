@@ -1,178 +1,181 @@
 # QUANTUM MECHANICS — COMPARISON WITH MT
 
-## Revised version (July 2026) — 3.0
+## Version 3.1 (July 2026) — refined after commutation relation derivation
 
-This document compares classical quantum mechanics and MT approaches, following the classical logical sequence. It is connected to the MATHEMATICS formalism (3.0) and the ID system (3.0), providing a quantitative view of where MT and classical physics agree and where they differ.
+This document compares classical quantum mechanics and MT approaches, going through the classical logical sequence. It is connected to the MATHEMATICS formalism (3.0), the ID system (3.0), and the new commutation relation derivation (3.1), providing a quantitative view of where MT and classical physics agree and where they differ.
 
-**Methodological prerequisite (3.0):** MT is a complementary framework that provides a mechanical origin for the phenomenological laws of classical physics. Quantum mechanics remains valid in its operational domain (L1, ID0) as a precise predictive instrument. MT does not deny QM's validity — it shows that QM's "probabilistic nature" and "collapse" are projections of ID-1 background effects that classical physics does not include in its mathematical formalism. QM remains valid in its domain; MT complements it, not replaces it.
+**Methodological premise:** MT is a complementary framework that provides a mechanical origin for the phenomenological laws of classical physics. Quantum mechanics remains valid in its domain of operation (L1, ID0) as an accurate predictive tool. MT does not deny QM's validity — it shows that QM's "probabilistic nature" and "collapse" are projections of ID-1 background influence that classical physics does not include in its mathematical apparatus.
 
-**According to MATHEMATICS 3.0 and ROADMAP 3.0:** Quantum mechanics is a valid L1-level description (ID0) that describes TE transfer statistics, but does not include Vertical background effects (ID-1). MT sees both — L0/L1 as background (ID-1) and H0 as the transfer medium (ID0). Therefore, phenomena that appear "miraculous" or "fundamentally uncertain" in classical physics are explainable in MT as matrix structural properties (ID0 / ID-1).
-
-**Key insight (3.0):** Classical physics operates only at the L1 level (ID0) and does not know about the L0 background (ID-1). MT sees both — L0 as background (ID-1) and L1 as transfer medium (ID0). Quantum mechanics is not fundamentally probabilistic — it is **L1-level statistics** (ID0) caused by the inability to reach the L0 level (ID-1). MT offers a direction, not a solution.
+**Key insight (3.1):** The canonical commutation relation \( [\hat{x}, \hat{p}] = i\hbar \mathcal{F}(\rho_{\mathcal{V}}) \) is rigorously derived from MT lattice geometry (Qn and FV). \( \mathcal{F}(\rho_{\mathcal{V}}) \) is the focusing/scattering function from MATHEMATICS 5.2, which equals 1 only in the L0 background state (\( \rho_{\mathcal{V}} = \rho_{\mathcal{V}}^{(0)} \)). Thus QM is an **L0 limiting case**, not a fundamental theory.
 
 ---
 
-## 1. CONNECTION TO MATHEMATICS FORMALISM AND ID SYSTEM (3.0)
+## 1. CONNECTION TO MATHEMATICS FORMALISM (3.1)
 
-From MATHEMATICS_lv.md (3.0) and ID_GRADIENT_lv.md (3.0), we have the following operators, quantities, and ID levels essential for comparison with quantum mechanics:
+From MATHEMATICS_lv.md (3.0) and the new derivation:
 
 | Operator / quantity | Definition | Quantum mechanics equivalent | ID correspondence |
 |---------------------|------------|------------------------------|-------------------|
-| \( \theta(\mathbf{x}, t) \) | ID1 rotation phase | Wavefunction phase \( \arg(\psi) \) | ID0 |
-| \( \Phi(\mathbf{x},\mathbf{y};t) \) | TE transfer magnitude between pockets | Probability current \( \mathbf{j} \) (transfer density) | ID0 |
-| \( \delta(n) \) | Channel deficit | Potential \( V(\mathbf{x}) \) | ID0.n |
-| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | Vertical energy density | Quantum decoherence source (ID-1 background) | ID-1 |
-| \( \mathcal{P}_{L1} \) | L1 projection operator (integral) | Measurement operator | ID0 |
-| \( \phi_0 \) | \( \hbar c/l_P \) | Maximum transfer quantum | ID0 |
-| \( \varepsilon_0 \) | \( \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | Vacuum permittivity (matrix state function) | ID0 |
-| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Cyclicity inverse scale; decoherence rate measure | ID0 / ID-1 |
-| \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cyclicity constant | ID0.n |
+| \( \hat{x} \) | \( n \lambda_{\text{ID0}} \) (Qn layer radius) | Position operator | ID0.n |
+| \( \hat{p} \) | \( -i \frac{\hbar}{\lambda_{\text{ID0}}} \frac{\psi(n+1)-\psi(n-1)}{2} \) | Momentum operator (discrete representation) | ID0 |
+| \( \mathcal{F}(\rho_{\mathcal{V}}) \) | From MATHEMATICS 5.2: \( 1 \) in focusing, \( e^{-(n-n_{\text{max}})/n_{\text{scatter}}} \) in scattering | Quantum mode "switch" parameter; \( \mathcal{F}=1 \) gives QM | ID0 / ID-1 |
+| \( [\hat{x}, \hat{p}] \) | \( i\hbar \mathcal{F}(\rho_{\mathcal{V}}) \) | Canonical commutation relation | ID0 |
+| \( \mathcal{P}_{L1} \) | \( \mathcal{P}_{L1}[\rho_{\mathcal{V}}] = \mathcal{F}(\rho_{\mathcal{V}}) \) and \( \delta_0(\mathbf{x}) \) | Projection operator; determines potential and focusing | ID-1 → ID0 |
 
-**Correspondence principle (3.0):** In the appropriate limits, MT reduces to quantum mechanics (ID0 / ID1):
-$$
-\psi(\mathbf{x}, t) \sim e^{i\theta(\mathbf{x}, t)}
-$$
-where \( \theta \) is the pocket rotation phase (ID0). When \( \rho_{\mathcal{V}} \ll \rho_{\text{H0}} \) (no decoherence background), MT gives the pure Schrödinger equation. When \( \rho_{\mathcal{V}} \) is significant, decoherence and "collapse" appear.
+**Correspondence principle:** When \( \rho_{\mathcal{V}} = \rho_{\mathcal{V}}^{(0)} \) (L0 background), \( \mathcal{F} = 1 \) and MT reduces to QM. When \( \rho_{\mathcal{V}} \neq \rho_{\mathcal{V}}^{(0)} \), \( \mathcal{F} \neq 1 \) and decoherence and modifications of quantum effects appear.
 
 ---
 
-## 2. WAVE–PARTICLE DUALITY (ID0 / ID1) — 3.0
+## 2. WAVE FUNCTION AND BORN'S RULE (3.1)
 
-### Classical physics
-Light (and matter) behaves both as a wave (interference, diffraction) and as a particle (photoelectric effect, Compton scattering). This duality is fundamental — it is impossible to reduce one to the other.
+### 2.1. Wave function
 
-### MT explanation (ID0 / ID1) — 3.0
-- **Particle** = closed TE transfer loop (ID1.0 — proton, ID1.1 — electron, ID1.1 — neutrino).
-- **Wave** = open TE transfer propagation (ID0).
-- The electron and photon are closed TE transfer objects (ID1) — they are part of the transfer and merge with it (ID0).
-- **Proton** (ID1.0) is the TZ closed object — it lies on the boundary between H0 and the Vertical (ID0 / ID-1), and TE transfer from its surface reflects, creating standing waves (ID0).
+From MT:
+\[
+\psi(\mathbf{x}, t) = e^{i\theta(\mathbf{x}, t)} \cdot \mathcal{F}(\rho_{\mathcal{V}}(\mathbf{x}))
+\]
 
-**According to MATHEMATICS 3.0:** Wave–particle duality is the mutual relationship between phase \( \theta(\mathbf{x}, t) \) (ID0) and transfer magnitude \( \Phi(\mathbf{x},\mathbf{y};t) \) (ID0). A particle's "wave-like" behavior arises from its interaction with the \( \rho_{\mathcal{V}} \) background (ID-1) — the higher \( \rho_{\mathcal{V}} \), the more pronounced the wave-like behavior.
+where:
+- \( \theta(\mathbf{x}, t) \) — matrix phase (ID0),
+- \( \mathcal{F}(\rho_{\mathcal{V}}) \) — focusing/scattering function from MATHEMATICS 5.2, which is the result of \( \mathcal{P}_{L1} \) projection.
 
-**Formally (3.0):** Wave–particle duality depends on the \( \rho_{\mathcal{V}}/\rho_{\text{H0}} \) ratio:
-- If \( \rho_{\mathcal{V}}/\rho_{\text{H0}} \ll 1 \) — particle-like behavior dominates (ID1).
-- If \( \rho_{\mathcal{V}}/\rho_{\text{H0}} \approx 1 \) — wave-like behavior dominates (ID0).
-- The transition between modes is gradual, determined by \( \gamma = 2\pi/C \).
+**L0 limiting case** (\( \rho_{\mathcal{V}} \to \rho_{\mathcal{V}}^{(0)} \)):
+\[
+\mathcal{F}(\rho_{\mathcal{V}}) \to 1 \quad \Rightarrow \quad \psi(\mathbf{x}, t) \approx e^{i\theta(\mathbf{x}, t)}
+\]
 
----
+**Conclusion:** The QM wave function is a projection of the matrix phase, which is "switched on" only when the Vertical is in the L0 background state.
 
-## 3. WAVEFUNCTION AND BORN'S RULE (ID0 / ID1) — 3.0
+### 2.2. Born's rule
 
-### Classical physics
-The state of a system is described by the wavefunction \( \psi(x, t) \). \( |\psi|^2 \) is the probability density of finding a particle at position \( x \) (Born's rule).
+From MATHEMATICS 2.2 and 5.2:
+\[
+|\psi(\mathbf{x}, t)|^2 = \frac{\Phi(\mathbf{x}, t)}{\phi_0} \cdot \mathcal{F}(\rho_{\mathcal{V}})
+\]
 
-### MT explanation (ID0 / ID1) — 3.0
-- The wavefunction is the **projection of the TE transfer distribution** onto the H0 matrix (ID0):
-  $$
-  \psi(\mathbf{x}, t) \sim e^{i\theta(\mathbf{x}, t)} \quad \text{(ID0)}
-  $$
-- \( |\psi|^2 \) is not probability — it is the **TE VEU H-2 × H-3 transfer density** (ID-1 / ID0) at a given Qn point (ID0.n):
-  $$
-  |\psi(\mathbf{x}, t)|^2 = \frac{\Phi(\mathbf{x}, t)}{\phi_0} \cdot \mathcal{F}(\rho_{\mathcal{V}}) \quad \text{(ID0)}
-  $$
-  where \( \phi_0 \) is the maximum transfer quantum, and \( \mathcal{F}(\rho_{\mathcal{V}}) \) is the focusing/dispersion function from MATHEMATICS 5.2. (3.0).
-- Born's rule is a **matrix structural constraint** (ID0) — TE transfer is discrete (pocket-to-pocket transfer), its density can only be expressed as a square (combination of two half-phases).
-- The **probability interpretation** arises from the inability to measure the \( \rho_{\mathcal{V}} \) background (ID-1). If \( \rho_{\mathcal{V}} \) were measurable, \( |\psi|^2 \) would become a deterministic transfer density.
+where \( \Phi \) is the TE transfer magnitude (ID0), \( \phi_0 \) — the maximum transfer quantum.
 
-**According to ROADMAP 3.0:** Born's rule belongs to the L1 path (ID0) — it describes how Vertical energy projects onto H0 as a probability distribution. In the H0 path (ID0), there is no probability — only deterministic deficit dynamics.
+**L0 limiting case** (\( \mathcal{F} \to 1 \)):
+\[
+|\psi|^2 = \frac{\Phi}{\phi_0}
+\]
+
+**Conclusion:** Born's rule is not a postulate — it is a matrix structural constraint arising from discrete transfer. The probability density is the TE transfer density at the L0 level, scaled by \( \phi_0 \). \( \mathcal{F} \) modulates this density if the Vertical is not in the L0 state.
 
 ---
 
-## 4. SUPERPOSITION AND INTERFERENCE (ID0) — 3.0
+## 3. UNCERTAINTY PRINCIPLE (3.1)
 
-### Classical physics
-A system can be in multiple states simultaneously — a linear combination of wavefunctions. Interference occurs when these wavefunctions are summed.
+### 3.1. Commutation relation
 
-### MT explanation (ID0) — 3.0
-- Superposition = **L1 transfer distribution across multiple Qn channels** on the L0 background (ID0 / ID-1).
-- Interference = **phase relationship** between channels (ID0):
-  $$
-  \psi_{\text{tot}} = \sum_i e^{i\theta_i} \cdot \Phi_i \cdot \mathcal{F}_{n_i}(\rho_{\mathcal{V}}) \quad \text{(ID0)}
-  $$
-  where \( \Phi_i \) is the transfer magnitude through the i-th channel, and \( \mathcal{F}_{n_i}(\rho_{\mathcal{V}}) \) is the focusing/dispersion function depending on local \( \rho_{\mathcal{V}} \).
-- Classical physics sees only the L1 distribution (ID0), but not the L0 background supporting it (ID-1) — hence superposition seems "miraculous."
-- **Interference disappearance** (decoherence) occurs when \( \rho_{\mathcal{V}} \) locally increases, causing \( \mathcal{F}_{n_i}(\rho_{\mathcal{V}}) \to 0 \) and random channel phases.
+From the new derivation (Point 1):
+\[
+[\hat{x}, \hat{p}] = i\hbar \, \mathcal{F}(\rho_{\mathcal{V}})
+\]
 
-**According to MATHEMATICS 3.0:** The degree of interference is determined by \( \rho_{\mathcal{V}}/\rho_{\text{H0}} \) and \( \gamma = 2\pi/C \). The higher \( \rho_{\mathcal{V}} \), the faster the decoherence.
+where \( \mathcal{F} \) is the focusing/scattering function.
 
----
+**L0 limiting case** (\( \mathcal{F} = 1 \)):
+\[
+[\hat{x}, \hat{p}] = i\hbar
+\]
 
-## 5. THE MEASUREMENT PROBLEM (ID0 / ID-1) — 3.0
+### 3.2. Uncertainty relation
 
-### Classical physics
-The wavefunction evolves deterministically, but at the moment of measurement it "collapses" — from multiple states, one is realized. This collapse is unexplained.
+From the general uncertainty relation:
+\[
+\Delta x \cdot \Delta p \geq \frac{1}{2} \left| \langle [\hat{x}, \hat{p}] \rangle \right|
+= \frac{\hbar}{2} \, \mathcal{F}(\rho_{\mathcal{V}})
+\]
 
-### MT explanation (ID0 / ID-1) — 3.0
-- Measurement is not "collapse" — it is a **phase selection moment** (ID0).
-- The phase is determined for any Qn quantity (ID0.n) as a fact, not at the channel level.
-- This can be achieved through the measuring device's synchronization with L0 TE transfer (ID-1) — it is TE transfer architecture (ID0 / ID-1).
-- Classical physics does not know about L0 (ID-1), so measurement seems unexplained.
+**L0 limiting case** (\( \mathcal{F} = 1 \)):
+\[
+\Delta x \cdot \Delta p \geq \frac{\hbar}{2}
+\]
 
-**Formally (3.0):** Measurement is the operator \( \mathcal{P}_{L1} \) (ID0) fixing the phase \( \theta \) at a given Qn point (ID0.n), but \( \mathcal{P}_{L1} \) **is not unitary** — it is a projection from the Vertical (ID-1) to H0 (ID0). "Collapse" is the result of this projection, not a physical process.
-
-**According to MATHEMATICS 3.0:** \( \mathcal{P}_{L1} \) operates through the integral operator with kernel \( K(\mathbf{x}, \mathbf{x}') \), derived from Qn structure and cyclicity. Measurement is the application of this operator to a specific \( \rho_{\mathcal{V}} \) distribution.
-
----
-
-## 6. THE UNCERTAINTY PRINCIPLE (ID0 / ID-1) — 3.0
-
-### Classical physics
-\( \Delta x \cdot \Delta p \geq \hbar/2 \) — a fundamental limitation. It is impossible to know both position and momentum precisely simultaneously.
-
-### MT explanation (ID0 / ID-1) — 3.0
-- Position = **Qn** (ID0.n).
-- Momentum = **PV** (ID0).
-- Qn and PV are two mutually orthogonal matrix coordinates (ID0):
-  $$
-  [\text{Qn}, \text{PV}] \neq 0 \quad \text{(ID0)}
-  $$
-- Knowing the phase \( \theta \) (ID0), MT can determine both position and momentum simultaneously — the phase is the overall state combining both coordinates.
-- Uncertainty is not fundamental — it is a consequence of measurement apparatus limitations (ID0), because the measurement \( \mathcal{P}_{L1} \) projects only one component.
-
-**Quantitatively (3.0):** If \( \theta \) is known with precision \( \Delta \theta \) (ID0):
-$$
-\Delta x \cdot \Delta p \approx \frac{\hbar}{2} \cdot \frac{1}{\sin(\Delta \theta)} \cdot \mathcal{F}(\rho_{\mathcal{V}})
-$$
-— as \( \Delta \theta \to 0 \), uncertainty disappears (ideal phase measurement). \( \mathcal{F}(\rho_{\mathcal{V}}) \) is the focusing/dispersion function, approaching 1 when \( \rho_{\mathcal{V}} \ll \rho_{\text{H0}} \), and increasing when \( \rho_{\mathcal{V}} \) is significant.
-
-**According to MATHEMATICS 3.0:** The uncertainty principle limit is determined by \( \gamma = 2\pi/C \) and local \( \rho_{\mathcal{V}} \). In high \( \rho_{\mathcal{V}} \) regions (galactic centers), uncertainty may be larger.
+**Interpretation:**
+- The uncertainty principle is not a fundamental limitation — it is a practical limitation caused by the inability to measure the phase \( \theta \) together with the Vertical background.
+- When \( \rho_{\mathcal{V}} \neq \rho_{\mathcal{V}}^{(0)} \), \( \mathcal{F} > 1 \) (scattering) or \( \mathcal{F} < 1 \) (focusing), the uncertainty changes. In high \( \rho_{\mathcal{V}} \) regions (galaxy centers), uncertainty can be larger.
+- Precise phase measurement (\( \Delta\theta \to 0 \)) does not imply \( \mathcal{F} \to 0 \) — \( \mathcal{F} \) is independent of \( \Delta\theta \). Therefore uncertainty does not vanish; it is modulated by the Vertical energy density.
 
 ---
 
-## 7. ENTANGLEMENT (ID0 / ID-1) — 3.0
+## 4. MEASUREMENT PROBLEM (3.1)
 
-### Classical physics
-Two particles can be entangled — their states are correlated regardless of distance. Violation of Bell inequalities proves that reality is non-local.
+### 4.1. Classical problem
 
-### MT explanation (ID0 / ID-1) — 3.0
+QM measurement is "collapse" — from multiple states, one is realized. This collapse is unexplained.
+
+### 4.2. MT explanation
+
+Measurement is a \( \mathcal{P}_{L1} \) projection moment that **fixes the phase \( \theta \) at the L0 level** and simultaneously changes \( \mathcal{F} \):
+
+1. Before measurement: \( \psi = e^{i\theta} \mathcal{F} \), where \( \mathcal{F} \) is determined.
+2. During measurement: \( \mathcal{P}_{L1} \) projects \( \rho_{\mathcal{V}} \) onto a new \( \mathcal{F}' \), which differs from the initial one.
+3. After measurement: \( \psi' = e^{i\theta'} \mathcal{F}' \), where \( \theta' \) is a fixed value, and \( \mathcal{F}' \) is the new focusing state.
+
+Since \( \mathcal{P}_{L1} \) is **not unitary** (it is a projection from the Vertical ID-1 to H0 ID0), it disrupts the commutation relation:
+\[
+[\hat{x}, \hat{p}]_{\text{after}} = i\hbar \mathcal{F}' \neq i\hbar \mathcal{F}_{\text{before}}
+\]
+
+This is "collapse" — the phase is fixed, and \( \mathcal{F} \) changes, thus changing the system's subsequent dynamics.
+
+**Conclusion:** Measurement collapse is a consequence of the non-unitarity of the \( \mathcal{P}_{L1} \) projection. Classical QM does not see the Vertical, so it appears that "collapse" from multiple states to one occurs.
+
+---
+
+## 5. SUPERPOSITION AND INTERFERENCE (3.1)
+
+### 5.1. Superposition
+
+MT superposition is an **L1 transfer distribution across multiple Qn channels** on the L0 background:
+\[
+\psi_{\text{tot}} = \sum_i e^{i\theta_i} \cdot \Phi_i \cdot \mathcal{F}_{n_i}(\rho_{\mathcal{V}})
+\]
+
+where \( \Phi_i \) is the transfer magnitude along the i-th channel, and \( \mathcal{F}_{n_i} \) is the focusing/scattering function, which depends on the local \( \rho_{\mathcal{V}} \).
+
+### 5.2. Interference
+
+Interference arises from the phase relationship between channels:
+\[
+|\psi_{\text{tot}}|^2 = \sum_i |\psi_i|^2 + \sum_{i \neq j} 2 \Re(\psi_i \psi_j^*)
+\]
+
+where \( \psi_i = e^{i\theta_i} \Phi_i \mathcal{F}_{n_i} \).
+
+**Interference disappearance** (decoherence) occurs when \( \rho_{\mathcal{V}} \) locally increases, causing \( \mathcal{F}_{n_i} \to 0 \) and randomizing channel phases.
+
+---
+
+## 6. ENTANGLEMENT (3.1)
+
 MT distinguishes **two types of entanglement**:
 
-1. **Through the matrix (H0)** (ID0) — connected through a shared Qn structure (ID0.n). Propagates at the speed of light.
-   $$
-   \text{Entanglement type 1: } \Phi_1(\mathbf{x}) = \Phi_2(\mathbf{y}) \text{ through } Q_n \quad \text{(ID0.n)}
-   $$
+### 6.1. Type 1 — through H0 matrix (ID0)
 
-2. **Through TZ–Vertical–TZ** (ID-1 / ID0) — connected through the Vertical (ID-1). Instantaneous, but no signal transmission — it is **impulse transfer** (ID-1), where both objects synchronize with a single Vertical energy event.
-   $$
-   \text{Entanglement type 2: } \mathcal{T}(\Omega_1) = \mathcal{T}(\Omega_2) \text{ through } \mathcal{V} \quad \text{(ID-1 / ID0)}
-   $$
+- Connected through a shared Qn structure (ID0.n).
+- Propagates at the speed of light.
+- Linear superposition: \( \psi_{12} = \psi_1 \otimes \psi_2 \).
+- \( \mathcal{F} \) depends on local \( \rho_{\mathcal{V}} \), but the transfer speed remains \( c \).
 
-**According to ROADMAP 3.0:**
-- Type 1 belongs to the H0 path — it can be used for classical quantum communication.
-- Type 2 belongs to the L1 path — it is instantaneous but **contains no information**, as it is impossible to control the \( \mathcal{T} \) operator from the H0 side. It is shared synchronization with Vertical energy, not signal transmission.
+### 6.2. Type 2 — through TZ–Vertical–TZ (ID-1 / ID0)
 
-Classical physics sees only type 2 (ID-1) and interprets it as "non-local reality" because it does not know about the Vertical (ID-1).
+- Connected through the Vertical (ID-1).
+- Instantaneous, but **contains no information** — no signal transmission.
+- \( \mathcal{F} \) is the same for both objects, as they synchronize with a single Vertical energy event.
+- \( \mathcal{F} \) modulates the connection strength: the higher \( \rho_{\mathcal{V}} \), the stronger type 2 entanglement.
 
-**According to MATHEMATICS 3.0:** Type 2 entanglement intensity depends on \( \rho_{\mathcal{V}} \) — the higher \( \rho_{\mathcal{V}} \), the stronger the entanglement through the Vertical.
+**Formally:** Type 2 entanglement is \( \mathcal{F}(\Omega_1) = \mathcal{F}(\Omega_2) \) — the focusing function is shared.
+
+**Conclusion:** Classical QM sees only type 2 and interprets it as "nonlocal reality" because it does not know about the Vertical. MT sees both types and understands that type 2 is a shared synchronization of Vertical energy, not signal transmission.
 
 ---
 
-## 8. QUANTUM STATISTICS (FERMIONS AND BOSONS) (ID1 / ID0) — 3.0
+## 7. QUANTUM STATISTICS (FERMIONS AND BOSONS) (3.1)
 
-### Classical physics
-Fermions — Pauli exclusion principle. Bosons — no restrictions. The difference is determined by spin.
-
-### MT explanation (ID1 / ID0) — 3.0
+Quantum statistics in MT are determined by **organizational structure**, not spin:
 
 | Object | TZ (ID-1) | Closed TE transfer loop (ID1) | TE balance (ID0) | Statistics | ID correspondence |
 |--------|-----------|-------------------------------|------------------|------------|-------------------|
@@ -181,108 +184,81 @@ Fermions — Pauli exclusion principle. Bosons — no restrictions. The differen
 | **Neutrino** | No | Yes (H-3 × H-4) | Yes | Fermion | ID1.1 / ID-1 |
 | **Photon** | No | No | No | Boson | ID0 |
 
-- Proton (ID1.0) — TZ closed object (ID-1). Completely closed — nothing can enter without full synchronization (ID-1 / ID0).
-- Electron (ID1.1) — closed two-TE formation, without TZ (ID0). Other energy can enter, but only through full synchronization (ID0).
-- Photon (ID0) — open, unbalanced TE transfers (ID0). They are free TE energy — not in energetic balance (ID0), so they can overlap without restrictions.
-- Neutrino (ID1.1) — similar to the electron, but with a finer VEU composition (ID-1 / ID1.1). Fermion.
+- **Fermions** — objects with a closed TE transfer loop and energy balance (ID1 / ID0). They cannot overlap because their loops occupy discrete Qn states.
+- **Bosons** — open, unbalanced TE transfers (ID0). They are free TE energy — no energy balance, so they can overlap without restrictions.
 
-**According to MATHEMATICS 3.0:** Quantum statistics are determined by organizational structure (TZ attachment ID-1, TE transfer loop ID1, balance ID0), not spin. Spin is a manifestation of this structure, not the cause.
+**Conclusion:** Quantum statistics are determined by \( \mathcal{F} \) and loop structure, not spin. Spin is an expression of this structure.
 
 ---
 
-## 9. DECOHERENCE AND QUANTUM COLLAPSE (ID0 / ID-1) — 3.0
+## 8. DECOHERENCE AND QUANTUM COLLAPSE (3.1)
 
-### Classical physics
-Decoherence is a quantum system's interaction with the environment, destroying quantum coherence. Collapse is instantaneous and unexplained.
+### 8.1. Decoherence
 
-### MT explanation (ID0 / ID-1) — 3.0
-- **Decoherence** = local variation of \( \rho_{\mathcal{V}} \), disrupting phase synchronization (ID-1 / ID0).
-- The higher \( \rho_{\mathcal{V}} \), the faster the decoherence — determined by \( \gamma = 2\pi/C \) and the focusing/dispersion function \( \mathcal{F}_n(\rho_{\mathcal{V}}) \).
-- **Collapse** = \( \mathcal{P}_{L1} \) projection fixing the phase, but causing energy loss into the L0 background (ID-1).
+Decoherence is the local variation of \( \rho_{\mathcal{V}} \), which disrupts phase synchronization:
+\[
+\mathcal{F}_n = e^{-(n - n_{\text{max}})/n_{\text{scatter}}}, \quad n_{\text{scatter}} = \frac{C}{2\pi} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}}
+\]
 
-**Quantitatively (3.0):**
-Decoherence time:
-$$
-\tau_{\text{decoherence}} \propto \frac{1}{\gamma \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}}}
-= \frac{C}{2\pi} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}}
-$$
+The higher \( \rho_{\mathcal{V}} \), the smaller \( n_{\text{scatter}} \), the faster the decoherence.
 
-— the higher \( \rho_{\mathcal{V}} \), the shorter the decoherence time. This matches observations that quantum effects disappear faster near massive objects.
+**Decoherence time:**
+\[
+\tau_{\text{decoherence}} = \frac{1}{\gamma} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}}
+= \frac{1}{\gamma} \cdot \frac{1}{\mathcal{F}}
+\]
+where \( \gamma = 2\pi/C \approx 0.18 \).
 
-**According to MATHEMATICS 3.0:** \( \tau_{\text{decoherence}} \) is directly related to \( n_{\text{dispersion}} = \frac{C}{2\pi} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) from MATHEMATICS 5.2.
+### 8.2. Collapse
+
+Collapse is a \( \mathcal{P}_{L1} \) projection that fixes the phase but causes energy loss to the L0 background. It changes \( \mathcal{F} \) and thus the subsequent dynamics.
 
 ---
 
-## 10. TESTABLE PREDICTIONS — WHERE MT DIFFERS FROM CLASSICAL QM (ID0 / ID-1 / ID1) — 3.0
+## 9. TESTABLE PREDICTIONS (3.1)
 
 | **Prediction** | **MT equation** | **Difference from classical QM** | **Test method** | **ID correspondence** |
-|---------------|----------------|----------------------------------|-----------------|-----------------------|
-| Determinism with phase measurement | \( \Delta x \cdot \Delta p = \frac{\hbar}{2} \cdot \frac{1}{\sin(\Delta\theta)} \cdot \mathcal{F}(\rho_{\mathcal{V}}) \) | Uncertainty disappears at \( \Delta\theta \to 0 \); depends on \( \rho_{\mathcal{V}} \) | Phase measurement experiments in different \( \rho_{\mathcal{V}} \) regions | ID0 / ID1 |
-| Entanglement type 2 | \( \mathcal{T}(\Omega_1) = \mathcal{T}(\Omega_2) \); depends on \( \rho_{\mathcal{V}} \) | Instantaneous but no signal transmission; intensity depends on \( \rho_{\mathcal{V}} \) | Bell inequality tests with time stamps in different \( \rho_{\mathcal{V}} \) regions | ID-1 / ID0 |
-| Wavefunction as TE transfer projection | \( \psi(\mathbf{x}, t) \sim e^{i\theta(\mathbf{x}, t)} \cdot \mathcal{F}(\rho_{\mathcal{V}}) \) | Not probability — it is transfer density projection modulated by \( \rho_{\mathcal{V}} \) | Interference experiments in different \( \rho_{\mathcal{V}} \) regions | ID0 |
-| Quantum statistics from structure | Fermions = TZ closed (ID-1); Bosons = open (ID0) | Spin is not fundamental — determined by structure | Particle physics experiments | ID1 / ID0 |
-| Decoherence time | \( \tau_{\text{decoherence}} = \frac{C}{2\pi} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) | Decoherence rate depends on \( \rho_{\mathcal{V}} \), measurable | Quantum metrology in different \( \rho_{\mathcal{V}} \) regions | ID0 / ID-1 |
-| Born's rule correction | \( |\psi|^2 = \frac{\Phi}{\phi_0} \cdot \mathcal{F}(\rho_{\mathcal{V}}) \) | Probability density modulated by \( \rho_{\mathcal{V}} \) | Precision probability measurements in different \( \rho_{\mathcal{V}} \) regions | ID0 / ID-1 |
+|--------------|-------------------|-------------------------------|----------------------|-------------------|
+| Commutation relation | \( [\hat{x}, \hat{p}] = i\hbar \mathcal{F} \) | \( \mathcal{F} \neq 1 \) means QM modification | Quantum metrology in different \( \rho_{\mathcal{V}} \) regions | ID0 / ID-1 |
+| Uncertainty principle | \( \Delta x \Delta p \geq \frac{\hbar}{2} \mathcal{F} \) | \( \mathcal{F} \) modulates the bound | Precision measurements in galaxy centers | ID0 / ID-1 |
+| Born's rule correction | \( |\psi|^2 = \frac{\Phi}{\phi_0} \mathcal{F} \) | Probability density modulated by \( \mathcal{F} \) | Interference experiments in different \( \rho_{\mathcal{V}} \) regions | ID0 / ID-1 |
+| Decoherence time | \( \tau = \frac{1}{\gamma} \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) | \( \tau \) depends on \( \rho_{\mathcal{V}} \) | Quantum metrology | ID0 / ID-1 |
+| Type 2 entanglement | \( \mathcal{F}(\Omega_1) = \mathcal{F}(\Omega_2) \) | Intensity depends on \( \rho_{\mathcal{V}} \) | Bell tests with time stamps | ID-1 / ID0 |
 
 ---
 
-## 11. SUMMARY — COMPARISON TABLE (ID0 / ID-1 / ID1 — ID4) — 3.0
+## 10. SUMMARY TABLE (3.1)
 
-| **Aspect** | **Classical physics** | **MT (3.0)** | **ID correspondence** |
-|------------|-----------------------|--------------|-----------------------|
-| **Wave–particle duality** | Fundamental | TE transfer closed/open form; depends on \( \rho_{\mathcal{V}} \) | ID0 / ID1 |
-| **Wavefunction** | Probability amplitude | TE transfer projection \( e^{i\theta} \cdot \mathcal{F}(\rho_{\mathcal{V}}) \) | ID0 |
-| **Born's rule** | Probability | Matrix structural constraint; modulated by \( \rho_{\mathcal{V}} \) | ID0 |
-| **Superposition** | Simultaneous existence of states | L1 transfer distribution across channels; depends on \( \rho_{\mathcal{V}} \) | ID0 |
-| **Measurement problem** | Unexplained collapse | Phase selection moment — \( \mathcal{P}_{L1} \) projection | ID0 / ID-1 |
-| **Uncertainty principle** | Fundamental | Practical — depends on \( \Delta\theta \) and \( \rho_{\mathcal{V}} \) | ID0 |
-| **Entanglement** | Non-local reality | Two types — through matrix (ID0) and through Vertical (ID-1); type 2 depends on \( \rho_{\mathcal{V}} \) | ID0 / ID-1 |
-| **Quantum statistics** | Spin (fermion/boson) | Organizational structure (TZ, TE transfer loop, balance) | ID1 / ID0 |
-| **Decoherence** | Interaction with environment | Local \( \rho_{\mathcal{V}} \) variation; time \( \propto 1/\rho_{\mathcal{V}} \) | ID0 / ID-1 |
-| **Matrix state influence** | (not recognized) | All QM effects depend on \( \rho_{\mathcal{V}} \) via \( \varepsilon_0, \mu_0, G, \gamma \) | ID0 / ID-1 |
+| **Aspect** | **Classical QM** | **MT (3.1)** | **ID correspondence** |
+|-------------|-----------------|--------------|-------------------|
+| Wave function | Probability amplitude | \( \psi = e^{i\theta} \mathcal{F} \); \( \mathcal{F} = \mathcal{P}_{L1} \) | ID0 / ID-1 |
+| Born's rule | Probability | Matrix structural constraint; \( |\psi|^2 = \Phi/\phi_0 \cdot \mathcal{F} \) | ID0 |
+| Commutation relation | \( [\hat{x}, \hat{p}] = i\hbar \) | \( [\hat{x}, \hat{p}] = i\hbar \mathcal{F} \) | ID0 |
+| Uncertainty principle | Fundamental | Practical; bound \( \frac{\hbar}{2} \mathcal{F} \) | ID0 / ID-1 |
+| Measurement collapse | Unexplained | \( \mathcal{P}_{L1} \) non-unitarity; changes \( \mathcal{F} \) | ID-1 → ID0 |
+| Entanglement | Nonlocal reality | Two types; type 2 depends on \( \mathcal{F} \) | ID0 / ID-1 |
+| Quantum statistics | Spin | Organizational structure (TZ, TE loop, balance) | ID1 / ID0 |
+| Decoherence | Interaction with environment | Local variation of \( \rho_{\mathcal{V}} \); \( \tau \propto 1/\rho_{\mathcal{V}} \) | ID0 / ID-1 |
 
 ---
 
-## 12. CORRESPONDENCE WITH MATHEMATICS 3.0 AND OTHER DOCUMENTS
+## 11. CONCLUSIONS (3.1)
 
-This document is fully aligned with:
+1. **The canonical commutation relation \( [\hat{x}, \hat{p}] = i\hbar \) is a QM limiting case** — it holds only when the Vertical is in the L0 background state (\( \mathcal{F} = 1 \)). In other cases, \( \mathcal{F} \neq 1 \) and QM is modulated.
 
-- **MATHEMATICS 3.0** — all operators and quantities are derived from MATHEMATICS 3.0 definitions.
-- **ID_GRADIENT 3.0** — the ID system is aligned with the \( \rho_{\mathcal{V}} \) correction.
-- **ROADMAP 3.0** — H0 and L1 path separation; QM as L1-level statistics.
-- **MT_QED 3.0** — \( \varepsilon_0 \) and \( \mu_0 \) as matrix state functions.
-- **GRAVITY 3.0** — \( \gamma \) as cyclicity scale.
-- **COSMOLOGY 3.0** — \( \mathcal{P}_{L1} \), \( C \), \( \mathcal{F}_n(\rho_{\mathcal{V}}) \).
+2. **\( \mathcal{F} = \mathcal{P}_{L1}[\rho_{\mathcal{V}}] \)** — the focusing/scattering function is a direct projection of Vertical energy onto the H0 matrix. It determines to what extent the discrete lattice approximates continuous quantum mechanics.
 
-**Key 3.0 changes in the QM_COMPARISON document:**
-1. Methodological prerequisite: MT as a complementary framework for QM.
-2. All QM effects depend on \( \rho_{\mathcal{V}} \) via \( \varepsilon_0, \mu_0, G, \gamma \).
-3. Born's rule and wavefunction modulated by \( \mathcal{F}(\rho_{\mathcal{V}}) \).
-4. Decoherence time quantitatively determined as \( \tau_{\text{decoherence}} \propto 1/\rho_{\mathcal{V}} \).
-5. Entanglement type 2 depends on \( \rho_{\mathcal{V}} \).
-6. Uncertainty principle depends on \( \rho_{\mathcal{V}} \).
+3. **Born's rule and the uncertainty principle are not fundamental** — they are matrix structural constraints arising from discrete transfer and Qn geometry. They are modulated by \( \mathcal{F} \).
 
----
+4. **Measurement collapse is a consequence of the non-unitarity of the \( \mathcal{P}_{L1} \) projection** — the projection changes \( \mathcal{F} \), thus disrupting the commutation relation and fixing the phase.
 
-## 13. CONCLUSIONS (ID0 / ID-1) — 3.0
+5. **All quantum effects depend on \( \rho_{\mathcal{V}} \)** — the higher \( \rho_{\mathcal{V}} \), the more pronounced quantum effects (greater decoherence, stronger type 2 entanglement, larger uncertainty).
 
-Classical physics does not know about the L0 background (ID-1) and TZ (ID0 / ID-1) — it operates only at the L1 level (ID0). Therefore, it sees "quantum miracles": superposition, collapse, non-local entanglement, fundamental uncertainty.
+6. **MT does not deny QM's validity** — QM is a valid L1-level description (ID0), but its "probabilistic nature" and "collapse" are projections of ID-1 background influence. MT complements QM, it does not replace it.
 
-MT sees L0 (ID-1) and L1 (ID0) — therefore these phenomena become explainable as matrix structural properties (ID0 / ID-1). MT does not provide a phase measurement instrument (ID0), but it indicates that phase is measurable and that measuring it would restore determinism.
-
-**Key insight (3.0):** Quantum mechanics is not fundamentally probabilistic — it is **L1-level statistics** (ID0) caused by the inability to reach the L0 level (ID-1). All quantum effects depend on \( \rho_{\mathcal{V}} \) — the higher \( \rho_{\mathcal{V}} \), the more pronounced the quantum effects (greater decoherence, stronger type 2 entanglement, greater uncertainty).
-
-**Methodological clarification:** MT does not deny the validity of quantum mechanics as a predictive tool (ID0). It indicates that QM is a valid L1-level description, but its "probabilistic nature" and "collapse" are projections of ID-1 background effects that classical physics simply does not include in its mathematical formalism. QM remains valid in its domain — MT complements it, not replaces it.
-
-**The quantitative comparison is preliminary and intended for further development.** The next phase requires collaboration with quantum physicists and metrology specialists to transform these comparisons into precise, testable predictions, especially considering local \( \rho_{\mathcal{V}} \) variations.
-
----
-
-## NOTE
-
-This document is **a comparison between classical quantum mechanics and MT 3.0** with preliminary quantitative aspects, aligned with the ID system (3.0) and MATHEMATICS formalism (3.0). It is not a QED foundation, not cosmology, not technology — it is an independent document fixing where MT and classical physics agree and where they differ, especially regarding the influence of \( \rho_{\mathcal{V}} \) on quantum effects.
+**The quantitative comparison is provisional and intended for further development.** The next stage requires collaboration with quantum physicists and metrology specialists to translate these comparisons into precise, testable predictions, especially considering local variations of \( \rho_{\mathcal{V}} \).
 
 ---
 
 *Document prepared: July 2026*  
-*Version: 3.0 — methodological clarifications, aligned with MATHEMATICS 3.0, dependence on ρ_V*
+*Version: 3.1 — refined after commutation relation derivation, included \( \mathcal{F} = \mathcal{P}_{L1} \), removed sine term*
