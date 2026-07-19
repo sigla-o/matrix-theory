@@ -225,5 +225,58 @@ MT prognoze:
 
 ---
 
+## 8. GALAKTIKU KOPAS — TĀ PATI SHĒMA, LIELĀKS MĒROGS
+
+Tumšā matērija klasiskajā fizikā ir nepieciešama arī galaktiku kopās — galaktiku kustība kopās ir ātrāka, nekā to izskaidro redzamā masa.
+
+MT shēma ir tā pati:
+
+### 8.1. Mehānisms kopās
+
+Galaktiku kopā \( \rho_{\mathcal{V}} \) ir augstāks nekā starp kopām. Tāpēc:
+
+\[
+G(r) = G_0 \left(1 + \gamma \frac{\rho_{\mathcal{V}}(r)}{\rho_{\text{H0}}}\right)
+\]
+
+- Kopas centrā \( \rho_{\mathcal{V}} \) ir visaugstākais → \( G \) ir vislielākais.
+- Galaktikas kopas centrā kustas ātrāk, nekā prognozē redzamā masa.
+- Perifērijā \( \rho_{\mathcal{V}} \) samazinās → \( G \) tuvojas \( G_0 \), un ātrums tuvojas klasiskajai prognozei.
+
+**Rezultāts:** Galaktiku kustības ātrums kopā ir izskaidrojams bez tumšās matērijas — ar \( G \) mainību no \( \rho_{\mathcal{V}} \).
+
+### 8.2. Gravitācijas lēcas kopās
+
+Gaismas novirze caur kopu ir atkarīga no \( G(r) \):
+
+\[
+\theta = \frac{4G(r)}{c^2} \cdot \frac{M_{\text{redz}}(r)}{r}
+\]
+
+- Augstāks \( \rho_{\mathcal{V}} \) → lielāks \( G \) → lielāka novirze.
+- Klasiskā fizika interpretē šo papildu novirzi kā "tumšās matērijas" masu.
+- MT interpretē to kā \( \rho_{\mathcal{V}} \) ietekmi uz \( G \).
+
+### 8.3. Savienojums ar CMB
+
+\( \rho_{\mathcal{V}} \), kas noteikts no galaktiku kopām, ir tas pats \( \rho_{\mathcal{V}} \), kas ietekmē CMB:
+
+- CMB pīķi ir atkarīgi no \( \rho_{\mathcal{V}} \) caur \( \mathcal{F}_n \) un cikliskumu.
+- Galaktiku kopu dinamika ir atkarīga no \( \rho_{\mathcal{V}} \) caur \( G(r) \).
+
+**MT prognoze:** \( \rho_{\mathcal{V}} \), kas noteikts no CMB, sakrīt ar \( \rho_{\mathcal{V}} \), kas noteikts no galaktiku kopu dinamikas. Ja tie sakrīt — MT apstiprinājums.
+
+### 8.4. Kopsavilkums
+
+| **Mērogs** | **MT shēma** | **Klasiskā fizika** |
+|------------|--------------|---------------------|
+| Galaktika | \( G(r) \) mainība no \( \rho_{\mathcal{V}} \) | Tumšā matērija galaktikas iekšienē |
+| Galaktiku kopa | \( G(r) \) mainība no \( \rho_{\mathcal{V}} \) | Tumšā matērija kopās |
+| Kosmoloģija | \( \rho_{\mathcal{V}} \) ietekmē CMB un \( H_0 \) | Tumšā matērija + tumšā enerģija |
+
+**MT secinājums:** Tumšā matērija nav nepieciešama nevienā mērogā. To aizstāj \( \rho_{\mathcal{V}} \) ietekme uz \( G \) un pārneses ģeometriju.
+
+---
+
 *Dokuments sagatavots: 2026. gada jūlijā*  
 *Versija: 1.0 — pārbaudīts pret pieejamajiem datiem*
