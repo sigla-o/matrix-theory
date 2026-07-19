@@ -225,5 +225,58 @@ MT prediction:
 
 ---
 
+## 8. GALAXY CLUSTERS — THE SAME SCHEME, LARGER SCALE
+
+Dark matter in classical physics is also needed in galaxy clusters — galaxy motion in clusters is faster than explained by visible mass.
+
+The MT scheme is the same:
+
+### 8.1. Mechanism in clusters
+
+In a galaxy cluster, \( \rho_{\mathcal{V}} \) is higher than between clusters. Therefore:
+
+\[
+G(r) = G_0 \left(1 + \gamma \frac{\rho_{\mathcal{V}}(r)}{\rho_{\text{H0}}}\right)
+\]
+
+- At the cluster center, \( \rho_{\mathcal{V}} \) is highest → \( G \) is largest.
+- Galaxies near the cluster center move faster than predicted by visible mass.
+- At the periphery, \( \rho_{\mathcal{V}} \) decreases → \( G \) approaches \( G_0 \), and velocities approach the classical prediction.
+
+**Result:** The velocity of galaxies in clusters is explained without dark matter — by the variation of \( G \) due to \( \rho_{\mathcal{V}} \).
+
+### 8.2. Gravitational lensing in clusters
+
+Light deflection through a cluster depends on \( G(r) \):
+
+\[
+\theta = \frac{4G(r)}{c^2} \cdot \frac{M_{\text{visible}}(r)}{r}
+\]
+
+- Higher \( \rho_{\mathcal{V}} \) → larger \( G \) → greater deflection.
+- Classical physics interprets this extra deflection as "dark matter" mass.
+- MT interprets it as the effect of \( \rho_{\mathcal{V}} \) on \( G \).
+
+### 8.3. Connection to CMB
+
+The \( \rho_{\mathcal{V}} \) determined from galaxy clusters is the same \( \rho_{\mathcal{V}} \) that affects the CMB:
+
+- CMB peaks depend on \( \rho_{\mathcal{V}} \) through \( \mathcal{F}_n \) and cyclicity.
+- Galaxy cluster dynamics depends on \( \rho_{\mathcal{V}} \) through \( G(r) \).
+
+**MT prediction:** The \( \rho_{\mathcal{V}} \) determined from the CMB matches the \( \rho_{\mathcal{V}} \) determined from galaxy cluster dynamics. If they match — MT is confirmed.
+
+### 8.4. Summary
+
+| **Scale** | **MT scheme** | **Classical physics** |
+|-----------|---------------|------------------------|
+| Galaxy | \( G(r) \) variation due to \( \rho_{\mathcal{V}} \) | Dark matter within galaxies |
+| Galaxy cluster | \( G(r) \) variation due to \( \rho_{\mathcal{V}} \) | Dark matter in clusters |
+| Cosmology | \( \rho_{\mathcal{V}} \) affects CMB and \( H_0 \) | Dark matter + dark energy |
+
+**MT conclusion:** Dark matter is not needed at any scale. It is replaced by the effect of \( \rho_{\mathcal{V}} \) on \( G \) and transfer geometry.
+
+---
+
 *Document prepared: July 2026*  
 *Version: 1.0 — verified against available data*
