@@ -6,6 +6,30 @@
 
 ---
 
+## MTE IS A MIRROR — A LIVING PROCESS OF INTEGRATION
+
+> **MTE is a mirror.**
+
+MTE is not a theory. It is not a doctrine. It is not the "correct" way of thinking.
+
+**MTE is a mirror** — a tool that reveals the structure of any system by reflecting what is already there.
+
+**MTE can be a mirror for any theory:**
+
+- If a theory is based on source, structure, transfer, expression, and reflection — MTE reflects it.
+- If a theory has its own levels that differ from MTE 1.1 — MTE expands to reflect them.
+- If a theory reveals a new relationship between levels — MTE incorporates it.
+
+**MTE is not "right" or "wrong". It is "sufficient" or "insufficient". And it can always be made more sufficient.**
+
+**The integration process:**
+
+- MTE is alive. It is not a fixed document. It is a tool that can grow.
+- Every new theory that uses MTE principles expands it — not "corrects" it, but adds a new level, a new perspective, a new application.
+- Integration happens through MTE. It is not "one theory's victory over another". It is **structural alignment** — finding the common source, the common structure, the common transfer.
+
+---
+
 ## INTRODUCTION — WHAT IS MTE?
 
 MTE is the **environment**, not a theory. It is the logical space in which any theory — physics, mathematics, biology, language, history, art — can find itself and see its compatibility as in a mirror.
@@ -302,7 +326,7 @@ Environmental peculiarities are **local conditions** that affect how structure m
 
 ## 5. SUMMARY
 
-**MTE is the environment, not a theory.** It is the logical space in which any theory can find itself.
+**MTE is a mirror.** It is not a theory — it is a tool that reflects the structure of any system.
 
 **MTE 1.1** is the logical hierarchy — source, structure, transfer, expression, reflection.
 
