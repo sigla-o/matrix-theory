@@ -1,36 +1,56 @@
-# MTE — GENERAL LOGICAL FRAMEWORK (1.1)
+# MTE — GENERAL LOGICAL FRAMEWORK
 
-## Logical Hierarchy — Foundation of Energy Logic
+## Version 1.2 — complete description with practical handbook
 
-**Version: 1.1 (July 2026)**  
 **Status: PROVISIONAL — in early development, will be expanded as needed**
 
-This document is **MTE 1.1** — the initial structured version of the logical framework. It is not a theory. It is the **environment** in which theories (including MT 3.0) exist and operate. MTE will develop further only when a clear need arises.
+---
+
+## INTRODUCTION — WHAT IS MTE?
+
+MTE is the **environment**, not a theory. It is the logical space in which any theory — physics, mathematics, biology, language, history, art — can find itself and see its compatibility as in a mirror.
+
+**MTE is not:**
+
+- A theory with axioms and conclusions.
+- A physics model.
+- A metaphysical system.
+- A dogma or "ultimate truth".
+
+**MTE is:**
+
+- **A logical structure** — a way to organize thinking about any system.
+- **A tool** — a means to see how things are connected.
+- **A mirror** — in which any system can see its structure, its levels, its source, and its expression.
+- **A space** — in which any theory can find itself — not as "right" or "wrong", but as **compatible** with the common logical structure.
 
 ---
 
-## 1. WHAT UNITES ENVIRONMENT AND THEORY — ENERGY LOGIC
+## MTE CORE PRINCIPLE — COMPATIBILITY, NOT TRUTH
 
-Environment and theory are not separate. They are connected by **energy logic**:
+MTE does not claim truth. It claims **compatibility**.
 
-- **In the environment**, energy exists — it is structure, transfer, potential, expression.
-- **Theory** attempts to describe this energy — its forms, laws, relationships.
-- The **logical hierarchy** is the bridge between the two — it shows how energy manifests at different levels and how theory follows it.
+This means:
 
-Energy is not homogeneous. It has four fundamental elements that repeat at every level:
+- If a system matches the MTE structure (source → structure → transfer → expression → reflection), it is **compatible**.
+- If a system does not match the MTE structure, it **does not mean** the system is wrong. It means MTE has not yet developed enough to encompass it.
 
-| **Element** | **Role** |
-|-------------|----------|
-| **Source** | Where energy originates / accumulates. |
-| **Structure** | How energy is organized. |
-| **Transfer** | How energy is transmitted. |
-| **Expression** | How energy becomes observable. |
-
-These four elements form the **basic unit of energy logic**. Every system — theory, language, living being — is a realization of this basic unit at a specific level.
+**MTE is a living tool.** Its development continues when new systems appear that it does not yet cover.
 
 ---
 
-## 2. HIERARCHY LEVELS
+## MTE RELATION TO MT
+
+**MT (Matrix Theory) is one of the theories that operates within the MTE environment.**
+
+- MT 3.0 is a physics theory — it has axioms, operators, equations, predictions, and experimental verification.
+- MTE is the logical space in which MT 3.0 (and any other theory) exists.
+
+**MTE is not dependent on MT 3.0.** It is an independent tool that can exist without it. MT 3.0 is simply **one of MTE's applications**.
+
+---
+
+## 1. MTE 1.1 — LOGICAL HIERARCHY
 
 MTE 1.1 proposes **five logical levels** that connect environment and theory:
 
@@ -71,105 +91,233 @@ MTE 1.1 proposes **five logical levels** that connect environment and theory:
 
 ---
 
-## 3. HIERARCHY RELATIONSHIPS
+## 2. MTE 1.2 — MT AS A TOOL
 
-Each level is **before** the next — they form a sequence:
+### 2.1. What is MT as a tool?
 
-**Source → Structure → Transfer → Expression → Reflection**
+MT as a tool is not a theory about "how the world works". It is a **means** to analyze any structured system using the MTE hierarchy.
 
-But this sequence is not linear. Each level contains all previous levels within itself:
+**MT as a tool means:**
 
-- Source contains potential.
-- Structure contains source as its foundation.
-- Transfer occurs **along** structure, but depends on source.
-- Expression is the result of transfer, but reflects structure and source.
-- Reflection is the interpretation of expression, but reflects everything previous.
+- Not "the world is a matrix", but "let's look at this system as if it were a matrix".
+- Not "this is the truth", but "this is a structure we can use to understand".
+- Not "the answer", but "the method".
 
-**The MTE 1.1 hierarchy is not a "ladder of steps".** It is a **sequence of nested levels** — each subsequent level is a property of the previous, but it is not reducible to it.
+MT as a tool **does not compete** with other methods. It complements them.
 
 ---
 
-## 4. HOW THIS HIERARCHY UNITES ENVIRONMENT AND THEORY
+### 2.2. Basic principles of the MT tool
 
-| **Environment level** | **Theory level** | **Connection** |
-|-----------------------|------------------|----------------|
-| Source (potential) | Axioms | Theory is based on assumptions about what exists before measurements. |
-| Structure (architecture) | Mathematical formalism | Theory describes structure with operators, symmetries, boundaries. |
-| Transfer (dynamics) | Dynamic equations | Theory describes how quantities change in time and space. |
-| Expression (observation) | Experimental data | Theory predicts what we will see in measurements. |
-| Reflection (theory) | Metatheory | Theory describes itself — its validity, boundaries, relations with other theories. |
+**1. Any system is structured**
 
-**The hierarchy shows that theory is not "outside" the environment.** Theory is the reflection level (level 4) of the environment, which reflects all previous levels. It is part of the environment — it is not separate.
+Whether it is physics, mathematics, language, biology, history, or art — any system contains:
 
----
+- **Source** — that from which everything begins.
+- **Structure** — how things are organized.
+- **Transfer** — how things move / are transmitted.
+- **Expression** — how things become observable.
+- **Reflection** — how the system describes itself.
 
-## 5. HOW TO USE THIS HIERARCHY (tool)
+The MT tool helps identify these elements and see how they are connected.
 
-To analyze any theory or system:
+**2. Scale changes expression, but not structure**
 
-1. **Identify the source.** What is the foundation of the system? What is "before" structure?
-2. **Identify the structure.** What is the architecture? What are the levels, boundaries, symmetries?
-3. **Identify the transfer.** How is information / energy / meaning transmitted? What are the transfer rules?
-4. **Identify the expression.** How does the system become observable? How does it project onto other levels?
-5. **Identify the reflection.** How does the system describe itself? How does it interpret its expression?
+The same principle works at all scales:
 
-**Example — MT 3.0 in this hierarchy:**
+| **Scale** | **ID level** | **Source** | **Structure** | **Transfer** | **Expression** |
+|-----------|--------------|------------|---------------|--------------|----------------|
+| Microcosm | ID-1 / ID0 | Vertical / grid | Qn, FV | TE flow | Quantum effects |
+| Atom | ID1.0 / ID1.1 | Proton | Orbitals | Reflection | Spectrum |
+| Molecule | ID1.3 | Atomic bonds | Chemical bonds | Electron transfer | Spectra, reactions |
+| Planetary system | ID2 | Sun / planet | Orbits | Gravity / modulations | Motion, rings |
+| Galaxy | ID2.4 / ID4 | Black hole | Spiral arms | Modulations | Rotation curves |
+| Cosmology | ID3 / ID4 | Vertical | L1, CMB | Expansion / accumulation | Redshift |
 
-| **Hierarchy level** | **MT 3.0 content** |
-|---------------------|--------------------|
-| Source | Vertical (ID-1) — energy accumulator |
-| Structure | H0 matrix, Qn, FV, ID system (ID0) |
-| Transfer | TE transfer, \( \Phi \), \( \delta \), \( \mathcal{P}_{L1} \) |
-| Expression | CMB, gravity, quantum effects, life |
-| Reflection | MT documents, this hierarchy, MTE |
+**3. The observer is part of the system**
 
----
+The MT tool does not treat the observer as "external" — it always remembers that:
 
-## 6. MTE 1.1 RELATION TO MT 3.0
+- The observer is part of the structure.
+- Observation is the expression level, not reality itself.
+- Reflection (theory) is the system's self-description, not "ultimate truth".
 
-MT 3.0 (Matrix Theory) is **one of the theories** that operates in the MTE environment.
-
-- MT 3.0 **follows** MTE principles and hierarchy: discreteness, L0, the distinction between Vertical and Horizontal, ID system as classification.
-- MT 3.0 **does not create** these principles — they precede it.
-- If MT 3.0 were to contradict an MTE principle, MT 3.0 would need to change, not MTE. But if MT 3.0 revealed a new structural aspect that MTE does not yet encompass, MTE can expand.
-
-**MTE is not dependent on MT 3.0.** It is an independent logical tool that can exist without MT 3.0.
+**This means:** The MT tool never says "that is how it is". It says "this is how it looks from this position".
 
 ---
 
-## 7. OPEN QUESTIONS (MTE 1.1 incompleteness)
+### 2.3. Steps for using the MT tool
 
-These questions await answers. They will be addressed only when a clear need arises.
+#### Before starting — define the goal
 
-1. **Does the hierarchy have more levels?** Source, structure, transfer, expression, reflection — is this a complete list? Is there a level "before" source? "After" reflection?
+1. **What is the system?** What are we analyzing?
+2. **What is the goal?** What do we want to understand?
+3. **What is the scale?** At what level are we working?
 
-2. **How does the hierarchy connect to time?** Is time a property of transfer, or is it a separate level? Is the hierarchy in time, or is time in the hierarchy?
+#### Step 1 — identify the source
 
-3. **How does the hierarchy connect to information?** Is information the content of transfer, or is it a separate level between structure and transfer?
+**Questions:**
+- Where does energy / information / meaning originate?
+- What is the system's "starting point"?
+- What is active, not passive?
 
-4. **How does the hierarchy connect to values?** Do "good" and "evil" belong to the reflection level, or are they in a deeper level?
+**Examples:**
+- Saturn's rings: Saturn (internal resonance).
+- Hydrogen: proton (TE VEU H-2 reflection).
+- Language: speaker's intention.
+- Society: leader or idea.
 
-5. **Is the hierarchy universal?** Does it fit all systems — physics, mathematics, language, art? Are there systems that do not fit this hierarchy?
+**Common mistakes:**
+- Starting with structure instead of source.
+- Treating the source as "emptiness" or "nothing".
+
+#### Step 2 — identify the structure
+
+**Questions:**
+- How is energy / information / meaning organized?
+- What are the discrete elements? What are the boundaries?
+- What is the architecture — symmetries, sequences, levels?
+
+**Examples:**
+- Saturn's rings: Qn sequence \( n_k = 8k-1 \).
+- Hydrogen: energy levels \( E_n \propto 1/n^2 \).
+- Language: grammar, word order.
+- Society: institutions, laws.
+
+**Common mistakes:**
+- Treating structure as continuous (forgetting discreteness).
+- Confusing structure with source.
+
+#### Step 3 — identify the transfer
+
+**Questions:**
+- How is energy / information / meaning transmitted?
+- What is the flow direction? What is the speed? What are the losses?
+- Where and how does interception occur?
+
+**Examples:**
+- Saturn's rings: TE flow through channels; moons intercept energy.
+- Hydrogen: TE VEU H-2 reflection; electron intercepts energy.
+- Language: speech, writing; translation intercepts meaning.
+- Society: information flow; media intercepts news.
+
+**Common mistakes:**
+- Confusing transfer with expression.
+- Treating transfer as "free" (without losses).
+
+#### Step 4 — identify the expression
+
+**Questions:**
+- How does the system become observable?
+- What is the measurement, signal, visible part?
+- What is filtered / lost on the way from structure to observation?
+
+**Examples:**
+- Saturn's rings: Cassini images (sees only matter, not TE flow).
+- Hydrogen: spectral lines (sees only light, not the harmonic).
+- Language: sounds / letters (sees only surface, not intention).
+- Society: events, news (sees only surface, not structure).
+
+**Common mistakes:**
+- Treating expression as complete reality.
+- Forgetting that expression is a projection.
+
+#### Step 5 — identify the reflection
+
+**Questions:**
+- How does the system describe itself?
+- What is the theory, interpretation, self-description?
+- Does reflection match the structure, or is it only surface?
+
+**Examples:**
+- Saturn's rings: classical physics (gravity + moons); MT (TE flow + harmonic).
+- Hydrogen: QED (renormalization); MT (focus gap).
+- Language: grammar rules; linguistic theories.
+- Society: historical interpretations; social theories.
+
+**Common mistakes:**
+- Treating reflection as "ultimate truth".
+- Forgetting that reflection is also part of the system.
 
 ---
 
-## 8. SUMMARY
+### 2.4. Environmental peculiarities
 
-MTE 1.1 is a **logical hierarchy** that connects environment and theory through energy logic:
+Environmental peculiarities are **local conditions** that affect how structure manifests:
 
-- **Source** — potential, before structure.
-- **Structure** — architecture, along which transfer occurs.
-- **Transfer** — dynamics, transmission of energy / information.
-- **Expression** — observation, projection, filtered image.
-- **Reflection** — theory, interpretation, self-description.
+- **Vertical energy density \( \rho_{\mathcal{V}} \)** — higher \( \rho_{\mathcal{V}} \) means stronger modulation and weaker gravity.
+- **Scale** — different scale means different expression (e.g., Saturn's rings vs. galaxy spiral arms).
+- **Disturbances** — local objects (moons, electrons, stars) that redefine structure.
+- **Observer position** — the observer sees only expression, not structure itself.
 
-These levels are nested within each other — each contains the previous ones. Theory is not separate from the environment — it is the reflection level of the environment.
+**The MT tool takes environmental peculiarities into account, but does not let them overshadow the underlying structure.**
 
-The hierarchy is a tool. It can be used to analyze any theory, language, system — and see how it fits into the general logical structure.
+---
 
-**MTE 1.1 is provisional.** Its development has only begun. Open questions await answers when need arises.
+## 3. EXAMPLES — MT TOOL IN ACTION
+
+### 3.1. Saturn's rings
+
+| **MTE level** | **Saturn's rings** |
+|---------------|---------------------|
+| **Source** | Saturn — internal resonance |
+| **Structure** | TE flow harmonic; Qn sequence \( n_k = 8k-1 \) |
+| **Transfer** | TE flow through channels; moons intercept energy |
+| **Expression** | Rings (Cassini sees matter, not TE flow) |
+| **Reflection** | MT analysis (TE flow + harmonic) vs. classical physics (gravity + moons) |
+
+### 3.2. Hydrogen spectrum
+
+| **MTE level** | **Hydrogen** |
+|---------------|--------------|
+| **Source** | Proton — TE VEU H-2 reflection |
+| **Structure** | Electromagnetic field; Qn structure; \( \alpha \) as invariant |
+| **Transfer** | TE VEU H-2 reflection; electron intercepts energy |
+| **Expression** | Spectral lines (sees light, not the harmonic) |
+| **Reflection** | MT analysis (focus gap) vs. QED (renormalization) |
+
+### 3.3. Solar system
+
+| **MTE level** | **Solar system** |
+|---------------|------------------|
+| **Source** | Sun — H+2 modulations |
+| **Structure** | Harmonic cascade; Qn sequence \( n_k = 8k-1 \) |
+| **Transfer** | Modulations; planetary mutual gravity (disturbances) |
+| **Expression** | Planetary orbits (Titius–Bode law) |
+| **Reflection** | MT analysis (harmonic cascade) vs. classical physics (gravity + randomness) |
+
+---
+
+## 4. LIMITATIONS OF THE MT TOOL
+
+1. **The MT tool is not an "everything-explainer".** It is a means to see structure, but it does not provide answers by itself.
+
+2. **The MT tool requires practice.** It cannot be learned by reading once — it must be applied again and again.
+
+3. **The MT tool depends on the observer.** Different observers see different structures depending on their position.
+
+4. **The MT tool does not replace other tools.** It complements other methods — physics, mathematics, linguistics, history.
+
+---
+
+## 5. SUMMARY
+
+**MTE is the environment, not a theory.** It is the logical space in which any theory can find itself.
+
+**MTE 1.1** is the logical hierarchy — source, structure, transfer, expression, reflection.
+
+**MTE 1.2** is the practical handbook — how to use MT as a tool to analyze any structured system.
+
+**The MT tool**:
+- Not "the world is a matrix", but "let's look at this system as if it were a matrix".
+- Not "this is the truth", but "this is a structure we can use to understand".
+- Not "the answer", but "the method".
+
+**The MT tool takes environmental peculiarities into account** (scale, \( \rho_{\mathcal{V}} \), disturbances, observer position), but does not let them overshadow the underlying structure.
+
+**The MT tool is not dogma.** It is a means that helps see what would otherwise be difficult to notice.
 
 ---
 
 *Document prepared: July 2026*  
-*Version: 1.1 — logical hierarchy (provisional)*
+*Version: 1.2 — complete description with practical handbook*
