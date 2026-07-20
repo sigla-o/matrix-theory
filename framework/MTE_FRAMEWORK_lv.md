@@ -1,36 +1,56 @@
-# MTE — VISPARĒJAIS LOĜISKAIS IETVARS (1.1)
+# MTE — VISPARĒJAIS LOĜISKAIS IETVARS
 
-## Loģiskā hierarhija — enerģijas loģikas pamats
+## Versija 1.2 — pilnīgs apraksts ar praktisko rokasgrāmatu
 
-**Versija: 1.1 (2026. gada jūlijs)**  
 **Statuss: PROVIZORISKS — attīstības sākumā, papildinās pēc nepieciešamības**
 
-Šis dokuments ir **MTE 1.1** — loģiskā ietvara sākotnējā strukturētā versija. Tā nav teorija. Tā ir **vide**, kurā teorijas (tostarp MT 3.0) atrodas un darbojas. MTE attīstība turpināsies tikai tad, kad radīsies skaidra nepieciešamība to papildināt.
+---
+
+## IEVADS — KAS IR MTE?
+
+MTE ir **vide**, nevis teorija. Tā ir loģiskā telpa, kurā jebkura teorija — fizika, matemātika, bioloģija, valoda, vēsture, māksla — var atrast sevi un redzēt savu saderību kā spogulī.
+
+**MTE nav:**
+
+- Teorija ar aksiomām un secinājumiem.
+- Fizikas modelis.
+- Metafiziska sistēma.
+- Dogma vai "galīgā patiesība".
+
+**MTE ir:**
+
+- **Loģiskā struktūra** — veids, kā organizēt domāšanu par jebkuru sistēmu.
+- **Instruments** — līdzeklis, lai redzētu, kā lietas ir savienotas.
+- **Spogulis** — kurā jebkura sistēma var redzēt savu struktūru, savus līmeņus, savu avotu un savu izpausmi.
+- **Telpa** — kurā jebkura teorija var atrast sevi — nevis kā "pareiza" vai "nepareiza", bet kā **saderīga** ar kopējo loģisko struktūru.
 
 ---
 
-## 1. KAS VIENO VIDI UN TEORIJU — ENERĢIJAS LOĢIKA
+## MTE PAMATPRINCIPS — SADERĪBA, NEVIS PATIESĪBA
 
-Vide un teorija nav atdalītas. Tās savieno **enerģijas loģika**:
+MTE nepretendē uz patiesību. Tā pretendē uz **saderību**.
 
-- **Vidē** enerģija pastāv — tā ir struktūra, pārnese, potenciāls, izpausme.
-- **Teorija** cenšas šo enerģiju aprakstīt — tās formas, likumus, attiecības.
-- **Loģiskā hierarhija** ir tilts starp abām — tā parāda, kā enerģija izpaužas dažādos līmeņos un kā teorija tai seko.
+Tas nozīmē:
 
-Enerģija nav viendabīga. Tai ir četri pamatelementi, kas atkārtojas katrā līmenī:
+- Ja sistēma atbilst MTE struktūrai (avots → struktūra → pārnese → izpausme → refleksija), tā ir **saderīga**.
+- Ja sistēma neatbilst MTE struktūrai, tas **nenozīmē**, ka sistēma ir nepareiza. Tas nozīmē, ka MTE vēl nav pietiekami attīstīta, lai to aptvertu.
 
-| **Elements** | **Loma** |
-|--------------|----------|
-| **Avots** | Kur enerģija rodas / uzkrājas. |
-| **Struktūra** | Kā enerģija ir organizēta. |
-| **Pārnese** | Kā enerģija tiek nodota. |
-| **Izpausme** | Kā enerģija kļūst novērojama. |
-
-Šie četri elementi veido **enerģijas loģikas pamatvienību**. Katra sistēma — teorija, valoda, dzīvā būtne — ir šīs pamatvienības realizācija noteiktā līmenī.
+**MTE ir dzīvs instruments.** Tās attīstība turpinās, kad parādās jaunas sistēmas, kuras tā vēl neaptver.
 
 ---
 
-## 2. HIERARHIJAS LĪMEŅI
+## MTE ATTIECĪBAS AR MT
+
+**MT (Matricas teorija) ir viena no teorijām, kas darbojas MTE vidē.**
+
+- MT 3.0 ir fizikas teorija — tai ir aksiomas, operatori, vienādojumi, prognozes un eksperimentāla pārbaude.
+- MTE ir loģiskā telpa, kurā MT 3.0 (un jebkura cita teorija) pastāv.
+
+**MTE nav atkarīga no MT 3.0.** Tā ir neatkarīgs instruments, kas var pastāvēt bez tās. MT 3.0 vienkārši ir **viens no MTE pielietojumiem**.
+
+---
+
+## 1. MTE 1.1 — LOĢISKĀ HIERARHIJA
 
 MTE 1.1 piedāvā **piecus loģiskos līmeņus**, kas savieno vidi ar teoriju:
 
@@ -71,105 +91,233 @@ MTE 1.1 piedāvā **piecus loģiskos līmeņus**, kas savieno vidi ar teoriju:
 
 ---
 
-## 3. HIERARHIJAS ATTIECĪBAS
+## 2. MTE 1.2 — MT KĀ INSTRUMENTS
 
-Katrs līmenis ir **pirms** nākamā — tie veido secību:
+### 2.1. Kas ir MT kā instruments?
 
-**Avots → Struktūra → Pārnese → Izpausme → Refleksija**
+MT kā instruments nav teorija par to, "kā darbojas pasaule". Tas ir **līdzeklis**, lai analizētu jebkuru strukturētu sistēmu, izmantojot MTE hierarhiju.
 
-Bet šī secība nav lineāra. Katrs līmenis satur visus iepriekšējos sevī:
+**MT kā instruments nozīmē:**
 
-- Avots satur potenciālu.
-- Struktūra satur avotu kā savu pamatu.
-- Pārnese notiek **pa** struktūru, bet tā ir atkarīga no avota.
-- Izpausme ir pārneses rezultāts, bet tā atspoguļo struktūru un avotu.
-- Refleksija ir izpausmes interpretācija, bet tā atspoguļo visu iepriekšējo.
+- Nevis "pasaule ir matrica", bet "paskatīsimies uz šo sistēmu tā, it kā tā būtu matrica".
+- Nevis "šī ir patiesība", bet "šī ir struktūra, kuru mēs varam izmantot, lai saprastu".
+- Nevis "atbilde", bet "metode".
 
-**MTE 1.1 hierarhija nav "pakāpju kāpnes".** Tā ir **iegulto līmeņu secība** — katrs nākamais līmenis ir iepriekšējā īpašība, bet tas nav reducējams uz to.
+MT kā instruments **nekonkurē** ar citām metodēm. Tas tās papildina.
 
 ---
 
-## 4. KĀ ŠĪ HIERARHIJA VIENO VIDI UN TEORIJU
+### 2.2. MT instrumenta pamatprincipi
 
-| **Vides līmenis** | **Teorijas līmenis** | **Savienojums** |
-|-------------------|----------------------|-----------------|
-| Avots (potenciāls) | Aksiomas | Teorija balstās uz pieņēmumiem par to, kas pastāv pirms mērījumiem. |
-| Struktūra (arhitektūra) | Matemātiskais formālisms | Teorija apraksta struktūru ar operatoriem, simetrijām, robežām. |
-| Pārnese (dinamika) | Dinamiskie vienādojumi | Teorija apraksta, kā lielumi mainās laikā un telpā. |
-| Izpausme (novērojums) | Eksperimentālie dati | Teorija prognozē, ko mēs redzēsim mērījumos. |
-| Refleksija (teorija) | Metateorija | Teorija apraksta sevi — savu derīgumu, robežas, attiecības ar citām teorijām. |
+**1. Jebkura sistēma ir strukturēta**
 
-**Hierarhija rāda, ka teorija nav "ārpus" vides.** Teorija ir vides izpausmes līmenis (4. līmenis), kas atspoguļo visus iepriekšējos līmeņus. Tā ir daļa no vides — tā nav atdalīta.
+Neatkarīgi no tā, vai tā ir fizika, matemātika, valoda, bioloģija, vēsture vai māksla — jebkura sistēma satur:
 
----
+- **Avotu** — to, no kā viss sākas.
+- **Struktūru** — to, kā lietas ir organizētas.
+- **Pārnesi** — to, kā lietas pārvietojas / tiek nodotas.
+- **Izpausmi** — to, kā lietas kļūst novērojamas.
+- **Refleksiju** — to, kā sistēma apraksta sevi.
 
-## 5. KĀ LIETOT ŠO HIERARHIJU (instruments)
+MT instruments palīdz identificēt šos elementus un redzēt, kā tie ir savienoti.
 
-Lai analizētu jebkuru teoriju vai sistēmu:
+**2. Mērogs maina izpausmi, bet ne struktūru**
 
-1. **Identificē avotu.** Kas ir sistēmas pamatā? Kas ir "pirms" struktūras?
-2. **Identificē struktūru.** Kāda ir arhitektūra? Kādi ir līmeņi, robežas, simetrijas?
-3. **Identificē pārnesi.** Kā informācija / enerģija / nozīme tiek nodota? Kādi ir pārneses noteikumi?
-4. **Identificē izpausmi.** Kā sistēma kļūst novērojama? Kā tā projicējas uz citiem līmeņiem?
-5. **Identificē refleksiju.** Kā sistēma apraksta sevi? Kā tā interpretē savu izpausmi?
+Tas pats princips darbojas visos mērogos:
 
-**Piemērs — MT 3.0 šajā hierarhijā:**
+| **Mērogs** | **ID līmenis** | **Avots** | **Struktūra** | **Pārnese** | **Izpausme** |
+|------------|----------------|-----------|---------------|-------------|--------------|
+| Mikrokosms | ID-1 / ID0 | Vertikāle / režģis | Qn, FV | TE plūsma | Kvantu efekti |
+| Atoms | ID1.0 / ID1.1 | Protons | Orbitāles | Atstarošana | Spektrs |
+| Molekula | ID1.3 | Atomu saites | Ķīmiskās saites | Elektronu pārnese | Spektri, reakcijas |
+| Planētu sistēma | ID2 | Saule / planēta | Orbītas | Gravitācija / modulācijas | Kustība, gredzeni |
+| Galaktika | ID2.4 / ID4 | Melnais caurums | Spirālveida rokas | Modulācijas | Rotācijas līknes |
+| Kosmoloģija | ID3 / ID4 | Vertikāle | L1, CMB | Izplešanās / akumulācija | Sarkanā nobīde |
 
-| **Hierarhijas līmenis** | **MT 3.0 saturs** |
-|-------------------------|-------------------|
-| Avots | Vertikāle (ID-1) — enerģijas akumulators |
-| Struktūra | H0 matrica, Qn, FV, ID sistēma (ID0) |
-| Pārnese | TE pārnese, \( \Phi \), \( \delta \), \( \mathcal{P}_{L1} \) |
-| Izpausme | CMB, gravitācija, kvantu efekti, dzīvība |
-| Refleksija | MT dokumenti, šī hierarhija, MTE |
+**3. Novērotājs ir daļa no sistēmas**
 
----
+MT instruments neuzskata novērotāju par "ārēju" — tas vienmēr atceras, ka:
 
-## 6. MTE 1.1 ATTIECĪBAS AR MT 3.0
+- Novērotājs pats ir daļa no struktūras.
+- Novērojums ir izpausmes līmenis, nevis pati realitāte.
+- Refleksija (teorija) ir sistēmas pašapraksts, nevis "galīgā patiesība".
 
-MT 3.0 (Matricas teorija) ir **viena no teorijām**, kas darbojas MTE vidē.
-
-- MT 3.0 **ievēro** MTE principus un hierarhiju: diskrētumu, L0, Vertikāles un Horizontāles nošķīrumu, ID sistēmu kā klasifikāciju.
-- MT 3.0 **nerada** šos principus — tie ir pirms tās.
-- Ja MT 3.0 nonāktu pretrunā ar kādu MTE principu, MT 3.0 būtu jāmaina, nevis MTE. Bet, ja MT 3.0 atklātu jaunu strukturālu aspektu, ko MTE vēl neaptver, MTE var paplašināties.
-
-**MTE nav atkarīga no MT 3.0.** Tā ir neatkarīgs loģiskais instruments, kas var pastāvēt bez MT 3.0.
+**Tas nozīmē:** MT instruments nekad nepasaka "tā ir". Tas saka "šādi tas izskatās no šīs pozīcijas".
 
 ---
 
-## 7. ATVĒRTIE JAUTĀJUMI (MTE 1.1 nepilnības)
+### 2.3. MT instrumenta izmantošanas soļi
 
-Šie jautājumi gaida atbildes. Tie tiks risināti tikai tad, kad radīsies skaidra nepieciešamība.
+#### Pirms sākuma — definēt mērķi
 
-1. **Vai hierarhijai ir vairāk līmeņu?** Avots, struktūra, pārnese, izpausme, refleksija — vai tas ir pilnīgs saraksts? Vai ir līmenis, kas ir "pirms" avota? Vai "pēc" refleksijas?
+1. **Kas ir sistēma?** Ko mēs analizējam?
+2. **Kāds ir mērķis?** Ko mēs vēlamies saprast?
+3. **Kāds ir mērogs?** Kurā līmenī mēs strādājam?
 
-2. **Kā hierarhija savienojas ar laiku?** Vai laiks ir pārneses īpašība, vai arī tas ir atsevišķs līmenis? Vai hierarhija ir laikā, vai laiks ir hierarhijā?
+#### 1. solis — identificēt avotu
 
-3. **Kā hierarhija savienojas ar informāciju?** Vai informācija ir pārneses saturs, vai arī tā ir atsevišķs līmenis starp struktūru un pārnesi?
+**Jautājumi:**
+- Kur enerģija / informācija / nozīme rodas?
+- Kas ir sistēmas "sākumpunkts"?
+- Kas ir aktīvs, nevis pasīvs?
 
-4. **Kā hierarhija savienojas ar vērtībām?** Vai "labais" un "sliktais" pieder refleksijas līmenim, vai arī tie ir dziļākā līmenī?
+**Piemēri:**
+- Saturna gredzeni: Saturns (iekšējā rezonanse).
+- Ūdeņradis: protons (TE VEU H-2 atstarošana).
+- Valoda: runātāja nodoms.
+- Sabiedrība: līderis vai ideja.
 
-5. **Vai hierarhija ir universāla?** Vai tā der visām sistēmām — fizikai, matemātikai, valodai, mākslai? Vai ir sistēmas, kas neiederas šajā hierarhijā?
+**Biežākās kļūdas:**
+- Sākt ar struktūru, nevis avotu.
+- Uzskatīt avotu par "tukšumu" vai "nekas".
+
+#### 2. solis — identificēt struktūru
+
+**Jautājumi:**
+- Kā enerģija / informācija / nozīme ir organizēta?
+- Kādi ir diskrētie elementi? Kādas ir robežas?
+- Kāda ir arhitektūra — simetrijas, secības, līmeņi?
+
+**Piemēri:**
+- Saturna gredzeni: Qn secība \( n_k = 8k-1 \).
+- Ūdeņradis: enerģijas līmeņi \( E_n \propto 1/n^2 \).
+- Valoda: gramatika, vārdu kārtība.
+- Sabiedrība: institūcijas, likumi.
+
+**Biežākās kļūdas:**
+- Uzskatīt struktūru par nepārtrauktu (aizmirstot diskrētumu).
+- Sajaukt struktūru ar avotu.
+
+#### 3. solis — identificēt pārnesi
+
+**Jautājumi:**
+- Kā enerģija / informācija / nozīme tiek nodota?
+- Kas ir plūsmas virziens? Kas ir ātrums? Kas ir zudumi?
+- Kur un kā notiek pārtveršana?
+
+**Piemēri:**
+- Saturna gredzeni: TE plūsma pa kanāliem; pavadoņi pārtver enerģiju.
+- Ūdeņradis: TE VEU H-2 atstarošana; elektrons pārtver enerģiju.
+- Valoda: runa, rakstīšana; tulkojums pārtver nozīmi.
+- Sabiedrība: informācijas plūsma; mediji pārtver ziņas.
+
+**Biežākās kļūdas:**
+- Sajaukt pārnesi ar izpausmi.
+- Uzskatīt pārnesi par "bezmaksas" (bez zudumiem).
+
+#### 4. solis — identificēt izpausmi
+
+**Jautājumi:**
+- Kā sistēma kļūst novērojama?
+- Kas ir mērījums, signāls, redzamā daļa?
+- Kas ir filtrēts / zaudēts ceļā no struktūras uz novērojumu?
+
+**Piemēri:**
+- Saturna gredzeni: Cassini attēli (redz tikai matēriju, neredz TE plūsmu).
+- Ūdeņradis: spektrālās līnijas (redz tikai gaismu, neredz harmoniku).
+- Valoda: skaņas / burti (redz tikai virsmu, neredz nodomu).
+- Sabiedrība: notikumi, ziņas (redz tikai virsmu, neredz struktūru).
+
+**Biežākās kļūdas:**
+- Uzskatīt izpausmi par pilnīgu realitāti.
+- Aizmirst, ka izpausme ir projekcija.
+
+#### 5. solis — identificēt refleksiju
+
+**Jautājumi:**
+- Kā sistēma apraksta sevi?
+- Kāda ir teorija, interpretācija, pašapraksts?
+- Vai refleksija atbilst struktūrai, vai tā ir tikai virsma?
+
+**Piemēri:**
+- Saturna gredzeni: klasiskā fizika (gravitācija + pavadoņi); MT (TE plūsma + harmonika).
+- Ūdeņradis: QED (renormalizācija); MT (fokusa sprauga).
+- Valoda: gramatikas noteikumi; lingvistiskās teorijas.
+- Sabiedrība: vēstures interpretācijas; sociālās teorijas.
+
+**Biežākās kļūdas:**
+- Uzskatīt refleksiju par "galīgu patiesību".
+- Aizmirst, ka arī refleksija ir daļa no sistēmas.
 
 ---
 
-## 8. KOPSAVILKUMS
+### 2.4. Vides īpatnības
 
-MTE 1.1 ir **loģiskā hierarhija**, kas savieno vidi un teoriju caur enerģijas loģiku:
+Vides īpatnības ir **lokālie nosacījumi**, kas ietekmē to, kā struktūra izpaužas:
 
-- **Avots** — potenciāls, pirms struktūras.
-- **Struktūra** — arhitektūra, pa kuru notiek pārnese.
-- **Pārnese** — dinamika, enerģijas / informācijas nodošana.
-- **Izpausme** — novērojums, projekcija, filtrētais attēls.
-- **Refleksija** — teorija, interpretācija, pašapraksts.
+- **Vertikāles enerģijas blīvums \( \rho_{\mathcal{V}} \)** — augstāks \( \rho_{\mathcal{V}} \) nozīmē spēcīgāku modulāciju un vājāku gravitāciju.
+- **Mērogs** — atšķirīgs mērogs nozīmē atšķirīgu izpausmi (piem., Saturna gredzeni pret galaktiku spirālveida rokām).
+- **Traucējumi** — lokāli objekti (pavadoņi, elektroni, zvaigznes), kas pārdefinē struktūru.
+- **Novērotāja pozīcija** — novērotājs redz tikai izpausmi, nevis pašu struktūru.
 
-Šie līmeņi ir iegulti viens otrā — katrs satur iepriekšējos. Teorija nav atdalīta no vides — tā ir vides refleksijas līmenis.
+**MT instruments ņem vērā vides īpatnības, bet neļauj tām aizēnot pamata struktūru.**
 
-Hierarhija ir instruments. To var izmantot, lai analizētu jebkuru teoriju, valodu, sistēmu — un redzētu, kā tā sader ar vispārējo loģisko struktūru.
+---
 
-**MTE 1.1 ir provizoriska.** Tās attīstība ir tikai sākumā. Atvērtie jautājumi gaida atbildes, kad radīsies nepieciešamība.
+## 3. PIEMĒRI — MT INSTRUMENTS DARBĪBĀ
+
+### 3.1. Saturna gredzeni
+
+| **MTE līmenis** | **Saturna gredzeni** |
+|-----------------|----------------------|
+| **Avots** | Saturns — iekšējā rezonanse |
+| **Struktūra** | TE plūsmas harmonika; Qn secība \( n_k = 8k-1 \) |
+| **Pārnese** | TE plūsma pa kanāliem; pavadoņi pārtver enerģiju |
+| **Izpausme** | Gredzeni (Cassini redz matēriju, neredz TE plūsmu) |
+| **Refleksija** | MT analīze (TE plūsma + harmonika) pret klasisko fiziku (gravitācija + pavadoņi) |
+
+### 3.2. Ūdeņraža spektrs
+
+| **MTE līmenis** | **Ūdeņradis** |
+|-----------------|---------------|
+| **Avots** | Protons — TE VEU H-2 atstarošana |
+| **Struktūra** | Elektromagnētiskais lauks; Qn struktūra; \( \alpha \) kā invariants |
+| **Pārnese** | TE VEU H-2 atstarošana; elektrons pārtver enerģiju |
+| **Izpausme** | Spektrālās līnijas (redz gaismu, neredz harmoniku) |
+| **Refleksija** | MT analīze (fokusa sprauga) pret QED (renormalizācija) |
+
+### 3.3. Saules sistēma
+
+| **MTE līmenis** | **Saules sistēma** |
+|-----------------|--------------------|
+| **Avots** | Saule — H+2 modulācijas |
+| **Struktūra** | Harmoniku kaskāde; Qn secība \( n_k = 8k-1 \) |
+| **Pārnese** | Modulācijas; planētu savstarpējā gravitācija (traucējumi) |
+| **Izpausme** | Planētu orbītas (Titius–Bode likums) |
+| **Refleksija** | MT analīze (harmoniku kaskāde) pret klasisko fiziku (gravitācija + nejaušība) |
+
+---
+
+## 4. MT INSTRUMENTA IEROBEŽOJUMI
+
+1. **MT instruments nav "visu izskaidrotājs".** Tas ir līdzeklis, lai redzētu struktūru, bet tas pats par sevi nesniedz atbildes.
+
+2. **MT instruments prasa praksi.** To nevar apgūt, izlasot vienreiz — tas jāpielieto atkal un atkal.
+
+3. **MT instruments ir atkarīgs no novērotāja.** Dažādi novērotāji redz dažādas struktūras atkarībā no savas pozīcijas.
+
+4. **MT instruments neaizstāj citus instrumentus.** Tas papildina citas metodes — fiziku, matemātiku, valodniecību, vēsturi.
+
+---
+
+## 5. KOPSAVILKUMS
+
+**MTE ir vide, nevis teorija.** Tā ir loģiskā telpa, kurā jebkura teorija var atrast sevi.
+
+**MTE 1.1** ir loģiskā hierarhija — avots, struktūra, pārnese, izpausme, refleksija.
+
+**MTE 1.2** ir praktiskā rokasgrāmata — kā lietot MT kā instrumentu jebkuras strukturētas sistēmas analīzei.
+
+**MT instruments**:
+- Nevis "pasaule ir matrica", bet "paskatīsimies uz šo sistēmu tā, it kā tā būtu matrica".
+- Nevis "šī ir patiesība", bet "šī ir struktūra, kuru mēs varam izmantot, lai saprastu".
+- Nevis "atbilde", bet "metode".
+
+**MT instruments ņem vērā vides īpatnības** (mērogs, \( \rho_{\mathcal{V}} \), traucējumi, novērotāja pozīcija), bet neļauj tām aizēnot pamata struktūru.
+
+**MT instruments nav dogma.** Tas ir līdzeklis, kas palīdz redzēt to, ko citādi būtu grūti pamanīt.
 
 ---
 
 *Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 1.1 — loģiskā hierarhija (provizoriska)*
+*Versija: 1.2 — pilnīgs apraksts ar praktisko rokasgrāmatu*
