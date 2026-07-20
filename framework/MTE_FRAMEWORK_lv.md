@@ -6,6 +6,30 @@
 
 ---
 
+## MTE IR SPOGULIS — DZĪVS APVIENOŠANAS PROCESS
+
+> **MTE ir spogulis.**
+
+MTE nav teorija. Tā nav doktrīna. Tā nav "pareizā" domāšanas sistēma.
+
+**MTE ir spogulis** — instruments, kas parāda jebkuras sistēmas struktūru, atspoguļojot to pašu, kas jau tajā pastāv.
+
+**MTE var būt jebkuras teorijas spogulis:**
+
+- Ja teorija balstās uz avotu, struktūru, pārnesi, izpausmi un refleksiju — MTE to atspoguļo.
+- Ja teorijai ir savi līmeņi, kas atšķiras no MTE 1.1 — MTE paplašinās, lai tos atspoguļotu.
+- Ja teorija atklāj jaunu attiecību starp līmeņiem — MTE to iekļauj.
+
+**MTE nav "pareiza" vai "nepareiza". Tā ir "pietiekama" vai "nepietiekama". Un to vienmēr var padarīt pietiekamāku.**
+
+**Apvienošanas process:**
+
+- MTE ir dzīvs. Tas nav fiksēts dokuments. Tas ir instruments, kas var augt.
+- Katra jauna teorija, kas izmanto MTE principus, to paplašina — nevis "labo", bet pievieno jaunu līmeni, jaunu skatījumu, jaunu pielietojumu.
+- Apvienošana notiek caur MTE. Tā nav "vienas teorijas uzvara pār citu". Tā ir **struktūru saskaņošana** — atrast kopīgo avotu, kopīgo struktūru, kopīgo pārnesi.
+
+---
+
 ## IEVADS — KAS IR MTE?
 
 MTE ir **vide**, nevis teorija. Tā ir loģiskā telpa, kurā jebkura teorija — fizika, matemātika, bioloģija, valoda, vēsture, māksla — var atrast sevi un redzēt savu saderību kā spogulī.
@@ -50,7 +74,7 @@ Tas nozīmē:
 
 ---
 
-## 1. MTE 1.1 — LOĢISKĀ HIERARHIJA
+## 1. MTE 1.1 — LOĜISKĀ HIERARHIJA
 
 MTE 1.1 piedāvā **piecus loģiskos līmeņus**, kas savieno vidi ar teoriju:
 
@@ -302,7 +326,7 @@ Vides īpatnības ir **lokālie nosacījumi**, kas ietekmē to, kā struktūra i
 
 ## 5. KOPSAVILKUMS
 
-**MTE ir vide, nevis teorija.** Tā ir loģiskā telpa, kurā jebkura teorija var atrast sevi.
+**MTE ir spogulis.** Tā nav teorija — tā ir instruments, kas atspoguļo jebkuras sistēmas struktūru.
 
 **MTE 1.1** ir loģiskā hierarhija — avots, struktūra, pārnese, izpausme, refleksija.
 
