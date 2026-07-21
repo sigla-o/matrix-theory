@@ -1,3 +1,8 @@
+# Matrix Theory — Mathematical Formalism
+
+**DOI: [10.5281/zenodo.21470508](https://doi.org/10.5281/zenodo.21470508)**
+
+
 # MATHEMATICS — MATRIX THEORY FORMALISM (MT)
 
 ## Revised version (July 2026) — 3.0
