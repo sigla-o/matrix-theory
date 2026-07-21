@@ -1,230 +1,130 @@
-# Contributing to Matrix Theory (MT)
+# CONTRIBUTING GUIDELINES
 
-Thank you for your interest in contributing to the Matrix Theory project! This document provides guidelines for contributions — whether you're reporting issues, suggesting improvements, or submitting content.
-
----
-
-## Repository Structure
-
-Before contributing, please familiarize yourself with the current structure:
-
-<pre>
-mt-theory/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── CONTRIBUTING.md
-│
-├── docs/
-│   ├── foundation/
-│   │   ├── FOUNDATION_lv.md
-│   │   └── FOUNDATION_en.md
-│   │
-│   ├── roadmap/
-│   │   ├── MT_ROADMAP_lv.md
-│   │   └── MT_ROADMAP_en.md
-│   │
-│   ├── physics/
-│   │   ├── MT_QED_lv.md
-│   │   ├── MT_QED_en.md
-│   │   ├── GRAVITY_lv.md
-│   │   ├── GRAVITY_en.md
-│   │   ├── COSMOLOGY_lv.md
-│   │   └── COSMOLOGY_en.md
-│   │
-│   ├── life/
-│   │   ├── LIFE_lv.md
-│   │   └── LIFE_en.md
-│   │
-│   ├── mathematics/
-│   │   ├── MATHEMATICS_lv.md
-│   │   ├── MATHEMATICS_en.md
-│   │   ├── ID_GRADIENT_lv.md
-│   │   └── ID_GRADIENT_en.md
-│   │
-│   ├── technology/
-│   │   ├── TECHNOLOGY_lv.md
-│   │   └── TECHNOLOGY_en.md
-│   │
-│   ├── ethics/
-│   │   ├── ETHICS_lv.md
-│   │   └── ETHICS_en.md
-│   │
-│   └── comparison/
-│       ├── QM_COMPARISON_lv.md
-│       └── QM_COMPARISON_en.md
-│
-├── supplementary/
-│   ├── FAQ_lv.md
-│   ├── FAQ_en.md
-│   ├── SUMMARY_lv.md
-│   ├── SUMMARY_en.md
-│   ├── MATH_TASKS_lv.md
-│   ├── MATH_TASKS_en.md
-│   ├── ai_evaluations_lv.md
-│   ├── ai_evaluations_en.md
-│   ├── critical_questions_lv.md
-│   └── critical_questions_en.md
-│
-└── archive/
-    ├── KARTE_lv.md
-    ├── KARTE_en.md
-    ├── ARCHITECTURE/
-    └── APPENDIX/
-</pre>
+Thank you for your interest in contributing to the development of Matrix Theory (MT). This project is open to anyone with curiosity and the ability to think structurally. MT is not a closed theory — it is a tool that grows and evolves with those who use it.
 
 ---
 
-## Language Policy
+## HOW CAN YOU CONTRIBUTE?
 
-All documents are maintained in two languages:
+### 1. Report Issues
 
-- **Latvian** (`_lv.md`) — primary language of the theory author.
-- **English** (`_en.md`) — for international accessibility.
+If you find a contradiction, ambiguity, or error in any document:
 
-When contributing:
+1. Check if the issue has already been reported.
+2. Create a new issue with a clear description:
+   - Which document and section it affects.
+   - What is the contradiction or ambiguity.
+   - What correction you suggest.
 
-- If you add or modify a document, please provide both language versions.
-- If you only have capacity for one, indicate this clearly in your pull request.
-- Translations should be faithful to the original meaning and terminology.
+### 2. Suggest Improvements
 
----
+If you have an idea for:
 
-## Content Guidelines
+- A new application of MT,
+- A missing mathematical derivation,
+- A clearer explanation,
+- A new example,
 
-### Core Documents (docs/)
+please create an issue or discussion describing your idea.
 
-These are the main theory documents. They should be:
+### 3. Submit New Hypotheses
 
-1.  **Structured** — use clear headings, numbered sections, and tables where appropriate.
-2.  **Quantitative** — include mathematical formalism and testable predictions where possible.
-3.  **Connected** — reference other MT documents and the MATHEMATICS formalism.
-4.  **Consistent** — use the established MT terminology (TE, VEU, Qn, FV, TZ, ID system, ROADMAP).
+MT is in development. If you have a hypothesis that can be tested using MT tools:
 
-### Supplementary Materials (supplementary/)
+1. Formulate the hypothesis clearly.
+2. Show how it aligns with MT principles (Qn, TE flow, EM framework).
+3. Submit it as a research document proposal (see point 4).
 
-These include FAQs, summaries, task lists, evaluations, and critical questions. They should be:
+### 4. Add a Research Document
 
-1.  **Useful** — provide additional context or clarify aspects of the core theory.
-2.  **Referenced** — link to relevant core documents where appropriate.
-3.  **Clear** — written in accessible language without oversimplifying.
+If you have developed a new application, analysis, or hypothesis:
 
-### Archive (archive/)
+1. Prepare the document in MD format.
+2. Place it in `docs/physics/research/` or the appropriate folder.
+3. Create a pull request with the document and a brief description.
 
-This folder contains outdated files that are kept for historical reference. Do not edit files in this folder unless you are moving them out of archive.
+### 5. Test Predictions Against Data
 
----
+If you have access to experimental data (e.g., GRAVITY, CMB, neutrino) and wish to test MT predictions:
 
-## ID System and ROADMAP Compliance
+1. Describe which prediction you are testing.
+2. Show the data source and analysis method.
+3. Submit the results as a research document.
 
-All contributions must be aligned with:
+### 6. Improve Documentation
 
-- **ID system** (ID_GRADIENT_lv.md) — use the correct ID notation (e.g., ID1.0, ID2.5/8/1, ID0.n). Format: ID{modulation}.{size_category}/{parameters}.
-- **ROADMAP** (MT_ROADMAP_lv.md) — clearly separate H0 path (gravity, dynamics) and L1 path (redshift, CMB). Do not mix operators from different paths.
+If you notice that a document is unclear, incomplete, or hard to understand:
 
-Checklist:
+1. Edit the text.
+2. Add explanations, examples, or diagrams.
+3. Submit a pull request.
 
-- All objects are assigned an ID.
-- ID notation follows the correct format.
-- H0 path operators (∇δ, G(ρᵥ)) are not mixed with L1 path operators (√ρᵥ, z).
-- L1 dual nature (focusing/dispersion) is respected where applicable.
+### 7. Spread MT
 
----
+MT is a tool that becomes stronger the more people use it. If you find MT valuable:
 
-## Writing Style
-
-- Be precise — use clear, unambiguous language.
-- Use formulas — mathematical expressions should use LaTeX-style notation: \( E = mc^2 \).
-- Use tables — for comparisons, data, and summaries.
-- Avoid jargon — define all terms on first use.
-
----
-
-## Scientific Rigor
-
-MT is a quantitative, testable theory. Contributions should:
-
-1.  Be falsifiable — propose testable predictions.
-2.  Reference data — compare with existing experimental or observational data where possible.
-3.  Show derivations — mathematical results should be derived from established MT operators (from MATHEMATICS_lv.md).
-4.  Acknowledge limitations — clearly mark preliminary or speculative content.
-5.  Include ID correspondence — every table and formula should include ID correspondence where applicable.
+- Share it with your community.
+- Reference it in your work.
+- Discuss it with others.
 
 ---
 
-## Testability and Predictions
+## PROCESS
 
-New contributions should, where possible, include:
+### Before Submitting
 
-- A clear statement of what the contribution predicts.
-- A quantitative relationship between the prediction and the MT formalism.
-- A suggested method for testing the prediction.
-- A comparison with existing experimental data (if available).
+1. Read the relevant documents to understand MT foundations.
+2. Ensure your contribution aligns with MT principles (discreteness, TE flow, EM framework, Qn structure).
+3. If submitting a new hypothesis, check if it has already been covered in existing documents.
 
-Example from COSMOLOGY_lv.md:
+### How to Submit
 
-| Prediction | Equation | Value | Test method | ID correspondence |
-| :--- | :--- | :--- | :--- | :--- |
-| 6th CMB peak | \( \ell_6 = 35.325 \times 47 \) | \( \ell_6 \approx 1660 \) | CMB-S4, Simons Observatory | ID0.47 |
+1. Create a new branch for your changes.
+2. Make your changes.
+3. Create a pull request with a clear description:
+   - What you changed and why.
+   - What are the implications of the changes.
+   - What references to existing documents exist.
 
----
+### Review
 
-## How to Contribute
-
-### 1. Reporting Issues
-
-If you find an error, inconsistency, or ambiguity:
-
-- Open an Issue on GitHub.
-- Describe the problem clearly.
-- Suggest a correction or improvement.
-- Reference the specific document and section.
-
-### 2. Suggesting Improvements
-
-For broader suggestions (new sections, new documents, structural changes):
-
-- Open an Issue with the label "suggestion".
-- Explain the proposed change and why it would improve the theory or documentation.
-
-### 3. Submitting Content
-
-For direct contributions (new documents, translations, corrections):
-
-1.  Fork the repository.
-2.  Clone your fork locally.
-3.  Create a new branch for your changes.
-4.  Make your changes following the guidelines above.
-5.  Commit with a clear message.
-6.  Push to your fork.
-7.  Open a Pull Request (PR) to the main repository.
+- All pull requests will be reviewed.
+- If needed, clarifications will be requested.
+- After approval, changes will be merged.
 
 ---
 
-## Pull Request Checklist
+## CODE OF CONDUCT
 
-Before submitting a PR, please ensure:
+We are an open and inclusive community. We do not tolerate:
 
-- Documents are in both Latvian (`_lv.md`) and English (`_en.md`) (or reason given).
-- Mathematical formulas use LaTeX notation.
-- Terminology is consistent with existing MT documents (ID system, ROADMAP).
-- Links to other documents are correct.
-- Tables and formatting are clean.
-- ID correspondence is included where applicable.
-- A clear PR description explains the changes.
+- Personal attacks,
+- Discrimination,
+- Harassment in any form.
 
----
+We value:
 
-## Contact
-
-For questions or discussions, please open an Issue or contact the repository maintainer.
+- Respectful discussion,
+- Constructive criticism,
+- A willingness to understand and learn.
 
 ---
 
-## License
+## CONTACT
 
-By contributing, you agree that your contributions will be licensed under the same license as the project.
+If you have questions about contributing, please:
+
+- Start a discussion on GitHub.
+- Contact the author via GitHub.
 
 ---
 
-Last updated: July 2026
+## NOTE
+
+MT is a **tool, not a dogma**. All contributions that extend MT's applicability or make it more understandable are welcome.
+
+Whether you are a physicist, mathematician, philosopher, programmer, or thinker — your perspective is valuable.
+
+---
+
+*Last updated: July 2026*
