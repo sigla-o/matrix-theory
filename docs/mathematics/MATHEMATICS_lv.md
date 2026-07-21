@@ -1,3 +1,8 @@
+# Matrix Theory — Mathematical Formalism
+
+**DOI: [10.5281/zenodo.21470508](https://doi.org/10.5281/zenodo.21470508)**
+
+
 # MATEMĀTIKA — MATRICAS TEORIJAS FORMĀLISMS (MT)
 
 ## Pārstrādātā versija (2026. gada jūlijs) — 3.0
