@@ -1,10 +1,10 @@
 # Matrix Theory (MT)
 
-Matrix Theory is a physical framework describing the Universe as a discrete, deterministic matrix of energy flows. It offers alternative explanations for gravity, cosmology, electromagnetism, and life — without singularities, without space expansion, and without the need for dark matter or dark energy as unknown forces.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21466992.svg)](https://doi.org/10.5281/zenodo.21466992)
 
-The core of the theory is the **ID system** — a universal classification that organizes all objects by modulation (influence level) and size category. **ROADMAP** provides the structural scheme that separates the H0 path (gravity, dynamics) from the L1 path (redshift, CMB), preventing operator mixing.
+**Version: v1 (July 21, 2026)**
 
-> **Documents are available in Latvian and English.**
+Matrix Theory (MT) is a new foundation for physics based on the assumption that space is discrete, dense, and structured, rather than continuous and empty. MT provides a unified description of gravity, quantum mechanics, and cosmology, replacing unknown phenomena (dark matter, dark energy) with matrix structural properties. This framework is specifically suited for implementation with artificial intelligence.
 
 ---
 
@@ -27,6 +27,14 @@ The core of the theory is the **ID system** — a universal classification that 
 | **`docs/physics/research/`** | Research materials (preliminary models, in development) |
 | — [`NEUTRINO_lv.md`](docs/physics/research/NEUTRINO_lv.md) | Neutrino physics (Latvian) |
 | — [`NEUTRINO_en.md`](docs/physics/research/NEUTRINO_en.md) | Neutrino physics (English) |
+| — [`BLACK_HOLE_INFORMATION_lv.md`](docs/physics/research/BLACK_HOLE_INFORMATION_lv.md) | Black hole and information (Latvian) |
+| — [`BLACK_HOLE_INFORMATION_en.md`](docs/physics/research/BLACK_HOLE_INFORMATION_en.md) | Black hole and information (English) |
+| — [`TORNADO_MT_lv.md`](docs/physics/research/TORNADO_MT_lv.md) | Tornado (Latvian) |
+| — [`TORNADO_MT_en.md`](docs/physics/research/TORNADO_MT_en.md) | Tornado (English) |
+| — [`TORNADO_MT_MATH_lv.md`](docs/physics/research/TORNADO_MT_MATH_lv.md) | Tornado mathematics (Latvian) |
+| — [`TORNADO_MT_MATH_en.md`](docs/physics/research/TORNADO_MT_MATH_en.md) | Tornado mathematics (English) |
+| — [`TURBULENCE_MT_FORMALISM_lv.md`](docs/physics/research/TURBULENCE_MT_FORMALISM_lv.md) | Turbulence formal model (Latvian) |
+| — [`TURBULENCE_MT_FORMALISM_en.md`](docs/physics/research/TURBULENCE_MT_FORMALISM_en.md) | Turbulence formal model (English) |
 | **`docs/life/`** | Life, intelligence, and evolution |
 | — [`LIFE_lv.md`](docs/life/LIFE_lv.md) | Life (Latvian) |
 | — [`LIFE_en.md`](docs/life/LIFE_en.md) | Life (English) |
@@ -133,46 +141,17 @@ Full list: [`docs/foundation/FOUNDATION_en.md`](docs/foundation/FOUNDATION_en.md
 
 ---
 
-## 🧭 Quick Navigation
+## 📄 Citation
 
-| **Topic** | **Latvian** | **English** |
-|-----------|-------------|-------------|
-| Foundation | [LV](docs/foundation/FOUNDATION_lv.md) | [EN](docs/foundation/FOUNDATION_en.md) |
-| Roadmap | [LV](docs/roadmap/MT_ROADMAP_lv.md) | [EN](docs/roadmap/MT_ROADMAP_en.md) |
-| Mathematics | [LV](docs/mathematics/MATHEMATICS_lv.md) | [EN](docs/mathematics/MATHEMATICS_en.md) |
-| ID Gradation | [LV](docs/mathematics/ID_GRADIENT_lv.md) | [EN](docs/mathematics/ID_GRADIENT_en.md) |
-| QED | [LV](docs/physics/MT_QED_lv.md) | [EN](docs/physics/MT_QED_en.md) |
-| Gravity | [LV](docs/physics/GRAVITY_lv.md) | [EN](docs/physics/GRAVITY_en.md) |
-| Cosmology | [LV](docs/physics/COSMOLOGY_lv.md) | [EN](docs/physics/COSMOLOGY_en.md) |
-| Neutrino | [LV](docs/physics/research/NEUTRINO_lv.md) | [EN](docs/physics/research/NEUTRINO_en.md) |
-| Life | [LV](docs/life/LIFE_lv.md) | [EN](docs/life/LIFE_en.md) |
-| QM Comparison | [LV](docs/comparison/QM_COMPARISON_lv.md) | [EN](docs/comparison/QM_COMPARISON_en.md) |
-| Technology | [LV](docs/technology/TECHNOLOGY_lv.md) | [EN](docs/technology/TECHNOLOGY_en.md) |
-| Ethics | [LV](docs/ethics/ETHICS_lv.md) | [EN](docs/ethics/ETHICS_en.md) |
-| Majorana Hypothesis | [LV](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | [EN](docs/hypotheses/NEUTRINO_MAJORANA_en.md) |
+If you use this work, please cite:
 
----
-
-## 📄 Supplementary Materials
-
-- [FAQ (LV)](supplementary/FAQ_lv.md) / [FAQ (EN)](supplementary/FAQ_en.md)
-- [Summary (LV)](supplementary/SUMMARY_lv.md) / [Summary (EN)](supplementary/SUMMARY_en.md)
-- [Math Tasks (LV)](supplementary/MATH_TASKS_lv.md) / [Math Tasks (EN)](supplementary/MATH_TASKS_en.md)
-- [AI Evaluations (LV)](supplementary/ai_evaluations_lv.md) / [AI Evaluations (EN)](supplementary/ai_evaluations_en.md)
-- [Critical Questions (LV)](supplementary/critical_questions_lv.md) / [Critical Questions (EN)](supplementary/critical_questions_en.md)
-
----
-
-## 🤝 Contributing
-
-Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidelines.
-
----
-
-## 📄 License
-
-[Choose an appropriate license, e.g., MIT, CC BY-SA, or proprietary]
-
----
-
-*Last updated: July 2026*
+```bibtex
+@misc{olbiks_deepseek_2026_matrix,
+  author = {Olbiks, Algis and DeepSeek (AI)},
+  title = {Matrix Theory — A New Foundation for Physics in the AI Era},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {v1},
+  doi = {10.5281/zenodo.21466992},
+  url = {https://doi.org/10.5281/zenodo.21466992}
+}
