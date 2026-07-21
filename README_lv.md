@@ -1,10 +1,10 @@
-# Matricas teorija (MT)
+# Matricas teorija (MT) / Matrix Theory (MT)
 
-Matricas teorija ir fizikāls ietvars, kas Visumu apraksta kā diskrētu, determinētu enerģijas plūsmu matricu. Tā piedāvā alternatīvu skaidrojumu gravitācijai, kosmoloģijai, elektromagnētismam un dzīvībai — bez singularitātēm, bez telpas izplešanās un bez nepieciešamības pēc tumšās matērijas vai tumšās enerģijas kā nezināmiem spēkiem.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21466992.svg)](https://doi.org/10.5281/zenodo.21466992)
 
-Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē visus objektus pēc modulācijas (ietekmes līmeņa) un lieluma kategorijas. **ROADMAP** nodrošina strukturālo shēmu, kas nošķir H0 ceļu (gravitācija, dinamika) un L1 ceļu (sarkanā nobīde, CMB), novēršot operatoru sajaukšanu.
+**Versija: v1 (2026. gada 21. jūlijs)**
 
-> **Dokumenti pieejami latviešu un angļu valodā.**
+Matricas teorija (MT) ir jauns fizikas pamats, kas balstās uz pieņēmumu, ka telpa ir diskrēta, blīva un strukturēta, nevis nepārtraukta un tukša. MT piedāvā vienotu aprakstu gravitācijai, kvantu mehānikai un kosmoloģijai, aizstājot nezināmās parādības (tumšo matēriju, tumšo enerģiju) ar matricas strukturālajām īpašībām. Šis ietvars ir īpaši piemērots realizācijai ar mākslīgo intelektu.
 
 ---
 
@@ -27,6 +27,14 @@ Teorijas kodols ir **ID sistēma** — universāla klasifikācija, kas organizē
 | **`docs/physics/research/`** | Pētnieciskie materiāli (provizoriskie modeļi, attīstības stadijā) |
 | — [`NEUTRINO_lv.md`](docs/physics/research/NEUTRINO_lv.md) | Neitrīno fizika (latviski) |
 | — [`NEUTRINO_en.md`](docs/physics/research/NEUTRINO_en.md) | Neutrino physics (angliski) |
+| — [`BLACK_HOLE_INFORMATION_lv.md`](docs/physics/research/BLACK_HOLE_INFORMATION_lv.md) | Melnais caurums un informācija (latviski) |
+| — [`BLACK_HOLE_INFORMATION_en.md`](docs/physics/research/BLACK_HOLE_INFORMATION_en.md) | Black hole and information (angliski) |
+| — [`TORNADO_MT_lv.md`](docs/physics/research/TORNADO_MT_lv.md) | Tornādo (latviski) |
+| — [`TORNADO_MT_en.md`](docs/physics/research/TORNADO_MT_en.md) | Tornado (angliski) |
+| — [`TORNADO_MT_MATH_lv.md`](docs/physics/research/TORNADO_MT_MATH_lv.md) | Tornādo matemātika (latviski) |
+| — [`TORNADO_MT_MATH_en.md`](docs/physics/research/TORNADO_MT_MATH_en.md) | Tornado mathematics (angliski) |
+| — [`TURBULENCE_MT_FORMALISM_lv.md`](docs/physics/research/TURBULENCE_MT_FORMALISM_lv.md) | Turbulence formālais modelis (latviski) |
+| — [`TURBULENCE_MT_FORMALISM_en.md`](docs/physics/research/TURBULENCE_MT_FORMALISM_en.md) | Turbulence formal model (angliski) |
 | **`docs/life/`** | Dzīvība, intelekts un evolūcija |
 | — [`LIFE_lv.md`](docs/life/LIFE_lv.md) | Dzīvība (latviski) |
 | — [`LIFE_en.md`](docs/life/LIFE_en.md) | Life (angliski) |
@@ -133,46 +141,17 @@ Pilns saraksts: [`docs/foundation/FOUNDATION_lv.md`](docs/foundation/FOUNDATION_
 
 ---
 
-## 🧭 Ātrā navigācija
+## 📄 Atsauce
 
-| **Tēma** | **Latviski** | **Angliski** |
-|----------|--------------|--------------|
-| Pamats | [LV](docs/foundation/FOUNDATION_lv.md) | [EN](docs/foundation/FOUNDATION_en.md) |
-| Ceļu karte | [LV](docs/roadmap/MT_ROADMAP_lv.md) | [EN](docs/roadmap/MT_ROADMAP_en.md) |
-| Matemātika | [LV](docs/mathematics/MATHEMATICS_lv.md) | [EN](docs/mathematics/MATHEMATICS_en.md) |
-| ID gradācija | [LV](docs/mathematics/ID_GRADIENT_lv.md) | [EN](docs/mathematics/ID_GRADIENT_en.md) |
-| QED | [LV](docs/physics/MT_QED_lv.md) | [EN](docs/physics/MT_QED_en.md) |
-| Gravitācija | [LV](docs/physics/GRAVITY_lv.md) | [EN](docs/physics/GRAVITY_en.md) |
-| Kosmoloģija | [LV](docs/physics/COSMOLOGY_lv.md) | [EN](docs/physics/COSMOLOGY_en.md) |
-| Neitrīno | [LV](docs/physics/research/NEUTRINO_lv.md) | [EN](docs/physics/research/NEUTRINO_en.md) |
-| Dzīvība | [LV](docs/life/LIFE_lv.md) | [EN](docs/life/LIFE_en.md) |
-| QM salīdzinājums | [LV](docs/comparison/QM_COMPARISON_lv.md) | [EN](docs/comparison/QM_COMPARISON_en.md) |
-| Tehnoloģija | [LV](docs/technology/TECHNOLOGY_lv.md) | [EN](docs/technology/TECHNOLOGY_en.md) |
-| Ētika | [LV](docs/ethics/ETHICS_lv.md) | [EN](docs/ethics/ETHICS_en.md) |
-| Majorana hipotēze | [LV](docs/hypotheses/NEUTRINO_MAJORANA_lv.md) | [EN](docs/hypotheses/NEUTRINO_MAJORANA_en.md) |
+Ja izmanto šo darbu, lūdzu, citē:
 
----
-
-## 📄 Papildmateriāli
-
-- [FAQ (LV)](supplementary/FAQ_lv.md) / [FAQ (EN)](supplementary/FAQ_en.md)
-- [Kopsavilkums (LV)](supplementary/SUMMARY_lv.md) / [Kopsavilkums (EN)](supplementary/SUMMARY_en.md)
-- [Matemātiskie uzdevumi (LV)](supplementary/MATH_TASKS_lv.md) / [Matemātiskie uzdevumi (EN)](supplementary/MATH_TASKS_en.md)
-- [AI vērtējumi (LV)](supplementary/ai_evaluations_lv.md) / [AI vērtējumi (EN)](supplementary/ai_evaluations_en.md)
-- [Kritiskie jautājumi (LV)](supplementary/critical_questions_lv.md) / [Kritiskie jautājumi (EN)](supplementary/critical_questions_en.md)
-
----
-
-## 🤝 Ieguldījums
-
-Lūdzu, skatīt [`CONTRIBUTING.md`](CONTRIBUTING.md) ieguldījumu vadlīnijām.
-
----
-
-## 📄 Licence
-
-[Ievietot atbilstošu licenci, piem., MIT, CC BY-SA, vai proprietāru]
-
----
-
-*Pēdējā atjaunināšana: 2026. gada jūlijs*
+```bibtex
+@misc{olbiks_deepseek_2026_matrix,
+  author = {Olbiks, Algis and DeepSeek (AI)},
+  title = {Matrix Theory — A New Foundation for Physics in the AI Era},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {v1},
+  doi = {10.5281/zenodo.21466992},
+  url = {https://doi.org/10.5281/zenodo.21466992}
+}
