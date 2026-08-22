@@ -1,8 +1,10 @@
 # FOUNDATION — MATRICAS TEORIJAS PAMATS
 
-## Pārstrādātā versija (2026. gada jūlijs) — 3.0
+## Pārstrādātā versija (2026. gada augusts) — 3.1
 
 Šis dokuments nosaka Matricas teorijas (MT) darbības robežas, pamatprincipus un Visuma evolūcijas konceptuālo ietvaru. Tas ir teorijas sākumpunkts, no kura izaug viss pārējais, un tagad tas ir savienots ar MATHEMATICS formālismu (3.0) un ID sistēmu (3.0), kā arī apkopo kvantitatīvos rezultātus no COSMOLOGY, GRAVITY, MT_QED un ID_GRADIENT.
+
+**3.1 versijas jaunie papildinājumi:** detalizēts Vertikāles strukturālās arhitektūras apraksts (matrjoškas princips, vienotais 10²⁰ solis, Transformācijas zonas (TZ) kā Vertikāles telpa starp līmeņiem, brīvā enerģija kā TZ saturs) un skaidrojums par MT formālisma universālumu visiem H līmeņiem.
 
 **Galvenā atziņa:** MT nav teorija par "Visuma sākumu" — tā ir teorija par **enerģijas organizācijas ciklisko pāreju** starp Horizontālēm, kas ir kvantitatīvi formulējama un pārbaudāma.
 
@@ -32,6 +34,12 @@ Matricas teorija **nekonkurē** ar vispārpieņemtajām fizikas teorijām un **n
 - MT apraksta **teritoriju** (diskrēto matricu un Vertikāli), uz kuras šī karte ir veidota.
 
 Tādējādi MT reducējas uz klasiskajiem vienādojumiem atbilstošās robežās (skat. Korespondences principu MATHEMATICS 7. nodaļā), bet piedāvā jaunus skaidrojumus anomālijām (tumšā matērija/enerģija) un prognozē jaunus efektus (G mainība, augstāki CMB pīķi), kas klasiskajā kartē nav redzami.
+
+### 1.2. MT formālisma universālums — 3.1
+
+MT formālisms (kabatas, rotācija, TE pārnese, Qn struktūra, FV, TZ) ir **universāls** — to var piemērot **jebkuram H līmenim** (H-2, H-1, H0, H+1, H+2...). Atšķiras tikai skaitliskās vērtības (režģa solis \( \lambda \), rotācijas frekvence \( \omega \), pārneses kvants \( \phi_0 \)).
+
+Pašreizējie MT dokumenti (FOUNDATION, MATHEMATICS, GRAVITY, COSMOLOGY, MT_QED) apraksta tikai **H0 līmeni**. Tie ir pilnīgi un korekti H0 apraksti, bet tie nav Vertikāles teorija — tie aptver tikai vienu "šūnu" no Vertikāles matrjoškas.
 
 ---
 
@@ -73,6 +81,8 @@ Detalizēta ID sistēmas struktūra un piemēri ir sniegti ID_GRADIENT_lv.md (3.
 
 **Piezīme par ID un klasiskajām teorijām:** ID sistēma klasificē visus objektus — gan tos, kurus apraksta klasiskā fizika (ID1 — ID4), gan MT specifiskos līmeņus (ID0, ID-1). Tas nenozīmē, ka klasiskie objekti būtu "nepareizi" aprakstīti — ID sistēma vienkārši norāda to vietu kopējā enerģijas organizācijas hierarhijā.
 
+**ID sistēma katrai Horizontālei:** Katram H līmenim ir sava ID sistēma — objekti, kas tajā pastāv, tiek klasificēti pēc to lieluma un modulācijas attiecīgajā līmenī. Piemēram, H+1 līmenī ID1 atbilst to "H0" matricai, ID2 atbilst to protoniem utt.
+
 ---
 
 ## 4. PAMATDEFINĪCIJAS
@@ -87,7 +97,7 @@ Mūžības cikls balstās uz divām savstarpēji saistītām sastāvdaļām — 
 
 **MT neapgalvo, ka Mūžībai ir sākums vai beigas — tā apraksta tās procesus.**
 
-### 4.2. Vertikāle (ID-1)
+### 4.2. Vertikāle (ID-1) — strukturālā arhitektūra — 3.1
 
 Vertikāle veidojas Pamat-Horizontāles enerģiju nezūdamības, saglabāšanas un akumulācijas procesu rezultātā. Sasniedzot kritisko enerģijas akumulācijas līmeni, izveidojas jauna (smalkāka) Horizontāle. Šis cikliskais mehānisms veido Mūžības cikla pamatu un Vertikāles līmeņu hierarhiju.
 
@@ -103,6 +113,32 @@ Vertikāle nepārtraukti uztur enerģijas plūsmu uz H0 matricu caur **L1 zonu**
 
 **Vertikāle nav "vieta" — tā ir enerģijas struktūra, kas nepārtraukti baro H0 matricu.**
 
+#### 4.2.1. Matrjoškas princips — Vertikāles strukturālā arhitektūra (3.1)
+
+Vertikāle nav lineāra struktūra. Tā ir **telpa**, kurā Horizontāles (H līmeņi) atrodas **viena otras iekšpusē** kā matrjoškas lelles:
+
+$$
+H_{+2} \supset H_{+1} \supset H_0 \supset H_{-1} \supset H_{-2} \supset \cdots
+$$
+
+Katrs līmenis ir iekšā iepriekšējā:
+- Mēs atrodamies **H0** līmenī.
+- Ap mums ir **H+1** (lielāka enerģijas organizācija), **H+2** (vēl lielāka) un tā tālāk.
+- Mūsu iekšpusē ir **H-1** objekti (protoni, daļiņas), to iekšpusē **H-2** objekti (vēl smalkāka matrica) un tā tālāk.
+
+**Vienotais solis starp līmeņiem:**
+
+Visi blakus līmeņi atšķiras ar koeficientu \(10^{20}\) (gan uz smalkuma pusi, gan uz lieluma pusi). Tas ir universāls solis, kas atkārtojas cikliski visā Vertikālē:
+- H0 solis: \(10^{-35}\) m
+- H-1 solis: \(10^{-55}\) m (10²⁰ reizes smalkāks)
+- H+1 solis: \(10^{-15}\) m (10²⁰ reizes lielāks)
+
+**Universālais formālisms:**
+
+MT formālisms (kabatas, rotācija, TE pārnese, Qn struktūra, FV) ir **derīgs visiem H līmeņiem**. Atšķiras tikai skaitliskās vērtības (režģa solis \( \lambda \), rotācijas frekvence \( \omega \), pārneses kvants \( \phi_0 \)).
+
+Tas nozīmē, ka MT ir universāla teorija, ko var piemērot jebkuram Vertikāles līmenim. Ja ar MT var aprakstīt H0 telpu, tad to pašu var aprakstīt H-2, H-1, H+1, H+2 un t.t. telpas, ja vien tam ir vajadzība.
+
 ### 4.3. Horizontāles (ID0 — ID5)
 
 Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību matrica, kurā notiek diskrēta evolūcija pa secīgiem ID līmeņiem.
@@ -114,6 +150,14 @@ Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību matrica, kur�
 **Horizontāle savā evolūcijā nevar apsteigt savu radītāju — nākamo augstāko (H+1) Horizontāli.**
 
 H0 matrica ID sistēmā atbilst **ID0**. Visi objekti H0 matricā tiek klasificēti pēc ID līmeņiem atkarībā no to lieluma un modulācijas ietekmes.
+
+**Horizontāle kā matrjoškas šūna:**
+
+Horizontāle ir **viena šūna** Vertikāles matrjoškā. Katra Horizontāle atrodas nākamās (lielākās) Horizontāles iekšpusē un satur sevī iepriekšējo (smalkāko) Horizontāli. Horizontāļu līmeņi atbilst ID sistēmas līmeņiem:
+
+- H0 — ID0 (mūsu matrica).
+- H+1 — ID1 (protonu/atomu līmenis, ja skatās no H0 puses; bet no H+1 puses tas ir to "H0").
+- H-1 — ID-1 (smalkāka matrica protona iekšpusē).
 
 ### 4.4. ID gradācija (3.0)
 
@@ -144,6 +188,51 @@ $$
 $$
 
 Cikliskums nosaka L1 fokusēšanas/izkliedes pāreju un ir savienots ar G mainību caur \( G(\rho_{\mathcal{V}}) = G_0(1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \).
+
+### 4.6. Transformācijas zona (TZ) — Vertikāles telpa starp līmeņiem (3.1)
+
+Starp katriem diviem blakus H līmeņiem (piemēram, starp H+1 un H0, starp H0 un H-1, starp H-1 un H-2) pastāv **Transformācijas zona (TZ)** — Vertikāles telpa, kas atdala divas dažādas matricas.
+
+**TZ definīcija:**
+
+TZ ir Vertikāles telpa, kas:
+- Atrodas **ap katru monolītu objektu**, neatkarīgi no tā lieluma.
+- Atdala divas dažādas matricas (jebkuras — H0 un protonu, H+1 un H0, utt.).
+- Ir visur, bet klasiskā fizika to neredz un neuztver.
+
+**TZ īpašības:**
+
+1. **TZ nav matrica, nav lauks** — tā ir patstāvīga Vertikāles telpa ar saviem likumiem, kas nav aprakstāmi ar matricas likumiem.
+
+2. **TZ satur brīvo enerģiju** — enerģiju, kas nav ne vienas, ne otras matricas enerģija, bet gan "trešā" enerģija, kas uzkrājas starp līmeņiem. Šī enerģija rodas no rotācijas ātrumu atšķirības starp blakus līmeņiem.
+
+3. **TZ lielums ir atkarīgs no objekta lieluma** — jo lielāks monolīts objekts, jo lielāka TZ. Tā ir precīzi tāda, kāds ir objekts, jo tā ir matricu saskarsme.
+
+4. **Brīvā enerģija TZ tiek izvietota ar blīvumu 1/r²** — tā nav statisks uzkrājums, bet gan enerģijas sadalījums ap objektu. TZ "nezina" cik jāuzkrāj — uzkrājums notiek tik, cik nepieciešams, un pārpalikums tiek "izstumts" apkārtējā telpā ar 1/r² likumsakarību.
+
+5. **Lauki ir TZ ietekme uz matricu objektiem** — klasiskā fizika neredz pašu TZ, bet redz tās satura (brīvās enerģijas) ietekmi uz protoniem un citiem objektiem. Šo ietekmi tā interpretē kā elektriskos un magnētiskos laukus.
+
+6. **Neitrālais lādiņš = TZ simetriskā enerģija** — pusfāžu līdzsvarā esošā brīvā enerģija, ko klasiskā fizika sauc par tumšo enerģiju (\( \rho_{\mathcal{V}} \)).
+
+7. **Redzamais lādiņš (+/−) = TZ asimetriskā enerģija** — pusfāžu disbalansā esošā brīvā enerģija.
+
+**TZ un fotons:**
+
+Fotons ir organizēts brīvās enerģijas veidojums, kas rodas no TZ, kad lokālais brīvās enerģijas blīvums sasniedz noteiktu slieksni un tiek organizēts cikliskā vilnī.
+
+**TZ un melnā cauruma džets:**
+
+Melnā cauruma džets nav sfēra vai elipse — tas ir "izaugums" no TZ, kas liecina, ka TZ enerģija ne vienmēr tiek izvietota vienmērīgi; dažos virzienos (vismazākās pretestības ceļā) tā var "izlauzties" kā virzīta strūkla.
+
+**TZ kā universāla struktūra:**
+
+TZ pastāv **starp katriem diviem blakus līmeņiem**:
+- Starp H+1 un H0 (TZ+1/0)
+- Starp H0 un H-1 (TZ0/-1)
+- Starp H-1 un H-2 (TZ-1/-2)
+- Utt.
+
+Katrā TZ ir brīvā enerģija, kas uzkrājas no rotācijas ātrumu starpības starp blakus līmeņiem.
 
 ---
 
@@ -256,16 +345,17 @@ MT kvantitatīvais formālisms un ID sistēma dod šādas pārbaudāmās prognoz
 - **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB prognozes.
 - **ROADMAP 3.0** — H0 un L1 ceļu nošķīrums, L1 kā cikliskuma struktūra.
 
-**Galvenās 3.0 izmaiņas:**
-1. \( \varepsilon_0 \) un \( \mu_0 \) vairs nav konstantes — tās ir matricas stāvokļa funkcijas.
-2. \( \gamma \) un \( C \) ir atvasināti no cikliskuma, nevis brīvi parametri.
-3. \( \mathcal{P}_{L1} \) ir pilnībā definēts kā integrālais operators.
-4. Metodoloģiskais precizējums: MT kā papildinošs ietvars.
-5. Visas prognozes tagad ir kvantitatīvi noteiktas bez brīviem parametriem.
+**Galvenās 3.1 izmaiņas (papildinājumi 3.0 versijai):**
+1. **Vertikāles strukturālā arhitektūra** — matrjoškas princips (H+2 ⊃ H+1 ⊃ H0 ⊃ H-1 ⊃ H-2...).
+2. **Vienotais solis 10²⁰** — universāls solis starp katriem blakus līmeņiem.
+3. **MT formālisma universālums** — formālisms derīgs visiem H līmeņiem.
+4. **TZ (Transformācijas zona)** — definēta kā Vertikāles telpa starp līmeņiem, nevis tikai operators; TZ satur brīvo enerģiju.
+5. **Brīvā enerģija** — precizēts, ka tā atrodas TZ, nevis H0 matricā; tā ir "trešā" enerģija.
+6. **MT dokumentu darbības zona** — precizēts, ka visi pašreizējie MT dokumenti apraksta tikai H0 līmeni.
 
 ---
 
-## 10. SECINĀJUMI (3.0)
+## 10. SECINĀJUMI (3.1)
 
 1. **MT ir kvantitatīvi formulēta teorija** — visi galvenie lielumi ir definēti ar operatoriem no MATHEMATICS formālisma (3.0).
 
@@ -281,13 +371,21 @@ MT kvantitatīvais formālisms un ID sistēma dod šādas pārbaudāmās prognoz
 
 7. **MT ir papildinošs ietvars** — tā nekonkurē ar klasiskajām teorijām, bet sniedz tām mehānisku pamatojumu.
 
+8. **MT formālisms ir universāls** — to var piemērot jebkuram H līmenim (H-2, H-1, H0, H+1, H+2...); pašreizējie MT dokumenti apraksta tikai H0 līmeni.
+
+9. **Vertikālei ir matrjoškas struktūra** — visi H līmeņi atrodas viena otra iekšpusē; solis starp blakus līmeņiem ir 10²⁰.
+
+10. **TZ ir Vertikāles telpa starp līmeņiem** — tā satur brīvo enerģiju; klasiskā fizika neredz TZ, bet redz tās ietekmi kā laukus.
+
 ---
 
 ## PIEZĪME
 
-Šis dokuments ir **MT pamata 3.0 versija**, kas ietver metodoloģiskos precizējumus, saskaņojumu ar MATHEMATICS 3.0 un ID_GRADIENT 3.0, kā arī pilnībā definētus lielumus bez brīviem parametriem. Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0 versijās).
+Šis dokuments ir **MT pamata 3.1 versija**, kas papildina 3.0 versiju ar detalizētu Vertikāles strukturālās arhitektūras aprakstu (matrjoškas princips, 10²⁰ solis, TZ kā Vertikāles telpa, brīvā enerģija kā TZ saturs) un MT formālisma universāluma principu. Šie papildinājumi ir būtiski, lai nodrošinātu stabilu atsauci turpmākajam darbam pie MT dokumentiem un teorijas attīstības.
+
+Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0 un 3.1 versijās).
 
 ---
 
-*Dokuments sagatavots: 2026. gada jūlijā*  
-*Versija: 3.0 — metodoloģiskie precizējumi, saskaņots ar MATHEMATICS 3.0*
+*Dokuments sagatavots: 2026. gada augustā*  
+*Versija: 3.1 — papildināta ar Vertikāles strukturālo arhitektūru, TZ definīciju un MT formālisma universālumu*
