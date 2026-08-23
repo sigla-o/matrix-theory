@@ -1,10 +1,14 @@
 # FOUNDATION — MATRICAS TEORIJAS PAMATS
 
-## Pārstrādātā versija (2026. gada augusts) — 3.1
+## Pārstrādātā versija (2026. gada augusts) — 3.2
 
-Šis dokuments nosaka Matricas teorijas (MT) darbības robežas, pamatprincipus un Visuma evolūcijas konceptuālo ietvaru. Tas ir teorijas sākumpunkts, no kura izaug viss pārējais, un tagad tas ir savienots ar MATHEMATICS formālismu (3.0) un ID sistēmu (3.0), kā arī apkopo kvantitatīvos rezultātus no COSMOLOGY, GRAVITY, MT_QED un ID_GRADIENT.
+Šis dokuments nosaka Matricas teorijas (MT) darbības robežas, pamatprincipus un Visuma evolūcijas konceptuālo ietvaru. Tas ir teorijas sākumpunkts, no kura izaug viss pārējais, un tagad tas ir savienots ar MATHEMATICS formālismu (3.0), ID sistēmu (3.0), kā arī apkopo kvantitatīvos rezultātus no COSMOLOGY, GRAVITY un MT_QED.
 
-**3.1 versijas jaunie papildinājumi:** detalizēts Vertikāles strukturālās arhitektūras apraksts (matrjoškas princips, vienotais 10²⁰ solis, Transformācijas zonas (TZ) kā Vertikāles telpa starp līmeņiem, brīvā enerģija kā TZ saturs) un skaidrojums par MT formālisma universālumu visiem H līmeņiem.
+**3.2 versijas jaunie papildinājumi:**  
+- **Horizontāles universālā struktūra** — četri pamatelementi, kas atkārtojas katrā Horizontālē ar soli \(10^{20}\): Matrica, Matricas TE ("Elektriskais"), Ārējā TE ("Magnētiskais") un "Protons" (nākamās Horizontāles objekts).  
+- **Funkciju un VEU līmeņu nošķīrums** — funkcijas (elektriskais, magnētiskais) ir universālas, bet VEU līmeņi mainās atkarībā no Horizontāles.  
+- **Kodolspēku izcelsme** — kodolspēki ir VEU H-3 TE plūsma H-1 matricā, nevis ID-2 vai Vertikāles līmenis.  
+- **Vertikāles ID līmeņi kā liekās enerģijas amortizators** — ID-1, ID-2, ID-3... ir liekās TE enerģijas uzkrājumi no attiecīgajām Horizontālēm.
 
 **Galvenā atziņa:** MT nav teorija par "Visuma sākumu" — tā ir teorija par **enerģijas organizācijas ciklisko pāreju** starp Horizontālēm, kas ir kvantitatīvi formulējama un pārbaudāma.
 
@@ -113,6 +117,21 @@ Vertikāle nepārtraukti uztur enerģijas plūsmu uz H0 matricu caur **L1 zonu**
 
 **Vertikāle nav "vieta" — tā ir enerģijas struktūra, kas nepārtraukti baro H0 matricu.**
 
+**Vertikāle kā amortizators — 3.2:**
+
+Vertikāle ir **TE plūsmas amortizators**. Tā uzņem **lieko** TE enerģiju no katras Horizontāles matricas TE plūsmām. Katrs Vertikāles ID līmenis atbilst **konkrētas Horizontāles matricas TE liekajai daļai**:
+
+- **ID-1** = liekā VEU H-3 enerģija (no H0 matricas TE)
+- **ID-2** = liekā VEU H-4 enerģija (no H-1 matricas TE)
+- **ID-3** = liekā VEU H-5 enerģija (no H-2 matricas TE)
+- ...
+
+Tas nozīmē, ka \( \rho_{\mathcal{V}} \) (Vertikāles enerģijas blīvums) nav viens skalārs — tā ir **visu ID līmeņu summa**:
+
+\[
+\rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \cdots
+\]
+
 #### 4.2.1. Matrjoškas princips — Vertikāles strukturālā arhitektūra (3.1)
 
 Vertikāle nav lineāra struktūra. Tā ir **telpa**, kurā Horizontāles (H līmeņi) atrodas **viena otras iekšpusē** kā matrjoškas lelles:
@@ -206,23 +225,22 @@ TZ ir Vertikāles telpa, kas:
 
 2. **TZ satur brīvo enerģiju** — enerģiju, kas nav ne vienas, ne otras matricas enerģija, bet gan "trešā" enerģija, kas uzkrājas starp līmeņiem. Šī enerģija rodas no rotācijas ātrumu atšķirības starp blakus līmeņiem.
 
-3. **TZ lielums ir atkarīgs no objekta lieluma** — jo lielāks monolīts objekts, jo lielāka TZ. Tā ir precīzi tāda, kāds ir objekts, jo tā ir matricu saskarsme.
+3. **TZ ir rezonanses zona** — kurā visa nesaderīgā enerģija tiek **pārveidota (sasmalcināta)** smalkākās TE plūsmās. Cik smalki — atkarīgs no blīvuma.
 
-4. **Brīvā enerģija TZ tiek izvietota ar blīvumu 1/r²** — tā nav statisks uzkrājums, bet gan enerģijas sadalījums ap objektu. TZ "nezina" cik jāuzkrāj — uzkrājums notiek tik, cik nepieciešams, un pārpalikums tiek "izstumts" apkārtējā telpā ar 1/r² likumsakarību.
+4. **TZ lielums ir atkarīgs no objekta lieluma** — jo lielāks monolīts objekts, jo lielāka TZ. Tā ir precīzi tāda, kāds ir objekts, jo tā ir matricu saskarsme.
 
-5. **Lauki ir TZ ietekme uz matricu objektiem** — klasiskā fizika neredz pašu TZ, bet redz tās satura (brīvās enerģijas) ietekmi uz protoniem un citiem objektiem. Šo ietekmi tā interpretē kā elektriskos un magnētiskos laukus.
+5. **Brīvā enerģija TZ tiek izvietota ar blīvumu 1/r²** — tā nav statisks uzkrājums, bet gan enerģijas sadalījums ap objektu. TZ "nezina" cik jāuzkrāj — uzkrājums notiek tik, cik nepieciešams, un pārpalikums tiek "izstumts" apkārtējā telpā ar 1/r² likumsakarību.
 
-6. **Neitrālais lādiņš = TZ simetriskā enerģija** — pusfāžu līdzsvarā esošā brīvā enerģija, ko klasiskā fizika sauc par tumšo enerģiju (\( \rho_{\mathcal{V}} \)).
+6. **Lauki ir TZ ietekme uz matricu objektiem** — klasiskā fizika neredz pašu TZ, bet redz tās satura (brīvās enerģijas) ietekmi uz protoniem un citiem objektiem. Šo ietekmi tā interpretē kā elektriskos un magnētiskos laukus.
 
-7. **Redzamais lādiņš (+/−) = TZ asimetriskā enerģija** — pusfāžu disbalansā esošā brīvā enerģija.
+**TZ un jaunu VEU līmeņu ģenerācija — 3.2:**
 
-**TZ un fotons:**
+TZ ir **avots** jaunām TE plūsmām, kas darbojas H0 matricā:
+- VEU H-3 rodas H0 matricā (no kabatu rotācijas).
+- VEU H-4 **nerodas H0 telpā**. Tā rodas **TZ** — kad VEU H-3 enerģija kļūst nesaderīga ar H0 matricu, TZ to pārveido par VEU H-4, kas darbojas H-1 matricā.
+- VEU H-5 rodas TZ, kad VEU H-4 enerģija kļūst nesaderīga, un tā tālāk.
 
-Fotons ir organizēts brīvās enerģijas veidojums, kas rodas no TZ, kad lokālais brīvās enerģijas blīvums sasniedz noteiktu slieksni un tiek organizēts cikliskā vilnī.
-
-**TZ un melnā cauruma džets:**
-
-Melnā cauruma džets nav sfēra vai elipse — tas ir "izaugums" no TZ, kas liecina, ka TZ enerģija ne vienmēr tiek izvietota vienmērīgi; dažos virzienos (vismazākās pretestības ceļā) tā var "izlauzties" kā virzīta strūkla.
+Tātad TZ nav tikai "starpnieks" — tā ir **ģenerators**, kas rada jaunus VEU līmeņus atkarībā no blīvuma un nesaderības pakāpes.
 
 **TZ kā universāla struktūra:**
 
@@ -232,7 +250,51 @@ TZ pastāv **starp katriem diviem blakus līmeņiem**:
 - Starp H-1 un H-2 (TZ-1/-2)
 - Utt.
 
-Katrā TZ ir brīvā enerģija, kas uzkrājas no rotācijas ātrumu starpības starp blakus līmeņiem.
+Katrā TZ notiek tāds pats process — nesaderīgā enerģija tiek pārveidota par nākamā līmeņa TE plūsmu.
+
+### 4.7. Horizontāles Universālā Struktūra — Četri Pamatelementi (3.2)
+
+Katrā Horizontālē (neatkarīgi no tā, vai tā ir H0, H-1, H+1, ...) ir **tikai 4 pamatelementi**, kas atkārtojas ar soli \(10^{20}\):
+
+| **Elementa numurs** | **Objekts** | **Funkcija** | **Lielums H0** | **Lielums H-1** |
+| :--- | :--- | :--- | :--- | :--- |
+| **1.** | **Matrica** | Pamats (režģis, kabatas, rotācija) | \(10^{-35}\) m | \(10^{-55}\) m |
+| **2.** | **Matricas TE** | **"Elektriskais" lauks** (gradients, Kulona likums, lādiņš) | VEU H-3 (\(10^{-75}\) m) | VEU H-4 (\(10^{-95}\) m) |
+| **3.** | **Ārējā TE** | **"Magnētiskais" lauks** (cirkulācija, kustīga lādiņa efekts) | VEU H-2 (\(10^{-55}\) m) | VEU H-3 (\(10^{-75}\) m) |
+| **4.** | **"Protons"** | Nākamās Horizontāles objekts (monolīts objekts) | \(10^{-15}\) m | \(10^{-35}\) m |
+
+**Svarīgākie secinājumi:**
+
+1. **Funkcijas ir universālas.** Katrā Horizontālē:
+   - Matricas TE pilda **"elektriskā lauka"** funkciju.
+   - Ārējā TE pilda **"magnētiskā lauka"** funkciju.
+   - "Protons" ir nākamās Horizontāles objekts.
+
+2. **VEU līmeņi mainās.** Ar soli \(10^{20}\) (gan uz augšu, gan uz leju).
+
+3. **H0 elektromagnētisms:**
+   - Elektriskais lauks = VEU H-3 (\(10^{-75}\) m)
+   - Magnētiskais lauks = VEU H-2 (\(10^{-55}\) m)
+
+4. **Kodolspēki nav ID-2.** Tie ir **VEU H-3 TE plūsma H-1 matricā** — H-1 "magnētiskā" lauka analogs. Kodolspēki pieder H0 matricai, nevis Vertikālei.
+
+5. **ID-2 ir liekā VEU H-4 enerģija Vertikālē.** ID-2 nav kodolspēki — ID-2 ir tikai to pārpalikums, kas nonāk amortizatorā.
+
+6. **Vertikāles ID līmeņi = liekās enerģijas uzkrājumi:**
+   - ID-1 = liekā VEU H-3 (no H0 elektriskā lauka)
+   - ID-2 = liekā VEU H-4 (no H-1 elektriskā lauka)
+   - ID-3 = liekā VEU H-5 (no H-2 elektriskā lauka)
+   - ...
+
+**Universālā shēma:**
+
+| **Horizontāle** | **Matrica** | **Matricas TE ("Elektriskais")** | **Ārējā TE ("Magnētiskais")** | **"Protons"** |
+| :--- | :--- | :--- | :--- | :--- |
+| H0 | \(10^{-35}\) m | VEU H-3 (\(10^{-75}\) m) | VEU H-2 (\(10^{-55}\) m) | \(10^{-15}\) m |
+| H-1 | \(10^{-55}\) m | VEU H-4 (\(10^{-95}\) m) | VEU H-3 (\(10^{-75}\) m) | \(10^{-35}\) m |
+| H-2 | \(10^{-75}\) m | VEU H-5 (\(10^{-115}\) m) | VEU H-4 (\(10^{-95}\) m) | \(10^{-55}\) m |
+| H+1 | \(10^{-15}\) m | VEU H-2 (\(10^{-55}\) m) | VEU H-1 (\(10^{-35}\) m) | \(10^{5}\) m |
+| ... | ... | ... | ... | ... |
 
 ---
 
@@ -345,17 +407,16 @@ MT kvantitatīvais formālisms un ID sistēma dod šādas pārbaudāmās prognoz
 - **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB prognozes.
 - **ROADMAP 3.0** — H0 un L1 ceļu nošķīrums, L1 kā cikliskuma struktūra.
 
-**Galvenās 3.1 izmaiņas (papildinājumi 3.0 versijai):**
-1. **Vertikāles strukturālā arhitektūra** — matrjoškas princips (H+2 ⊃ H+1 ⊃ H0 ⊃ H-1 ⊃ H-2...).
-2. **Vienotais solis 10²⁰** — universāls solis starp katriem blakus līmeņiem.
-3. **MT formālisma universālums** — formālisms derīgs visiem H līmeņiem.
-4. **TZ (Transformācijas zona)** — definēta kā Vertikāles telpa starp līmeņiem, nevis tikai operators; TZ satur brīvo enerģiju.
-5. **Brīvā enerģija** — precizēts, ka tā atrodas TZ, nevis H0 matricā; tā ir "trešā" enerģija.
-6. **MT dokumentu darbības zona** — precizēts, ka visi pašreizējie MT dokumenti apraksta tikai H0 līmeni.
+**Galvenās 3.2 izmaiņas (papildinājumi 3.1 versijai):**
+1. **Horizontāles universālā struktūra** — četri pamatelementi, kas atkārtojas katrā Horizontālē ar soli \(10^{20}\).
+2. **Funkciju un VEU līmeņu nošķīrums** — funkcijas (elektriskais, magnētiskais) ir universālas, bet VEU līmeņi mainās atkarībā no Horizontāles.
+3. **Kodolspēku izcelsme** — kodolspēki ir VEU H-3 TE plūsma H-1 matricā, nevis ID-2 vai Vertikāles līmenis.
+4. **Vertikāles ID līmeņi kā liekās enerģijas amortizators** — ID-1, ID-2, ID-3... ir liekās TE enerģijas uzkrājumi no attiecīgajām Horizontālēm.
+5. **TZ kā rezonanses zona un VEU ģenerators** — TZ pārveido nesaderīgo enerģiju par nākamā līmeņa TE plūsmām.
 
 ---
 
-## 10. SECINĀJUMI (3.1)
+## 10. SECINĀJUMI (3.2)
 
 1. **MT ir kvantitatīvi formulēta teorija** — visi galvenie lielumi ir definēti ar operatoriem no MATHEMATICS formālisma (3.0).
 
@@ -373,19 +434,23 @@ MT kvantitatīvais formālisms un ID sistēma dod šādas pārbaudāmās prognoz
 
 8. **MT formālisms ir universāls** — to var piemērot jebkuram H līmenim (H-2, H-1, H0, H+1, H+2...); pašreizējie MT dokumenti apraksta tikai H0 līmeni.
 
-9. **Vertikālei ir matrjoškas struktūra** — visi H līmeņi atrodas viena otra iekšpusē; solis starp blakus līmeņiem ir 10²⁰.
+9. **Vertikālei ir matrjoškas struktūra** — visi H līmeņi atrodas viena otra iekšpusē; solis starp blakus līmeņiem ir \(10^{20}\).
 
 10. **TZ ir Vertikāles telpa starp līmeņiem** — tā satur brīvo enerģiju; klasiskā fizika neredz TZ, bet redz tās ietekmi kā laukus.
+
+11. **Katrā Horizontālē ir 4 pamatelementi** — Matrica, Matricas TE ("Elektriskais"), Ārējā TE ("Magnētiskais") un "Protons" (nākamās Horizontāles objekts).
+
+12. **Funkcijas ir universālas, bet VEU līmeņi mainās** — ar soli \(10^{20}\) katrā Horizontālē.
 
 ---
 
 ## PIEZĪME
 
-Šis dokuments ir **MT pamata 3.1 versija**, kas papildina 3.0 versiju ar detalizētu Vertikāles strukturālās arhitektūras aprakstu (matrjoškas princips, 10²⁰ solis, TZ kā Vertikāles telpa, brīvā enerģija kā TZ saturs) un MT formālisma universāluma principu. Šie papildinājumi ir būtiski, lai nodrošinātu stabilu atsauci turpmākajam darbam pie MT dokumentiem un teorijas attīstības.
+Šis dokuments ir **MT pamata 3.2 versija**, kas papildina 3.1 versiju ar Horizontāles universālās struktūras aprakstu (četri pamatelementi), funkciju un VEU līmeņu nošķīrumu, kodolspēku izcelsmes precizējumu, Vertikāles ID līmeņu kā amortizatora definīciju un TZ kā rezonanses zonas un VEU ģeneratora lomu. Šie papildinājumi ir būtiski, lai nodrošinātu stabilu atsauci turpmākajam darbam pie MT dokumentiem un teorijas attīstības.
 
-Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0 un 3.1 versijās).
+Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0, 3.1 un 3.2 versijās).
 
 ---
 
 *Dokuments sagatavots: 2026. gada augustā*  
-*Versija: 3.1 — papildināta ar Vertikāles strukturālo arhitektūru, TZ definīciju un MT formālisma universālumu*
+*Versija: 3.2 — papildināta ar Horizontāles universālo struktūru, funkciju un VEU līmeņu nošķīrumu, kodolspēku izcelsmi, Vertikāles kā amortizatora lomu un TZ kā VEU ģeneratora funkciju*
