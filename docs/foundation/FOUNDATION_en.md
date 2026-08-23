@@ -1,10 +1,14 @@
 # FOUNDATION — MATRIX THEORY BASIS
 
-## Revised Version (August 2026) — 3.1
+## Revised Version (August 2026) — 3.2
 
-This document establishes the operational boundaries, foundational principles, and the conceptual framework of cosmic evolution for Matrix Theory (MT). It is the starting point from which everything else grows, and it is now connected with the MATHEMATICS formalism (3.0) and the ID system (3.0), as well as summarizing quantitative results from COSMOLOGY, GRAVITY, MT_QED, and ID_GRADIENT.
+This document establishes the operational boundaries, foundational principles, and the conceptual framework of cosmic evolution for Matrix Theory (MT). It is the starting point from which everything else grows, and it is now connected with the MATHEMATICS formalism (3.0), the ID system (3.0), as well as summarizing quantitative results from COSMOLOGY, GRAVITY, and MT_QED.
 
-**New additions in version 3.1:** a detailed description of the Vertical's structural architecture (the Matryoshka principle, the universal 10²⁰ step, the Transformation Zone (TZ) as Vertical space between levels, free energy as TZ content), and an explanation of the universality of the MT formalism across all H-levels.
+**New additions in version 3.2:**  
+- **Universal Horizontal Structure** — four fundamental elements that repeat in every Horizontal with a step of \(10^{20}\): Matrix, Matrix TE ("Electric"), External TE ("Magnetic"), and "Proton" (the next Horizontal's object).  
+- **Separation of functions and TEU levels** — functions (electric, magnetic) are universal, but TEU levels change depending on the Horizontal.  
+- **Origin of nuclear forces** — nuclear forces are VEU H-3 TE flow in the H-1 matrix, not ID-2 or a Vertical level.  
+- **Vertical ID levels as a free energy damper** — ID-1, ID-2, ID-3... are accumulations of excess TE energy from their respective Horizontals.
 
 **Key insight:** MT is not a theory about "the beginning of the Universe" — it is a theory about the **cyclic transition of energy organization** between Horizontals, which is quantitatively formulated and testable.
 
@@ -101,7 +105,7 @@ The Eternal cycle is based on two interconnected components — the **Vertical**
 
 The Vertical emerges from the conservation, preservation, and accumulation of energy processes of the Primary Horizontal. Upon reaching a critical level of energy accumulation, a new (finer) Horizontal forms. This cyclic mechanism forms the basis of the Eternal cycle and the hierarchy of Vertical levels.
 
-**The Vertical is an energy accumulation system.** Each Vertical level corresponds to a specific depth of energy accumulation (VEU H-3, H-4, ... H-min), which corresponds to **ID-1.n** in the ID system.
+**The Vertical is an energy accumulation system.** Each Vertical level corresponds to a specific depth of energy accumulation (TEU H-3, H-4, ... H-min), which corresponds to **ID-1.n** in the ID system.
 
 **Formally:** The Vertical is a set of energy levels:
 $$
@@ -112,6 +116,21 @@ with total energy \( E_{\mathcal{V}} = \sum_{k=3}^{\text{min}} E_{H-k} \).
 The Vertical continuously maintains an energy flow to the H0 matrix through the **L1 zone** and the **TZ (Transformation Zone)**.
 
 **The Vertical is not a "place" — it is an energy structure that continuously feeds the H0 matrix.**
+
+**The Vertical as a damper — 3.2:**
+
+The Vertical is a **TE flow damper**. It absorbs **excess** TE energy from each Horizontal's matrix TE flows. Each Vertical ID level corresponds to the **excess part of a specific Horizontal's matrix TE**:
+
+- **ID-1** = excess TEU H-3 energy (from H0 matrix TE)
+- **ID-2** = excess TEU H-4 energy (from H-1 matrix TE)
+- **ID-3** = excess TEU H-5 energy (from H-2 matrix TE)
+- ...
+
+This means that \( \rho_{\mathcal{V}} \) (Vertical energy density) is not a single scalar — it is the **sum of all ID levels**:
+
+\[
+\rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \cdots
+\]
 
 #### 4.2.1. The Matryoshka Principle — Vertical Structural Architecture (3.1)
 
@@ -130,8 +149,8 @@ Each level is inside the previous one:
 
 All adjacent levels differ by a factor of \(10^{20}\) (both toward finer and toward larger scales). This is a universal step that repeats cyclically throughout the Vertical:
 - H0 step: \(10^{-35}\) m
-- H-1 step: \(10^{-55}\) m (10²⁰ times finer)
-- H+1 step: \(10^{-15}\) m (10²⁰ times larger)
+- H-1 step: \(10^{-55}\) m (\(10^{20}\) times finer)
+- H+1 step: \(10^{-15}\) m (\(10^{20}\) times larger)
 
 **Universal formalism:**
 
@@ -206,23 +225,22 @@ TZ is Vertical space that:
 
 2. **TZ contains free energy** — energy that belongs to neither one matrix nor the other, but rather a "third" energy accumulated between levels. This energy arises from the difference in rotation rates between adjacent levels.
 
-3. **The size of TZ depends on the size of the object** — the larger the monolithic object, the larger the TZ. It is precisely as large as the object, because it is the interface between matrices.
+3. **TZ is a resonance zone** — where all incompatible energy is **transformed (refined)** into finer TE flows. How fine — depends on density.
 
-4. **Free energy in TZ is distributed with density 1/r²** — it is not a static accumulation, but an energy distribution around the object. TZ "does not know" how much to accumulate — accumulation happens as needed, and surplus is "pushed" into the surrounding space with a 1/r² law.
+4. **The size of TZ depends on the size of the object** — the larger the monolithic object, the larger the TZ. It is precisely as large as the object, because it is the interface between matrices.
 
-5. **Fields are the effect of TZ on matrix objects** — classical physics does not see TZ itself, but sees the effect of its content (free energy) on protons and other objects. It interprets this effect as electric and magnetic fields.
+5. **Free energy in TZ is distributed with density 1/r²** — it is not a static accumulation, but an energy distribution around the object. TZ "does not know" how much to accumulate — accumulation happens as needed, and surplus is "pushed" into the surrounding space with a 1/r² law.
 
-6. **Neutral charge = TZ symmetric energy** — free energy in half-phase balance, which classical physics calls dark energy (\( \rho_{\mathcal{V}} \)).
+6. **Fields are the effect of TZ on matrix objects** — classical physics does not see TZ itself, but sees the effect of its content (free energy) on protons and other objects. It interprets this effect as electric and magnetic fields.
 
-7. **Visible charge (+/−) = TZ asymmetric energy** — free energy in half-phase imbalance.
+**TZ and the generation of new TEU levels — 3.2:**
 
-**TZ and the photon:**
+TZ is the **source** of new TE flows that operate in the H0 matrix:
+- TEU H-3 originates in the H0 matrix (from pocket rotation).
+- TEU H-4 **does not originate in H0 space**. It originates in the **TZ** — when TEU H-3 energy becomes incompatible with the H0 matrix, the TZ transforms it into TEU H-4, which operates in the H-1 matrix.
+- TEU H-5 originates in the TZ when TEU H-4 energy becomes incompatible, and so on.
 
-The photon is an organized formation of free energy arising from TZ when the local free energy density reaches a certain threshold and is organized into a cyclic wave.
-
-**TZ and the black hole jet:**
-
-A black hole jet is neither a sphere nor an ellipse — it is a "protrusion" from TZ, indicating that TZ energy is not always distributed uniformly; in some directions (the path of least resistance), it can "break out" as a directed stream.
+Thus, TZ is not just an "intermediary" — it is a **generator** that creates new TEU levels depending on density and degree of incompatibility.
 
 **TZ as a universal structure:**
 
@@ -232,7 +250,51 @@ TZ exists **between every two adjacent levels**:
 - Between H-1 and H-2 (TZ-1/-2)
 - Etc.
 
-Each TZ contains free energy accumulated from the difference in rotation rates between adjacent levels.
+The same process occurs in each TZ — incompatible energy is transformed into the next level's TE flow.
+
+### 4.7. Universal Horizontal Structure — Four Fundamental Elements (3.2)
+
+In every Horizontal (regardless of whether it is H0, H-1, H+1, ...) there are **only 4 fundamental elements**, which repeat with a step of \(10^{20}\):
+
+| **Element number** | **Object** | **Function** | **Size in H0** | **Size in H-1** |
+| :--- | :--- | :--- | :--- | :--- |
+| **1.** | **Matrix** | Foundation (lattice, pockets, rotation) | \(10^{-35}\) m | \(10^{-55}\) m |
+| **2.** | **Matrix TE** | **"Electric" field** (gradient, Coulomb's law, charge) | TEU H-3 (\(10^{-75}\) m) | TEU H-4 (\(10^{-95}\) m) |
+| **3.** | **External TE** | **"Magnetic" field** (circulation, moving charge effect) | TEU H-2 (\(10^{-55}\) m) | TEU H-3 (\(10^{-75}\) m) |
+| **4.** | **"Proton"** | Next Horizontal's object (monolithic object) | \(10^{-15}\) m | \(10^{-35}\) m |
+
+**Key conclusions:**
+
+1. **Functions are universal.** In every Horizontal:
+   - Matrix TE performs the **"electric" field** function.
+   - External TE performs the **"magnetic" field** function.
+   - "Proton" is the next Horizontal's object.
+
+2. **TEU levels change.** With a step of \(10^{20}\) (both upward and downward).
+
+3. **H0 electromagnetism:**
+   - Electric field = TEU H-3 (\(10^{-75}\) m)
+   - Magnetic field = TEU H-2 (\(10^{-55}\) m)
+
+4. **Nuclear forces are not ID-2.** They are **TEU H-3 TE flow in the H-1 matrix** — H-1's "magnetic" field analog. Nuclear forces belong to the H0 matrix, not the Vertical.
+
+5. **ID-2 is excess TEU H-4 energy in the Vertical.** ID-2 is not nuclear forces — ID-2 is only their surplus that enters the damper.
+
+6. **Vertical ID levels = excess energy accumulations:**
+   - ID-1 = excess TEU H-3 (from H0 electric field)
+   - ID-2 = excess TEU H-4 (from H-1 electric field)
+   - ID-3 = excess TEU H-5 (from H-2 electric field)
+   - ...
+
+**Universal scheme:**
+
+| **Horizontal** | **Matrix** | **Matrix TE ("Electric")** | **External TE ("Magnetic")** | **"Proton"** |
+| :--- | :--- | :--- | :--- | :--- |
+| H0 | \(10^{-35}\) m | TEU H-3 (\(10^{-75}\) m) | TEU H-2 (\(10^{-55}\) m) | \(10^{-15}\) m |
+| H-1 | \(10^{-55}\) m | TEU H-4 (\(10^{-95}\) m) | TEU H-3 (\(10^{-75}\) m) | \(10^{-35}\) m |
+| H-2 | \(10^{-75}\) m | TEU H-5 (\(10^{-115}\) m) | TEU H-4 (\(10^{-95}\) m) | \(10^{-55}\) m |
+| H+1 | \(10^{-15}\) m | TEU H-2 (\(10^{-55}\) m) | TEU H-1 (\(10^{-35}\) m) | \(10^{5}\) m |
+| ... | ... | ... | ... | ... |
 
 ---
 
@@ -277,14 +339,14 @@ The **L1 zone** is the projection structure of the Vertical onto the H0 matrix. 
 **CMB (Cosmic Microwave Background):**
 - **Not the Big Bang afterglow** — it is the projection of the L1 zone background temperature onto H0.
 - **Mean temperature 2.725 K** — the thermal equivalent projection of the L1 zone.
-- **5 harmonics** (ℓ ≈ 220, 538, 813, 1085, 1381) — projection of H0 matrix Qn shells.
-- **6th and 7th harmonics** (ℓ ≈ 1660, ℓ ≈ 1943) — MT predictions, awaiting verification.
+- **5 harmonics** (\(\ell \approx 220, 538, 813, 1085, 1381\)) — projection of H0 matrix Qn shells.
+- **6th and 7th harmonics** (\(\ell \approx 1660, \ell \approx 1943\)) — MT predictions, awaiting verification.
 
 **Formally:**
 $$
 \ell_k = C \cdot n_k, \quad C = \frac{\ell_k}{n_k} \approx 35.325
 $$
-with \( n_k = 8k - 1 \) (k ≥ 2) and \( n_1 = 6 \).
+with \( n_k = 8k - 1 \) (\(k \ge 2\)) and \( n_1 = 6 \).
 
 **L1 projection operator \( \mathcal{P}_{L1} \) (3.0):**
 $$
@@ -307,7 +369,7 @@ However, the **energetic content of the matrix** is not static. It is determined
 - The **Vertical energy pyramid** (\( \rho_{\mathcal{V}} \)).
 - **H+n modulations** — large-scale transfer structure.
 
-**The photon** is a free-energy formation (VEU H-2 × H-3) that interacts with the matrix and its energetic content. Its energy loss while traveling through the Vertical field is quantitatively calculable:
+**The photon** is a free-energy formation (TEU H-2 × H-3) that interacts with the matrix and its energetic content. Its energy loss while traveling through the Vertical field is quantitatively calculable:
 $$
 \frac{dE}{dx} = -\beta \cdot E \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
 $$
@@ -345,17 +407,16 @@ This document is fully aligned with:
 - **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB predictions.
 - **ROADMAP 3.0** — separation of H0 and L1 paths, L1 as a cyclicity structure.
 
-**Major 3.1 changes (additions to version 3.0):**
-1. **Vertical structural architecture** — the Matryoshka principle (H+2 ⊃ H+1 ⊃ H0 ⊃ H-1 ⊃ H-2...).
-2. **Universal 10²⁰ step** — universal step between adjacent levels.
-3. **Universality of the MT formalism** — formalism valid for all H-levels.
-4. **TZ (Transformation Zone)** — defined as Vertical space between levels, not just an operator; TZ contains free energy.
-5. **Free energy** — clarified as being located in TZ, not in the H0 matrix; it is "third" energy.
-6. **MT document domain** — clarified that all current MT documents describe only the H0 level.
+**Major 3.2 changes (additions to version 3.1):**
+1. **Universal Horizontal structure** — four fundamental elements that repeat in every Horizontal with a step of \(10^{20}\).
+2. **Separation of functions and TEU levels** — functions (electric, magnetic) are universal, but TEU levels change depending on the Horizontal.
+3. **Origin of nuclear forces** — nuclear forces are TEU H-3 TE flow in the H-1 matrix, not ID-2 or a Vertical level.
+4. **Vertical ID levels as a free energy damper** — ID-1, ID-2, ID-3... are accumulations of excess TE energy from their respective Horizontals.
+5. **TZ as a resonance zone and TEU generator** — TZ transforms incompatible energy into the next level's TE flows.
 
 ---
 
-## 10. CONCLUSIONS (3.1)
+## 10. CONCLUSIONS (3.2)
 
 1. **MT is a quantitatively formulated theory** — all major quantities are defined by operators from the MATHEMATICS formalism (3.0).
 
@@ -373,19 +434,23 @@ This document is fully aligned with:
 
 8. **The MT formalism is universal** — it can be applied to any H-level (H-2, H-1, H0, H+1, H+2...); current MT documents describe only the H0 level.
 
-9. **The Vertical has a Matryoshka structure** — all H-levels are located inside one another; the step between adjacent levels is 10²⁰.
+9. **The Vertical has a Matryoshka structure** — all H-levels are located inside one another; the step between adjacent levels is \(10^{20}\).
 
 10. **TZ is Vertical space between levels** — it contains free energy; classical physics does not see TZ but sees its effects as fields.
+
+11. **Every Horizontal has 4 fundamental elements** — Matrix, Matrix TE ("Electric"), External TE ("Magnetic"), and "Proton" (the next Horizontal's object).
+
+12. **Functions are universal, but TEU levels change** — with a step of \(10^{20}\) in every Horizontal.
 
 ---
 
 ## NOTE
 
-This document is the **foundational MT version 3.1**, which supplements version 3.0 with a detailed description of the Vertical's structural architecture (Matryoshka principle, 10²⁰ step, TZ as Vertical space, free energy as TZ content) and the principle of MT formalism universality. These additions are essential for providing a stable reference for future work on MT documents and theory development.
+This document is the **foundational MT version 3.2**, which supplements version 3.1 with the Universal Horizontal Structure (four fundamental elements), the separation of functions and TEU levels, the clarification of nuclear forces origin, the definition of Vertical ID levels as a damper, and TZ as a resonance zone and TEU generator. These additions are essential for providing a stable reference for future work on MT documents and theory development.
 
-More detailed information on individual aspects is available in other MT documents (versions 3.0 and 3.1).
+More detailed information on individual aspects is available in other MT documents (versions 3.0, 3.1, and 3.2).
 
 ---
 
 *Document prepared: August 2026*  
-*Version: 3.1 — supplemented with Vertical structural architecture, TZ definition, and MT formalism universality*
+*Version: 3.2 — supplemented with Universal Horizontal Structure, separation of functions and TEU levels, origin of nuclear forces, Vertical as a damper, and TZ as a TEU generator*
