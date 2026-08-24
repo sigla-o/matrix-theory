@@ -1,14 +1,24 @@
 # FOUNDATION — MATRIX THEORY BASIS
 
-## Revised Version (August 2026) — 3.2
+## Revised Version (August 2026) — 3.3
 
-This document establishes the operational boundaries, foundational principles, and the conceptual framework of cosmic evolution for Matrix Theory (MT). It is the starting point from which everything else grows, and it is now connected with the MATHEMATICS formalism (3.0), the ID system (3.0), as well as summarizing quantitative results from COSMOLOGY, GRAVITY, and MT_QED.
+This document establishes the operational boundaries, foundational principles, and the conceptual framework of cosmic evolution for Matrix Theory (MT). Version 3.3 introduces the **conceptual foundation of the Horizontal block formalism** — a way to understand each Horizontal as an autonomous block operating according to unified principles, and how these blocks connect to form the Vertical Matryoshka.
 
-**New additions in version 3.2:**  
-- **Universal Horizontal Structure** — four fundamental elements that repeat in every Horizontal with a step of \(10^{20}\): Matrix, Matrix TE ("Electric"), External TE ("Magnetic"), and "Proton" (the next Horizontal's object).  
-- **Separation of functions and TEU levels** — functions (electric, magnetic) are universal, but TEU levels change depending on the Horizontal.  
-- **Origin of nuclear forces** — nuclear forces are VEU H-3 TE flow in the H-1 matrix, not ID-2 or a Vertical level.  
-- **Vertical ID levels as a free energy damper** — ID-1, ID-2, ID-3... are accumulations of excess TE energy from their respective Horizontals.
+**New additions in version 3.3:**  
+- **Horizontal block concept** — definition of each Horizontal (H0, H-1, H+1, ...) as an autonomous block.  
+- **Block internal logic** — four fundamental elements (Matrix, Matrix TE, External TE, "Proton") and their interactions.  
+- **Input and output mechanism** — how energy enters a block, is processed, and exits as excess energy.  
+- **Overflow and threshold logic** — why and when energy becomes "excess" and enters the Vertical.  
+- **ID levels as a damper** — how Vertical ID levels (ID-1, ID-2, ID-3...) absorb excess energy from their respective blocks.  
+- **Block connection through TZ** — how the Transformation Zone (TZ) transforms energy between blocks.  
+- **Matryoshka principle as a block chain** — how all blocks together form the Vertical structure.  
+- **Separation of Vertical and Horizontal directions** — Vertical moves toward finer scales, Horizontal moves toward larger scales.  
+- **Object multifunctionality in the Vertical** — how the same object performs different functions at different levels (evolution object, TEU object, External TE, Matrix TE).  
+- **Distinction between monolithic and collective objects** — only monolithic objects can host the next H-level structure within themselves.  
+- **Role of ID levels in Vertical formation** — ID0 objects cannot yet form the next H-level structure; monolithic objects (ID2, ID3, ID4) already can.  
+- **Internal ID structure rule** — internal ID structure never exceeds the external ID level.
+
+**Detailed mathematical formalism:** The rigorous mathematical realization of this conceptual foundation is developed in a separate document **MATHEMATICS 4.0** — Block Formalism.
 
 **Key insight:** MT is not a theory about "the beginning of the Universe" — it is a theory about the **cyclic transition of energy organization** between Horizontals, which is quantitatively formulated and testable.
 
@@ -16,441 +26,500 @@ This document establishes the operational boundaries, foundational principles, a
 
 ---
 
-## 1. DOMAIN OF THE THEORY
+## 1. HORIZONTAL BLOCK — FUNDAMENTAL STRUCTURE
 
-Matrix Theory does not claim to describe full reality.
+### 1.1. Block Definition
 
-It describes **one Vertical of the Eternal energy cycle**. The question of how many Verticals exist in Eternity and how they are mutually organized is not addressed by this theory.
+A Horizontal is an **autonomous energy organization block**. Each block (whether it is H0, H-1, H+1, or any other level) operates according to **the same principle**. Blocks are not "larger" or "smaller" versions of each other — they are independent modes with their own internal laws. Each block has its own matrix, its own rotation, and its own capacity — they are not derivable from neighboring blocks.
 
-MT's operational range covers approximately \(10^{-115}\) m to \(10^{105}\) m. This is not a rigid boundary, but a practical working range.
+**Block definition:**
+\[
+\text{Block} = \{ \text{Matrix}, \text{Matrix TE}, \text{External TE}, \text{"Proton"} \}
+\]
 
-**The theory does not attempt to answer "what came before" — it answers "how energy organizes itself".**
+This logic is complete — it covers the entire energy flow cycle in the Vertical, from input to overflow and back.
 
-### 1.1. MT's Relationship to Classical Theories (Methodological Clarification) — 3.0
+### 1.2. Four Fundamental Elements
 
-Matrix Theory **does not compete** with established physics theories and **does not attempt to deny them**.
+Each Horizontal block contains four fundamental elements that form its internal structure:
 
-- Classical theories (Special and General Relativity, Quantum Electrodynamics, the Lambda-CDM model, quantum mechanics) are **empirical phenomenological laws** that describe and predict observations excellently within their domains (at the L1 and H0 levels).
-- MT's task is to provide a **deeper mechanical origin** for these laws. If a classical theory describes a regularity, MT does not challenge it — it shows how this regularity emerges from ID0 lattice TE transfer, Qn structure, and Vertical (ID-1) interaction.
+| **Element** | **Function** | **At H0 level** | **At H-1 level** |
+| :--- | :--- | :--- | :--- |
+| **Matrix** | Foundation (lattice, pockets, rotation) | \(10^{-35}\) m | \(10^{-55}\) m |
+| **Matrix TE** | "Electric" field (gradient, Coulomb) | TEU H-3 (\(10^{-75}\) m) | TEU H-4 (\(10^{-95}\) m) |
+| **External TE** | "Magnetic" field (circulation) | TEU H-2 (\(10^{-55}\) m) | TEU H-3 (\(10^{-75}\) m) |
+| **"Proton"** | Next Horizontal's object | \(10^{-15}\) m | \(10^{-35}\) m |
 
-**The "map and territory" principle:**
-- Classical physics is the accurate **map**.
-- MT describes the **territory** (the discrete matrix and the Vertical) upon which this map is built.
+**Most important:** Functions are universal. In every block:
+- Matrix TE performs the **"electric" field** function.
+- External TE performs the **"magnetic" field** function.
+- "Proton" is the next Horizontal's object (monolithic object).
 
-Thus, MT reduces to classical equations in the appropriate limits (see the Correspondence Principle in MATHEMATICS Chapter 7), while offering new explanations for anomalies (dark matter/energy) and predicting new effects (G variability, higher CMB peaks) that are invisible on the classical map.
+### 1.3. Block Internal Operation
 
-### 1.2. Universality of the MT Formalism — 3.1
+Three processes occur in every block:
 
-The MT formalism (pockets, rotation, TE transfer, Qn structure, FV, TZ) is **universal** — it can be applied to **any H-level** (H-2, H-1, H0, H+1, H+2...). Only the numerical values differ (lattice step \( \lambda \), rotation frequency \( \omega \), transfer quantum \( \phi_0 \)).
+1. **Input** — energy from the external block (External TE) enters the block.
+2. **Processing** — the block's Matrix processes the input energy, generating Matrix TE ("electric" field).
+3. **Output** — part of the energy is transformed into "Proton" (the next Horizontal's object), while part becomes **excess** and is passed further.
 
-The current MT documents (FOUNDATION, MATHEMATICS, GRAVITY, COSMOLOGY, MT_QED) describe only the **H0 level**. They are complete and correct descriptions of H0, but they are not a theory of the Vertical — they cover only one "cell" of the Vertical Matryoshka.
+**Block internal balance:**
+\[
+\text{Input} = \text{Processing} + \text{Output}
+\]
 
----
+### 1.4. Separation of Vertical and Horizontal Directions
 
-## 2. CONNECTION WITH THE MATHEMATICS FORMALISM AND THE ID SYSTEM (3.0)
+The Vertical and the Horizontal are two mutually perpendicular directions that together form the complete energy organization structure.
 
-The quantitative foundation of MT is defined in MATHEMATICS_lv.md (3.0). The ID system (ID_GRADIENT_lv.md 3.0) provides the classification of organizational levels. The following table summarizes the main operators, quantities, and ID levels used across all other documents:
+**Vertical** — moves **toward finer scales** (downward):
+\[
+H_{+max} \rightarrow H_{+2} \rightarrow H_{+1} \rightarrow H_0 \rightarrow H_{-1} \rightarrow H_{-2} \rightarrow \cdots \rightarrow H_{-min}
+\]
 
-| Operator / quantity | Definition | Physical meaning | ID correspondence |
-|---------------------|------------|------------------|-------------------|
-| \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matrix lattice | ID0 |
-| \( Q_n \) | \( \{\mathbf{x}: \|\mathbf{x}\|_\infty \leq n\} \) | Qn shell structure | ID0.n |
-| \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Number of points in Qn shell | ID0.n |
-| \( \Phi(\mathbf{x},\mathbf{y}) \) | \( \mathcal{L} \times \mathcal{L} \to \mathbb{R}^+ \) | TE transfer field | ID0 |
-| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertical energy density | ID-1 |
-| \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformation Zone (H0 → Vertical) | ID-1 / ID0 |
-| \( \mathcal{P}_{L1} \) | \( \int K \rho_{\mathcal{V}} \) | L1 projection operator (integral) | ID0 |
-| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Inverse cyclicity scale | ID0 / ID-1 |
-| \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cyclicity constant | ID0.n |
-| \( \varepsilon_0 \) | \( \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | Vacuum permittivity (matrix state function) | ID0 |
-| \( G \) | \( G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Variable gravitational constant | ID0 / ID-1 |
+**Horizontal** — moves **toward larger scales** (upward):
+\[
+ID0 \rightarrow ID1 \rightarrow ID2 \rightarrow ID3 \rightarrow ID4 \rightarrow ID5 \rightarrow \cdots
+\]
 
----
+**The Vertical and the Horizontal are not the same direction. The Vertical is downward (toward finer levels), the Horizontal is upward (toward larger objects).**
 
-## 3. BASIC LEVELS OF THE ID SYSTEM (3.0)
+**H0** is only a relative reference point — our Universe's Horizontal. It is not a "center" or a "beginning." It is just the level at which we are located. The Vertical knows no "center" — it is a continuous progression from the largest to the finest.
 
-The ID system organizes all objects by modulation (level of influence) and size category:
-
-| ID level | Modulation | Size scale (m) | Content |
-|----------|------------|----------------|---------|
-| ID-1 | — | < 10⁻³⁵ | Vertical (energy source) |
-| ID0 | — | 10⁻³⁵ | Matrix (lattice, basis for TE transfer) |
-| ID1 | H+1 | 10⁻¹⁵ | Protons, atoms, molecules |
-| ID2 | H+2 | 10⁵ – 10²⁵ | Stars, planets, galaxies |
-| ID3 | H+3 | 10²⁵ – 10⁴⁵ | Star clusters, galaxy clusters |
-| ID4 | H+4 | 10⁴⁵ – 10⁶⁵ | Large-scale cosmic structures |
-| ID5 | H+5 | > 10⁶⁵ | Open to the future |
-
-Detailed ID system structure and examples are provided in ID_GRADIENT_lv.md (3.0).
-
-**Note on ID and classical theories:** The ID system classifies all objects — both those described by classical physics (ID1–ID4) and MT-specific levels (ID0, ID-1). This does not imply that classical objects are "incorrectly" described — the ID system simply indicates their place in the overall hierarchy of energy organization.
-
-**ID system for each Horizontal:** Each H-level has its own ID system — objects existing within it are classified according to their size and modulation at that level. For example, at the H+1 level, ID1 corresponds to their "H0" matrix, ID2 corresponds to their protons, etc.
+**Singularity is an unattainable direction for the Vertical.** Physically, the Vertical can never reach the point where all levels collapse into one. Singularity is a mathematical abstraction used by classical physics, but in MT it does not exist — the matrix switches H-level, preventing energy from collapsing to infinity.
 
 ---
 
-## 4. BASIC DEFINITIONS
+## 2. INTERNAL AND EXTERNAL PROCESSES IN A BLOCK
 
-### 4.1. Eternity
+### 2.1. Matrix and Rotation
 
-Eternity is a global energy cycle.
+The Matrix is the block's foundation — a lattice in which pockets rotate at a specific frequency. This rotation generates TE flows that propagate through the matrix.
 
-It is the highest known level of organization, which this theory uses as a reference frame. The full structure of Eternity is not modeled by this theory.
+**Matrix properties:**
+- Each block has its own matrix step.
+- Each block has its own rotation frequency.
+- Rotation is synchronized throughout the block.
 
-The Eternal cycle is based on two interconnected components — the **Vertical** and the **Horizontals**.
+### 2.2. Matrix TE ("Electric" Field)
 
-**MT does not assert that Eternity has a beginning or an end — it describes its processes.**
+Matrix TE is the energy flow generated by the matrix pockets' rotation. It performs the "electric field" function in this block.
 
-### 4.2. The Vertical (ID-1) — Structural Architecture — 3.1
+**Matrix TE properties:**
+- It depends on matrix rotation and pocket phases.
+- Its density decreases as \(1/r^2\) around the "Proton".
+- It forms gradients that act on other objects in the block.
 
-The Vertical emerges from the conservation, preservation, and accumulation of energy processes of the Primary Horizontal. Upon reaching a critical level of energy accumulation, a new (finer) Horizontal forms. This cyclic mechanism forms the basis of the Eternal cycle and the hierarchy of Vertical levels.
+**At H0 level:** Matrix TE = TEU H-3 (basis of electromagnetism).
+**At H-1 level:** Matrix TE = TEU H-4.
 
-**The Vertical is an energy accumulation system.** Each Vertical level corresponds to a specific depth of energy accumulation (TEU H-3, H-4, ... H-min), which corresponds to **ID-1.n** in the ID system.
+### 2.3. External TE ("Magnetic" Field)
 
-**Formally:** The Vertical is a set of energy levels:
-$$
-\mathcal{V} = \{ E_{H-3}, E_{H-4}, \dots, E_{H-\text{min}} \}
-$$
-with total energy \( E_{\mathcal{V}} = \sum_{k=3}^{\text{min}} E_{H-k} \).
+External TE is the energy flow that comes from the external block and enters this block. It performs the "magnetic field" function — it is the circulation generated by moving Matrix TE.
 
-The Vertical continuously maintains an energy flow to the H0 matrix through the **L1 zone** and the **TZ (Transformation Zone)**.
+**External TE properties:**
+- It comes from the next (larger) Horizontal through TZ.
+- It is a side effect of Matrix TE "motion".
+- It forms circulation that acts on moving objects in the block.
 
-**The Vertical is not a "place" — it is an energy structure that continuously feeds the H0 matrix.**
+**At H0 level:** External TE = TEU H-2 (basis of magnetic field).
+**At H-1 level:** External TE = TEU H-3 (basis of nuclear forces).
 
-**The Vertical as a damper — 3.2:**
+### 2.4. "Proton" — The Next Horizontal's Object
 
-The Vertical is a **TE flow damper**. It absorbs **excess** TE energy from each Horizontal's matrix TE flows. Each Vertical ID level corresponds to the **excess part of a specific Horizontal's matrix TE**:
+"Proton" is a monolithic object formed from the interaction of Matrix TE and External TE. It is the foundation of the next Horizontal.
 
-- **ID-1** = excess TEU H-3 energy (from H0 matrix TE)
-- **ID-2** = excess TEU H-4 energy (from H-1 matrix TE)
-- **ID-3** = excess TEU H-5 energy (from H-2 matrix TE)
+**"Proton" properties:**
+- It is a block "condensation" — an energy focus.
+- It has its own internal matrix (the next block's Matrix).
+- It is a bridge between blocks.
+
+---
+
+## 3. OBJECT MULTIFUNCTIONALITY IN THE VERTICAL
+
+The same object in the Vertical performs different functions depending on which H-level we view it from. This is not dependent on the object itself — it is dependent on the **level of observation**.
+
+### 3.1. Our Proton as an Example
+
+**At H0 level (our Horizontal):**
+- The proton is an **evolution object**.
+- It is the first stable object formed from the interaction of H0 Matrix TE and External TE.
+- It is the **beginning of H-1 Universe evolution** — it is the "first" at its level.
+- At H0 level, the proton forms matter: atoms, molecules, stars, planets, galaxies.
+- At this level, the proton is an **active participant** — it interacts with other protons to form more complex structures.
+
+**At H+1 level (the next, larger Horizontal):**
+- The proton is a **TEU object**.
+- At H+1 level, the proton (and all H0 objects) are no longer "matter" — they are **energy structures** or TEU objects.
+- **Two protons** at H+1 level form the **Yin–Yang foundation** — the fundamental structure of the H+1 matrix.
+- At this level, the proton is a **passive element** — it no longer forms matter, but serves as a building block for the H+1 matrix.
+
+**At H+2 level (an even larger Horizontal):**
+- The proton performs the **External TE** function.
+- At H+2 level, the proton (and all H0 and H+1 objects) perform the External TE function — they are energy flows that enter the H+1 block from the outside.
+- At this level, the proton is like the **"magnetic" field** at the H+1 level — it provides circulation and energy flow.
+
+**At H+3 level (an even larger Horizontal):**
+- The proton performs the **Matrix TE** function.
+- At H+3 level, the proton (and all lower objects) perform the Matrix TE function — they are the "electric" field at the H+2 level.
+- At this level, the proton is like a **gradient** — it forms the Coulomb field analog at the H+2 level.
+
+### 3.2. Universal Principle
+
+**Any TEU object in the Vertical performs different functions depending on which level we view it from.**
+
+This principle can be generalized:
+
+1. **At each H-level, the object is a "proton"** — the local evolution object that forms matter at that level.
+2. **At the next (higher) H-level** — the same object becomes a **TEU object** that forms the matrix foundation.
+3. **At an even higher H-level** — the same object performs the **External TE** function.
+4. **At an even higher H-level** — the same object performs the **Matrix TE** function.
+
+**The function changes, but the object remains the same. Only the viewpoint changes.**
+
+### 3.3. Intersection of Horizontal and Vertical
+
+At each H-level, the Vertical and the Horizontal intersect:
+
+- The **Vertical** determines which H-level the object is at (H0, H-1, H+1...).
+- The **Horizontal** determines what ID level the object has reached in its evolution (ID0, ID1, ID2...).
+
+The object's function in the Vertical depends on its H-level. The object's evolutionary stage depends on its ID level.
+
+---
+
+## 4. MONOLITHIC AND COLLECTIVE OBJECTS
+
+To understand which objects can host the next H-level structure within themselves, we must distinguish between **monolithic** and **collective** objects.
+
+**Monolithic object** — an object that has its own internal matrix and can contain the next H-level structure. A monolithic object is one, independent, with its own matrix.
+
+**Examples of monolithic objects:**
+- **Proton** (ID0) — has its own internal matrix, but cannot yet form H-2 Universe.
+- **Neutron star** (ID3) — monolithic object.
+- **White dwarf** (ID2) — monolithic object.
+- **Black hole** (ID4) — monolithic object (can already form H-2 Universe).
+
+**Collective object** — a collection of many protons (or other monolithic objects) that does **not** have its own internal matrix. Collective objects are collections of protons, without an internal matrix.
+
+**Examples of collective objects:**
+- **Star** — a collection of protons, no internal matrix.
+- **Planet** — collective object.
+- **Galaxy** — collective object.
+
+**Monolithic object — one, independent, with its own matrix. Collective object — a collection of protons, without its own matrix.**
+
+---
+
+## 5. ROLE OF ID LEVELS IN VERTICAL FORMATION
+
+The ID system determines when an object is sufficiently "mature" to be able to form the next H-level structure within itself. It is a **"permission"** for the next H-level — without a sufficiently high ID level, the next H-level cannot form.
+
+### 5.1. ID0 — "Proton" (Cannot Yet Form the Internal H-Level)
+
+- Our Universe's proton (H-1 object) is **ID0**.
+- ID0 means that the proton **cannot** yet form a stable H-2 "proton" (its internal ID0 object) within itself.
+- The proton is not yet sufficiently "large" and "organized" to contain the next H-level's matrix.
+- Although the proton has an internal matrix, it is not yet sufficiently developed for a new Horizontal to form within it.
+
+### 5.2. Monolithic Objects ID2, ID3, ID4 (Can Already Form the Internal H-Level)
+
+- When a monolithic object reaches **ID2, ID3, or ID4**, it **can** already form stable H-2 objects (ID0, ID1) within itself.
+- At this level, the object is sufficiently "mature" to contain the next H-level's matrix and begin a new Horizontal within itself.
+
+**Examples:**
+- A **black hole** (ID4) can already form a stable H-2 Universe within itself. This explains why black holes are considered "portals" to other Horizontals — the next level's evolution has already begun inside them.
+- A **neutron star** (ID3) can also form an H-2 Universe within itself.
+- A **white dwarf** (ID2) can also form an H-2 Universe within itself, although on a smaller scale.
+
+### 5.3. Internal ID Structure Rule
+
+**The internal ID structure never exceeds the external ID level.**
+
+This means:
+- If the external object is **ID0**, it cannot contain ID1 or ID2 structures within it.
+- If the external object is **ID2**, it can contain ID0 or ID1 within it, but not ID2 or ID3.
+- If the external object is **ID4**, it can contain ID0, ID1, ID2, ID3 within it, but not ID4 or higher.
+
+**The internal level is always at least one step lower than the external level.**
+
+### 5.4. What Follows from This
+
+1. **A proton (ID0) cannot yet form an H-2 Universe within itself.** An H-2 Universe arises only when an object at the H-1 level has grown to ID2, ID3, or ID4 (a monolithic object).
+
+2. **A black hole (ID4) can already form a stable H-2 Universe within itself.** This explains why black holes are considered "portals" to other Horizontals — the next level's evolution has already begun inside them.
+
+3. **The downward movement of the Vertical is not automatic.** It occurs only when an object reaches a sufficiently high ID level within its Horizontal.
+
+4. **A star cannot form an H-2 Universe within itself.** Although it is large and massive, it has no internal matrix — it is merely a collection of protons. A star is a collective object, so it cannot serve as the foundation for a new Horizontal.
+
+5. **Only monolithic objects can form the next H-level structure within themselves.** Collective objects have no internal matrix, so they cannot serve as the "foundation" for a new Horizontal.
+
+---
+
+## 6. INPUT AND OUTPUT MECHANISM
+
+### 6.1. Input — Energy from the External Block
+
+Each block receives energy from the external (larger) block through TZ. This energy enters the block as External TE.
+
+**Input source:**
+- H0 input comes from H+1 (External TE = TEU H-2).
+- H-1 input comes from H0 (External TE = TEU H-3).
+- H-2 input comes from H-1 (External TE = TEU H-4).
+
+### 6.2. Processing — Formation of Matrix TE
+
+The block's Matrix processes the input energy, transforming it into Matrix TE. This process depends on:
+- Matrix rotation frequency.
+- Phase compatibility of pockets.
+- Matrix capacity — how much energy the matrix can process.
+
+**Capacity:**
+Each block has a limited capacity — the maximum amount of energy it can process before becoming overloaded.
+
+### 6.3. Output — Excess Energy
+
+When input energy exceeds the block's capacity, **excess energy** is formed. It is neither Matrix TE nor External TE — it is energy that the block cannot process.
+
+**Fate of excess energy:**
+1. It is expelled from the block through TZ.
+2. It enters the Vertical as an ID level (damper).
+3. From there, it can be transformed into the next block's input.
+
+---
+
+## 7. OVERFLOW AND THRESHOLD LOGIC
+
+### 7.1. Why Does Energy Become "Excess"?
+
+Energy becomes excess when the block's Matrix reaches its capacity limit. This happens if:
+- Input energy is too large.
+- Matrix rotation cannot process all the energy.
+- Pocket phases are not fully compatible.
+
+**Excess energy is not a "failure" — it is a fundamental property of matrix architecture.**
+
+### 7.2. Threshold — Critical Limit
+
+Each block has a specific threshold — the maximum energy density the matrix can maintain before overflow begins.
+
+**When the threshold is exceeded:**
+\[
+\rho^{(TE)} > \rho_{crit}
+\]
+then energy starts to overflow outward.
+
+### 7.3. Overflow Mechanism
+
+Overflow is the process by which excess energy is expelled from the block:
+1. Matrix TE density exceeds the threshold.
+2. The excess energy amount is "pushed out" of the block.
+3. It enters the Vertical as an ID level.
+4. From the Vertical, it can be transformed into the next block's input.
+
+---
+
+## 8. ID LEVELS AS A DAMPER
+
+### 8.1. The Vertical as a Damper
+
+The Vertical is not just an "energy source" — it is a **damper** that absorbs excess energy from blocks. Each Vertical ID level corresponds to one block's excess energy.
+
+**ID level correspondence:**
+- **ID-1** = excess energy from **H0 block** (excess TEU H-3).
+- **ID-2** = excess energy from **H-1 block** (excess TEU H-4).
+- **ID-3** = excess energy from **H-2 block** (excess TEU H-5).
 - ...
 
-This means that \( \rho_{\mathcal{V}} \) (Vertical energy density) is not a single scalar — it is the **sum of all ID levels**:
+### 8.2. Function of ID Levels
 
+ID levels are not "forces" or "fields" — they are **energy accumulations** waiting to be used:
+- When a block has an energy deficit, an ID level can return energy back.
+- When a block is overloaded, an ID level absorbs the excess energy.
+- ID levels are like "batteries" that smooth out energy flow fluctuations.
+
+### 8.3. Total Vertical Energy Density
+
+The total Vertical energy density is the sum of all ID levels:
 \[
 \rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \cdots
 \]
 
-#### 4.2.1. The Matryoshka Principle — Vertical Structural Architecture (3.1)
+This means that \( \rho_{\mathcal{V}} \) is not a single scalar — it is the total accumulation of excess energy from all blocks.
 
-The Vertical is not a linear structure. It is a **space** in which Horizontals (H-levels) are located **inside one another** like Matryoshka dolls:
+---
 
-$$
+## 9. BLOCK CONNECTION THROUGH TZ
+
+### 9.1. Transformation Zone (TZ) as an Interface
+
+Between every two blocks there exists a **Transformation Zone (TZ)** — an interface where energy is transformed from one block's format to the next.
+
+**TZ is not a "place" — it is a transition.**
+
+### 9.2. TZ Function
+
+1. **Transformation** — TZ transforms excess energy from one block into input energy for the next block.
+2. **Resonance** — TZ is a resonance zone where incompatible energy is "refined" (transformed) into finer TE flows.
+3. **Threshold regulation** — TZ determines how much energy is passed further, based on block capacities.
+
+### 9.3. Transition Operator
+
+Energy transition from one block to the next is described by a transition operator:
+\[
+\Phi_{n}^{(in)} = \mathcal{T}_{n+1 \to n}[\Phi_{n+1}^{(out)}]
+\]
+
+This means that the next block's input is the previous block's output that has passed through TZ transformation.
+
+---
+
+## 10. MATRYOSHKA PRINCIPLE AS A BLOCK CHAIN
+
+### 10.1. Block Chain
+
+All Horizontal blocks are connected in a chain, where each block is located inside the next:
+\[
 H_{+2} \supset H_{+1} \supset H_0 \supset H_{-1} \supset H_{-2} \supset \cdots
-$$
+\]
 
-Each level is inside the previous one:
-- We are at **H0**.
-- Around us is **H+1** (a larger energy organization), **H+2** (even larger), and so on.
-- Inside us are **H-1** objects (protons, particles), inside them **H-2** objects (even finer matrices), and so on.
+**This is a Matryoshka** — each block contains the next (finer) block within itself and is located inside the previous (larger) block.
 
-**Universal step between levels:**
+### 10.2. Energy Flow in the Chain
 
-All adjacent levels differ by a factor of \(10^{20}\) (both toward finer and toward larger scales). This is a universal step that repeats cyclically throughout the Vertical:
-- H0 step: \(10^{-35}\) m
-- H-1 step: \(10^{-55}\) m (\(10^{20}\) times finer)
-- H+1 step: \(10^{-15}\) m (\(10^{20}\) times larger)
+Energy flows through the block chain:
+1. From H+1 to H0 (through TZ+1/0).
+2. From H0 to H-1 (through TZ0/-1).
+3. From H-1 to H-2 (through TZ-1/-2).
+4. And so on.
 
-**Universal formalism:**
+**In each transition, part of the energy is processed in the block, part becomes excess and enters the Vertical.**
 
-The MT formalism (pockets, rotation, TE transfer, Qn structure, FV) is **valid for all H-levels**. Only the numerical values differ (lattice step \( \lambda \), rotation frequency \( \omega \), transfer quantum \( \phi_0 \)).
+### 10.3. Scale Step
 
-This means that MT is a universal theory that can be applied to any Vertical level. If MT can describe H0 space, then the same can describe H-2, H-1, H+1, H+2, etc., spaces, should there be a need.
-
-### 4.3. Horizontals (ID0 — ID5)
-
-A Horizontal is a matrix of stable energy units of a specific Vertical, in which discrete evolution occurs through successive ID levels.
-
-**Formally:** A Horizontal \( H_n \) is a lattice \( \mathcal{L}_n \) with Qn structure and TE transfer field \( \Phi_n \).
-
-**H0** is one of the Horizontals — our Universe. It is neither the center nor the beginning of the Vertical.
-
-**A Horizontal cannot outpace its creator — the next higher (H+1) Horizontal — in its evolution.**
-
-The H0 matrix corresponds to **ID0** in the ID system. All objects in the H0 matrix are classified by ID levels depending on their size and modulation influence.
-
-**Horizontal as a Matryoshka cell:**
-
-A Horizontal is **one cell** in the Vertical Matryoshka. Each Horizontal is located inside the next (larger) Horizontal and contains the previous (finer) Horizontal within itself. Horizontal levels correspond to ID system levels:
-
-- H0 — ID0 (our matrix).
-- H+1 — ID1 (proton/atom level from the H0 perspective; but from the H+1 perspective, this is their "H0").
-- H-1 — ID-1 (finer matrix inside the proton).
-
-### 4.4. ID Gradation (3.0)
-
-ID is an **energy management zone marker**, quantitatively calculable from the Qn structure and Vertical energy.
-
-**Formally:**
-$$
-\text{ID} = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
-$$
-where \( n \) is the Qn shell index, \( \gamma_{\text{ID}} \approx 0.05 \).
-
-**Important:** The Vertical energy correction \( \gamma_{\text{ID}} \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) **does not change the object's base ID level** — it only refines the value in regions of high Vertical energy density.
-
-For more detail, see ID_GRADIENT_lv.md (3.0).
-
-### 4.5. Cyclicity (3.0)
-
-From MATHEMATICS 5.0 (3.0), cyclicity is a structural property of the matrix that manifests as a harmonic sequence in the CMB spectrum and modulates the gravitational constant.
-
-**Cyclicity constant:**
-$$
-C = \frac{\ell_k}{n_k} \approx 35.325
-$$
-
-**Inverse cyclicity scale:**
-$$
-\gamma = \frac{2\pi}{C} \approx 0.18
-$$
-
-Cyclicity determines the L1 focusing/scattering transition and is connected to G variability through \( G(\rho_{\mathcal{V}}) = G_0(1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \).
-
-### 4.6. Transformation Zone (TZ) — Vertical Space Between Levels (3.1)
-
-Between any two adjacent H-levels (e.g., between H+1 and H0, between H0 and H-1, between H-1 and H-2) exists a **Transformation Zone (TZ)** — Vertical space that separates two different matrices.
-
-**Definition of TZ:**
-
-TZ is Vertical space that:
-- Is located **around every monolithic object**, regardless of its size.
-- Separates two different matrices (any — H0 and proton, H+1 and H0, etc.).
-- Is everywhere, but classical physics cannot see or perceive it.
-
-**Properties of TZ:**
-
-1. **TZ is not a matrix, not a field** — it is an independent Vertical space with its own laws, which cannot be described by matrix laws.
-
-2. **TZ contains free energy** — energy that belongs to neither one matrix nor the other, but rather a "third" energy accumulated between levels. This energy arises from the difference in rotation rates between adjacent levels.
-
-3. **TZ is a resonance zone** — where all incompatible energy is **transformed (refined)** into finer TE flows. How fine — depends on density.
-
-4. **The size of TZ depends on the size of the object** — the larger the monolithic object, the larger the TZ. It is precisely as large as the object, because it is the interface between matrices.
-
-5. **Free energy in TZ is distributed with density 1/r²** — it is not a static accumulation, but an energy distribution around the object. TZ "does not know" how much to accumulate — accumulation happens as needed, and surplus is "pushed" into the surrounding space with a 1/r² law.
-
-6. **Fields are the effect of TZ on matrix objects** — classical physics does not see TZ itself, but sees the effect of its content (free energy) on protons and other objects. It interprets this effect as electric and magnetic fields.
-
-**TZ and the generation of new TEU levels — 3.2:**
-
-TZ is the **source** of new TE flows that operate in the H0 matrix:
-- TEU H-3 originates in the H0 matrix (from pocket rotation).
-- TEU H-4 **does not originate in H0 space**. It originates in the **TZ** — when TEU H-3 energy becomes incompatible with the H0 matrix, the TZ transforms it into TEU H-4, which operates in the H-1 matrix.
-- TEU H-5 originates in the TZ when TEU H-4 energy becomes incompatible, and so on.
-
-Thus, TZ is not just an "intermediary" — it is a **generator** that creates new TEU levels depending on density and degree of incompatibility.
-
-**TZ as a universal structure:**
-
-TZ exists **between every two adjacent levels**:
-- Between H+1 and H0 (TZ+1/0)
-- Between H0 and H-1 (TZ0/-1)
-- Between H-1 and H-2 (TZ-1/-2)
-- Etc.
-
-The same process occurs in each TZ — incompatible energy is transformed into the next level's TE flow.
-
-### 4.7. Universal Horizontal Structure — Four Fundamental Elements (3.2)
-
-In every Horizontal (regardless of whether it is H0, H-1, H+1, ...) there are **only 4 fundamental elements**, which repeat with a step of \(10^{20}\):
-
-| **Element number** | **Object** | **Function** | **Size in H0** | **Size in H-1** |
-| :--- | :--- | :--- | :--- | :--- |
-| **1.** | **Matrix** | Foundation (lattice, pockets, rotation) | \(10^{-35}\) m | \(10^{-55}\) m |
-| **2.** | **Matrix TE** | **"Electric" field** (gradient, Coulomb's law, charge) | TEU H-3 (\(10^{-75}\) m) | TEU H-4 (\(10^{-95}\) m) |
-| **3.** | **External TE** | **"Magnetic" field** (circulation, moving charge effect) | TEU H-2 (\(10^{-55}\) m) | TEU H-3 (\(10^{-75}\) m) |
-| **4.** | **"Proton"** | Next Horizontal's object (monolithic object) | \(10^{-15}\) m | \(10^{-35}\) m |
-
-**Key conclusions:**
-
-1. **Functions are universal.** In every Horizontal:
-   - Matrix TE performs the **"electric" field** function.
-   - External TE performs the **"magnetic" field** function.
-   - "Proton" is the next Horizontal's object.
-
-2. **TEU levels change.** With a step of \(10^{20}\) (both upward and downward).
-
-3. **H0 electromagnetism:**
-   - Electric field = TEU H-3 (\(10^{-75}\) m)
-   - Magnetic field = TEU H-2 (\(10^{-55}\) m)
-
-4. **Nuclear forces are not ID-2.** They are **TEU H-3 TE flow in the H-1 matrix** — H-1's "magnetic" field analog. Nuclear forces belong to the H0 matrix, not the Vertical.
-
-5. **ID-2 is excess TEU H-4 energy in the Vertical.** ID-2 is not nuclear forces — ID-2 is only their surplus that enters the damper.
-
-6. **Vertical ID levels = excess energy accumulations:**
-   - ID-1 = excess TEU H-3 (from H0 electric field)
-   - ID-2 = excess TEU H-4 (from H-1 electric field)
-   - ID-3 = excess TEU H-5 (from H-2 electric field)
-   - ...
-
-**Universal scheme:**
-
-| **Horizontal** | **Matrix** | **Matrix TE ("Electric")** | **External TE ("Magnetic")** | **"Proton"** |
-| :--- | :--- | :--- | :--- | :--- |
-| H0 | \(10^{-35}\) m | TEU H-3 (\(10^{-75}\) m) | TEU H-2 (\(10^{-55}\) m) | \(10^{-15}\) m |
-| H-1 | \(10^{-55}\) m | TEU H-4 (\(10^{-95}\) m) | TEU H-3 (\(10^{-75}\) m) | \(10^{-35}\) m |
-| H-2 | \(10^{-75}\) m | TEU H-5 (\(10^{-115}\) m) | TEU H-4 (\(10^{-95}\) m) | \(10^{-55}\) m |
-| H+1 | \(10^{-15}\) m | TEU H-2 (\(10^{-55}\) m) | TEU H-1 (\(10^{-35}\) m) | \(10^{5}\) m |
-| ... | ... | ... | ... | ... |
+Although blocks are autonomous, there is a scale ratio of \(10^{20}\) between blocks that enables energy transformation between levels. This step is not the primary connection — the primary connection is **energy balance**.
 
 ---
 
-## 5. H0 EVOLUTION — QUANTITATIVE MODEL
+## 11. ENERGY BALANCE IN THE BLOCK CHAIN
 
-The evolution of the H0 Universe began at ID0.0 (Yin–Yang point) and continues through successive ID levels:
+### 11.1. Each Block's Balance
 
-1. **ID0.0** — matrix point (rotating Yin–Yang object).
-2. **ID1.0** — first proton.
-3. **ID1.1** — hydrogen.
-4. **ID1.2 — ID1.4** — atoms, molecules, macromolecules.
-5. **ID2.0 — ID2.5** — stars, planetary systems, galaxies.
-6. **ID3.0 — ID3.2** — white dwarfs, neutron stars.
-7. **ID4.0 — ID4.3** — black holes, AGN.
+For each block:
+\[
+\text{Input} = \text{Processing} + \text{Output}
+\]
 
-**H0 evolution is cyclic** — each successive step is longer than the previous one. H0 never becomes H+1 or H-1 — it remains at its own level.
+or formally:
+\[
+E^{(in)} = E^{(TE)} + E^{(out)}
+\]
 
-**13.8 billion years is the time since the last spatial expansion step, not the age of the Universe.**
+### 11.2. Total Balance
 
-### 5.1. Spatial Expansion Step (Quantitative)
+All blocks together form a closed energy system:
+\[
+\sum_n E_n^{(in)} = \sum_n E_n^{(TE)} + \sum_n E_n^{(out)}
+\]
 
-When the Vertical energy accumulation reaches the critical level \( \rho_{\mathcal{V}} > \rho_{\text{krit}} \), a spatial expansion step occurs.
+### 11.3. Stationary Mode
 
-**Transition time:**
-$$
-t_{\text{expansion}} \propto \frac{1}{\rho_{\mathcal{V}} - \rho_{\text{krit}}}
-$$
+When the system is in equilibrium:
+\[
+E_n^{(in)} = E_n^{(out)} \quad \forall n
+\]
 
-**Consequences:**
-1. Larger space creates a **new Qn TE transfer structure**.
-2. The new Qn structure is **incompatible** with the previous one.
-3. **Molecular bonds are broken**.
-4. Old star locations become **Oort clouds**.
-5. In the centers of Oort clouds, **star formation begins anew**.
+This means that energy flows through the block chain without accumulation (or accumulation in ID levels is constant).
 
----
+### 11.4. Non-Stationary Mode
 
-## 6. L1 ZONE AND CMB — QUANTITATIVE MODEL (3.0)
-
-The **L1 zone** is the projection structure of the Vertical onto the H0 matrix. It is not a "place" — it is a **mathematical structure of cyclicity** that transforms the Vertical flow into H0-matrix-compatible TE transfers.
-
-**CMB (Cosmic Microwave Background):**
-- **Not the Big Bang afterglow** — it is the projection of the L1 zone background temperature onto H0.
-- **Mean temperature 2.725 K** — the thermal equivalent projection of the L1 zone.
-- **5 harmonics** (\(\ell \approx 220, 538, 813, 1085, 1381\)) — projection of H0 matrix Qn shells.
-- **6th and 7th harmonics** (\(\ell \approx 1660, \ell \approx 1943\)) — MT predictions, awaiting verification.
-
-**Formally:**
-$$
-\ell_k = C \cdot n_k, \quad C = \frac{\ell_k}{n_k} \approx 35.325
-$$
-with \( n_k = 8k - 1 \) (\(k \ge 2\)) and \( n_1 = 6 \).
-
-**L1 projection operator \( \mathcal{P}_{L1} \) (3.0):**
-$$
-\mathcal{P}_{L1}[\rho_{\mathcal{V}}](\mathbf{x}) = \int_{\mathcal{V}} K(\mathbf{x}, \mathbf{x}') \, \rho_{\mathcal{V}}(\mathbf{x}') \, d\mathbf{x}'
-$$
-with kernel:
-$$
-K(\mathbf{x}, \mathbf{x}') = \sum_{n=1}^{\infty} \sum_{\hat{\mathbf{r}} \in \{\pm X, \pm Y, \pm Z\}} \frac{1}{N(n)} \cdot e^{i \mathbf{k}_n \cdot (\mathbf{x} - \mathbf{x}')} \cdot \mathcal{F}_n(\mathbf{x}, \mathbf{x}')
-$$
-
-For more detail, see COSMOLOGY_lv.md (3.0) Chapter 10, MATHEMATICS_lv.md (3.0) Chapter 5.
+When a block is overloaded:
+\[
+E_n^{(in)} > E_n^{(out)}
+\]
+then energy accumulates in the block and increases \( \rho_n^{(TE)} \), which in turn increases \( \rho_n^{(out)} \), until a new equilibrium is reached.
 
 ---
 
-## 7. THE MATRIX — STATIC ARCHITECTURE, DYNAMIC ENERGY (3.0)
+## 12. HOW THIS FORMALISM APPEARS IN CLASSICAL LAWS
 
-**The Matrix (H0)** is a static architecture — the ID1 lattice, Qn structure, and FV cycles do not change. In the ID system, it corresponds to **ID0** with Qn shells **ID0.n**.
+### 12.1. H0 Block and Electromagnetism
 
-However, the **energetic content of the matrix** is not static. It is determined by:
-- The **Vertical energy pyramid** (\( \rho_{\mathcal{V}} \)).
-- **H+n modulations** — large-scale transfer structure.
+H0 block's Matrix TE = TEU H-3 ("electric" field). H0 block's External TE = TEU H-2 ("magnetic" field).
 
-**The photon** is a free-energy formation (TEU H-2 × H-3) that interacts with the matrix and its energetic content. Its energy loss while traveling through the Vertical field is quantitatively calculable:
-$$
-\frac{dE}{dx} = -\beta \cdot E \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
-$$
+**This is electromagnetism** — and MT_QED 3.0 is the description of this block.
 
-For more detail, see COSMOLOGY_lv.md (3.0) Chapter 4, MT_QED_lv.md (3.0).
+### 12.2. H-1 Block and Nuclear Forces
 
----
+H-1 block's External TE = TEU H-3 ("magnetic" field at the H-1 level).
 
-## 8. SUMMARY OF TESTABLE PREDICTIONS (3.0)
+**This is the basis of nuclear forces** — TEU H-3 flow in the H-1 matrix. Nuclear forces are not a Vertical ID level — they are an internal process of the H-1 block.
 
-The MT quantitative formalism and ID system yield the following testable predictions:
+### 12.3. ID Level Activation and G Variability
 
-| Prediction | Equation | Value / prediction | Status | Test method | ID correspondence |
-|------------|----------|-------------------|---------|-------------|-------------------|
-| Fine-structure constant | \( \alpha = \frac{49 G_0}{24\pi \hbar c} \) | \( \alpha_{\text{MT}} \approx 0.0073 \) | Confirmed (< 0.4%) | Precision spectroscopy | ID1 |
-| G variability in galactic centers | \( G(r) = G_0 (1 + 0.18 \cdot \rho_{\mathcal{V}}(r)/\rho_{\text{H0}}) \) | \( G(0)/G_0 \approx 1.50 \) | Awaiting test | Stellar orbits (GRAVITY) | ID2 / ID-1 |
-| 6th CMB peak | \( \ell_6 = 35.325 \times 47 \) | \( \ell_6 \approx 1660 \) | Awaiting test | CMB-S4, Simons Obs. | ID0.47 |
-| 7th CMB peak | \( \ell_7 = 35.325 \times 55 \) | \( \ell_7 \approx 1943 \) | Awaiting test | CMB-S4, Simons Obs. | ID0.55 |
-| ID dependence on \( \rho_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) | Black hole mass correlation | Awaiting test | Black hole mass measurements | ID4 |
-| \( \varepsilon_0 \) dependence on \( \rho_{\mathcal{V}} \) | \( \varepsilon_0 = \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | — | Awaiting test | Quantum metrology | ID0 / ID-1 |
-| \( \mu_0 \) dependence on \( \rho_{\mathcal{V}} \) | \( \mu_0 = \frac{49}{6} \cdot \frac{2\pi}{\hbar c^2} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) | — | Awaiting test | Quantum metrology | ID0 / ID-1 |
-| Neutrino masses | \( m_i = M_P \cdot \alpha^{n_i} \) | \( m_1 \approx 0.0015, m_2 \approx 0.0087, m_3 \approx 0.050 \, \text{eV} \) | Awaiting test | DUNE, Hyper-K, KATRIN | ID1.1 / ID-1 |
-| Consciousness intensity under anesthesia | \( \mathcal{C} = \int \| \mathcal{P}_{L1} - \Phi \|^2 \) | \( \mathcal{C} \) increases | Theoretical | EEG/fMRI | ID1.4 / ID-1 |
+In galactic centres:
+- High matter density → high input energy in all blocks.
+- Thresholds exceeded → ID-1, ID-2, ID-3... activated.
+- \( \rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \dots \) is large.
+- \( G = G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{H0}) \) increases.
+
+**G variability is a consequence of ID level activation.**
 
 ---
 
-## 9. CORRESPONDENCE WITH MATHEMATICS 3.0 AND ID_GRADIENT 3.0
+## 13. CONCLUSIONS (3.3)
 
-This document is fully aligned with:
+1. **A Horizontal is an autonomous block** — each block operates according to the same principle, regardless of level. Each block has its own matrix, its own rotation, and its own capacity — they are not derivable from neighboring blocks.
 
-- **MATHEMATICS 3.0** — all operators and quantities are derived from MATHEMATICS 3.0 definitions.
-- **ID_GRADIENT 3.0** — the ID system is aligned with the new \( \rho_{\mathcal{V}} \) correction and methodological clarification.
-- **MT_QED 3.0** — \( \varepsilon_0 \) and \( \mu_0 \) as matrix state functions.
-- **GRAVITY 3.0** — \( \gamma \) as the cyclicity scale, G variability.
-- **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB predictions.
-- **ROADMAP 3.0** — separation of H0 and L1 paths, L1 as a cyclicity structure.
+2. **Each block has four fundamental elements** — Matrix, Matrix TE, External TE, and "Proton". This logic is complete — it covers the entire energy flow cycle in the Vertical.
 
-**Major 3.2 changes (additions to version 3.1):**
-1. **Universal Horizontal structure** — four fundamental elements that repeat in every Horizontal with a step of \(10^{20}\).
-2. **Separation of functions and TEU levels** — functions (electric, magnetic) are universal, but TEU levels change depending on the Horizontal.
-3. **Origin of nuclear forces** — nuclear forces are TEU H-3 TE flow in the H-1 matrix, not ID-2 or a Vertical level.
-4. **Vertical ID levels as a free energy damper** — ID-1, ID-2, ID-3... are accumulations of excess TE energy from their respective Horizontals.
-5. **TZ as a resonance zone and TEU generator** — TZ transforms incompatible energy into the next level's TE flows.
+3. **Functions are universal** — Matrix TE is always the "electric" field, External TE is always the "magnetic" field.
 
----
+4. **The Vertical and the Horizontal are two mutually perpendicular directions.** The Vertical moves toward finer scales (H+max → H-min), the Horizontal moves toward larger scales (ID0 → ID5).
 
-## 10. CONCLUSIONS (3.2)
+5. **H0 is only a relative reference point** — our Universe's Horizontal. The Vertical knows no "center."
 
-1. **MT is a quantitatively formulated theory** — all major quantities are defined by operators from the MATHEMATICS formalism (3.0).
+6. **Singularity is an unattainable direction for the Vertical.** The matrix switches H-level, preventing energy from collapsing to infinity.
 
-2. **MT is connected to the ID system (3.0)** — all objects are classified by modulation and size category, providing a unified system of organizational levels.
+7. **An object's function in the Vertical changes depending on the H-level** — the same object performs different functions at different levels (evolution object, TEU object, External TE, Matrix TE).
 
-3. **MT is testable** — it provides precise numerical predictions that can be compared with experiments.
+8. **Monolithic objects (proton, neutron star, black hole) are the only ones that can contain the next H-level's matrix within themselves.** Collective objects (stars, planets, galaxies) are collections of protons and have no internal matrix.
 
-4. **MT is reducible** — in the appropriate limits, it reduces to classical physics (Newtonian gravity, Maxwell's electrodynamics, quantum mechanics).
+9. **ID levels determine an object's ability to contain the next H-level's structure.** ID0 objects cannot yet form an H-2 Universe; monolithic objects (ID2, ID3, ID4) already can.
 
-5. **MT does not require dark matter or dark energy as unknown forces** — they are replaced by the influence of Vertical energy on G and on photon energy loss.
+10. **The internal ID structure never exceeds the external ID level** — the internal level is always at least one step lower than the external level.
 
-6. **MT has no singularities** — the matrix switches H-level, preventing energy from collapsing to infinity.
+11. **Blocks have capacity and threshold** — when energy exceeds the threshold, it becomes excess and enters the Vertical.
 
-7. **MT is a complementary framework** — it does not compete with classical theories, but provides them with a mechanical foundation.
+12. **The Vertical is a damper** — ID levels (ID-1, ID-2, ID-3...) absorb excess energy from their respective blocks.
 
-8. **The MT formalism is universal** — it can be applied to any H-level (H-2, H-1, H0, H+1, H+2...); current MT documents describe only the H0 level.
+13. **TZ is the interface between blocks** — it transforms energy from one block's format to the next.
 
-9. **The Vertical has a Matryoshka structure** — all H-levels are located inside one another; the step between adjacent levels is \(10^{20}\).
+14. **Blocks form a Matryoshka** — each block contains the next and is located inside the previous.
 
-10. **TZ is Vertical space between levels** — it contains free energy; classical physics does not see TZ but sees its effects as fields.
+15. **Energy balance is the primary connection** — not scaling, but energy flow and distribution.
 
-11. **Every Horizontal has 4 fundamental elements** — Matrix, Matrix TE ("Electric"), External TE ("Magnetic"), and "Proton" (the next Horizontal's object).
+16. **MT_QED 3.0 is a description of the H0 block** — it is valid at the H0 level, but it is not universal.
 
-12. **Functions are universal, but TEU levels change** — with a step of \(10^{20}\) in every Horizontal.
+17. **Nuclear forces are an H-1 block process** — they are TEU H-3 flow in the H-1 matrix, not ID-2.
+
+18. **G variability is a consequence of ID level activation** — caused by block overflow in galactic centres.
 
 ---
 
 ## NOTE
 
-This document is the **foundational MT version 3.2**, which supplements version 3.1 with the Universal Horizontal Structure (four fundamental elements), the separation of functions and TEU levels, the clarification of nuclear forces origin, the definition of Vertical ID levels as a damper, and TZ as a resonance zone and TEU generator. These additions are essential for providing a stable reference for future work on MT documents and theory development.
+This document is **MT foundational version 3.3**, which introduces the conceptual foundation of the Horizontal block formalism, including the separation of Vertical and Horizontal directions, object multifunctionality in the Vertical, the distinction between monolithic and collective objects, the role of ID levels in Vertical formation, and the internal ID structure rule.
 
-More detailed information on individual aspects is available in other MT documents (versions 3.0, 3.1, and 3.2).
+The detailed mathematical formalism (operators, equations, overflow conditions, balance equations) is developed in a separate document **MATHEMATICS 4.0**.
+
+This document serves as the "user manual" for understanding block logic, while MATHEMATICS 4.0 is the "technical specification" — the rigorous formalism that describes this logic.
+
+More detailed information on individual aspects is available in other MT documents (versions 3.0, 3.1, 3.2, and 3.3).
 
 ---
 
 *Document prepared: August 2026*  
-*Version: 3.2 — supplemented with Universal Horizontal Structure, separation of functions and TEU levels, origin of nuclear forces, Vertical as a damper, and TZ as a TEU generator*
+*Version: 3.3 — introduces the conceptual foundation of the Horizontal block formalism with detailed object multifunctionality and ID level roles*
