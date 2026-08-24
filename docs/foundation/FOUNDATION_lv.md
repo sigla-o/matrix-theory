@@ -1,14 +1,24 @@
 # FOUNDATION — MATRICAS TEORIJAS PAMATS
 
-## Pārstrādātā versija (2026. gada augusts) — 3.2
+## Pārstrādātā versija (2026. gada augusts) — 3.3
 
-Šis dokuments nosaka Matricas teorijas (MT) darbības robežas, pamatprincipus un Visuma evolūcijas konceptuālo ietvaru. Tas ir teorijas sākumpunkts, no kura izaug viss pārējais, un tagad tas ir savienots ar MATHEMATICS formālismu (3.0), ID sistēmu (3.0), kā arī apkopo kvantitatīvos rezultātus no COSMOLOGY, GRAVITY un MT_QED.
+Šis dokuments nosaka Matricas teorijas (MT) darbības robežas, pamatprincipus un Visuma evolūcijas konceptuālo ietvaru. 3.3 versija ievieš **Horizontāles bloku formālisma konceptuālo pamatu** — veidu, kā saprast katru Horizontāli kā autonomu bloku, kas darbojas pēc vienotiem principiem, un kā šie bloki savienojas, veidojot Vertikāles matrjošku.
 
-**3.2 versijas jaunie papildinājumi:**  
-- **Horizontāles universālā struktūra** — četri pamatelementi, kas atkārtojas katrā Horizontālē ar soli \(10^{20}\): Matrica, Matricas TE ("Elektriskais"), Ārējā TE ("Magnētiskais") un "Protons" (nākamās Horizontāles objekts).  
-- **Funkciju un VEU līmeņu nošķīrums** — funkcijas (elektriskais, magnētiskais) ir universālas, bet VEU līmeņi mainās atkarībā no Horizontāles.  
-- **Kodolspēku izcelsme** — kodolspēki ir VEU H-3 TE plūsma H-1 matricā, nevis ID-2 vai Vertikāles līmenis.  
-- **Vertikāles ID līmeņi kā liekās enerģijas amortizators** — ID-1, ID-2, ID-3... ir liekās TE enerģijas uzkrājumi no attiecīgajām Horizontālēm.
+**3.3 versijas jaunais papildinājums:**  
+- **Horizontāles bloku koncepts** — katras Horizontāles (H0, H-1, H+1, ...) kā autonoma bloka definīcija.  
+- **Bloka iekšējā loģika** — četri pamatelementi (Matrica, Matricas TE, Ārējā TE, "Protons") un to savstarpējā darbība.  
+- **Ievades un izvades mehānisms** — kā enerģija ieplūst blokā, tiek apstrādāta un izplūst kā liekā enerģija.  
+- **Pārplūdes un sliekšņu loģika** — kāpēc un kad enerģija kļūst "lieka" un nonāk Vertikālē.  
+- **ID līmeņi kā amortizators** — kā Vertikāles ID līmeņi (ID-1, ID-2, ID-3...) uzņem lieko enerģiju no attiecīgajiem blokiem.  
+- **Bloku savienojums caur TZ** — kā Transformācijas zona (TZ) pārveido enerģiju starp blokiem.  
+- **Matrjoškas princips kā bloku ķēde** — kā visi bloki kopā veido Vertikāles struktūru.  
+- **Vertikāles un Horizontāles virzienu nošķīrums** — Vertikāle virzās uz smalkuma pusi, Horizontāle uz lieluma pusi.  
+- **Objekta daudzfunkcionalitāte Vertikālē** — kā viens un tas pats objekts dažādos līmeņos pilda dažādas funkcijas (evolūcijas objekts, VEU objekts, Ārējā TE, Matricas TE).  
+- **Monolītu un kolektīvu objektu atšķirība** — tikai monolīti objekti spēj savā iekšienē veidot nākamā H līmeņa struktūru.  
+- **ID līmeņu loma Vertikāles veidošanā** — ID0 objekti vēl nevar veidot nākamā H līmeņa struktūru; monolīti objekti (ID2, ID3, ID4) jau var.  
+- **Iekšējās ID struktūras noteikums** — iekšējā ID struktūra nekad nepārsniedz ārējo ID līmeni.
+
+**Detalizēts matemātiskais formālisms:** Šī dokumenta konceptuālā pamata stingrā matemātiskā realizācija ir izstrādāta atsevišķā dokumentā **MATHEMATICS 4.0** — Bloku formālisms.
 
 **Galvenā atziņa:** MT nav teorija par "Visuma sākumu" — tā ir teorija par **enerģijas organizācijas ciklisko pāreju** starp Horizontālēm, kas ir kvantitatīvi formulējama un pārbaudāma.
 
@@ -16,441 +26,500 @@
 
 ---
 
-## 1. TEORIJAS DARBĪBAS ROBEŽAS
+## 1. HORIZONTĀLES BLOKS — PAMATSTRUKTŪRA
 
-Matricas teorija nepretendē aprakstīt pilnu realitāti.
+### 1.1. Bloka definīcija
 
-Tā apraksta **vienu Mūžības enerģijas cikla Vertikāli**. Jautājums par to, cik Vertikāļu eksistē Mūžībā un kā tās savstarpēji organizējas, šajā teorijā netiek aplūkots.
+Horizontāle ir **autonoms enerģijas organizācijas bloks**. Katrs bloks (neatkarīgi no tā, vai tas ir H0, H-1, H+1 vai jebkurš cits līmenis) darbojas pēc **viena un tā paša principa**. Bloki nav "lielākas" vai "mazākas" viena otras versijas — tie ir patstāvīgi režīmi ar saviem iekšējiem likumiem. Katram blokam ir sava matrica, sava rotācija un sava kapacitāte — tie nav atvasināmi no kaimiņu blokiem.
 
-MT darbības diapazons aptver aptuveni \(10^{-115}\) m līdz \(10^{105}\) m. Šī nav galējā robeža, bet praktiska teorijas darba zona.
+**Bloka definīcija:**
+\[
+\text{Bloks} = \{ \text{Matrica}, \text{Matricas TE}, \text{Ārējā TE}, \text{"Protons"} \}
+\]
 
-**Teorija necenšas atbildēt uz jautājumu "kas bija pirms" — tā atbild uz jautājumu "kā enerģija organizējas".**
+Šī loģika ir pilnīga — tā aptver visu enerģijas plūsmas ciklu Vertikālē, no ievades līdz pārplūdei un atpakaļ.
 
-### 1.1. MT attiecības ar klasiskajām teorijām (metodoloģiskais precizējums) — 3.0
+### 1.2. Četri pamatelementi
 
-Matricas teorija **nekonkurē** ar vispārpieņemtajām fizikas teorijām un **nemēģina tās noliegt**.
+Katrā Horizontāles blokā ir četri pamatelementi, kas veido tā iekšējo struktūru:
 
-- Klasiskās teorijas (Īpašā un Vispārīgā relativitāte, Kvantu elektrodinamika, Lambda-CDM modelis, kvantu mehānika) ir **empīriski fenomenoloģiski likumi**, kas lieliski apraksta un prognozē novērojumus savās darbības zonās (L1 un H0 līmenī).
-- MT uzdevums ir sniegt **dziļāku mehānisko izcelsmi** šiem likumiem. Ja klasiskā teorija spēj aprakstīt likumsakarību, MT to neapšauba — tā parāda, kā šī likumsakarība izriet no ID0 režģa TE pārneses, Qn struktūras un Vertikāles (ID-1) mijiedarbības.
+| **Elements** | **Funkcija** | **H0 līmenī** | **H-1 līmenī** |
+| :--- | :--- | :--- | :--- |
+| **Matrica** | Pamats (režģis, kabatas, rotācija) | \(10^{-35}\) m | \(10^{-55}\) m |
+| **Matricas TE** | "Elektriskais" lauks (gradients, Kulons) | VEU H-3 (\(10^{-75}\) m) | VEU H-4 (\(10^{-95}\) m) |
+| **Ārējā TE** | "Magnētiskais" lauks (cirkulācija) | VEU H-2 (\(10^{-55}\) m) | VEU H-3 (\(10^{-75}\) m) |
+| **"Protons"** | Nākamās Horizontāles objekts | \(10^{-15}\) m | \(10^{-35}\) m |
 
-**"Kartes un teritorijas" princips:**
-- Klasiskā fizika ir precīzā **karte**.
-- MT apraksta **teritoriju** (diskrēto matricu un Vertikāli), uz kuras šī karte ir veidota.
+**Svarīgākais:** Funkcijas ir universālas. Katrā blokā:
+- Matricas TE pilda **"elektriskā lauka"** funkciju.
+- Ārējā TE pilda **"magnētiskā lauka"** funkciju.
+- "Protons" ir nākamās Horizontāles objekts (monolīts objekts).
 
-Tādējādi MT reducējas uz klasiskajiem vienādojumiem atbilstošās robežās (skat. Korespondences principu MATHEMATICS 7. nodaļā), bet piedāvā jaunus skaidrojumus anomālijām (tumšā matērija/enerģija) un prognozē jaunus efektus (G mainība, augstāki CMB pīķi), kas klasiskajā kartē nav redzami.
+### 1.3. Bloka iekšējā darbība
 
-### 1.2. MT formālisma universālums — 3.1
+Katrā blokā notiek trīs procesi:
 
-MT formālisms (kabatas, rotācija, TE pārnese, Qn struktūra, FV, TZ) ir **universāls** — to var piemērot **jebkuram H līmenim** (H-2, H-1, H0, H+1, H+2...). Atšķiras tikai skaitliskās vērtības (režģa solis \( \lambda \), rotācijas frekvence \( \omega \), pārneses kvants \( \phi_0 \)).
+1. **Ievade** — enerģija no ārējā bloka (Ārējā TE) ieplūst blokā.
+2. **Apstrāde** — bloka Matrica apstrādā ievades enerģiju, radot Matricas TE ("elektrisko" lauku).
+3. **Izvade** — daļa enerģijas tiek pārveidota par "Protonu" (nākamās Horizontāles objektu), bet daļa kļūst **lieka** un tiek nodota tālāk.
 
-Pašreizējie MT dokumenti (FOUNDATION, MATHEMATICS, GRAVITY, COSMOLOGY, MT_QED) apraksta tikai **H0 līmeni**. Tie ir pilnīgi un korekti H0 apraksti, bet tie nav Vertikāles teorija — tie aptver tikai vienu "šūnu" no Vertikāles matrjoškas.
+**Bloka iekšējā bilance:**
+\[
+\text{Ievade} = \text{Apstrāde} + \text{Izvade}
+\]
 
----
+### 1.4. Vertikāles un Horizontāles virzienu nošķīrums
 
-## 2. SAVIENOJUMS AR MATHEMATICS FORMĀLISMU UN ID SISTĒMU (3.0)
+Vertikāle un Horizontāle ir divi savstarpēji perpendikulāri virzieni, kas kopā veido pilnu enerģijas organizācijas struktūru.
 
-MT kvantitatīvais pamats ir definēts MATHEMATICS_lv.md (3.0). ID sistēma (ID_GRADIENT_lv.md 3.0) nodrošina organizācijas līmeņu klasifikāciju. Šeit ir apkopoti galvenie operatori, lielumi un ID līmeņi, kas tiek izmantoti visos pārējos dokumentos:
+**Vertikāle** — virzās **uz smalkuma pusi** (uz leju):
+\[
+H_{+max} \rightarrow H_{+2} \rightarrow H_{+1} \rightarrow H_0 \rightarrow H_{-1} \rightarrow H_{-2} \rightarrow \cdots \rightarrow H_{-min}
+\]
 
-| Operators / lielums | Definīcija | Fizikālā nozīme | ID atbilstība |
-|---------------------|------------|-----------------|---------------|
-| \( \mathcal{L} \) | \( \mathbb{Z}^3 \) | H0 matricas režģis | ID0 |
-| \( Q_n \) | \( \{\mathbf{x}: \|\mathbf{x}\|_\infty \leq n\} \) | Qn apvalku struktūra | ID0.n |
-| \( N(n) \) | \( \frac{(2n+1)(2n^2+2n+3)}{3} \) | Punktu skaits Qn slānī | ID0.n |
-| \( \Phi(\mathbf{x},\mathbf{y}) \) | \( \mathcal{L} \times \mathcal{L} \to \mathbb{R}^+ \) | TE pārneses lauks | ID0 |
-| \( \rho_{\mathcal{V}}(\mathbf{x}) \) | \( \rho_{\mathcal{V}}^{(0)} e^{-r/r_0} \) | Vertikāles enerģijas blīvums | ID-1 |
-| \( \mathcal{T} \) | \( \mathcal{L} \to \mathcal{V} \) | Transformācijas zona (H0 → Vertikāle) | ID-1 / ID0 |
-| \( \mathcal{P}_{L1} \) | \( \int K \rho_{\mathcal{V}} \) | L1 projekcijas operators (integrālais) | ID0 |
-| \( \gamma \) | \( 2\pi/C \approx 0.18 \) | Cikliskuma inversais mērogs | ID0 / ID-1 |
-| \( C \) | \( \ell_k/n_k \approx 35.325 \) | Cikliskuma konstante | ID0.n |
-| \( \varepsilon_0 \) | \( \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | Vakuuma caurlaidība (matricas stāvokļa funkcija) | ID0 |
-| \( G \) | \( G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \) | Mainīgā gravitācijas konstante | ID0 / ID-1 |
+**Horizontāle** — virzās **uz lieluma pusi** (uz augšu):
+\[
+ID0 \rightarrow ID1 \rightarrow ID2 \rightarrow ID3 \rightarrow ID4 \rightarrow ID5 \rightarrow \cdots
+\]
 
----
+**Vertikāle un Horizontāle nav viens un tas pats virziens. Vertikāle ir lejupejoša (uz smalkākiem līmeņiem), Horizontāle ir augšupejoša (uz lielākiem objektiem).**
 
-## 3. ID SISTĒMAS PAMATLĪMEŅI (3.0)
+**H0** ir tikai relatīvs atskaites punkts — mūsu Visuma Horizontāle. Tas nav "centrs" vai "sākums". Tas ir tikai tas līmenis, kurā mēs atrodamies. Vertikāle nezina par "centru" — tā ir nepārtraukta virzība no lielākā uz smalkāko.
 
-ID sistēma organizē visus objektus pēc modulācijas (ietekmes līmeņa) un lieluma kategorijas:
-
-| ID līmenis | Modulācija | Lieluma skala (m) | Saturs |
-|------------|------------|-------------------|--------|
-| ID-1 | — | < 10⁻³⁵ | Vertikāle (enerģijas avots) |
-| ID0 | — | 10⁻³⁵ | Matrica (režģis, TE pārneses pamats) |
-| ID1 | H+1 | 10⁻¹⁵ | Protoni, atomi, molekulas |
-| ID2 | H+2 | 10⁵ – 10²⁵ | Zvaigznes, planētas, galaktikas |
-| ID3 | H+3 | 10²⁵ – 10⁴⁵ | Zvaigžņu kopas, galaktiku kopas |
-| ID4 | H+4 | 10⁴⁵ – 10⁶⁵ | Liela mēroga Visuma struktūras |
-| ID5 | H+5 | > 10⁶⁵ | Atvērts nākotnei |
-
-Detalizēta ID sistēmas struktūra un piemēri ir sniegti ID_GRADIENT_lv.md (3.0).
-
-**Piezīme par ID un klasiskajām teorijām:** ID sistēma klasificē visus objektus — gan tos, kurus apraksta klasiskā fizika (ID1 — ID4), gan MT specifiskos līmeņus (ID0, ID-1). Tas nenozīmē, ka klasiskie objekti būtu "nepareizi" aprakstīti — ID sistēma vienkārši norāda to vietu kopējā enerģijas organizācijas hierarhijā.
-
-**ID sistēma katrai Horizontālei:** Katram H līmenim ir sava ID sistēma — objekti, kas tajā pastāv, tiek klasificēti pēc to lieluma un modulācijas attiecīgajā līmenī. Piemēram, H+1 līmenī ID1 atbilst to "H0" matricai, ID2 atbilst to protoniem utt.
+**Singularitāte Vertikālei ir nesasniedzams virziens.** Fiziski Vertikāle nekad nevar sasniegt punktu, kurā visi līmeņi sabrūk vienā. Singularitāte ir matemātiska abstrakcija, ko klasiskā fizika izmanto, bet MT tā nav — matrica pārslēdz H līmeni, neļaujot enerģijai sabrukt līdz bezgalībai.
 
 ---
 
-## 4. PAMATDEFINĪCIJAS
+## 2. IEKŠĒJIE UN ĀRĒJIE PROCESI BLOKĀ
 
-### 4.1. Mūžība
+### 2.1. Matrica un rotācija
 
-Mūžība ir globāls enerģijas cikls.
+Matrica ir bloka pamats — režģis, kurā kabatas rotē ar noteiktu frekvenci. Šī rotācija rada TE plūsmas, kas pārvietojas pa matricu.
 
-Tā ir augstākā zināmā organizācijas pakāpe, kuru šī teorija izmanto kā atskaites sistēmu. Mūžības pilnā struktūra teorijā netiek modelēta.
+**Matricas īpašības:**
+- Katram blokam ir savs matricas solis.
+- Katram blokam ir sava rotācijas frekvence.
+- Rotācija ir sinhronizēta visā blokā.
 
-Mūžības cikls balstās uz divām savstarpēji saistītām sastāvdaļām — **Vertikāli** un **Horizontāli**.
+### 2.2. Matricas TE ("Elektriskais" lauks)
 
-**MT neapgalvo, ka Mūžībai ir sākums vai beigas — tā apraksta tās procesus.**
+Matricas TE ir enerģijas plūsma, ko rada matricas kabatu rotācija. Tā pilda "elektriskā lauka" funkciju šajā blokā.
 
-### 4.2. Vertikāle (ID-1) — strukturālā arhitektūra — 3.1
+**Matricas TE īpašības:**
+- Tā ir atkarīga no matricas rotācijas un kabatu fāzēm.
+- Tās blīvums samazinās kā \(1/r^2\) ap "Protonu".
+- Tā veido gradientus, kas iedarbojas uz citiem objektiem blokā.
 
-Vertikāle veidojas Pamat-Horizontāles enerģiju nezūdamības, saglabāšanas un akumulācijas procesu rezultātā. Sasniedzot kritisko enerģijas akumulācijas līmeni, izveidojas jauna (smalkāka) Horizontāle. Šis cikliskais mehānisms veido Mūžības cikla pamatu un Vertikāles līmeņu hierarhiju.
+**H0 līmenī:** Matricas TE = VEU H-3 (elektromagnētisma pamats).
+**H-1 līmenī:** Matricas TE = VEU H-4.
 
-**Vertikāle ir enerģijas akumulācijas sistēma.** Katrs Vertikāles līmenis atbilst noteiktam enerģijas uzkrājuma dziļumam (VEU H-3, H-4, ... H-min), kas ID sistēmā atbilst **ID-1.n**.
+### 2.3. Ārējā TE ("Magnētiskais" lauks)
 
-**Formāli:** Vertikāle ir enerģijas līmeņu kopa:
-$$
-\mathcal{V} = \{ E_{H-3}, E_{H-4}, \dots, E_{H-\text{min}} \}
-$$
-ar kopējo enerģiju \( E_{\mathcal{V}} = \sum_{k=3}^{\text{min}} E_{H-k} \).
+Ārējā TE ir enerģijas plūsma, kas nāk no ārējā bloka un ieplūst šajā blokā. Tā pilda "magnētiskā lauka" funkciju — tā ir cirkulācija, ko rada kustīga Matricas TE.
 
-Vertikāle nepārtraukti uztur enerģijas plūsmu uz H0 matricu caur **L1 zonu** un **TZ (Transformācijas zonu)**.
+**Ārējās TE īpašības:**
+- Tā nāk no nākamās (lielākās) Horizontāles caur TZ.
+- Tā ir Matricas TE "kustības" blakusefekts.
+- Tā veido cirkulāciju, kas iedarbojas uz kustīgiem objektiem blokā.
 
-**Vertikāle nav "vieta" — tā ir enerģijas struktūra, kas nepārtraukti baro H0 matricu.**
+**H0 līmenī:** Ārējā TE = VEU H-2 (magnētiskā lauka pamats).
+**H-1 līmenī:** Ārējā TE = VEU H-3 (kodolspēku pamats).
 
-**Vertikāle kā amortizators — 3.2:**
+### 2.4. "Protons" — nākamās Horizontāles objekts
 
-Vertikāle ir **TE plūsmas amortizators**. Tā uzņem **lieko** TE enerģiju no katras Horizontāles matricas TE plūsmām. Katrs Vertikāles ID līmenis atbilst **konkrētas Horizontāles matricas TE liekajai daļai**:
+"Protons" ir monolīts objekts, kas veidojas no Matricas TE un Ārējās TE mijiedarbības. Tas ir nākamās Horizontāles pamats.
 
-- **ID-1** = liekā VEU H-3 enerģija (no H0 matricas TE)
-- **ID-2** = liekā VEU H-4 enerģija (no H-1 matricas TE)
-- **ID-3** = liekā VEU H-5 enerģija (no H-2 matricas TE)
+**"Protona" īpašības:**
+- Tas ir bloka "sabiezējums" — enerģijas fokuss.
+- Tam ir sava iekšējā matrica (nākamā bloka Matrica).
+- Tas ir tilts starp blokiem.
+
+---
+
+## 3. OBJEKTA DAUDZFUNKCIONALITĀTE VERTIKĀLĒ
+
+Viens un tas pats objekts Vertikālē pilda dažādas funkcijas atkarībā no tā, kurā H līmenī mēs uz to skatāmies. Tas nav atkarīgs no paša objekta — tas ir atkarīgs no **novērošanas līmeņa**.
+
+### 3.1. Mūsu protons kā piemērs
+
+**H0 līmenī (mūsu Horizontāle):**
+- Protons ir **evolūcijas objekts**.
+- Viņš ir pirmais stabilais objekts, kas veidojas no H0 matricas TE un ārējās TE mijiedarbības.
+- Viņš ir **sākums H-1 Visuma evolūcijai** — viņš ir "pirmais" savā līmenī.
+- H0 līmenī protons veido matēriju: atomus, molekulas, zvaigznes, planētas, galaktikas.
+- Šajā līmenī protons ir **aktīvs dalībnieks** — viņš mijiedarbojas ar citiem protoniem, veidojot sarežģītākas struktūras.
+
+**H+1 līmenī (nākamā, lielākā Horizontāle):**
+- Protons ir **VEU objekts**.
+- H+1 līmenī protons (un visi H0 objekti) vairs nav "matērija" — tie ir **enerģijas struktūras** jeb VEU objekti.
+- **Divi protoni** H+1 līmenī veido **iņ–jaņ pamatu** — H+1 matricas pamata struktūru.
+- Šajā līmenī protons ir **pasīvs elements** — viņš vairs neveido matēriju, bet kalpo par H+1 matricas celtniecības bloku.
+
+**H+2 līmenī (vēl lielāka Horizontāle):**
+- Protons pilda **Ārējās TE** funkciju.
+- H+2 līmenī protons (un visi H0 un H+1 objekti) pilda Ārējās TE funkciju — tie ir enerģijas plūsmas, kas ieplūst H+1 blokā no ārpuses.
+- Šajā līmenī protons ir kā **"magnētiskais" lauks** H+1 līmenī — viņš nodrošina cirkulāciju un enerģijas plūsmu.
+
+**H+3 līmenī (vēl lielāka Horizontāle):**
+- Protons pilda **Matricas TE** funkciju.
+- H+3 līmenī protons (un visi zemākie objekti) pilda Matricas TE funkciju — tie ir "elektriskais" lauks H+2 līmenī.
+- Šajā līmenī protons ir kā **gradients** — viņš veido Kulona lauka analogu H+2 līmenī.
+
+### 3.2. Universālais princips
+
+**Jebkurš VEU objekts Vertikālē pilda dažādas funkcijas atkarībā no tā, kurā līmenī mēs uz to skatāmies.**
+
+Šo principu var vispārināt:
+
+1. **Katrā H līmenī objekts ir "protons"** — vietējais evolūcijas objekts, kas veido matēriju šajā līmenī.
+2. **Nākamajā (augstākajā) H līmenī** — tas pats objekts kļūst par **VEU objektu**, kas veido matricas pamatu.
+3. **Vēl augstākā H līmenī** — tas pats objekts pilda **Ārējās TE** funkciju.
+4. **Vēl augstākā H līmenī** — tas pats objekts pilda **Matricas TE** funkciju.
+
+**Funkcija mainās, bet objekts paliek nemainīgs. Mainās tikai skata punkts.**
+
+### 3.3. Horizontāles un Vertikāles krustpunkts
+
+Katrā H līmenī Vertikāle un Horizontāle krustojas:
+
+- **Vertikāle** nosaka, kurā H līmenī objekts atrodas (H0, H-1, H+1...).
+- **Horizontāle** nosaka, kādu ID līmeni objekts ir sasniedzis savā evolūcijā (ID0, ID1, ID2...).
+
+Objekta funkcija Vertikālē ir atkarīga no tā H līmeņa. Objekta evolūcijas pakāpe ir atkarīga no tā ID līmeņa.
+
+---
+
+## 4. MONOLĪTI UN KOLEKTĪVI OBJEKTI
+
+Lai saprastu, kuri objekti spēj savā iekšienē veidot nākamā H līmeņa struktūru, ir jānošķir **monolīti** un **kolektīvi** objekti.
+
+**Monolīts objekts** — objekts, kam ir sava iekšējā matrica un kas spēj saturēt nākamā H līmeņa struktūru. Monolīts objekts ir viens, neatkarīgs, ar savu matricu.
+
+**Monolītu objektu piemēri:**
+- **Protons** (ID0) — ir sava iekšējā matrica, bet vēl nevar veidot H-2 Visumu.
+- **Neitronu zvaigzne** (ID3) — monolīts objekts.
+- **Baltais punduris** (ID2) — monolīts objekts.
+- **Melnais caurums** (ID4) — monolīts objekts (jau var veidot H-2 Visumu).
+
+**Kolektīvs objekts** — daudzu protonu (vai citu monolītu objektu) kopums, kam **nav** savas iekšējās matricas. Kolektīvi objekti ir daudzu protonu kopumi, bez iekšējās matricas.
+
+**Kolektīvu objektu piemēri:**
+- **Zvaigzne** — daudzu protonu kopums, nav iekšējās matricas.
+- **Planēta** — kolektīvs objekts.
+- **Galaktika** — kolektīvs objekts.
+
+**Monolīts objekts — viens, neatkarīgs, ar savu matricu. Kolektīvs objekts — daudzu protonu kopums, bez savas matricas.**
+
+---
+
+## 5. ID LĪMEŅU LOMA VERTIKĀLES VEIDOŠANĀ
+
+ID sistēma nosaka, kad objekts ir pietiekami "nobriedis", lai savā iekšienē varētu veidot nākamā H līmeņa struktūru. Tā ir **"atļauja"** nākamajam H līmenim — bez pietiekami augsta ID līmeņa nākamais H līmenis nevar veidoties.
+
+### 5.1. ID0 — "protons" (vēl nevar veidot iekšējo H līmeni)
+
+- Mūsu Visuma protons (H-1 objekts) ir **ID0**.
+- ID0 nozīmē, ka protons vēl **nevar** savā iekšienē veidot stabilu H-2 "protonu" (savu iekšējo ID0 objektu).
+- Protons vēl nav pietiekami "liels" un "organizēts", lai saturētu nākamā H līmeņa matricu.
+- Lai gan protonam ir iekšējā matrica, tā vēl nav pietiekami attīstīta, lai tajā veidotos jauna Horizontāle.
+
+### 5.2. Monolīti objekti ID2, ID3, ID4 (jau var veidot iekšējo H līmeni)
+
+- Kad monolīts objekts sasniedz **ID2, ID3 vai ID4**, tas jau **var** savā iekšienē veidot stabilus H-2 objektus (ID0, ID1).
+- Šajā līmenī objekts ir pietiekami "nobriedis", lai saturētu nākamā H līmeņa matricu un sāktu jaunu Horizontāli savā iekšienē.
+
+**Piemēri:**
+- **Melnais caurums** (ID4) savā iekšienē jau var veidot stabilu H-2 Visumu. Tas izskaidro, kāpēc melnie caurumi tiek uzskatīti par "portāliem" uz citām Horizontālēm — to iekšienē jau ir sākusies nākamā līmeņa evolūcija.
+- **Neitronu zvaigzne** (ID3) arī var veidot H-2 Visumu savā iekšienē.
+- **Baltais punduris** (ID2) arī var veidot H-2 Visumu savā iekšienē, lai gan mazākā mērogā.
+
+### 5.3. Iekšējās ID struktūras noteikums
+
+**Iekšējā ID struktūra nekad nepārsniedz ārējo ID līmeni.**
+
+Tas nozīmē:
+- Ja ārējais objekts ir **ID0**, tā iekšienē nevar būt ID1 vai ID2 struktūras.
+- Ja ārējais objekts ir **ID2**, tā iekšienē var būt ID0 vai ID1, bet ne ID2 vai ID3.
+- Ja ārējais objekts ir **ID4**, tā iekšienē var būt ID0, ID1, ID2, ID3, bet ne ID4 vai augstāk.
+
+**Iekšējais līmenis vienmēr ir par vismaz vienu soli zemāks par ārējo.**
+
+### 5.4. Kas no tā izriet
+
+1. **Protons (ID0) savā iekšienē vēl nevar veidot H-2 Visumu.** H-2 Visums rodas tikai tad, kad kāds objekts H-1 līmenī ir izaudzis līdz ID2, ID3 vai ID4 (monolīts objekts).
+
+2. **Melnais caurums (ID4) savā iekšienē jau var veidot stabilu H-2 Visumu.** Tas izskaidro, kāpēc melnie caurumi tiek uzskatīti par "portāliem" uz citām Horizontālēm — to iekšienē jau ir sākusies nākamā līmeņa evolūcija.
+
+3. **Vertikāles lejupejošā kustība nav automātiska.** Tā notiek tikai tad, kad objekts sasniedz pietiekami augstu ID līmeni savā Horizontālē.
+
+4. **Zvaigzne nevar savā iekšienē veidot H-2 Visumu.** Lai gan tā ir liela un masīva, tai nav iekšējās matricas — tā ir tikai protonu kopums. Zvaigzne ir kolektīvs objekts, tāpēc tā nevar kalpot par pamatu jaunas Horizontāles veidošanai.
+
+5. **Tikai monolīti objekti var savā iekšienē veidot nākamā H līmeņa struktūru.** Kolektīviem objektiem nav iekšējās matricas, tāpēc tie nevar kalpot par "pamatu" jaunas Horizontāles veidošanai.
+
+---
+
+## 6. IEVADES UN IZVADES MEHĀNISMS
+
+### 6.1. Ievade — enerģija no ārējā bloka
+
+Katrs bloks saņem enerģiju no ārējā (lielākā) bloka caur TZ. Šī enerģija ieplūst blokā kā Ārējā TE.
+
+**Ievades avots:**
+- H0 ievade nāk no H+1 (Ārējā TE = VEU H-2).
+- H-1 ievade nāk no H0 (Ārējā TE = VEU H-3).
+- H-2 ievade nāk no H-1 (Ārējā TE = VEU H-4).
+
+### 6.2. Apstrāde — Matricas TE veidošanās
+
+Bloka Matrica apstrādā ievades enerģiju, pārveidojot to par Matricas TE. Šis process ir atkarīgs no:
+- Matricas rotācijas frekvences.
+- Kabatu fāžu saderības.
+- Matricas kapacitātes — cik daudz enerģijas matrica spēj apstrādāt.
+
+**Kapacitāte:**
+Katram blokam ir ierobežota kapacitāte — maksimālais enerģijas daudzums, ko tas spēj apstrādāt, pirms tas kļūst pārslogots.
+
+### 6.3. Izvade — liekā enerģija
+
+Kad ievades enerģija pārsniedz bloka kapacitāti, veidojas **liekā enerģija**. Tā nav ne Matricas TE, ne Ārējā TE — tā ir enerģija, ko bloks nespēj apstrādāt.
+
+**Liekās enerģijas liktenis:**
+1. Tā tiek izvadīta no bloka caur TZ.
+2. Tā nonāk Vertikālē kā ID līmenis (amortizators).
+3. No turienes tā var tikt pārveidota par nākamā bloka ievadi.
+
+---
+
+## 7. PĀRPLŪDES UN SLIEKŠŅU LOĢIKA
+
+### 7.1. Kāpēc enerģija kļūst "lieka"?
+
+Enerģija kļūst lieka, kad bloka Matrica sasniedz savas kapacitātes robežu. Tas notiek, ja:
+- Ievades enerģija ir pārāk liela.
+- Matricas rotācija nespēj apstrādāt visu enerģiju.
+- Kabatu fāzes nav pilnībā saderīgas.
+
+**Liekā enerģija nav "kļūda" — tā ir matricas arhitektūras pamatīpašība.**
+
+### 7.2. Slieksnis — kritiskā robeža
+
+Katram blokam ir noteikts slieksnis — maksimālais enerģijas blīvums, ko matrica spēj uzturēt, pirms sākas pārplūde.
+
+**Kad slieksnis tiek pārsniegts:**
+\[
+\rho^{(TE)} > \rho_{crit}
+\]
+tad enerģija sāk pārplūst uz āru.
+
+### 7.3. Pārplūdes mehānisms
+
+Pārplūde ir process, kurā liekā enerģija tiek izvadīta no bloka:
+1. Matricas TE blīvums pārsniedz slieksni.
+2. Liekais enerģijas daudzums tiek "izstumts" no bloka.
+3. Tas nonāk Vertikālē kā ID līmenis.
+4. No Vertikāles tas var tikt pārveidots par nākamā bloka ievadi.
+
+---
+
+## 8. ID LĪMEŅI KĀ AMORTIZATORS
+
+### 8.1. Vertikāle kā amortizators
+
+Vertikāle nav tikai "enerģijas avots" — tā ir **amortizators**, kas uzņem lieko enerģiju no blokiem. Katrs Vertikāles ID līmenis atbilst viena bloka liekajai enerģijai.
+
+**ID līmeņu atbilstība:**
+- **ID-1** = liekā enerģija no **H0 bloka** (liekā VEU H-3).
+- **ID-2** = liekā enerģija no **H-1 bloka** (liekā VEU H-4).
+- **ID-3** = liekā enerģija no **H-2 bloka** (liekā VEU H-5).
 - ...
 
-Tas nozīmē, ka \( \rho_{\mathcal{V}} \) (Vertikāles enerģijas blīvums) nav viens skalārs — tā ir **visu ID līmeņu summa**:
+### 8.2. ID līmeņu funkcija
 
+ID līmeņi nav "spēki" vai "lauki" — tie ir **enerģijas uzkrājumi**, kas gaida, kad tos izmantos:
+- Kad blokam ir enerģijas deficīts, ID līmenis var atdot enerģiju atpakaļ.
+- Kad bloks ir pārslogots, ID līmenis uzņem lieko enerģiju.
+- ID līmeņi ir kā "baterijas", kas izlīdzina enerģijas plūsmas svārstības.
+
+### 8.3. Kopējais Vertikāles enerģijas blīvums
+
+Vertikāles kopējais enerģijas blīvums ir visu ID līmeņu summa:
 \[
 \rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \cdots
 \]
 
-#### 4.2.1. Matrjoškas princips — Vertikāles strukturālā arhitektūra (3.1)
+Tas nozīmē, ka \( \rho_{\mathcal{V}} \) nav viens skalārs — tā ir visu bloku liekās enerģijas kopējais uzkrājums.
 
-Vertikāle nav lineāra struktūra. Tā ir **telpa**, kurā Horizontāles (H līmeņi) atrodas **viena otras iekšpusē** kā matrjoškas lelles:
+---
 
-$$
+## 9. BLOKU SAVIENOJUMS CAUR TZ
+
+### 9.1. Transformācijas zona (TZ) kā saskarne
+
+Starp katriem diviem blokiem pastāv **Transformācijas zona (TZ)** — saskarne, kurā enerģija tiek pārveidota no viena bloka formāta uz nākamo.
+
+**TZ nav "vieta" — tā ir pāreja.**
+
+### 9.2. TZ funkcija
+
+1. **Pārveide** — TZ pārveido lieko enerģiju no viena bloka par ievades enerģiju nākamajam blokam.
+2. **Rezonanse** — TZ ir rezonanses zona, kurā nesaderīgā enerģija tiek "sasmalcināta" (pārveidota) smalkākās TE plūsmās.
+3. **Sliekšņa regulācija** — TZ nosaka, cik daudz enerģijas tiek nodots tālāk, pamatojoties uz bloku kapacitāti.
+
+### 9.3. Pārejas operators
+
+Enerģijas pāreja no viena bloka uz nākamo tiek aprakstīta ar pārejas operatoru:
+\[
+\Phi_{n}^{(in)} = \mathcal{T}_{n+1 \to n}[\Phi_{n+1}^{(out)}]
+\]
+
+Tas nozīmē, ka nākamā bloka ievade ir iepriekšējā bloka izvade, kas izgājusi caur TZ pārveidi.
+
+---
+
+## 10. MATRJOŠKAS PRINCIPS KĀ BLOKU ĶĒDE
+
+### 10.1. Bloku ķēde
+
+Visi Horizontāles bloki ir savienoti ķēdē, kurā katrs bloks atrodas nākamā iekšpusē:
+\[
 H_{+2} \supset H_{+1} \supset H_0 \supset H_{-1} \supset H_{-2} \supset \cdots
-$$
+\]
 
-Katrs līmenis ir iekšā iepriekšējā:
-- Mēs atrodamies **H0** līmenī.
-- Ap mums ir **H+1** (lielāka enerģijas organizācija), **H+2** (vēl lielāka) un tā tālāk.
-- Mūsu iekšpusē ir **H-1** objekti (protoni, daļiņas), to iekšpusē **H-2** objekti (vēl smalkāka matrica) un tā tālāk.
+**Tā ir matrjoška** — katrs bloks satur sevī nākamo (smalkāko) bloku un atrodas iepriekšējā (lielākā) bloka iekšpusē.
 
-**Vienotais solis starp līmeņiem:**
+### 10.2. Enerģijas plūsma ķēdē
 
-Visi blakus līmeņi atšķiras ar koeficientu \(10^{20}\) (gan uz smalkuma pusi, gan uz lieluma pusi). Tas ir universāls solis, kas atkārtojas cikliski visā Vertikālē:
-- H0 solis: \(10^{-35}\) m
-- H-1 solis: \(10^{-55}\) m (10²⁰ reizes smalkāks)
-- H+1 solis: \(10^{-15}\) m (10²⁰ reizes lielāks)
+Enerģija plūst caur bloku ķēdi:
+1. No H+1 uz H0 (caur TZ+1/0).
+2. No H0 uz H-1 (caur TZ0/-1).
+3. No H-1 uz H-2 (caur TZ-1/-2).
+4. Un tā tālāk.
 
-**Universālais formālisms:**
+**Katrā pārejā daļa enerģijas tiek apstrādāta blokā, daļa kļūst lieka un nonāk Vertikālē.**
 
-MT formālisms (kabatas, rotācija, TE pārnese, Qn struktūra, FV) ir **derīgs visiem H līmeņiem**. Atšķiras tikai skaitliskās vērtības (režģa solis \( \lambda \), rotācijas frekvence \( \omega \), pārneses kvants \( \phi_0 \)).
+### 10.3. Mēroga solis
 
-Tas nozīmē, ka MT ir universāla teorija, ko var piemērot jebkuram Vertikāles līmenim. Ja ar MT var aprakstīt H0 telpu, tad to pašu var aprakstīt H-2, H-1, H+1, H+2 un t.t. telpas, ja vien tam ir vajadzība.
-
-### 4.3. Horizontāles (ID0 — ID5)
-
-Horizontāle ir konkrētas Vertikāles stabilo enerģijas vienību matrica, kurā notiek diskrēta evolūcija pa secīgiem ID līmeņiem.
-
-**Formāli:** Horizontāle \( H_n \) ir režģis \( \mathcal{L}_n \) ar Qn struktūru un TE pārneses lauku \( \Phi_n \).
-
-**H0** ir viena no Horizontālēm — mūsu Visums. Tā nav Vertikāles centrs vai sākums.
-
-**Horizontāle savā evolūcijā nevar apsteigt savu radītāju — nākamo augstāko (H+1) Horizontāli.**
-
-H0 matrica ID sistēmā atbilst **ID0**. Visi objekti H0 matricā tiek klasificēti pēc ID līmeņiem atkarībā no to lieluma un modulācijas ietekmes.
-
-**Horizontāle kā matrjoškas šūna:**
-
-Horizontāle ir **viena šūna** Vertikāles matrjoškā. Katra Horizontāle atrodas nākamās (lielākās) Horizontāles iekšpusē un satur sevī iepriekšējo (smalkāko) Horizontāli. Horizontāļu līmeņi atbilst ID sistēmas līmeņiem:
-
-- H0 — ID0 (mūsu matrica).
-- H+1 — ID1 (protonu/atomu līmenis, ja skatās no H0 puses; bet no H+1 puses tas ir to "H0").
-- H-1 — ID-1 (smalkāka matrica protona iekšpusē).
-
-### 4.4. ID gradācija (3.0)
-
-ID ir **enerģijas pārvaldības zonas marķieris**, kas kvantitatīvi aprēķināms no Qn struktūras un Vertikāles enerģijas.
-
-**Formāli:**
-$$
-\text{ID} = 2.0 + \log_{2.5}(n) + \gamma_{\text{ID}} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
-$$
-kur \( n \) ir Qn slāņa indekss, \( \gamma_{\text{ID}} \approx 0.05 \).
-
-**Svarīgi:** Vertikāles enerģijas korekcija \( \gamma_{\text{ID}} \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) **nemaina objekta pamata ID līmeni** — tā tikai precizē vērtību reģionos ar augstu Vertikāles enerģijas blīvumu.
-
-Sīkāka informācija: ID_GRADIENT_lv.md (3.0).
-
-### 4.5. Cikliskums (3.0)
-
-No MATHEMATICS 5.0 (3.0), cikliskums ir matricas strukturālā īpašība, kas izpaužas kā harmoniku secība CMB spektrā un modulē gravitācijas konstanti.
-
-**Cikliskuma konstante:**
-$$
-C = \frac{\ell_k}{n_k} \approx 35.325
-$$
-
-**Cikliskuma inversais mērogs:**
-$$
-\gamma = \frac{2\pi}{C} \approx 0.18
-$$
-
-Cikliskums nosaka L1 fokusēšanas/izkliedes pāreju un ir savienots ar G mainību caur \( G(\rho_{\mathcal{V}}) = G_0(1 + \gamma \rho_{\mathcal{V}}/\rho_{\text{H0}}) \).
-
-### 4.6. Transformācijas zona (TZ) — Vertikāles telpa starp līmeņiem (3.1)
-
-Starp katriem diviem blakus H līmeņiem (piemēram, starp H+1 un H0, starp H0 un H-1, starp H-1 un H-2) pastāv **Transformācijas zona (TZ)** — Vertikāles telpa, kas atdala divas dažādas matricas.
-
-**TZ definīcija:**
-
-TZ ir Vertikāles telpa, kas:
-- Atrodas **ap katru monolītu objektu**, neatkarīgi no tā lieluma.
-- Atdala divas dažādas matricas (jebkuras — H0 un protonu, H+1 un H0, utt.).
-- Ir visur, bet klasiskā fizika to neredz un neuztver.
-
-**TZ īpašības:**
-
-1. **TZ nav matrica, nav lauks** — tā ir patstāvīga Vertikāles telpa ar saviem likumiem, kas nav aprakstāmi ar matricas likumiem.
-
-2. **TZ satur brīvo enerģiju** — enerģiju, kas nav ne vienas, ne otras matricas enerģija, bet gan "trešā" enerģija, kas uzkrājas starp līmeņiem. Šī enerģija rodas no rotācijas ātrumu atšķirības starp blakus līmeņiem.
-
-3. **TZ ir rezonanses zona** — kurā visa nesaderīgā enerģija tiek **pārveidota (sasmalcināta)** smalkākās TE plūsmās. Cik smalki — atkarīgs no blīvuma.
-
-4. **TZ lielums ir atkarīgs no objekta lieluma** — jo lielāks monolīts objekts, jo lielāka TZ. Tā ir precīzi tāda, kāds ir objekts, jo tā ir matricu saskarsme.
-
-5. **Brīvā enerģija TZ tiek izvietota ar blīvumu 1/r²** — tā nav statisks uzkrājums, bet gan enerģijas sadalījums ap objektu. TZ "nezina" cik jāuzkrāj — uzkrājums notiek tik, cik nepieciešams, un pārpalikums tiek "izstumts" apkārtējā telpā ar 1/r² likumsakarību.
-
-6. **Lauki ir TZ ietekme uz matricu objektiem** — klasiskā fizika neredz pašu TZ, bet redz tās satura (brīvās enerģijas) ietekmi uz protoniem un citiem objektiem. Šo ietekmi tā interpretē kā elektriskos un magnētiskos laukus.
-
-**TZ un jaunu VEU līmeņu ģenerācija — 3.2:**
-
-TZ ir **avots** jaunām TE plūsmām, kas darbojas H0 matricā:
-- VEU H-3 rodas H0 matricā (no kabatu rotācijas).
-- VEU H-4 **nerodas H0 telpā**. Tā rodas **TZ** — kad VEU H-3 enerģija kļūst nesaderīga ar H0 matricu, TZ to pārveido par VEU H-4, kas darbojas H-1 matricā.
-- VEU H-5 rodas TZ, kad VEU H-4 enerģija kļūst nesaderīga, un tā tālāk.
-
-Tātad TZ nav tikai "starpnieks" — tā ir **ģenerators**, kas rada jaunus VEU līmeņus atkarībā no blīvuma un nesaderības pakāpes.
-
-**TZ kā universāla struktūra:**
-
-TZ pastāv **starp katriem diviem blakus līmeņiem**:
-- Starp H+1 un H0 (TZ+1/0)
-- Starp H0 un H-1 (TZ0/-1)
-- Starp H-1 un H-2 (TZ-1/-2)
-- Utt.
-
-Katrā TZ notiek tāds pats process — nesaderīgā enerģija tiek pārveidota par nākamā līmeņa TE plūsmu.
-
-### 4.7. Horizontāles Universālā Struktūra — Četri Pamatelementi (3.2)
-
-Katrā Horizontālē (neatkarīgi no tā, vai tā ir H0, H-1, H+1, ...) ir **tikai 4 pamatelementi**, kas atkārtojas ar soli \(10^{20}\):
-
-| **Elementa numurs** | **Objekts** | **Funkcija** | **Lielums H0** | **Lielums H-1** |
-| :--- | :--- | :--- | :--- | :--- |
-| **1.** | **Matrica** | Pamats (režģis, kabatas, rotācija) | \(10^{-35}\) m | \(10^{-55}\) m |
-| **2.** | **Matricas TE** | **"Elektriskais" lauks** (gradients, Kulona likums, lādiņš) | VEU H-3 (\(10^{-75}\) m) | VEU H-4 (\(10^{-95}\) m) |
-| **3.** | **Ārējā TE** | **"Magnētiskais" lauks** (cirkulācija, kustīga lādiņa efekts) | VEU H-2 (\(10^{-55}\) m) | VEU H-3 (\(10^{-75}\) m) |
-| **4.** | **"Protons"** | Nākamās Horizontāles objekts (monolīts objekts) | \(10^{-15}\) m | \(10^{-35}\) m |
-
-**Svarīgākie secinājumi:**
-
-1. **Funkcijas ir universālas.** Katrā Horizontālē:
-   - Matricas TE pilda **"elektriskā lauka"** funkciju.
-   - Ārējā TE pilda **"magnētiskā lauka"** funkciju.
-   - "Protons" ir nākamās Horizontāles objekts.
-
-2. **VEU līmeņi mainās.** Ar soli \(10^{20}\) (gan uz augšu, gan uz leju).
-
-3. **H0 elektromagnētisms:**
-   - Elektriskais lauks = VEU H-3 (\(10^{-75}\) m)
-   - Magnētiskais lauks = VEU H-2 (\(10^{-55}\) m)
-
-4. **Kodolspēki nav ID-2.** Tie ir **VEU H-3 TE plūsma H-1 matricā** — H-1 "magnētiskā" lauka analogs. Kodolspēki pieder H0 matricai, nevis Vertikālei.
-
-5. **ID-2 ir liekā VEU H-4 enerģija Vertikālē.** ID-2 nav kodolspēki — ID-2 ir tikai to pārpalikums, kas nonāk amortizatorā.
-
-6. **Vertikāles ID līmeņi = liekās enerģijas uzkrājumi:**
-   - ID-1 = liekā VEU H-3 (no H0 elektriskā lauka)
-   - ID-2 = liekā VEU H-4 (no H-1 elektriskā lauka)
-   - ID-3 = liekā VEU H-5 (no H-2 elektriskā lauka)
-   - ...
-
-**Universālā shēma:**
-
-| **Horizontāle** | **Matrica** | **Matricas TE ("Elektriskais")** | **Ārējā TE ("Magnētiskais")** | **"Protons"** |
-| :--- | :--- | :--- | :--- | :--- |
-| H0 | \(10^{-35}\) m | VEU H-3 (\(10^{-75}\) m) | VEU H-2 (\(10^{-55}\) m) | \(10^{-15}\) m |
-| H-1 | \(10^{-55}\) m | VEU H-4 (\(10^{-95}\) m) | VEU H-3 (\(10^{-75}\) m) | \(10^{-35}\) m |
-| H-2 | \(10^{-75}\) m | VEU H-5 (\(10^{-115}\) m) | VEU H-4 (\(10^{-95}\) m) | \(10^{-55}\) m |
-| H+1 | \(10^{-15}\) m | VEU H-2 (\(10^{-55}\) m) | VEU H-1 (\(10^{-35}\) m) | \(10^{5}\) m |
-| ... | ... | ... | ... | ... |
+Lai gan bloki ir autonomi, starp blokiem pastāv mēroga attiecība \(10^{20}\), kas nodrošina enerģijas pārveidi starp līmeņiem. Šis solis nav primārais savienojums — primārais ir **enerģijas bilance**.
 
 ---
 
-## 5. H0 EVOLŪCIJA — KVANTITATĪVAIS MODELS
+## 11. ENERĢIJAS BILANCE BLOKU ĶĒDĒ
 
-H0 Visuma evolūcija sākās no ID0.0 (iņ–jaņ punkta) un turpinās caur secīgiem ID līmeņiem:
+### 11.1. Katra bloka bilance
 
-1. **ID0.0** — matricas punkts (rotējošs iņ–jaņ objekts).
-2. **ID1.0** — pirmais protons.
-3. **ID1.1** — ūdeņradis.
-4. **ID1.2 — ID1.4** — atomi, molekulas, makromolekulas.
-5. **ID2.0 — ID2.5** — zvaigznes, planētu sistēmas, galaktikas.
-6. **ID3.0 — ID3.2** — baltie punduri, neitronu zvaigznes.
-7. **ID4.0 — ID4.3** — melnie caurumi, AGN.
+Katram blokam:
+\[
+\text{Ievade} = \text{Apstrāde} + \text{Izvade}
+\]
 
-**H0 evolūcija ir cikliska** — katrs nākamais solis ir garāks par iepriekšējo. H0 nekad nekļūst par H+1 vai H-1 — tas paliek savā līmenī.
+vai formāli:
+\[
+E^{(in)} = E^{(TE)} + E^{(out)}
+\]
 
-**13.8 miljardi gadu ir laiks kopš pēdējā telpas paplašināšanās soļa, nevis Visuma vecums.**
+### 11.2. Kopējā bilance
 
-### 5.1. Telpas paplašināšanās solis (kvantitatīvi)
+Visi bloki kopā veido slēgtu enerģijas sistēmu:
+\[
+\sum_n E_n^{(in)} = \sum_n E_n^{(TE)} + \sum_n E_n^{(out)}
+\]
 
-Kad Vertikāles enerģijas uzkrājums sasniedz kritisko līmeni \( \rho_{\mathcal{V}} > \rho_{\text{krit}} \), notiek telpas paplašināšanās solis.
+### 11.3. Stacionārais režīms
 
-**Pārejas laiks:**
-$$
-t_{\text{paplašināšanās}} \propto \frac{1}{\rho_{\mathcal{V}} - \rho_{\text{krit}}}
-$$
+Kad sistēma ir līdzsvarā:
+\[
+E_n^{(in)} = E_n^{(out)} \quad \forall n
+\]
 
-**Sekas:**
-1. Lielāka telpa rada **jaunu Qn TE pārneses struktūru**.
-2. Jaunā Qn struktūra **nav saderīga** ar iepriekšējo.
-3. Tiek bojātas **molekulārās saites**.
-4. Vecās zvaigžņu vietas kļūst par **Oorta mākoņiem**.
-5. Oorta mākoņu centros **no jauna sākas zvaigžņu veidošanās process**.
+Tas nozīmē, ka enerģija plūst cauri bloku ķēdei bez uzkrāšanās (vai arī uzkrāšanās ID līmeņos ir konstanta).
 
----
+### 11.4. Nestacionārais režīms
 
-## 6. L1 ZONA UN CMB — KVANTITATĪVAIS MODELIS (3.0)
-
-**L1 zona** ir Vertikāles projekcijas struktūra uz H0 matricu. Tā nav "vieta" — tā ir **cikliskuma matemātiskā struktūra**, kas pārveido Vertikāles plūsmu par H0 matricai saderīgām TE pārnesēm.
-
-**CMB (kosmiskais mikroviļņu fons):**
-- **Nav Lielā sprādziena pēcgaisma** — tā ir L1 zonas fona temperatūras projekcija uz H0.
-- **Vidējā temperatūra 2.725 K** — L1 zonas termālā ekvivalenta projekcija.
-- **5 harmonikas** (ℓ ≈ 220, 538, 813, 1085, 1381) — H0 matricas Qn slāņu projekcija.
-- **6. un 7. harmonika** (ℓ ≈ 1660, ℓ ≈ 1943) — MT prognozes, gaida pārbaudi.
-
-**Formāli:**
-$$
-\ell_k = C \cdot n_k, \quad C = \frac{\ell_k}{n_k} \approx 35.325
-$$
-ar \( n_k = 8k - 1 \) (k ≥ 2) un \( n_1 = 6 \).
-
-**L1 projekcijas operators \( \mathcal{P}_{L1} \) (3.0):**
-$$
-\mathcal{P}_{L1}[\rho_{\mathcal{V}}](\mathbf{x}) = \int_{\mathcal{V}} K(\mathbf{x}, \mathbf{x}') \, \rho_{\mathcal{V}}(\mathbf{x}') \, d\mathbf{x}'
-$$
-ar kodolu:
-$$
-K(\mathbf{x}, \mathbf{x}') = \sum_{n=1}^{\infty} \sum_{\hat{\mathbf{r}} \in \{\pm X, \pm Y, \pm Z\}} \frac{1}{N(n)} \cdot e^{i \mathbf{k}_n \cdot (\mathbf{x} - \mathbf{x}')} \cdot \mathcal{F}_n(\mathbf{x}, \mathbf{x}')
-$$
-
-Sīkāka informācija: COSMOLOGY_lv.md (3.0) 10. nodaļa, MATHEMATICS_lv.md (3.0) 5. nodaļa.
+Kad kāds bloks ir pārslogots:
+\[
+E_n^{(in)} > E_n^{(out)}
+\]
+tad enerģija uzkrājas blokā un palielina \( \rho_n^{(TE)} \), kas savukārt palielina \( \rho_n^{(out)} \), līdz tiek sasniegts jauns līdzsvars.
 
 ---
 
-## 7. MATRICA — STATISKA ARHITEKTŪRA, DINAMISKA ENERĢIJA (3.0)
+## 12. KĀ ŠIS FORMĀLISMS IZSKATRO KLASISKAJOS LIKUMOS
 
-**Matrica (H0)** ir statiska arhitektūra — ID1 režģis, Qn struktūra un FV cikli nemainās. ID sistēmā tā atbilst **ID0** ar Qn slāņiem **ID0.n**.
+### 12.1. H0 bloks un elektromagnētisms
 
-Tomēr **matricas enerģētiskais saturs** nav statisks. To nosaka:
-- **Vertikāles enerģētiskā piramīda** (\( \rho_{\mathcal{V}} \)).
-- **H+n modulācijas** — liela mēroga pārneses struktūra.
+H0 bloka Matricas TE = VEU H-3 ("elektriskais" lauks). H0 bloka Ārējā TE = VEU H-2 ("magnētiskais" lauks).
 
-**Fotons** ir brīvās enerģijas veidojums (VEU H-2 × H-3), kas mijiedarbojas ar matricu un tās enerģētisko saturu. Tā enerģijas zudums ceļojot caur Vertikāles lauku ir kvantitatīvi aprēķināms:
-$$
-\frac{dE}{dx} = -\beta \cdot E \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}}
-$$
+**Tas ir elektromagnētisms** — un MT_QED 3.0 ir šī bloka apraksts.
 
-Sīkāka informācija: COSMOLOGY_lv.md (3.0) 4. nodaļa, MT_QED_lv.md (3.0).
+### 12.2. H-1 bloks un kodolspēki
 
----
+H-1 bloka Ārējā TE = VEU H-3 ("magnētiskais" lauks H-1 līmenī).
 
-## 8. PĀRBAUDĀMO PROGNOŽU KOPSAVILKUMS (3.0)
+**Tas ir kodolspēku pamats** — VEU H-3 plūsma H-1 matricā. Kodolspēki nav Vertikāles ID līmenis — tie ir H-1 bloka iekšējais process.
 
-MT kvantitatīvais formālisms un ID sistēma dod šādas pārbaudāmās prognozes:
+### 12.3. ID līmeņu aktivizācija un G mainība
 
-| Prognoze | Vienādojums | Vērtība / prognoze | Statuss | Pārbaudes metode | ID atbilstība |
-|----------|-------------|-------------------|---------|------------------|---------------|
-| Smalkās struktūras konstante | \( \alpha = \frac{49 G_0}{24\pi \hbar c} \) | \( \alpha_{\text{MT}} \approx 0.0073 \) | Apstiprināts (< 0.4%) | Precīzijas spektroskopija | ID1 |
-| G mainība galaktiku centros | \( G(r) = G_0 (1 + 0.18 \cdot \rho_{\mathcal{V}}(r)/\rho_{\text{H0}}) \) | \( G(0)/G_0 \approx 1.50 \) | Gaida pārbaudi | Zvaigžņu orbītas (GRAVITY) | ID2 / ID-1 |
-| 6. CMB pīķis | \( \ell_6 = 35.325 \times 47 \) | \( \ell_6 \approx 1660 \) | Gaida pārbaudi | CMB-S4, Simons Obs. | ID0.47 |
-| 7. CMB pīķis | \( \ell_7 = 35.325 \times 55 \) | \( \ell_7 \approx 1943 \) | Gaida pārbaudi | CMB-S4, Simons Obs. | ID0.55 |
-| ID atkarība no \( \rho_{\mathcal{V}} \) | \( \text{ID} = 2.0 + \log_{2.5}(n) + 0.05 \cdot \rho_{\mathcal{V}}/\rho_{\text{H0}} \) | Melno caurumu masas korelācija | Gaida pārbaudi | Melno caurumu masu mērījumi | ID4 |
-| \( \varepsilon_0 \) atkarība no \( \rho_{\mathcal{V}} \) | \( \varepsilon_0 = \frac{6}{49} \cdot \frac{\hbar}{2\pi} \cdot \frac{\rho_{\mathcal{V}}}{\rho_{\text{H0}}} \) | — | Gaida pārbaudi | Kvantu metroloģija | ID0 / ID-1 |
-| \( \mu_0 \) atkarība no \( \rho_{\mathcal{V}} \) | \( \mu_0 = \frac{49}{6} \cdot \frac{2\pi}{\hbar c^2} \cdot \frac{\rho_{\text{H0}}}{\rho_{\mathcal{V}}} \) | — | Gaida pārbaudi | Kvantu metroloģija | ID0 / ID-1 |
-| Neitrīno masas | \( m_i = M_P \cdot \alpha^{n_i} \) | \( m_1 \approx 0.0015, m_2 \approx 0.0087, m_3 \approx 0.050 \, \text{eV} \) | Gaida pārbaudi | DUNE, Hyper-K, KATRIN | ID1.1 / ID-1 |
-| Apziņas intensitāte anestēzijā | \( \mathcal{C} = \int \| \mathcal{P}_{L1} - \Phi \|^2 \) | \( \mathcal{C} \) palielinās | Teorētiski | EEG/fMRI | ID1.4 / ID-1 |
+Galaktiku centros:
+- Augsts matērijas blīvums → augsta ievades enerģija visos blokos.
+- Pārsniegti sliekšņi → aktivizēti ID-1, ID-2, ID-3...
+- \( \rho_{\mathcal{V}} = \rho_{ID-1} + \rho_{ID-2} + \rho_{ID-3} + \dots \) ir liels.
+- \( G = G_0 (1 + \gamma \rho_{\mathcal{V}}/\rho_{H0}) \) palielinās.
+
+**G mainība ir ID līmeņu aktivizācijas sekas.**
 
 ---
 
-## 9. KORESPONDENCE AR MATHEMATICS 3.0 UN ID_GRADIENT 3.0
+## 13. SECINĀJUMI (3.3)
 
-Šis dokuments ir pilnībā saskaņots ar:
+1. **Horizontāle ir autonoms bloks** — katrs bloks darbojas pēc viena principa, neatkarīgi no līmeņa. Katram blokam ir sava matrica, sava rotācija un sava kapacitāte — tie nav atvasināmi no kaimiņu blokiem.
 
-- **MATHEMATICS 3.0** — visi operatori un lielumi ir atvasināti no MATHEMATICS 3.0 definīcijām.
-- **ID_GRADIENT 3.0** — ID sistēma ir saskaņota ar jauno \( \rho_{\mathcal{V}} \) korekciju un metodoloģisko precizējumu.
-- **MT_QED 3.0** — \( \varepsilon_0 \) un \( \mu_0 \) kā matricas stāvokļa funkcijas.
-- **GRAVITY 3.0** — \( \gamma \) kā cikliskuma mērogs, G mainība.
-- **COSMOLOGY 3.0** — \( C \), \( \mathcal{P}_{L1} \), CMB prognozes.
-- **ROADMAP 3.0** — H0 un L1 ceļu nošķīrums, L1 kā cikliskuma struktūra.
+2. **Katrā blokā ir četri pamatelementi** — Matrica, Matricas TE, Ārējā TE un "Protons". Šī loģika ir pilnīga — tā aptver visu enerģijas plūsmas ciklu Vertikālē.
 
-**Galvenās 3.2 izmaiņas (papildinājumi 3.1 versijai):**
-1. **Horizontāles universālā struktūra** — četri pamatelementi, kas atkārtojas katrā Horizontālē ar soli \(10^{20}\).
-2. **Funkciju un VEU līmeņu nošķīrums** — funkcijas (elektriskais, magnētiskais) ir universālas, bet VEU līmeņi mainās atkarībā no Horizontāles.
-3. **Kodolspēku izcelsme** — kodolspēki ir VEU H-3 TE plūsma H-1 matricā, nevis ID-2 vai Vertikāles līmenis.
-4. **Vertikāles ID līmeņi kā liekās enerģijas amortizators** — ID-1, ID-2, ID-3... ir liekās TE enerģijas uzkrājumi no attiecīgajām Horizontālēm.
-5. **TZ kā rezonanses zona un VEU ģenerators** — TZ pārveido nesaderīgo enerģiju par nākamā līmeņa TE plūsmām.
+3. **Funkcijas ir universālas** — Matricas TE vienmēr ir "elektriskais" lauks, Ārējā TE vienmēr ir "magnētiskais" lauks.
 
----
+4. **Vertikāle un Horizontāle ir divi savstarpēji perpendikulāri virzieni.** Vertikāle virzās uz smalkuma pusi (H+max → H-min), Horizontāle virzās uz lieluma pusi (ID0 → ID5).
 
-## 10. SECINĀJUMI (3.2)
+5. **H0 ir tikai relatīvs atskaites punkts** — mūsu Visuma Horizontāle. Vertikāle nezina par "centru".
 
-1. **MT ir kvantitatīvi formulēta teorija** — visi galvenie lielumi ir definēti ar operatoriem no MATHEMATICS formālisma (3.0).
+6. **Singularitāte Vertikālei ir nesasniedzams virziens.** Matrica pārslēdz H līmeni, neļaujot enerģijai sabrukt līdz bezgalībai.
 
-2. **MT ir savienota ar ID sistēmu (3.0)** — visi objekti tiek klasificēti pēc modulācijas un lieluma kategorijas, kas nodrošina vienotu organizācijas līmeņu sistēmu.
+7. **Objekta funkcija Vertikālē mainās atkarībā no H līmeņa** — viens un tas pats objekts dažādos līmeņos pilda dažādas funkcijas (evolūcijas objekts, VEU objekts, Ārējā TE, Matricas TE).
 
-3. **MT ir pārbaudāma** — tā dod precīzas skaitliskās prognozes, ko var salīdzināt ar eksperimentiem.
+8. **Monolīti objekti (protons, neitronu zvaigzne, melnais caurums) ir vienīgie, kas spēj savā iekšienē saturēt nākamā H līmeņa matricu.** Kolektīvi objekti (zvaigznes, planētas, galaktikas) ir daudzu protonu kopumi, un tiem nav iekšējās matricas.
 
-4. **MT ir reducējama** — atbilstošās robežās tā pāriet klasiskajā fizikā (Ņūtona gravitācijā, Maksvela elektrodinamikā, kvantu mehānikā).
+9. **ID līmeņi nosaka objekta spēju saturēt nākamā H līmeņa struktūru.** ID0 objekti vēl nevar veidot H-2 Visumu; monolīti objekti (ID2, ID3, ID4) jau var.
 
-5. **MT nav nepieciešama tumšā matērija vai tumšā enerģija kā nezināmi spēki** — tos aizstāj ar Vertikāles enerģijas ietekmi uz G un fotona enerģijas zudumu.
+10. **Iekšējā ID struktūra nekad nepārsniedz ārējo ID līmeni** — iekšējais līmenis vienmēr ir par vismaz vienu soli zemāks par ārējo.
 
-6. **MT nav singularitāšu** — matrica pārslēdz H līmeni, neļaujot enerģijai sabrukt līdz bezgalībai.
+11. **Blokiem ir kapacitāte un slieksnis** — kad enerģija pārsniedz slieksni, tā kļūst lieka un nonāk Vertikālē.
 
-7. **MT ir papildinošs ietvars** — tā nekonkurē ar klasiskajām teorijām, bet sniedz tām mehānisku pamatojumu.
+12. **Vertikāle ir amortizators** — ID līmeņi (ID-1, ID-2, ID-3...) uzņem lieko enerģiju no attiecīgajiem blokiem.
 
-8. **MT formālisms ir universāls** — to var piemērot jebkuram H līmenim (H-2, H-1, H0, H+1, H+2...); pašreizējie MT dokumenti apraksta tikai H0 līmeni.
+13. **TZ ir saskarne starp blokiem** — tā pārveido enerģiju no viena bloka formāta uz nākamo.
 
-9. **Vertikālei ir matrjoškas struktūra** — visi H līmeņi atrodas viena otra iekšpusē; solis starp blakus līmeņiem ir \(10^{20}\).
+14. **Bloki veido matrjošku** — katrs bloks satur sevī nākamo un atrodas iepriekšējā iekšpusē.
 
-10. **TZ ir Vertikāles telpa starp līmeņiem** — tā satur brīvo enerģiju; klasiskā fizika neredz TZ, bet redz tās ietekmi kā laukus.
+15. **Enerģijas bilance ir primārais savienojums** — nevis mērogošana, bet gan enerģijas plūsma un sadalījums.
 
-11. **Katrā Horizontālē ir 4 pamatelementi** — Matrica, Matricas TE ("Elektriskais"), Ārējā TE ("Magnētiskais") un "Protons" (nākamās Horizontāles objekts).
+16. **MT_QED 3.0 ir H0 bloka apraksts** — tas ir derīgs H0 līmenī, bet nav universāls.
 
-12. **Funkcijas ir universālas, bet VEU līmeņi mainās** — ar soli \(10^{20}\) katrā Horizontālē.
+17. **Kodolspēki ir H-1 bloka process** — tie ir VEU H-3 plūsma H-1 matricā, nevis ID-2.
+
+18. **G mainība ir ID līmeņu aktivizācijas sekas** — to izraisa bloku pārplūde galaktiku centros.
 
 ---
 
 ## PIEZĪME
 
-Šis dokuments ir **MT pamata 3.2 versija**, kas papildina 3.1 versiju ar Horizontāles universālās struktūras aprakstu (četri pamatelementi), funkciju un VEU līmeņu nošķīrumu, kodolspēku izcelsmes precizējumu, Vertikāles ID līmeņu kā amortizatora definīciju un TZ kā rezonanses zonas un VEU ģeneratora lomu. Šie papildinājumi ir būtiski, lai nodrošinātu stabilu atsauci turpmākajam darbam pie MT dokumentiem un teorijas attīstības.
+Šis dokuments ir **MT pamata 3.3 versija**, kas ievieš Horizontāles bloku formālisma konceptuālo pamatu, iekļaujot Vertikāles un Horizontāles virzienu nošķīrumu, objekta daudzfunkcionalitāti Vertikālē, monolītu un kolektīvu objektu atšķirību, ID līmeņu lomu Vertikāles veidošanā un iekšējās ID struktūras noteikumu.
 
-Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0, 3.1 un 3.2 versijās).
+Detalizēts matemātiskais formālisms (operatori, vienādojumi, pārplūdes nosacījumi, bilances vienādojumi) ir izstrādāts atsevišķā dokumentā **MATHEMATICS 4.0**.
+
+Šis dokuments kalpo kā "lietotāja rokasgrāmata" bloku loģikas izpratnei, savukārt MATHEMATICS 4.0 ir "tehniskā specifikācija" — stingrais formālisms, kas apraksta šo loģiku.
+
+Detalizētāka informācija par atsevišķiem aspektiem ir pieejama citos MT dokumentos (3.0, 3.1, 3.2 un 3.3 versijās).
 
 ---
 
 *Dokuments sagatavots: 2026. gada augustā*  
-*Versija: 3.2 — papildināta ar Horizontāles universālo struktūru, funkciju un VEU līmeņu nošķīrumu, kodolspēku izcelsmi, Vertikāles kā amortizatora lomu un TZ kā VEU ģeneratora funkciju*
+*Versija: 3.3 — ievieš Horizontāles bloku formālisma konceptuālo pamatu ar objekta daudzfunkcionalitātes un ID līmeņu lomas detalizāciju*
